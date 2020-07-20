@@ -35,7 +35,7 @@ func main() {
 		title := evt["title"].(string)
 		url := evt["url"].(string)
 		content := evt["content"].(string)
-		buf.WriteString("* [" + operation + "](" + url + ") | " + title + "：" + content + "\n")
+		buf.WriteString("* [" + operation + "](" + url + ")：（" + title + "）" + content + "\n")
 	}
 	buf.WriteString("\n")
 
