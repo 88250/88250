@@ -14,8 +14,14 @@
 
 <!--events start -->
 
-我的近期动态（点个 [Star](https://github.com/88250/88250) 将触发自动刷新，最近更新时间：`2020-07-20 23:43:40`）：
+我的近期动态（点个 [Star](https://github.com/88250/88250) 将触发自动刷新，最近更新时间：`2020-07-21 03:19:01`）：
 
+* 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1595260212797)
+
+  > SEO 已经越来越不重要了
+* 💬 [黑客派登录能不能加个 enter 键登录](https://hacpai.com/article/1595258231409/comment/1595260112640#comments)
+
+  > 输入完密码就可以直接回车了
 * 💬 [使用 GitHub Actions 对 GitHub Profile 个人主页进行自动更新](https://hacpai.com/article/1595248018192/comment/1595251746768#comments)
 
   > 感谢领导的肯定 [图片]
@@ -34,12 +40,6 @@
 * 💬 [登录 solo 后台拒绝连接](https://hacpai.com/article/1595226963494/comment/1595231314445#comments)
 
   > 日志中没出现报错的话应该不是 Solo 或者社区的问题，估计是反代配置有问题，看下 Solo 的文档检查下。
-* 💬 [登录 solo 后台拒绝连接](https://hacpai.com/article/1595226963494/comment/1595229962617#comments)
-
-  > 看下 Solo 的日志
-* 💬 [登录 solo 后台拒绝连接](https://hacpai.com/article/1595226963494/comment/1595228355672#comments)
-
-  > 我觉得这个问题和升级关系不大，不过可以升级试试，还有问题的话看下是不是服务器防火墙配置有问题。
 
 📝 帖子 ｜ 💬 评论 ｜ 🗣 回帖 ｜ 🌙 清月 ｜ 👨‍💻 用户 ｜ 🏷️ 标签  
 ⭐️ 关注 ｜ 👍 赞同 ｜ 💗 感谢 ｜ 💰 打赏 ｜ 🗃 收藏
