@@ -23,6 +23,6 @@
 * [发布了回帖](https://hacpai.com/article/1594988019287/comment/1595210025827#comments)：（Solo 集成 Gitalk 评论系统）文章初始化过 issue 后这个报错会比较少出现。
 * [发布了回帖](https://hacpai.com/article/1595199875500/comment/1595203251435#comments)：（solo 博客反向代理问题）请参考文档配置反代标头。
 
-最近更新时间：`2020-07-20 10:43:03`
+最近更新时间：`2020-07-20 10:45:01`
 
 <!--events end -->
