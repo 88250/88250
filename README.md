@@ -14,24 +14,24 @@
 
 <!--events start -->
 
-我的近期动态（点个 [Star](https://github.com/88250/88250) 将触发自动刷新，最近更新时间：`2020-07-20 22:42:07`）：
+我的近期动态（点个 [Star](https://github.com/88250/88250) 将触发自动刷新，最近更新时间：`2020-07-20 22:45:41`）：
 
 * 💬 [使用 GitHub Actions 对 GitHub Profile 个人主页进行自动更新](https://hacpai.com/article/1595248018192/comment/1595251746768#comments)  
-  感谢领导的肯定 [图片]
+  > 感谢领导的肯定 [图片]
 * 👍🌙 [赞同了清风明月](https://hacpai.com/member/Gakkiyomi2019/breezemoons/1595163310013)  
-  因为不够优秀而不去跟自己喜欢的人表白，以后真的会抱憾终身。
+  > 因为不够优秀而不去跟自己喜欢的人表白，以后真的会抱憾终身。
 * 💗🌙 [感谢了清风明月](https://hacpai.com/member/bylx/breezemoons/1595238295849)  
-  你在看清风明月吗？😏
+  > 你在看清风明月吗？😏
 * 📝 [使用 GitHub Actions 对 GitHub Profile 个人主页进行自动更新](https://hacpai.com/article/1595248018192)  
-  实际效果 先看效果 https://github.com/88250 [图片] 红框部分是通过 GitHub Actions 自动更新的，内容来源由社区 API 获取用户近期动态列表提供。当有人 Star 我的个人主页仓库 https://github.com/88250/88250 时就会触发该 GitHub Act ..
+  > 实际效果 先看效果 https://github.com/88250 [图片] 红框部分是通过 GitHub Actions 自动更新的，内容来源由社区 API 获取用户近期动态列表提供。当有人 Star 我的个人主页仓库 https://github.com/88250/88250 时就会触发该 GitHub Act ..
 * 💬 [Solo 集成 Gitalk 评论系统](https://hacpai.com/article/1594988019287/comment/1595234799824#comments)  
-  似乎是要手动初始化，具体可以找下 Gitalk issues 上的讨论研究一番。
+  > 似乎是要手动初始化，具体可以找下 Gitalk issues 上的讨论研究一番。
 * 💬 [登录 solo 后台拒绝连接](https://hacpai.com/article/1595226963494/comment/1595231314445#comments)  
-  日志中没出现报错的话应该不是 Solo 或者社区的问题，估计是反代配置有问题，看下 Solo 的文档检查下。
+  > 日志中没出现报错的话应该不是 Solo 或者社区的问题，估计是反代配置有问题，看下 Solo 的文档检查下。
 * 💬 [登录 solo 后台拒绝连接](https://hacpai.com/article/1595226963494/comment/1595229962617#comments)  
-  看下 Solo 的日志
+  > 看下 Solo 的日志
 * 💬 [登录 solo 后台拒绝连接](https://hacpai.com/article/1595226963494/comment/1595228355672#comments)  
-  我觉得这个问题和升级关系不大，不过可以升级试试，还有问题的话看下是不是服务器防火墙配置有问题。
+  > 我觉得这个问题和升级关系不大，不过可以升级试试，还有问题的话看下是不是服务器防火墙配置有问题。
 
 📝 帖子 ｜ 💬 评论 ｜ 🗣 回帖 ｜ 🌙 清风明月 ｜ 👨‍💻 用户 ｜ 🏷️ 标签  
 ⭐️ 关注 ｜ 👍 赞同 ｜ 💗 感谢 ｜ 💰 打赏 ｜ 🗃 收藏
