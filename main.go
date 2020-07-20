@@ -51,12 +51,15 @@ func main() {
 
 	startFlag := []byte("<!--events start -->")
 	beforeStart := readme[:bytes.Index(readme, startFlag)+len(startFlag)]
+	newBeforeStart := make([]byte, len(beforeStart))
+	copy(newBeforeStart, beforeStart)
 	endFlag := []byte("<!--events end -->")
 	afterEnd := readme[bytes.Index(readme, endFlag):]
-	readme = append(beforeStart, buf.Bytes()...)
-	readme = append(readme, afterEnd...)
-	readme = bytes.ReplaceAll(readme, []byte("${events}"), buf.Bytes())
-	if err := ioutil.WriteFile("README.md", readme, 0644); nil != err {
+	newAfterEnd := make([]byte, len(afterEnd))
+	copy(newAfterEnd, afterEnd)
+	newReadme := append(newBeforeStart, buf.Bytes()...)
+	newReadme = append(newReadme, newAfterEnd...)
+	if err := ioutil.WriteFile("README.md", newReadme, 0644); nil != err {
 		logger.Fatalf("write README.md failed: %s", data)
 	}
 }
