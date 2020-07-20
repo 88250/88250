@@ -3,6 +3,7 @@ package main
 import (
 	"bytes"
 	"crypto/tls"
+	"fmt"
 	"io/ioutil"
 	"net/http"
 	"os"
@@ -30,15 +31,18 @@ func main() {
 	buf.WriteString("\n\n")
 	for _, event := range result["data"].([]interface{}) {
 		evt := event.(map[string]interface{})
+		operation := evt["operation"].(string)
 		title := evt["title"].(string)
 		url := evt["url"].(string)
 		content := evt["content"].(string)
-		buf.WriteString("* [" + title + "](" + url + ")：" + content + "\n")
+		buf.WriteString("* [" + operation + "](" + url + ") | " + title + "：" + content + "\n")
 	}
 	buf.WriteString("\n")
 
 	updated := time.Now().Format("2006-01-02 15:04:05")
 	buf.WriteString("最近更新时间：`" + updated + "`\n\n")
+
+	fmt.Println(buf.String())
 
 	readme, err := ioutil.ReadFile("README.md")
 	if nil != err {
@@ -46,11 +50,9 @@ func main() {
 	}
 
 	startFlag := []byte("<!--events start -->")
-	start := bytes.Index(readme, startFlag)
-	beforeStart := readme[:start+len(startFlag)]
+	beforeStart := readme[:bytes.Index(readme, startFlag)+len(startFlag)]
 	endFlag := []byte("<!--events end -->")
-	end := bytes.Index(readme, endFlag)
-	afterEnd := readme[end:]
+	afterEnd := readme[bytes.Index(readme, endFlag):]
 	readme = append(beforeStart, buf.Bytes()...)
 	readme = append(readme, afterEnd...)
 	readme = bytes.ReplaceAll(readme, []byte("${events}"), buf.Bytes())
