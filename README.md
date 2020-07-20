@@ -14,8 +14,9 @@
 
 <!--events start -->
 
-我的近期动态（点个 [Star](https://github.com/88250/88250) 将触发自动刷新，最近更新时间：`2020-07-20 19:51:58`）：
+我的近期动态（点个 [Star](https://github.com/88250/88250) 将触发自动刷新，最近更新时间：`2020-07-20 12:36:57`）：
 
+* [发布了帖子](https://hacpai.com/article/1595248018192)：（使用 GitHub Actions 对 GitHub Profile 个人主页进行自动更新）实际效果 先看效果 https://github.com/88250 [图片] 红框部分是通过 GitHub Actions 自动更新的，内容来源由社区 API 获取用户近期动态列表提供。当有人 Star 我的个人主页仓库 https://github.com/88250/88250 时就会触发该 GitHub Act ..
 * [发布了回帖](https://hacpai.com/article/1594988019287/comment/1595234799824#comments)：（Solo 集成 Gitalk 评论系统）似乎是要手动初始化，具体可以找下 Gitalk issues 上的讨论研究一番。
 * [发布了回帖](https://hacpai.com/article/1595226963494/comment/1595231314445#comments)：（登录 solo 后台拒绝连接）日志中没出现报错的话应该不是 Solo 或者社区的问题，估计是反代配置有问题，看下 Solo 的文档检查下。
 * [发布了回帖](https://hacpai.com/article/1595226963494/comment/1595229962617#comments)：（登录 solo 后台拒绝连接）看下 Solo 的日志
@@ -23,6 +24,5 @@
 * [发布了回帖](https://hacpai.com/article/1595226963494/comment/1595227359814#comments)：（登录 solo 后台拒绝连接）看一下你的客户端 IP 是否在这个列表里 [链接] 如果不在的话应该是其他原因，如果在的话请等 30 分钟以后再尝试。 另外，如果在的话，你应该也访问不了社区的……
 * [发布了回帖](https://hacpai.com/article/1595075885588/comment/1595219245413#comments)：（个人 - Github Profile README）对了，如果要加入访问统计的话可以用这个 [链接]
 * [发布了回帖](https://hacpai.com/article/1594988019287/comment/1595210025827#comments)：（Solo 集成 Gitalk 评论系统）文章初始化过 issue 后这个报错会比较少出现。
-* [发布了回帖](https://hacpai.com/article/1595199875500/comment/1595203251435#comments)：（solo 博客反向代理问题）请参考文档配置反代标头。
 
 <!--events end -->
