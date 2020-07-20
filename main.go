@@ -85,7 +85,7 @@ func main() {
 
 		url := evt["url"].(string)
 		content := evt["content"].(string)
-		buf.WriteString("* " + emoji + " [" + title + "](" + url + ")  \n" + "  > " + content + "\n")
+		buf.WriteString("* " + emoji + " [" + title + "](" + url + ")\n\n" + "  > " + content + "\n")
 	}
 	buf.WriteString("\n📝 帖子 ｜ 💬 评论 ｜ 🗣 回帖 ｜ 🌙 清风明月 ｜ 👨‍💻 用户 ｜ 🏷️ 标签  \n⭐️ 关注 ｜ 👍 赞同 ｜ 💗 感谢 ｜ 💰 打赏 ｜ 🗃 收藏")
 	buf.WriteString("\n\n")
