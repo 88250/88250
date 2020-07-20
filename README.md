@@ -12,9 +12,9 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=88250&show_icons=true)
 
-我的近期动态（点个 [Star](https://github.com/88250/88250) 将触发自动刷新）：
-
 <!--events start -->
+
+我的近期动态（点个 [Star](https://github.com/88250/88250) 将触发自动刷新，最近更新时间：`2020-07-20 19:51:58`）：
 
 * [发布了回帖](https://hacpai.com/article/1594988019287/comment/1595234799824#comments)：（Solo 集成 Gitalk 评论系统）似乎是要手动初始化，具体可以找下 Gitalk issues 上的讨论研究一番。
 * [发布了回帖](https://hacpai.com/article/1595226963494/comment/1595231314445#comments)：（登录 solo 后台拒绝连接）日志中没出现报错的话应该不是 Solo 或者社区的问题，估计是反代配置有问题，看下 Solo 的文档检查下。
@@ -24,7 +24,5 @@
 * [发布了回帖](https://hacpai.com/article/1595075885588/comment/1595219245413#comments)：（个人 - Github Profile README）对了，如果要加入访问统计的话可以用这个 [链接]
 * [发布了回帖](https://hacpai.com/article/1594988019287/comment/1595210025827#comments)：（Solo 集成 Gitalk 评论系统）文章初始化过 issue 后这个报错会比较少出现。
 * [发布了回帖](https://hacpai.com/article/1595199875500/comment/1595203251435#comments)：（solo 博客反向代理问题）请参考文档配置反代标头。
-
-最近更新时间：`2020-07-20 10:45:01`
 
 <!--events end -->

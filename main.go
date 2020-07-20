@@ -15,11 +15,16 @@ import (
 
 var logger = gulu.Log.NewLogger(os.Stdout)
 
+const (
+	githubUserName = "88250"
+	hacpaiUserName = "88250"
+)
+
 func main() {
 	result := map[string]interface{}{}
 	response, data, errors := gorequest.New().TLSClientConfig(&tls.Config{InsecureSkipVerify: true}).
-		Get("https://hacpai.com/api/v2/user/88250/events?size=8").Timeout(7*time.Second).
-		Set("User-Agent", "Profile Bot; +https://github.com/88250/88250").EndStruct(&result)
+		Get("https://hacpai.com/api/v2/user/"+hacpaiUserName+"/events?size=8").Timeout(7*time.Second).
+		Set("User-Agent", "Profile Bot; +https://github.com/"+githubUserName+"/"+githubUserName).EndStruct(&result)
 	if nil != errors || http.StatusOK != response.StatusCode {
 		logger.Fatalf("fetch events failed: %+v, %s", errors, data)
 	}
@@ -29,6 +34,8 @@ func main() {
 
 	buf := &bytes.Buffer{}
 	buf.WriteString("\n\n")
+	updated := time.Now().Format("2006-01-02 15:04:05")
+	buf.WriteString("我的近期动态（点个 [Star](https://github.com/" + githubUserName + "/" + githubUserName + ") 将触发自动刷新，最近更新时间：`" + updated + "`）：\n\n")
 	for _, event := range result["data"].([]interface{}) {
 		evt := event.(map[string]interface{})
 		operation := evt["operation"].(string)
@@ -38,9 +45,6 @@ func main() {
 		buf.WriteString("* [" + operation + "](" + url + ")：（" + title + "）" + content + "\n")
 	}
 	buf.WriteString("\n")
-
-	updated := time.Now().Format("2006-01-02 15:04:05")
-	buf.WriteString("最近更新时间：`" + updated + "`\n\n")
 
 	fmt.Println(buf.String())
 
