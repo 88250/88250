@@ -13,4 +13,14 @@
 我的近期动态：
 
 <!--events start -->
+
+* [Solo 集成 Gitalk 评论系统](https://hacpai.com/article/1594988019287/comment/1595234799824#comments)：似乎是要手动初始化，具体可以找下 Gitalk issues 上的讨论研究一番。
+* [登录 solo 后台拒绝连接](https://hacpai.com/article/1595226963494/comment/1595231314445#comments)：日志中没出现报错的话应该不是 Solo 或者社区的问题，估计是反代配置有问题，看下 Solo 的文档检查下。
+* [登录 solo 后台拒绝连接](https://hacpai.com/article/1595226963494/comment/1595229962617#comments)：看下 Solo 的日志
+* [登录 solo 后台拒绝连接](https://hacpai.com/article/1595226963494/comment/1595228355672#comments)：我觉得这个问题和升级关系不大，不过可以升级试试，还有问题的话看下是不是服务器防火墙配置有问题。
+* [登录 solo 后台拒绝连接](https://hacpai.com/article/1595226963494/comment/1595227359814#comments)：看一下你的客户端 IP 是否在这个列表里 [链接] 如果不在的话应该是其他原因，如果在的话请等 30 分钟以后再尝试。 另外，如果在的话，你应该也访问不了社区的……
+* [个人 - Github Profile README](https://hacpai.com/article/1595075885588/comment/1595219245413#comments)：对了，如果要加入访问统计的话可以用这个 [链接]
+* [Solo 集成 Gitalk 评论系统](https://hacpai.com/article/1594988019287/comment/1595210025827#comments)：文章初始化过 issue 后这个报错会比较少出现。
+* [solo 博客反向代理问题](https://hacpai.com/article/1595199875500/comment/1595203251435#comments)：请参考文档配置反代标头。
+
 <!--events end -->
