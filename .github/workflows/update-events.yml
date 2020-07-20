@@ -1,4 +1,4 @@
-name: Pull events
+name: Update events
 
 on:
   watch:
@@ -11,8 +11,9 @@ jobs:
     steps:
     - name: Check out repo
       uses: actions/checkout@v2
-    - name: Fetch events on HacPai
-      run: curl https://hacpai.com/api/v2/user/88250/events?size=8
+    - uses: actions/setup-go@v2
+    - name: Fetch events
+      run: go run main.go
     - name: Commit and push
       run: |-
         git config --global user.email "bot@github.com" && git config --global user.name "Bot"
