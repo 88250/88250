@@ -10,7 +10,7 @@
 
 <a title="Hits" target="_blank" href="https://github.com/88250/88250"><img src="https://hits.b3log.org/88250/88250.svg"></a>
 
-我的近期动态（点个 Star 将触发自动刷新）：
+我的近期动态（点个 [Star](https://github.com/88250/88250) 将触发自动刷新）：
 
 <!--events start -->
 
