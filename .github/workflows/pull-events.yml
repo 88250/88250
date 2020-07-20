@@ -1,0 +1,22 @@
+name: Pull events
+
+on:
+  watch:
+    types: started
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+    - name: Fetch events on HacPai
+      run: curl https://hacpai.com/api/v2/user/88250/events?size=8
+    - name: Commit and push
+      run: |-
+        git config --global user.email "bot@github.com" && git config --global user.name "Bot"
+        git diff
+        git add . && git commit -m ":memo: 更新自述" || exit 0
+        git push
+        
