@@ -9,3 +9,8 @@
 开源连接你我，开源构建未来，让我们一起走进开源的世界！
 
 <a title="Hits" target="_blank" href="https://github.com/88250/88250"><img src="https://hits.b3log.org/88250/88250.svg"></a>
+
+我的近期动态：
+
+<!--events start -->
+<!--events end -->
