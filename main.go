@@ -38,7 +38,7 @@ func main() {
 	buf.WriteString("\n")
 
 	updated := time.Now().Format("2006-01-02 15:04:05")
-	buf.WriteString("最近更新时间：`" + updated + "`\n")
+	buf.WriteString("最近更新时间：`" + updated + "`\n\n")
 
 	readme, err := ioutil.ReadFile("README.md")
 	if nil != err {
