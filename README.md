@@ -14,8 +14,17 @@
 
 <!--events start -->
 
-我的近期动态（点个 [Star](https://github.com/88250/88250) 将触发自动刷新，最近更新时间：`2020-07-21 09:00:14`）：
+我的近期动态（点个 [Star](https://github.com/88250/88250) 将触发自动刷新，最近更新时间：`2020-07-21 09:43:11`）：
 
+* 🗣 [使用 GitHub Actions 对 GitHub Profile 个人主页进行自动更新](https://hacpai.com/article/1595248018192/comment/1595293280794#comments)
+
+  > @adlered 稍后修改文案为“查看全部回帖”
+* 💬 [个人 - Github Profile README](https://hacpai.com/article/1595075885588/comment/1595293390751#comments)
+
+  > [链接]
+* 💬 [使用 GitHub Actions 对 GitHub Profile 个人主页进行自动更新](https://hacpai.com/article/1595248018192/comment/1595293280794#comments)
+
+  > 是的，帖子标题移除了超链接。如果是从具体某条回帖的链接进入帖子，要查看所有的话可以点击“查看更多回帖”，如果没有出现查看更多，说明没有更多回帖了 😂
 * 💬 [Solo 的标签管理似乎存在 bug，希望能把标签管理独立出来](https://hacpai.com/article/1595176908637/comment/1595292773096#comments)
 
   > 已经修复该情况下更新分类的报错情况，同时为了避免产生歧义，将分类后面的计数改为了文章计数（之前是标签计数，所以标签引用为空时分类这里看到的还是 1），详情和代码改动细节请看 [链接]。
@@ -31,15 +40,6 @@
 * 💬 [使用 GitHub Actions 对 GitHub Profile 个人主页进行自动更新](https://hacpai.com/article/1595248018192/comment/1595251746768#comments)
 
   > 感谢领导的肯定 [图片]
-* 👍🌙 [赞同了清风明月](https://hacpai.com/member/Gakkiyomi2019/breezemoons/1595163310013)
-
-  > 因为不够优秀而不去跟自己喜欢的人表白，以后真的会抱憾终身。
-* 💗🌙 [感谢了清风明月](https://hacpai.com/member/bylx/breezemoons/1595238295849)
-
-  > 你在看清风明月吗？😏
-* 📝 [使用 GitHub Actions 对 GitHub Profile 个人主页进行自动更新](https://hacpai.com/article/1595248018192)
-
-  > 实际效果 先看效果 https://github.com/88250 [图片] 红框部分是通过 GitHub Actions 自动更新的，内容来源由社区 API 获取用户近期动态列表提供。当有人 Star 我的个人主页仓库 https://github.com/88250/88250 时就会触发该 GitHub Act ..
 
 📝 帖子 ｜ 💬 评论 ｜ 🗣 回帖 ｜ 🌙 清月 ｜ 👨‍💻 用户 ｜ 🏷️ 标签  
 ⭐️ 关注 ｜ 👍 赞同 ｜ 💗 感谢 ｜ 💰 打赏 ｜ 🗃 收藏
