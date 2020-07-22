@@ -1,3 +1,5 @@
+### 我和妻子的开源生活
+
 我和我的妻子 [Vanessa](https://github.com/Vanessa219) 从 2009 年开始编写开源软件，其中我们一直在维护的 Solo 项目到现在已经有 10 年了。我们的创作领域主要围绕博客和社区系统开展，我们一直在努力实现 [B3log 构思 - 分布式社区网络](https://hacpai.com/article/1546941897596)。
 
 2018 年初，我和 Vanessa 从公司离职，正式开始了“全职做开源、自由职业者”的创业生涯。我们建立了一家公司，主要产品是 Sym 社区系统，它的[社区版](https://github.com/88250/symphony)是完全开源的，个人可基于其开源协议免费使用。另外，我们也运营着一个超过 5 万用户的社区[黑客派](https://hacpai.com)，作为 B3log 分布式社区网络的社区端节点。
@@ -8,14 +10,26 @@
 
 开源连接你我，开源构建未来，让我们一起走进开源的世界！
 
+### 我在 GitHub 上的统计
+
 <a title="Hits" target="_blank" href="https://github.com/88250/88250"><img src="https://hits.b3log.org/88250/88250.svg"></a>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=88250&show_icons=true)
+![[Github Stats](https://github.com/88250)](https://github-readme-stats.vercel.app/api?username=88250&show_icons=true)
 
 <!--events start -->
 
-我的近期动态（点个 [Star](https://github.com/88250/88250) 将触发自动刷新，最近更新时间：`2020-07-22 16:05:17`）：
+### 我在黑客派的近期动态
 
+⭐️ Star [个人主页](https://github.com/88250/88250) 后会自动更新，最近更新时间：`2020-07-22 21:07:29`
+
+📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
+
+* 💬 [我是从 Github 爬过来的，看起来这里还挺不错](https://hacpai.com/article/1595418131924/comment/1595420775614#comments)
+
+  > 欢迎楼主来到这里，要做啥项目一起讨论讨论吧 😄 @hefeng 没有女装，但可以古装 [图片]
+* 💬 [求云南人解答，吃云南的蘑菇能见到小人是什么样的？](https://hacpai.com/article/1594779083898/comment/1595416432627#comments)
+
+  > 每到这个季节就会大力宣传不要瞎吃野生菌 🤣 [图片]
 * 💗💬 [Docker 本地化部署 Solo，浏览器无法初始化](https://hacpai.com/article/1594938876673/comment/1595389300743#comments)
 
   > 对于这个问题，应该有些眉目了 我的是 Mac 环境，Docker for Mac 是不支持 --net=host 的 换句话说：--net=host 仅在 Linux 系统上有效 所以 solo 这个官方 docker 安装脚本在 Docker for Mac 下是有问题的。
@@ -34,14 +48,6 @@
 * 💬 [solo 如何将文章备份到 GitHub 仓库](https://hacpai.com/article/1595332733732/comment/1595346707753#comments)
 
   > 不需要配置，填了就行，等待 24 小时或者重启看下日志。这些我记得文档里都有写的，请仔细看下。
-* 💬 [社区缺陷报告与功能建议](https://hacpai.com/article/1438049659432/comment/1595337684149#comments)
 
-  > @lonuslan @cuijianzhe 感谢反馈，已经修复，奖励积分已转。
-* 💬 [使用 GitHub Actions 对 GitHub Profile 个人主页进行自动更新](https://hacpai.com/article/1595248018192/comment/1595335869144#comments)
-
-  > 抱歉了，稍后我们再改进一下，让大家可以方便点击回到帖子详情。标题上去掉超链接主要是因为复制问题，复制标题会带链接格式，有用户反馈很不方便所以去掉了，期间也参考了下 GitHub Issue，它也是这样用的纯文本，所以就改进了一下。
-
-📝 帖子 ｜ 💬 评论 ｜ 🗣 回帖 ｜ 🌙 清月 ｜ 👨‍💻 用户 ｜ 🏷️ 标签  
-⭐️ 关注 ｜ 👍 赞同 ｜ 💗 感谢 ｜ 💰 打赏 ｜ 🗃 收藏
 
 <!--events end -->
