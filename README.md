@@ -14,7 +14,7 @@
 
 <a title="Hits" target="_blank" href="https://github.com/88250/88250"><img src="https://hits.b3log.org/88250/88250.svg"></a>
 
-![[Github Stats](https://github.com/88250)](https://github-readme-stats.vercel.app/api?username=88250&show_icons=true)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=88250&show_icons=true)](https://github.com/88250)
 
 <!--events start -->
 
