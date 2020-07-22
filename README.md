@@ -14,32 +14,32 @@
 
 <!--events start -->
 
-我的近期动态（点个 [Star](https://github.com/88250/88250) 将触发自动刷新，最近更新时间：`2020-07-21 18:25:27`）：
+我的近期动态（点个 [Star](https://github.com/88250/88250) 将触发自动刷新，最近更新时间：`2020-07-22 14:06:23`）：
 
-* 💬 [关于禁止外链图片的公告](https://hacpai.com/article/1583821127435/comment/1595316232835#comments)
+* 💗💬 [Docker 本地化部署 Solo，浏览器无法初始化](https://hacpai.com/article/1594938876673/comment/1595389300743#comments)
 
-  > 博客端支持外链的，只是带了外链后就不能推送社区端了，推送时的自动转换已经在社区开发计划上了，只是短期内暂时没有找到有效的实现方案，主要问题是靠社区端拉取的话可能会失败，如果是博客端打包的话也只能从浏览器端打包，有点复杂。
-* 💬 [做了一个 FFmpeg 的 GUI 工具，不知道起个啥名](https://hacpai.com/article/1595299830449/comment/1595300527963#comments)
+  > 对于这个问题，应该有些眉目了 我的是 Mac 环境，Docker for Mac 是不支持 --net=host 的 换句话说：--net=host 仅在 Linux 系统上有效 所以 solo 这个官方 docker 安装脚本在 Docker for Mac 下是有问题的。
+* 💬 [Docker 本地化部署 Solo，浏览器无法初始化](https://hacpai.com/article/1594938876673/comment/1595389878355#comments)
 
-  > 要不用 FFFMpeg，Fast FFmpeg，快速好用，听上去还有点噱头 🤣 不过我觉得工具还是靠品质争取用户好一些。
-* 💬 [做了一个 FFmpeg 的 GUI 工具，不知道起个啥名](https://hacpai.com/article/1595299830449/comment/1595300216141#comments)
+  > 好的，感谢指出问题 🙏
+* 💬 [Solo 升级 4.3.0 急救 H2Database](https://hacpai.com/article/1595383592871/comment/1595385996801#comments)
 
-  > 我觉得 FFmpeg GUI 挺好的，从名字就能知道是 FFmpeg 的可视化操作界面。
-* 🗣 [使用 GitHub Actions 对 GitHub Profile 个人主页进行自动更新](https://hacpai.com/article/1595248018192/comment/1595293280794#comments)
+  > v4.2.0 升级 v4.3.0 数据方面的变动如下： article 表删除 articleCommentCount、articleViewCount 和 articleCommentable 这三列 option 表更新行 version 为 4.3.0 option 表删除 mostCommentArticleD ..
+* 💬 [请问下我升级到 solo4.3.0 了，但是图片自动转链用不了是操作不对么？](https://hacpai.com/article/1595380534162/comment/1595384064762#comments)
 
-  > @adlered 稍后修改文案为“查看全部回帖”
-* 💬 [个人 - Github Profile README](https://hacpai.com/article/1595075885588/comment/1595293390751#comments)
+  > 感谢反馈，稍后调查，请关注该 [链接]。可以用其他两个编辑器模式试试是否能够正常拉取。
+* 💬 [Solo 升级 4.3.0 急救 H2Database](https://hacpai.com/article/1595383592871/comment/1595383965833#comments)
 
-  > [链接]
-* 💬 [使用 GitHub Actions 对 GitHub Profile 个人主页进行自动更新](https://hacpai.com/article/1595248018192/comment/1595293280794#comments)
+  > Solo 没有支持 SQLite，支持的是 H2Database。看来是 H2 不兼容该写法，稍后改进，请关注 [链接]。
+* 💬 [solo 如何将文章备份到 GitHub 仓库](https://hacpai.com/article/1595332733732/comment/1595346707753#comments)
 
-  > 是的，帖子标题移除了超链接。如果是从具体某条回帖的链接进入帖子，要查看所有的话可以点击“查看更多回帖”，如果没有出现查看更多，说明没有更多回帖了 😂
-* 💬 [Solo 的标签管理似乎存在 bug，希望能把标签管理独立出来](https://hacpai.com/article/1595176908637/comment/1595292773096#comments)
+  > 不需要配置，填了就行，等待 24 小时或者重启看下日志。这些我记得文档里都有写的，请仔细看下。
+* 💬 [社区缺陷报告与功能建议](https://hacpai.com/article/1438049659432/comment/1595337684149#comments)
 
-  > 已经修复该情况下更新分类的报错情况，同时为了避免产生歧义，将分类后面的计数改为了文章计数（之前是标签计数，所以标签引用为空时分类这里看到的还是 1），详情和代码改动细节请看 [链接]。
-* 💗📝 [记录一些面试中记忆比较深刻的问题](https://hacpai.com/article/1595086679806)
+  > @lonuslan @cuijianzhe 感谢反馈，已经修复，奖励积分已转。
+* 💬 [使用 GitHub Actions 对 GitHub Profile 个人主页进行自动更新](https://hacpai.com/article/1595248018192/comment/1595335869144#comments)
 
-  > 前言 最近在广东找工作，天天疲于奔波各种面试，大大小小的公司零零总总，记录一些自己感觉有意思的面试/笔试题/机试题。根据各个面试官的提问，做了一部分汇总，所以记录中是所有公司面试的一个超集，不代表某一个公司。 题目来自记忆，并不是照抄，只表达含义。 更重要的是，我记录的大多来自记忆，有些可能已经有错了，如有遗漏/错误， ..
+  > 抱歉了，稍后我们再改进一下，让大家可以方便点击回到帖子详情。标题上去掉超链接主要是因为复制问题，复制标题会带链接格式，有用户反馈很不方便所以去掉了，期间也参考了下 GitHub Issue，它也是这样用的纯文本，所以就改进了一下。
 
 📝 帖子 ｜ 💬 评论 ｜ 🗣 回帖 ｜ 🌙 清月 ｜ 👨‍💻 用户 ｜ 🏷️ 标签  
 ⭐️ 关注 ｜ 👍 赞同 ｜ 💗 感谢 ｜ 💰 打赏 ｜ 🗃 收藏
