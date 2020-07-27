@@ -20,34 +20,34 @@
 
 ### 我在黑客派的近期动态
 
-⭐️ Star [个人主页](https://github.com/88250/88250) 后会自动更新，最近更新时间：`2020-07-22 21:07:29`
+⭐️ Star [个人主页](https://github.com/88250/88250) 后会自动更新，最近更新时间：`2020-07-27 10:07:50`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [我是从 Github 爬过来的，看起来这里还挺不错](https://hacpai.com/article/1595418131924/comment/1595420775614#comments)
+* 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1595651396454)
 
-  > 欢迎楼主来到这里，要做啥项目一起讨论讨论吧 😄 @hefeng 没有女装，但可以古装 [图片]
-* 💬 [求云南人解答，吃云南的蘑菇能见到小人是什么样的？](https://hacpai.com/article/1594779083898/comment/1595416432627#comments)
+  > 每当忘了切换输入法打 npm 我都觉得好怕怕。 [图片]
+* 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1595613720668)
 
-  > 每到这个季节就会大力宣传不要瞎吃野生菌 🤣 [图片]
-* 💗💬 [Docker 本地化部署 Solo，浏览器无法初始化](https://hacpai.com/article/1594938876673/comment/1595389300743#comments)
+  > 音乐的开源
+* 💰📝 [20200724 TGIF](https://hacpai.com/article/1595520021443)
 
-  > 对于这个问题，应该有些眉目了 我的是 Mac 环境，Docker for Mac 是不支持 --net=host 的 换句话说：--net=host 仅在 Linux 系统上有效 所以 solo 这个官方 docker 安装脚本在 Docker for Mac 下是有问题的。
-* 💬 [Docker 本地化部署 Solo，浏览器无法初始化](https://hacpai.com/article/1594938876673/comment/1595389878355#comments)
+  > 游戏尘尘半生缘 话不多说，玩的游戏较多，相比以下全当是九牛一毛，挑重点的说 8bit: link start [图片] 第一次接触游戏机，应该是幼儿园时代，叔叔家有一台任天堂的 FC 中文名为小霸王，这是许多人的启蒙机器吧，那是一个据说游戏机毁电视机的时代，每当插入卡带打开开关遇到花屏的时候便会有模有样的学着大人吹吹卡 ..
+* 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1595476042650)
 
-  > 好的，感谢指出问题 🙏
-* 💬 [Solo 升级 4.3.0 急救 H2Database](https://hacpai.com/article/1595383592871/comment/1595385996801#comments)
+  > 我对 V 说：“‘我和妻子的开源生活’作为标题如何，有点像那个综艺节目‘我和妻子的浪漫旅行’，看上去很有诗意的。” [图片] V 回我：“那是‘妻子的浪漫旅行’，没有‘我和’。”
+* 💗💬 [Solo v4.3.0 发布预告，即将彻底移除本地评论系统](https://hacpai.com/article/1594478511380/comment/1595473903743#comments)
 
-  > v4.2.0 升级 v4.3.0 数据方面的变动如下： article 表删除 articleCommentCount、articleViewCount 和 articleCommentable 这三列 option 表更新行 version 为 4.3.0 option 表删除 mostCommentArticleD ..
-* 💬 [请问下我升级到 solo4.3.0 了，但是图片自动转链用不了是操作不对么？](https://hacpai.com/article/1595380534162/comment/1595384064762#comments)
+  > [图片] Solo 渲染表格时建议在外层加一个 div：    以防止表格超出页面宽度。
+* 💗🗣 [1 行代码，10 种现代布局](https://hacpai.com/article/1595421590454/comment/1595427741439#comments)
 
-  > 感谢反馈，稍后调查，请关注该 [链接]。可以用其他两个编辑器模式试试是否能够正常拉取。
-* 💬 [Solo 升级 4.3.0 急救 H2Database](https://hacpai.com/article/1595383592871/comment/1595383965833#comments)
+  > 没有没有。是我忽视了，我以为 mdnice 复制过来直接可以，下次注意下次注意
+* 💬 [1 行代码，10 种现代布局](https://hacpai.com/article/1595421590454/comment/1595427741439#comments)
 
-  > Solo 没有支持 SQLite，支持的是 H2Database。看来是 H2 不兼容该写法，稍后改进，请关注 [链接]。
-* 💬 [solo 如何将文章备份到 GitHub 仓库](https://hacpai.com/article/1595332733732/comment/1595346707753#comments)
+  > 文中代码块没有标记语言导致高亮失效。社区内容排版有建议欢迎提出。
+* 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1595423739391)
 
-  > 不需要配置，填了就行，等待 24 小时或者重启看下日志。这些我记得文档里都有写的，请仔细看下。
+  > 楼下小卖部买东西，老板硬要塞给我一根烟，说尝尝新到货的“阎王滕”。 听这烟名有点意思，我接过烟盒拿了一根，看到烟盒上明明写的是“滕王阁”……
 
 
 <!--events end -->
