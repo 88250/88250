@@ -20,10 +20,13 @@
 
 ### 我在黑客派的近期动态
 
-⭐️ Star [个人主页](https://github.com/88250/88250) 后会自动更新，最近更新时间：`2020-07-30 00:02:55`
+⭐️ Star [个人主页](https://github.com/88250/88250) 后会自动更新，最近更新时间：`2020-07-30 04:02:59`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1596041707857)
+
+  > 未知赛事的长跑
 * 💬 [Vditor v3.3.12 发布，全新的 SV 模式](https://hacpai.com/article/1595955099905/comment/1595983209880#comments)
 
   > 社区的 Markdown 生成 PDF 使用的是 [链接]，等有空改进一波，谢谢反馈。
@@ -45,9 +48,6 @@
 * 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1595651396454)
 
   > 每当忘了切换输入法打 npm 我都觉得好怕怕。 [图片]
-* 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1595613720668)
-
-  > 音乐的开源
 
 
 <!--events end -->
