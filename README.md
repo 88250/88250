@@ -20,10 +20,13 @@
 
 ### 我在黑客派的近期动态
 
-⭐️ Star [个人主页](https://github.com/88250/88250) 后会自动更新，最近更新时间：`2020-07-31 16:02:31`
+⭐️ Star [个人主页](https://github.com/88250/88250) 后会自动更新，最近更新时间：`2020-07-31 20:03:50`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [社区缺陷报告与功能建议](https://hacpai.com/article/1438049659432/comment/1596181284879#comments)
+
+  > @PeterChu 目前大概有十多种，常用交互基本都在内了。
 * 💬 [社区缺陷报告与功能建议](https://hacpai.com/article/1438049659432/comment/1596181284879#comments)
 
   > 嗯，个人动态这一块不支持隐藏。
@@ -45,9 +48,6 @@
 * 💬 [Vditor v3.3.12 发布，全新的 SV 模式](https://hacpai.com/article/1595955099905/comment/1595983209880#comments)
 
   > 社区的 Markdown 生成 PDF 使用的是 [链接]，等有空改进一波，谢谢反馈。
-* 💗💬 [如何把 HHKB 无刻版键帽安装回去](https://hacpai.com/article/1595818507525/comment/1595915263888#comments)
-
-  > 就是普通的超声波洗眼镜的机器，tb 随便搜索买的，很便宜，家里有带眼镜的可以买个，好用，还能洗键盘和其它的一些小物件。
 
 
 <!--events end -->
