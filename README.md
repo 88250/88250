@@ -20,10 +20,13 @@
 
 ### 我在黑客派的近期动态
 
-⭐️ Star [个人主页](https://github.com/88250/88250) 后会自动更新，最近更新时间：`2020-08-01 20:04:52`
+⭐️ Star [个人主页](https://github.com/88250/88250) 后会自动更新，最近更新时间：`2020-08-02 00:02:42`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [Solo v4.3.0 发布预告，即将彻底移除本地评论系统](https://hacpai.com/article/1594478511380/comment/1596286662329#comments)
+
+  > 请参考下 Solo 仓库 scripts 目录下的脚本。
 * 💬 [『清风明月』上线](https://hacpai.com/article/1527267607068/comment/1596269911348#comments)
 
   > 博客端暂时没有计划，感谢反馈。
@@ -45,9 +48,6 @@
 * 💗💬 [社区缺陷报告与功能建议](https://hacpai.com/article/1438049659432/comment/1594202835425#comments)
 
   > [图片]现在登录的时候，这个邮箱怎么自己跑到搜索栏去了
-* 🗣 [社区缺陷报告与功能建议](https://hacpai.com/article/1438049659432/comment/1594202835425#comments)
-
-  > 稍后部署修复。
 
 
 <!--events end -->
