@@ -20,10 +20,13 @@
 
 ### 我在黑客派的近期动态
 
-⭐️ Star [个人主页](https://github.com/88250/88250) 后会自动更新，最近更新时间：`2020-08-01 08:07:17`
+⭐️ Star [个人主页](https://github.com/88250/88250) 后会自动更新，最近更新时间：`2020-08-01 12:03:27`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗💬 [优化社区博客端 SEO 引流](https://hacpai.com/article/1592751578245/comment/1596249809849#comments)
+
+  > 支持 D 大，棒棒的~
 * 🗣 [社区缺陷报告与功能建议](https://hacpai.com/article/1438049659432/comment/1596181284879#comments)
 
   > @PeterChu 目前大概有十多种，常用交互基本都在内了。
@@ -45,9 +48,6 @@
 * 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1596041707857)
 
   > 未知赛事的长跑
-* 💬 [Vditor v3.3.12 发布，全新的 SV 模式](https://hacpai.com/article/1595955099905/comment/1595983209880#comments)
-
-  > 社区的 Markdown 生成 PDF 使用的是 [链接]，等有空改进一波，谢谢反馈。
 
 
 <!--events end -->
