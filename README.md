@@ -20,13 +20,13 @@
 
 ### 我在黑客派的近期动态
 
-⭐️ Star [个人主页](https://github.com/88250/88250) 后会自动更新，最近更新时间：`2020-08-02 08:07:24`
+⭐️ Star [个人主页](https://github.com/88250/88250) 后会自动更新，最近更新时间：`2020-08-03 02:13:07`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
 * 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1596301895733)
 
-  > Markdown 支持块级双向链接，如何让块 ID 和解析过程保持映射关系呢……
+  > 实现 Markdown 块级双向链接的关键在于如何让块 ID 和解析过程保持映射关系。 也许需要新的思路……
 * 💬 [Solo v4.3.0 发布预告，即将彻底移除本地评论系统](https://hacpai.com/article/1594478511380/comment/1596286662329#comments)
 
   > 请参考下 Solo 仓库 scripts 目录下的脚本。
