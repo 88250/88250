@@ -20,10 +20,13 @@
 
 ### 我在黑客派的近期动态
 
-⭐️ Star [个人主页](https://github.com/88250/88250) 后会自动更新，最近更新时间：`2020-08-03 08:35:14`
+⭐️ Star [个人主页](https://github.com/88250/88250) 后会自动更新，最近更新时间：`2020-08-04 02:12:52`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [Lute HTTP 使用指南](https://hacpai.com/article/1569240189601/comment/1596471908613#comments)
+
+  > 社区用的就是 Lute HTTP，做下缓存，问题不大。
 * 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1596400957420)
 
   > 花了两小时实现了 [链接]，天已经快亮了。
@@ -45,9 +48,6 @@
 * 🗣 [社区缺陷报告与功能建议](https://hacpai.com/article/1438049659432/comment/1596181284879#comments)
 
   > @PeterChu 目前大概有十多种，常用交互基本都在内了。
-* 💬 [社区缺陷报告与功能建议](https://hacpai.com/article/1438049659432/comment/1596181284879#comments)
-
-  > 嗯，个人动态这一块不支持隐藏。
 
 
 <!--events end -->
