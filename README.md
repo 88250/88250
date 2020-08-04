@@ -20,10 +20,16 @@
 
 ### 我在黑客派的近期动态
 
-⭐️ Star [个人主页](https://github.com/88250/88250) 后会自动更新，最近更新时间：`2020-08-04 08:34:49`
+⭐️ Star [个人主页](https://github.com/88250/88250) 后会自动更新，最近更新时间：`2020-08-05 02:12:54`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1596560626599)
+
+  > 近乎疯狂地开发，仅为了实现一个想法。 [图片]
+* 📝 [GoLand 控制台输出中文乱码的解决方案](https://hacpai.com/article/1596553255623)
+
+  > 升级到 GoLand 2020.2 后发现控制台输入内容中文都乱码了。 解决方案是设置 VM 参数： [图片] 最后一行加入 -Dfile.encoding=UTF-8： [图片] 重启 Goland 就没问题了 😄
 * 💬 [Lute HTTP 使用指南](https://hacpai.com/article/1569240189601/comment/1596471908613#comments)
 
   > 社区用的就是 Lute HTTP，做下缓存，问题不大。
@@ -42,12 +48,6 @@
 * 💬 [『清风明月』上线](https://hacpai.com/article/1527267607068/comment/1596269911348#comments)
 
   > 博客端暂时没有计划，感谢反馈。
-* 💗💬 [优化社区博客端 SEO 引流](https://hacpai.com/article/1592751578245/comment/1596249809849#comments)
-
-  > 支持 D 大，棒棒的~
-* 🗣 [社区缺陷报告与功能建议](https://hacpai.com/article/1438049659432/comment/1596181284879#comments)
-
-  > @PeterChu 目前大概有十多种，常用交互基本都在内了。
 
 
 <!--events end -->
