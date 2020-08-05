@@ -20,10 +20,13 @@
 
 ### 我在黑客派的近期动态
 
-⭐️ Star [个人主页](https://github.com/88250/88250) 后会自动更新，最近更新时间：`2020-08-05 16:45:17`
+⭐️ Star [个人主页](https://github.com/88250/88250) 后会自动更新，最近更新时间：`2020-08-06 02:13:28`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1596642023894)
+
+  > 什么？你写代码的目标就是不用写代码吗？？？？ 那你直接不写代码不就完了……
 * 💬 [黑客派的帖子的 markdown 是前端解析的吗](https://hacpai.com/article/1596594920952/comment/1596611394680#comments)
 
   > 后端 Lute HTTP。
@@ -45,9 +48,6 @@
 * 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1596301895733)
 
   > 实现 Markdown 块级双向链接的关键在于如何让块 ID 和解析过程保持映射关系。 也许需要新的思路……
-* 💬 [Solo v4.3.0 发布预告，即将彻底移除本地评论系统](https://hacpai.com/article/1594478511380/comment/1596286662329#comments)
-
-  > 请参考下 Solo 仓库 scripts 目录下的脚本。
 
 
 <!--events end -->
