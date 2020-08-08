@@ -20,34 +20,34 @@
 
 ### 我在黑客派的近期动态
 
-每天 8 点自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-08-06 17:08:08`
+每天 8 点自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-08-08 10:25:57`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗💬 [创业的第三个夏天](https://hacpai.com/article/1596793688068/comment/1596848171145#comments)
+
+  > 论坛里发生了什么。。我都错过了 😳 wiz lite 版用了 Vditor，D 大牛逼！（破音 创业写代码不容易，还要兼顾运营更不容易。如果有更多的人来帮助社区运营就好了[图片]
+* 💗💬 [创业的第三个夏天](https://hacpai.com/article/1596793688068/comment/1596801759326#comments)
+
+  > ヽ(〃∀〃)ﾉ来咯
+* 💗💬 [创业的第三个夏天](https://hacpai.com/article/1596793688068/comment/1596805872289#comments)
+
+  > 前排支持，D 大 666
+* 💗💬 [创业的第三个夏天](https://hacpai.com/article/1596793688068/comment/1596793982159#comments)
+
+  > 前排[图片] D 大加油 周末愉快
+* 📝 [创业的第三个夏天](https://hacpai.com/article/1596793688068)
+
+  > [图片] 如果你是第一次看这个系列的文章，可从第一《创业的第一个春天》 看起。 在炎热的夏天里，微风徐徐。虽然不能乘风破浪，但也能感受到些许惬意。 博客端 Solo 最大的改变就是去掉了内置的本地评论系统，引入 Gitalk 解决本地评论的需求。同时，被很多用户一直期待的 solo-blog 仓库同步功能回来了！ 另外 ..
+* 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1596722018502)
+
+  > 别问甲方什么时候要，问了就是越快越好。 别问乙方什么时候好，问了就是快要好了。 别问厂商什么时候上，问了就是敬请期待。 别问用户什么时候付，问了就是：什么？这么垃圾也要钱？
 * 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1596642023894)
 
   > 什么？你写代码的目标就是不用写代码吗？？？？ 那你直接不写代码不就完了……
 * 💬 [黑客派的帖子的 markdown 是前端解析的吗](https://hacpai.com/article/1596594920952/comment/1596611394680#comments)
 
   > 后端 Lute HTTP。
-* 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1596560626599)
-
-  > 近乎疯狂地开发，仅为了实现一个想法。 [图片]
-* 📝 [GoLand 控制台输出中文乱码的解决方案](https://hacpai.com/article/1596553255623)
-
-  > 升级到 GoLand 2020.2 后发现控制台输入内容中文都乱码了。 解决方案是设置 VM 参数： [图片] 最后一行加入 -Dfile.encoding=UTF-8： [图片] 重启 Goland 就没问题了 😄
-* 💬 [Lute HTTP 使用指南](https://hacpai.com/article/1569240189601/comment/1596471908613#comments)
-
-  > 社区用的就是 Lute HTTP，做下缓存，问题不大。
-* 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1596400957420)
-
-  > 花了两小时实现了 [链接]，天已经快亮了。
-* 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1596392634249)
-
-  > 晚饭不能喝太多可乐，不然无法入睡。起来写点代码吧……
-* 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1596301895733)
-
-  > 实现 Markdown 块级双向链接的关键在于如何让块 ID 和解析过程保持映射关系。 也许需要新的思路……
 
 
 <!--events end -->
