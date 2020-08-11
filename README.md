@@ -20,10 +20,19 @@
 
 ### 我在黑客派的近期动态
 
-每天 8 点自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-08-10 16:12:19`
+每天 8 点自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-08-11 16:12:47`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗💬 [创业的第三个夏天](https://hacpai.com/article/1596793688068/comment/1597112925941#comments)
+
+  > 加油加油 👍
+* 💬 [再见，hacpai](https://hacpai.com/article/1597048140528/comment/1597050613916#comments)
+
+  > 感谢陪伴，期待以后能再见。 加油！
+* 💗💬 [创业的第三个夏天](https://hacpai.com/article/1596793688068/comment/1597049036527#comments)
+
+  > 阅[图片]
 * 💗💬 [创业的第三个夏天](https://hacpai.com/article/1596793688068/comment/1597032375385#comments)
 
   > 加油，开源作为职业和盈利实在是太难了，祝好！
@@ -39,15 +48,6 @@
 * 💬 [升级到 Solo 4.3 出现故障，求助](https://hacpai.com/article/1596967109123/comment/1596969294881#comments)
 
   > 手改过数据库么？
-* 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1596905826803)
-
-  > 下周发布链滴笔记块链初版。
-* 💬 [symphony 调用 ES 报错](https://hacpai.com/article/1596796959096/comment/1596853651588#comments)
-
-  > 有可能是的，Sym 社区版使用 ES 的话还需要自助开发一下才能用。
-* 💗💬 [创业的第三个夏天](https://hacpai.com/article/1596793688068/comment/1596848171145#comments)
-
-  > 论坛里发生了什么。。我都错过了 😳 wiz lite 版用了 Vditor，D 大牛逼！（破音 创业写代码不容易，还要兼顾运营更不容易。如果有更多的人来帮助社区运营就好了[图片]
 
 
 <!--events end -->
