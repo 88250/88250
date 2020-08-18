@@ -20,10 +20,22 @@
 
 ### 我在黑客派的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-08-17 16:13:00`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-08-18 16:16:45`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗💬 [创业的第三个夏天](https://hacpai.com/article/1596793688068/comment/1597729614459#comments)
+
+  > 加油！！！
+* 💬 [Sym 用户基本信息保存失败](https://hacpai.com/article/1597666353776/comment/1597668932731#comments)
+
+  > 感谢反馈，已经修复请更新代码。
+* 💬 [Markdown 中 ** 加粗失效问题解析](https://hacpai.com/article/1597581380183/comment/1597659040253#comments)
+
+  > Markdown 可以用 HTML 补位 [图片]
+* 💬 [就是咨询一下 docker 部署的 solo 有按作者查看的功能么？](https://hacpai.com/article/1593826692697/comment/1597652379005#comments)
+
+  > 请参考 Solo 源码尝试改进……
 * 💬 [互联网的帝国主义——互联网的内容产出为何在萎缩？](https://hacpai.com/article/1597632238823/comment/1597636383097#comments)
 
   > 感谢分享和提醒。
@@ -36,18 +48,6 @@
 * 💬 [关于我的打包 window BND 报错](https://hacpai.com/article/1597513868060/comment/1597563640116#comments)
 
   > 要先编译 ui 库，别折腾，我现在都不一定能搭起来这个环境。
-* 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1597487509678)
-
-  > 加了几个双链类笔记群，活跃发言的竟然都是同一拨人……
-* 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1597421073234)
-
-  > 经过整整两周的玩命式开发，链滴笔记新版的第一个里程碑完成了。调整一下节奏，继续前行。
-* 💗📝 [20200814 TGIF](https://hacpai.com/article/1597384522400)
-
-  > 最近天气炎热，让我想起之前看的一个科普视频。 说其实地球 45 亿年历史中的 90% 时间都是没有冰川的，大多时候都是全球整体都是植被覆盖的，没有白色的冰川。 我们现在就在冰期末期的间冰期。 进入冰川期其实是地球出现异常的情况，慢慢的整个地球都被冰覆盖(甚至是到赤道附近)， 最后因为少了植物也就少了光合作用（少了二氧化 ..
-* 💗💬 [创业的第三个夏天](https://hacpai.com/article/1596793688068/comment/1597390813496#comments)
-
-  > 支持伟大的事业
 
 
 <!--events end -->
