@@ -20,10 +20,22 @@
 
 ### 我在黑客派的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-08-18 16:16:45`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-08-19 16:13:40`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 👍🌙 [赞同了清风明月](https://hacpai.com/member/ghostsf/breezemoons/1597714721009)
+
+  > 谨记：货比三家，不要冲动消费
+* 💬 [Markdown 使用指南 - 语法速查手册](https://hacpai.com/article/1583308420519/comment/1597764425196#comments)
+
+  > 请看 Solo 用户指南 FAQ。
+* 💬 [Markdown 使用指南 - 语法速查手册](https://hacpai.com/article/1583308420519/comment/1597760976580#comments)
+
+  > 已经支持，和其他 Markdown 编辑器基本一个用法，数学公式块使用 $$，内联数学公式使用 $。
+* 💗💬 [创业的第三个夏天](https://hacpai.com/article/1596793688068/comment/1597741774437#comments)
+
+  > 😄 👍
 * 💗💬 [创业的第三个夏天](https://hacpai.com/article/1596793688068/comment/1597729614459#comments)
 
   > 加油！！！
@@ -36,18 +48,6 @@
 * 💬 [就是咨询一下 docker 部署的 solo 有按作者查看的功能么？](https://hacpai.com/article/1593826692697/comment/1597652379005#comments)
 
   > 请参考 Solo 源码尝试改进……
-* 💬 [互联网的帝国主义——互联网的内容产出为何在萎缩？](https://hacpai.com/article/1597632238823/comment/1597636383097#comments)
-
-  > 感谢分享和提醒。
-* 📝 [Markdown 中 ** 加粗失效问题解析](https://hacpai.com/article/1597581380183)
-
-  > Markdown 原文： **故：恒无，欲也以观其眇。**恒有，欲也以观其所徼 **闭合** 部分可以形成加粗这是共识，但加上前后内容的话会有细节上的出入。 开始的 ** 在规范里定义为“左边界序列”，结束的 ** 定义为“右边界序列”。在这个例子中我们简单理解为开始标记符/结束标记符就行，因为不存在嵌套 ** __  ..
-* 💗📝 [solo 个人博客搭建（支持 https）](https://hacpai.com/article/1597562465425)
-
-  > [图片] 前言 从去年就有想开始记录一些博客的想法，想把一些学习中的心得作为总结记录，或者一些其他的跟代码无关的东西也在想做记录的时候用博客的方式记录一下。 但是当时看了下博客园，CSDN 这些，感觉同质化太严重，后来还觉得弄一个偏个人向的博客。 其实选择 solo 也是去年就决定好的。只是因为当时在正好我阿里云的服务 ..
-* 💬 [关于我的打包 window BND 报错](https://hacpai.com/article/1597513868060/comment/1597563640116#comments)
-
-  > 要先编译 ui 库，别折腾，我现在都不一定能搭起来这个环境。
 
 
 <!--events end -->
