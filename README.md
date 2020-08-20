@@ -20,10 +20,22 @@
 
 ### 我在黑客派的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-08-19 16:13:40`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-08-20 16:13:12`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗💬 [Vditor 如何离线使用？](https://hacpai.com/article/1597801019644/comment/1597826133855#comments)
+
+  > 我用的就是本地的，完全可以用，具体是这个样子的： 首先下载源码，git clone https://github.com/Vanessa219/vditor.git 然后进入目录，执行：npm install 然后执行：npm run build 在外面新建个文件夹，将 dist 文件夹整个拷贝出来。比如我新建目录 v ..
+* 💗💬 [社区功能反馈](https://hacpai.com/article/1429242951021/comment/1597806896030#comments)
+
+  > 响应式布局错乱，宽度 860 的时候大部分界面好像都不兼容了， 通过滚动横向滚动条都看不到发布按钮 [图片] [图片]
+* 💬 [社区功能反馈](https://hacpai.com/article/1429242951021/comment/1597840370514#comments)
+
+  > 感谢反馈，后续优化。
+* 💬 [Docker 升级 4.3 访问 500](https://hacpai.com/article/1597325676129/comment/1597826746184#comments)
+
+  > 应该是用的 H2Database 吧，这个 bug 昨晚修复了，请重新拉取镜像部署。
 * 👍🌙 [赞同了清风明月](https://hacpai.com/member/ghostsf/breezemoons/1597714721009)
 
   > 谨记：货比三家，不要冲动消费
@@ -36,18 +48,6 @@
 * 💗💬 [创业的第三个夏天](https://hacpai.com/article/1596793688068/comment/1597741774437#comments)
 
   > 😄 👍
-* 💗💬 [创业的第三个夏天](https://hacpai.com/article/1596793688068/comment/1597729614459#comments)
-
-  > 加油！！！
-* 💬 [Sym 用户基本信息保存失败](https://hacpai.com/article/1597666353776/comment/1597668932731#comments)
-
-  > 感谢反馈，已经修复请更新代码。
-* 💬 [Markdown 中 ** 加粗失效问题解析](https://hacpai.com/article/1597581380183/comment/1597659040253#comments)
-
-  > Markdown 可以用 HTML 补位 [图片]
-* 💬 [就是咨询一下 docker 部署的 solo 有按作者查看的功能么？](https://hacpai.com/article/1593826692697/comment/1597652379005#comments)
-
-  > 请参考 Solo 源码尝试改进……
 
 
 <!--events end -->
