@@ -20,10 +20,16 @@
 
 ### 我在黑客派的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-08-20 16:13:12`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-08-21 16:20:55`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [Solo 页面表格没有渲染](https://hacpai.com/article/1597995919294/comment/1597997672467#comments)
+
+  > 编辑器我们一直在更新，如果有问题欢迎到 Vditor 项目 issues 上反馈。
+* 💬 [Solo 页面表格没有渲染](https://hacpai.com/article/1597995919294/comment/1597996147756#comments)
+
+  > 请参考 Solo 用户指南 FAQ 部分。
 * 💗💬 [Vditor 如何离线使用？](https://hacpai.com/article/1597801019644/comment/1597826133855#comments)
 
   > 我用的就是本地的，完全可以用，具体是这个样子的： 首先下载源码，git clone https://github.com/Vanessa219/vditor.git 然后进入目录，执行：npm install 然后执行：npm run build 在外面新建个文件夹，将 dist 文件夹整个拷贝出来。比如我新建目录 v ..
@@ -42,12 +48,6 @@
 * 💬 [Markdown 使用指南 - 语法速查手册](https://hacpai.com/article/1583308420519/comment/1597764425196#comments)
 
   > 请看 Solo 用户指南 FAQ。
-* 💬 [Markdown 使用指南 - 语法速查手册](https://hacpai.com/article/1583308420519/comment/1597760976580#comments)
-
-  > 已经支持，和其他 Markdown 编辑器基本一个用法，数学公式块使用 $$，内联数学公式使用 $。
-* 💗💬 [创业的第三个夏天](https://hacpai.com/article/1596793688068/comment/1597741774437#comments)
-
-  > 😄 👍
 
 
 <!--events end -->
