@@ -20,10 +20,16 @@
 
 ### 我在黑客派的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-08-21 16:20:55`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-08-22 16:13:05`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [Docker 4.1 升级 4.3 访问 500 （mysql）](https://hacpai.com/article/1598081609559/comment/1598082872801#comments)
+
+  > 看下日志。
+* 💬 [社区功能反馈](https://hacpai.com/article/1429242951021/comment/1598061506063#comments)
+
+  > 试试看，有可能不行。
 * 💬 [Solo 页面表格没有渲染](https://hacpai.com/article/1597995919294/comment/1597997672467#comments)
 
   > 编辑器我们一直在更新，如果有问题欢迎到 Vditor 项目 issues 上反馈。
@@ -42,12 +48,6 @@
 * 💬 [Docker 升级 4.3 访问 500](https://hacpai.com/article/1597325676129/comment/1597826746184#comments)
 
   > 应该是用的 H2Database 吧，这个 bug 昨晚修复了，请重新拉取镜像部署。
-* 👍🌙 [赞同了清风明月](https://hacpai.com/member/ghostsf/breezemoons/1597714721009)
-
-  > 谨记：货比三家，不要冲动消费
-* 💬 [Markdown 使用指南 - 语法速查手册](https://hacpai.com/article/1583308420519/comment/1597764425196#comments)
-
-  > 请看 Solo 用户指南 FAQ。
 
 
 <!--events end -->
