@@ -20,10 +20,19 @@
 
 ### 我在黑客派的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-08-22 16:13:05`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-08-23 16:13:05`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗💬 [20200821 TGIF](https://hacpai.com/article/1597972605846/comment/1598104002626#comments)
+
+  > 我试过 16/8 轻断食，当时是为了把最后一点小肚子给减掉，确实有效。 但是，最好早餐不要省，还是要吃三餐，8 点吃早餐，下午 4 点前吃完晚餐就行了。 把三餐变两餐容易把自己变成易胖体质，除非能一辈子坚持，否则改变后容易反弹。 然后再稍微做点运动，效果很好，也没有什么不适（一个月）。
+* 💬 [Docker 4.1 升级 4.3 访问 500 （mysql）](https://hacpai.com/article/1598081609559/comment/1598098369155#comments)
+
+  > 看 Solo 的服务端日志。
+* 💬 [Docker 升级 4.3 访问 500](https://hacpai.com/article/1597325676129/comment/1598084402206#comments)
+
+  > 麻烦帖报错日志。
 * 💬 [Docker 4.1 升级 4.3 访问 500 （mysql）](https://hacpai.com/article/1598081609559/comment/1598082872801#comments)
 
   > 看下日志。
@@ -39,15 +48,6 @@
 * 💗💬 [Vditor 如何离线使用？](https://hacpai.com/article/1597801019644/comment/1597826133855#comments)
 
   > 我用的就是本地的，完全可以用，具体是这个样子的： 首先下载源码，git clone https://github.com/Vanessa219/vditor.git 然后进入目录，执行：npm install 然后执行：npm run build 在外面新建个文件夹，将 dist 文件夹整个拷贝出来。比如我新建目录 v ..
-* 💗💬 [社区功能反馈](https://hacpai.com/article/1429242951021/comment/1597806896030#comments)
-
-  > 响应式布局错乱，宽度 860 的时候大部分界面好像都不兼容了， 通过滚动横向滚动条都看不到发布按钮 [图片] [图片]
-* 💬 [社区功能反馈](https://hacpai.com/article/1429242951021/comment/1597840370514#comments)
-
-  > 感谢反馈，后续优化。
-* 💬 [Docker 升级 4.3 访问 500](https://hacpai.com/article/1597325676129/comment/1597826746184#comments)
-
-  > 应该是用的 H2Database 吧，这个 bug 昨晚修复了，请重新拉取镜像部署。
 
 
 <!--events end -->
