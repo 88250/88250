@@ -20,10 +20,16 @@
 
 ### 我在黑客派的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-08-23 16:13:05`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-08-24 16:13:36`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [互联网的帝国主义——互联网的内容产出为何在萎缩？](https://hacpai.com/article/1597632238823/comment/1598252901734#comments)
+
+  > 以后的事情谁能保证，只能尽力向我们都希望的方向发展。
+* 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1598198027850)
+
+  > 对于大众用户来说，没人在乎你开不开源，因为他们理解的开源就是免费，免费就是开源。
 * 💗💬 [20200821 TGIF](https://hacpai.com/article/1597972605846/comment/1598104002626#comments)
 
   > 我试过 16/8 轻断食，当时是为了把最后一点小肚子给减掉，确实有效。 但是，最好早餐不要省，还是要吃三餐，8 点吃早餐，下午 4 点前吃完晚餐就行了。 把三餐变两餐容易把自己变成易胖体质，除非能一辈子坚持，否则改变后容易反弹。 然后再稍微做点运动，效果很好，也没有什么不适（一个月）。
@@ -42,12 +48,6 @@
 * 💬 [Solo 页面表格没有渲染](https://hacpai.com/article/1597995919294/comment/1597997672467#comments)
 
   > 编辑器我们一直在更新，如果有问题欢迎到 Vditor 项目 issues 上反馈。
-* 💬 [Solo 页面表格没有渲染](https://hacpai.com/article/1597995919294/comment/1597996147756#comments)
-
-  > 请参考 Solo 用户指南 FAQ 部分。
-* 💗💬 [Vditor 如何离线使用？](https://hacpai.com/article/1597801019644/comment/1597826133855#comments)
-
-  > 我用的就是本地的，完全可以用，具体是这个样子的： 首先下载源码，git clone https://github.com/Vanessa219/vditor.git 然后进入目录，执行：npm install 然后执行：npm run build 在外面新建个文件夹，将 dist 文件夹整个拷贝出来。比如我新建目录 v ..
 
 
 <!--events end -->
