@@ -20,10 +20,25 @@
 
 ### 我在黑客派的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-08-25 16:58:37`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-08-26 16:13:25`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [重启后报错：Please upgrade to v3.0.0 first](https://hacpai.com/article/1598349714063/comment/1598408947080#comments)
+
+  > 老铁，你自己找下吧，看下升级这部分的代码了解详情。
+* 💬 [重启后报错：Please upgrade to v3.0.0 first](https://hacpai.com/article/1598349714063/comment/1598408135383#comments)
+
+  > 你以前安过旧版的，但是又找不到库在哪 [图片]
+* 💬 [重启后报错：Please upgrade to v3.0.0 first](https://hacpai.com/article/1598349714063/comment/1598405476333#comments)
+
+  > 有可能吧
+* 💬 [重启后报错：Please upgrade to v3.0.0 first](https://hacpai.com/article/1598349714063/comment/1598404731275#comments)
+
+  > 是不是配置连错库了？
+* 💬 [重启后报错：Please upgrade to v3.0.0 first](https://hacpai.com/article/1598349714063/comment/1598400018437#comments)
+
+  > 看下 option 表的 version
 * 💬 [互联网的帝国主义——互联网的内容产出为何在萎缩？](https://hacpai.com/article/1597632238823/comment/1598252901734#comments)
 
   > 以后的事情谁能保证，只能尽力向我们都希望的方向发展。
@@ -33,21 +48,6 @@
 * 💗💬 [20200821 TGIF](https://hacpai.com/article/1597972605846/comment/1598104002626#comments)
 
   > 我试过 16/8 轻断食，当时是为了把最后一点小肚子给减掉，确实有效。 但是，最好早餐不要省，还是要吃三餐，8 点吃早餐，下午 4 点前吃完晚餐就行了。 把三餐变两餐容易把自己变成易胖体质，除非能一辈子坚持，否则改变后容易反弹。 然后再稍微做点运动，效果很好，也没有什么不适（一个月）。
-* 💬 [Docker 4.1 升级 4.3 访问 500 （mysql）](https://hacpai.com/article/1598081609559/comment/1598098369155#comments)
-
-  > 看 Solo 的服务端日志。
-* 💬 [Docker 升级 4.3 访问 500](https://hacpai.com/article/1597325676129/comment/1598084402206#comments)
-
-  > 麻烦帖报错日志。
-* 💬 [Docker 4.1 升级 4.3 访问 500 （mysql）](https://hacpai.com/article/1598081609559/comment/1598082872801#comments)
-
-  > 看下日志。
-* 💬 [社区功能反馈](https://hacpai.com/article/1429242951021/comment/1598061506063#comments)
-
-  > 试试看，有可能不行。
-* 💬 [Solo 页面表格没有渲染](https://hacpai.com/article/1597995919294/comment/1597997672467#comments)
-
-  > 编辑器我们一直在更新，如果有问题欢迎到 Vditor 项目 issues 上反馈。
 
 
 <!--events end -->
