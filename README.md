@@ -20,10 +20,19 @@
 
 ### 我在黑客派的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-08-26 16:13:25`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-08-27 16:13:34`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [重启后报错：Please upgrade to v3.0.0 first](https://hacpai.com/article/1598349714063/comment/1598492320922#comments)
+
+  > 之前说过了嘛，和你连接的库有关系，如果是 Docker 部署的，那就看下 docker 的配置，特别是网络模式这块。
+* 💬 [社区彻底转变为生活区，来个起名帖](https://hacpai.com/article/1598431012111/comment/1598435312312#comments)
+
+  > 要是可能，带上生僻字（但是不能太生僻），这样能给别人留下印象。
+* 💬 [重启后报错：Please upgrade to v3.0.0 first](https://hacpai.com/article/1598349714063/comment/1598435171581#comments)
+
+  > 镜像是最新的，但是数据库不一定是。
 * 💬 [重启后报错：Please upgrade to v3.0.0 first](https://hacpai.com/article/1598349714063/comment/1598408947080#comments)
 
   > 老铁，你自己找下吧，看下升级这部分的代码了解详情。
@@ -39,15 +48,6 @@
 * 💬 [重启后报错：Please upgrade to v3.0.0 first](https://hacpai.com/article/1598349714063/comment/1598400018437#comments)
 
   > 看下 option 表的 version
-* 💬 [互联网的帝国主义——互联网的内容产出为何在萎缩？](https://hacpai.com/article/1597632238823/comment/1598252901734#comments)
-
-  > 以后的事情谁能保证，只能尽力向我们都希望的方向发展。
-* 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1598198027850)
-
-  > 对于大众用户来说，没人在乎你开不开源，因为他们理解的开源就是免费，免费就是开源。
-* 💗💬 [20200821 TGIF](https://hacpai.com/article/1597972605846/comment/1598104002626#comments)
-
-  > 我试过 16/8 轻断食，当时是为了把最后一点小肚子给减掉，确实有效。 但是，最好早餐不要省，还是要吃三餐，8 点吃早餐，下午 4 点前吃完晚餐就行了。 把三餐变两餐容易把自己变成易胖体质，除非能一辈子坚持，否则改变后容易反弹。 然后再稍微做点运动，效果很好，也没有什么不适（一个月）。
 
 
 <!--events end -->
