@@ -20,10 +20,16 @@
 
 ### 我在黑客派的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-08-29 16:06:56`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-08-30 16:11:14`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗📝 [Solo 搭建个人博客心得（最简版）](https://hacpai.com/article/1598764139243)
+
+  > Preface 好容易熬过了域名 ICP 备案，可以正式开始搭建博客了…… 虽然在社区已经有了很多类似的，使用 Solo 搭建博客的心得，但是我可以说，我这篇心得应该是最清晰明了适合运维小白的，而且也适于运营维护。为什么呢？因为我也是运维小白，很多时候可以理解看到大神们的术语时的痛苦…… 0. 前期准备 在正式搭建之前 ..
+* 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1598718774766)
+
+  > 社区定位即将发生一些变化。
 * 💗🌙 [感谢了清风明月](https://hacpai.com/member/Vanessa/breezemoons/1598370562888)
 
   > 这么晚了还在专心的打码，我都不好意思开蛋糕了 🎂 [图片]
@@ -42,12 +48,6 @@
 * 💬 [重启后报错：Please upgrade to v3.0.0 first](https://hacpai.com/article/1598349714063/comment/1598492320922#comments)
 
   > 之前说过了嘛，和你连接的库有关系，如果是 Docker 部署的，那就看下 docker 的配置，特别是网络模式这块。
-* 💬 [社区彻底转变为生活区，来个起名帖](https://hacpai.com/article/1598431012111/comment/1598435312312#comments)
-
-  > 要是可能，带上生僻字（但是不能太生僻），这样能给别人留下印象。
-* 💬 [重启后报错：Please upgrade to v3.0.0 first](https://hacpai.com/article/1598349714063/comment/1598435171581#comments)
-
-  > 镜像是最新的，但是数据库不一定是。
 
 
 <!--events end -->
