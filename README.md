@@ -20,34 +20,34 @@
 
 ### 我在黑客派的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-09-01 16:15:10`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-09-02 16:15:13`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 👍🌙 [赞同了清风明月](https://hacpai.com/member/fe/breezemoons/1598930682564)
+* 💬 [Solo 升级后 500](https://hacpai.com/article/1599020698983/comment/1599025398512#comments)
 
-  > 我不断的提示自己，学一点，就算一点点也比不学强
-* 💬 [有推荐的在家办公的工作或某种职业吗？](https://hacpai.com/article/1598925513927/comment/1598931953417#comments)
+  > 抱歉，没有回退功能，你仔细检查下启动命令，其他用户升级都没有这些问题的。
+* 💬 [思源笔记 - 支持 Markdown 块级引用和双向链接的网状笔记应用](https://hacpai.com/article/1598872180233/comment/1599023907917#comments)
 
-  > 写程序 写作文 画画 作曲
-* ⭐️👨‍💻 [233333](https://hacpai.com/member/233333)
+  > 暂时就这样吧，以后可能会自己伺服分发。
+* 💬 [Solo 升级后 500](https://hacpai.com/article/1599020698983/comment/1599023732866#comments)
 
-  > 
-* 💬 [列表编辑建议](https://hacpai.com/article/1598878477055/comment/1598878738879#comments)
+  > 确定没有挂载外置皮肤么？
+* 💬 [Solo 升级后 500](https://hacpai.com/article/1599020698983/comment/1599020873422#comments)
 
-  > @Vanessa
-* ⭐️🏷️ [思源笔记](https://hacpai.com/tag/siyuan)
+  > 请使用内置的皮肤。
+* 🗣 [创业的第三个夏天](https://hacpai.com/article/1596793688068/comment/1599016363303#comments)
 
-  > 
-* 📝 [思源笔记 - 支持 Markdown 块级引用和双向链接的网状笔记应用](https://hacpai.com/article/1598872180233)
+  > 我似乎看到你已经回帖了……
+* 💬 [链滴是个什么样的社区](https://hacpai.com/article/1440573175609/comment/1599016867641#comments)
 
-  > 源于思考，饮水思源 [链接]的前身是链滴笔记。经过这段时间链滴笔记的开源孵化，我们决定以闭源商业化的形式继续推进，所以重新立项，这就是思源笔记的来由。 思源笔记第一个版本（v0.1.0）已经发布，修复了链滴笔记最后一个版本（v1.1.8）的一些问题，以后我们的主要开发精力将放在思源笔记上，链滴笔记就此告一段落。链滴笔记 ..
-* ⭐️👨‍💻 [fe](https://hacpai.com/member/fe)
+  > 等域名更换后会进行说明的。
+* 💬 [创业的第三个夏天](https://hacpai.com/article/1596793688068/comment/1599016199819#comments)
 
-  > 
-* 💬 [solo 博客改成英文出现问题](https://hacpai.com/article/1598788476702/comment/1598795115162#comments)
+  > 将在今年秋天的小结中说明，感谢关注。
+* 💗💬 [为什么鬼不会攻击藏在被窝里的人？](https://hacpai.com/article/1598942413411/comment/1599012170353#comments)
 
-  > 停服以后改 option 表 localeString 的值为 zh_CN
+  > 泻药，人在美国，刚下飞船，说什么岁月静好，只是有人为你负重前行。是时候让你们知道了，我是 scp 基金会中国区 D 级人员 人类不能再生活在恐惧中。没有东西能保护人类，我们必须保护自己。 首先鬼是事实存在的，它们由恶念组成，没有质量却能影响现实世界，对人有极大恶意，且无法被收容。我们且称它为 scp-10991（绝密， ..
 
 
 <!--events end -->
