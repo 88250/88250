@@ -20,10 +20,19 @@
 
 ### 我在黑客派的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-09-02 21:20:02`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-09-03 16:14:57`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* ⭐️🏷️ [链滴](https://hacpai.com/tag/liandi)
+
+  > 
+* 💬 [社区缺陷报告与功能建议](https://hacpai.com/article/1438049659432/comment/1599054147603#comments)
+
+  > 收到，稍后修复。
+* 💬 [社区缺陷报告与功能建议](https://hacpai.com/article/1438049659432/comment/1599053044776#comments)
+
+  > 麻烦给我个示例链接，用 ` 包裹，谢谢。
 * 💬 [新型传销来 Github 了？](https://hacpai.com/article/1599045680047/comment/1599049590538#comments)
 
   > 已经接受 [链接] 邀请，暗中观察 [图片] [图片]
@@ -39,15 +48,6 @@
 * 💬 [思源笔记 - 支持 Markdown 块级引用和双向链接的网状笔记应用](https://hacpai.com/article/1598872180233/comment/1599023907917#comments)
 
   > 暂时就这样吧，以后可能会自己伺服分发。
-* 💬 [Solo 升级后 500](https://hacpai.com/article/1599020698983/comment/1599023732866#comments)
-
-  > 确定没有挂载外置皮肤么？
-* 💬 [Solo 升级后 500](https://hacpai.com/article/1599020698983/comment/1599020873422#comments)
-
-  > 请使用内置的皮肤。
-* 🗣 [创业的第三个夏天](https://hacpai.com/article/1596793688068/comment/1599016363303#comments)
-
-  > 我似乎看到你已经回帖了……
 
 
 <!--events end -->
