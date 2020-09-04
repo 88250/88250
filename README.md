@@ -20,34 +20,34 @@
 
 ### 我在黑客派的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-09-03 16:14:57`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-09-04 16:15:11`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* ⭐️🏷️ [链滴](https://hacpai.com/tag/liandi)
+* 💬 [给图片加上超链接切换编辑模式就容易出现图片无法显示的问题](https://hacpai.com/article/1599204352919/comment/1599206077371#comments)
 
-  > 
-* 💬 [社区缺陷报告与功能建议](https://hacpai.com/article/1438049659432/comment/1599054147603#comments)
+  > 思源笔记能够切换编辑模式是个 bug，目前仅支持即时渲染块模式。
+* 💬 [【BBC】Wonders of Life 生命奇迹 全 5 集 （高清下载 76.0 GB）](https://hacpai.com/article/1476204032504/comment/1599189700723#comments)
 
-  > 收到，稍后修复。
-* 💬 [社区缺陷报告与功能建议](https://hacpai.com/article/1438049659432/comment/1599053044776#comments)
+  > [链接]
+* 💗📝 [思源这个名字可以!](https://hacpai.com/article/1599182236763)
 
-  > 麻烦给我个示例链接，用 ` 包裹，谢谢。
-* 💬 [新型传销来 Github 了？](https://hacpai.com/article/1599045680047/comment/1599049590538#comments)
+  > 我的名字就是 某思源.......
+* 💬 [思源笔记 - 支持 Markdown 块级引用和双向链接的网状笔记应用](https://hacpai.com/article/1598872180233/comment/1599150343862#comments)
 
-  > 已经接受 [链接] 邀请，暗中观察 [图片] [图片]
-* 💬 [思源笔记 - 支持 Markdown 块级引用和双向链接的网状笔记应用](https://hacpai.com/article/1598872180233/comment/1599047994252#comments)
+  > [图片] 思源笔记/siyuan 📕 思源笔记是一款桌面端的 Markdown 块级引用和双向链接笔记应用，支持 Windows、Mac 和 Linux。SiYuan is a desktop Markdown Block-Reference and Bidirectional-Link note-taking ap ..
+* 💬 [社区缺陷报告与功能建议](https://hacpai.com/article/1438049659432/comment/1599143997575#comments)
 
-  > 拥抱变化，follow your heart 缘分如果尽了，不必强求 🙏
-* 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1599043039611)
+  > 老铁，我检查了下，URL 的 # 后面在解析时会被作为锚点（anchor ref），所以 UTM 参数加在目前这个位置应该没毛病。
+* 💬 [思源笔记 - 支持 Markdown 块级引用和双向链接的网状笔记应用](https://hacpai.com/article/1598872180233/comment/1599141176376#comments)
 
-  > 没有绝对的好不好用，看哪个软件最契合自己的需求，您说呢 by @paprika17 如果没有软件契合您的需求，请自学编程自己写软件，这样就可以 100% 完美使用啦~
-* 💬 [Solo 升级后 500](https://hacpai.com/article/1599020698983/comment/1599025398512#comments)
+  > 目前对代码块的支持主要是从 IDE 中复制过来，不建议直接在编辑器中写代码……
+* 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1599139749518)
 
-  > 抱歉，没有回退功能，你仔细检查下启动命令，其他用户升级都没有这些问题的。
-* 💬 [思源笔记 - 支持 Markdown 块级引用和双向链接的网状笔记应用](https://hacpai.com/article/1598872180233/comment/1599023907917#comments)
+  > 思源笔记 v0.1.1 已发布。
+* 💬 [GitHub 榜单](https://hacpai.com/article/1535191016145/comment/1599136418407#comments)
 
-  > 暂时就这样吧，以后可能会自己伺服分发。
+  > 不支持组织仓库。
 
 
 <!--events end -->
