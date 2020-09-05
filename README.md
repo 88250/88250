@@ -20,10 +20,16 @@
 
 ### 我在黑客派的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-09-04 16:15:11`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-09-05 16:26:21`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [Solo 用户指南](https://hacpai.com/article/1492881378588/comment/1599227621880#comments)
+
+  > 是的，新域名稍后就会上线。
+* 💬 [给图片加上超链接切换编辑模式就容易出现图片无法显示的问题](https://hacpai.com/article/1599204352919/comment/1599207562034#comments)
+
+  > 以后可能会支持其他编辑模式，现阶段没有时间开发哦……
 * 💬 [给图片加上超链接切换编辑模式就容易出现图片无法显示的问题](https://hacpai.com/article/1599204352919/comment/1599206077371#comments)
 
   > 思源笔记能够切换编辑模式是个 bug，目前仅支持即时渲染块模式。
@@ -42,12 +48,6 @@
 * 💬 [思源笔记 - 支持 Markdown 块级引用和双向链接的网状笔记应用](https://hacpai.com/article/1598872180233/comment/1599141176376#comments)
 
   > 目前对代码块的支持主要是从 IDE 中复制过来，不建议直接在编辑器中写代码……
-* 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1599139749518)
-
-  > 思源笔记 v0.1.1 已发布。
-* 💬 [GitHub 榜单](https://hacpai.com/article/1535191016145/comment/1599136418407#comments)
-
-  > 不支持组织仓库。
 
 
 <!--events end -->
