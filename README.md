@@ -20,10 +20,19 @@
 
 ### 我在黑客派的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-09-05 16:26:21`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-09-06 16:14:04`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [我当爸爸了](https://hacpai.com/article/1599343015386/comment/1599352485118#comments)
+
+  > 恭喜恭喜
+* 💗💬 [solo 支持导入博客园的博客么？](https://hacpai.com/article/1599226277618/comment/1599226522849#comments)
+
+  > [链接]
+* 💬 [Solo 用户指南](https://hacpai.com/article/1492881378588/comment/1599309890251#comments)
+
+  > 文档先行。
 * 💬 [Solo 用户指南](https://hacpai.com/article/1492881378588/comment/1599227621880#comments)
 
   > 是的，新域名稍后就会上线。
@@ -39,15 +48,6 @@
 * 💗📝 [思源这个名字可以!](https://hacpai.com/article/1599182236763)
 
   > 我的名字就是 某思源.......
-* 💬 [思源笔记 - 支持 Markdown 块级引用和双向链接的网状笔记应用](https://hacpai.com/article/1598872180233/comment/1599150343862#comments)
-
-  > [图片] 思源笔记/siyuan 📕 思源笔记是一款桌面端的 Markdown 块级引用和双向链接笔记应用，支持 Windows、Mac 和 Linux。SiYuan is a desktop Markdown Block-Reference and Bidirectional-Link note-taking ap ..
-* 💬 [社区缺陷报告与功能建议](https://hacpai.com/article/1438049659432/comment/1599143997575#comments)
-
-  > 老铁，我检查了下，URL 的 # 后面在解析时会被作为锚点（anchor ref），所以 UTM 参数加在目前这个位置应该没毛病。
-* 💬 [思源笔记 - 支持 Markdown 块级引用和双向链接的网状笔记应用](https://hacpai.com/article/1598872180233/comment/1599141176376#comments)
-
-  > 目前对代码块的支持主要是从 IDE 中复制过来，不建议直接在编辑器中写代码……
 
 
 <!--events end -->
