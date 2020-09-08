@@ -20,10 +20,16 @@
 
 ### 我在黑客派的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-09-07 16:15:11`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-09-08 16:15:29`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [20200904 TGIF](https://hacpai.com/article/1599186435978/comment/1599547592447#comments)
+
+  > 目前主要是按热度，后面再看看如何改进。
+* 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1599493000739)
+
+  > 思源笔记今日二更…… v0.1.4 和 v0.1.5
 * 💬 [我当爸爸了](https://hacpai.com/article/1599343015386/comment/1599352485118#comments)
 
   > 恭喜恭喜
@@ -42,12 +48,6 @@
 * 💬 [给图片加上超链接切换编辑模式就容易出现图片无法显示的问题](https://hacpai.com/article/1599204352919/comment/1599206077371#comments)
 
   > 思源笔记能够切换编辑模式是个 bug，目前仅支持即时渲染块模式。
-* 💬 [【BBC】Wonders of Life 生命奇迹 全 5 集 （高清下载 76.0 GB）](https://hacpai.com/article/1476204032504/comment/1599189700723#comments)
-
-  > [链接]
-* 💗📝 [思源这个名字可以!](https://hacpai.com/article/1599182236763)
-
-  > 我的名字就是 某思源.......
 
 
 <!--events end -->
