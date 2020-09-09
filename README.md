@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-09-08 16:15:29`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-09-09 16:15:06`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 🗣 [20200904 TGIF](https://hacpai.com/article/1599186435978/comment/1599547592447#comments)
+* 💬 [solo4.1 发布博客报错，应该是表情](https://ld246.com/article/1599635791021/comment/1599638463390#comments)
+
+  > Fork 代码自己维护……
+* 💬 [solo4.1 发布博客报错，应该是表情](https://ld246.com/article/1599635791021/comment/1599636200719#comments)
+
+  > 请更新镜像。
+* 💬 [再见黑客派 你好链滴](https://ld246.com/article/1599632036563/comment/1599633346680#comments)
+
+  > 黑客派依然在 [链接]
+* 💗📝 [Anki 教程](https://ld246.com/article/1598454949646)
+
+  > 前言 网上缺少足够优秀的、广泛传播的中文教程所带来的 Anki 学习阻力，也是一种保护。真正追求学习的优秀人才 ，不会因为教程原文是英文而放弃阅读。 写这篇教程时，Anki 的 Windows 电脑端版本是 2.1。 在接下来介绍这个软件的时候 ，里面的许多概念 我会使用英文原文，因为这些单词虽然简单，但翻译过来的中文 ..
+* 💗💬 [创业的第三个夏天](https://ld246.com/article/1596793688068/comment/1599572313068#comments)
+
+  > 加油，今天遇到一些事情，深感维护社区不容易。尤其是在做一些决定时。但是如果判断下来，是对的，就应该坚持，不需要太多顾虑。
+* 🗣 [20200904 TGIF](https://ld246.com/article/1599186435978/comment/1599547592447#comments)
 
   > 目前主要是按热度，后面再看看如何改进。
-* 🌙 [发布了清风明月](https://hacpai.com/member/88250/breezemoons/1599493000739)
+* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1599493000739)
 
   > 思源笔记今日二更…… v0.1.4 和 v0.1.5
-* 💬 [我当爸爸了](https://hacpai.com/article/1599343015386/comment/1599352485118#comments)
+* 💬 [我当爸爸了](https://ld246.com/article/1599343015386/comment/1599352485118#comments)
 
   > 恭喜恭喜
-* 💗💬 [solo 支持导入博客园的博客么？](https://hacpai.com/article/1599226277618/comment/1599226522849#comments)
-
-  > [链接]
-* 💬 [Solo 用户指南](https://hacpai.com/article/1492881378588/comment/1599309890251#comments)
-
-  > 文档先行。
-* 💬 [Solo 用户指南](https://hacpai.com/article/1492881378588/comment/1599227621880#comments)
-
-  > 是的，新域名稍后就会上线。
-* 💬 [给图片加上超链接切换编辑模式就容易出现图片无法显示的问题](https://hacpai.com/article/1599204352919/comment/1599207562034#comments)
-
-  > 以后可能会支持其他编辑模式，现阶段没有时间开发哦……
-* 💬 [给图片加上超链接切换编辑模式就容易出现图片无法显示的问题](https://hacpai.com/article/1599204352919/comment/1599206077371#comments)
-
-  > 思源笔记能够切换编辑模式是个 bug，目前仅支持即时渲染块模式。
 
 
 <!--events end -->
