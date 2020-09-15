@@ -20,10 +20,13 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-09-14 16:14:59`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-09-15 16:15:35`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [社区更换域名和定位](https://ld246.com/article/1599662780208/comment/1600138913586#comments)
+
+  > 从第一印象来说，ld246 应该比 HacPai 好很多……
 * 💬 [社区更换域名和定位](https://ld246.com/article/1599662780208/comment/1600069723181#comments)
 
   > 我也想，可是现实不允许 😂
@@ -45,9 +48,6 @@
 * 💬 [Solo 401 Unauthorized!](https://ld246.com/article/1599748455062/comment/1599759271930#comments)
 
   > 请拉取最新镜像部署。
-* 💬 [社区更换域名和定位](https://ld246.com/article/1599662780208/comment/1599754425654#comments)
-
-  > 保险起见，接口调用都 follow 重定向吧。
 
 
 <!--events end -->
