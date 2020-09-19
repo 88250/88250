@@ -20,10 +20,22 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-09-18 16:15:42`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-09-19 16:14:29`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [Markdown 实现块级引用双向链接的探索](https://ld246.com/article/1597226949061/comment/1600443373730#comments)
+
+  > 不存在矛盾吧，Markdown 天然具备了块定义，而且是不同种类的块。实现上确实有些难点，但是可以克服。思源笔记已经在这条路上进行探索了，块方面的介绍请看软件自带的用户指南 🙏
+* 👍🌙 [赞同了清风明月](https://ld246.com/member/cloudlang/breezemoons/1600415281517)
+
+  > 勿忘国耻
+* 💬 [20200918 TGIF](https://ld246.com/article/1600395886541/comment/1600441015140#comments)
+
+  > 从“吃酒”这个叫法看应该整的是白的吧 😄 祝早日康复，预祝小宝 Hello World!
+* 💗💬 [社区角色权限列表](https://ld246.com/article/1484629614518/comment/1600436399796#comments)
+
+  > 愿思源做强做大！！
 * 💬 [Leetcode 每日抑题 (685. 冗余连接 II)](https://ld246.com/article/1600324960121/comment/1600326890140#comments)
 
   > 请看 Solo 用户指南 FAQ。
@@ -36,18 +48,6 @@
 * 📝 [思源笔记 v0.1.8 发布，迁移到 .md 格式](https://ld246.com/article/1600215080808)
 
   > 思源笔记 v0.1.8 发布，在该版本中我们已经笔记数据存储格式迁移到了 .md 文本格式，通过 Markdown 扩展语法 [链接] 来标识内容块从而实现 Markdown 块级引用双向链接。 [图片] 下载地址： [链接] [链接]
-* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1600187691233)
-
-  > 思源笔记 v0.1.8 发布，迁移到 .md 格式。 可通过记事本打开读写的格式最让人放心……
-* 🗣 [Vditor 在 NPM 上的下载量已经超过 Editor.md 了](https://ld246.com/article/1587009097498/comment/1600183888735#comments)
-
-  > @Vanessa
-* 💬 [Markdown 实现块级引用双向链接的探索](https://ld246.com/article/1597226949061/comment/1600165088090#comments)
-
-  > 目前已经通过 [链接] 解决了块标识问题，即可以在 .md 文件中标识块 ID 了，转 JSON 的方案已经废弃。
-* 💬 [社区更换域名和定位](https://ld246.com/article/1599662780208/comment/1600138913586#comments)
-
-  > 从第一印象来说，ld246 应该比 HacPai 好很多……
 
 
 <!--events end -->
