@@ -20,10 +20,25 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-09-20 16:14:33`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-09-21 16:15:19`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗📝 [GitHub 从下个月开始用 main 替代 master](https://ld246.com/article/1600653686820)
+
+  > GitHub 宣布从下个月开始，用户创建的新代码库将用 main 替代 master 作为默认的分支。 现有的库将保持不变，默认分支继续使用 master。GitHub 此举旨在清除对奴隶制的不必要引用，改用更具有包容性的术语。 GitHub 表示，新的中性术语将从 2020 年 10 月 1 日启用。它表示，重命名现 ..
+* 💬 [solo 国际化 / 英文界面怎么配置？](https://ld246.com/article/1600610529172/comment/1600655175819#comments)
+
+  > 都支持了
+* 💗📝 [怎么骗你的测试女朋友用 java 写测试用例](https://ld246.com/article/1600503758989)
+
+  > 首先你要有个女朋友 其次要回答 3 个灵魂拷问 使用成本 能节省什么 能带来什么 最好是感知不到是在写代码。 实操 上篇《距离全栈 你只差一个 kotlinx》聊到了 Kotlin 借助 Lambda + Extensions扩展 来实现内部 DSL，这次展开聊聊 扩展 和 操作符重载 是如何让你的代码不像代码的。 扩 ..
+* 💗📝 [距离全栈 你只差一个 kotlinx](https://ld246.com/article/1600502495289)
+
+  > 示例项目地址： https://github.com/wangyuheng/kotlin-dsl-html 全栈不能保证一定能够解决复杂的问题， 但却能帮你打开解决复杂问题的大门。 [图片] 近些年，前端技术变得愈发复杂。这一趋势除了导致全球变暖，也让全栈开发的难度越来越大。 但是，阻碍一个后端开发去写页面的根本原因到 ..
+* 💬 [solo 国际化 / 英文界面怎么配置？](https://ld246.com/article/1600610529172/comment/1600618863089#comments)
+
+  > 并不支持....
 * 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1600524659151)
 
   > 别用结巴分词的 Go 版做桌面程序，C++ 运行库有版本问题…… 建议用这个 [链接]
@@ -33,21 +48,6 @@
 * 👍🌙 [赞同了清风明月](https://ld246.com/member/cloudlang/breezemoons/1600415281517)
 
   > 勿忘国耻
-* 💬 [20200918 TGIF](https://ld246.com/article/1600395886541/comment/1600441015140#comments)
-
-  > 从“吃酒”这个叫法看应该整的是白的吧 😄 祝早日康复，预祝小宝 Hello World!
-* 💗💬 [社区角色权限列表](https://ld246.com/article/1484629614518/comment/1600436399796#comments)
-
-  > 愿思源做强做大！！
-* 💬 [Leetcode 每日抑题 (685. 冗余连接 II)](https://ld246.com/article/1600324960121/comment/1600326890140#comments)
-
-  > 请看 Solo 用户指南 FAQ。
-* 💬 [Markdown 实现块级引用双向链接的探索](https://ld246.com/article/1597226949061/comment/1600320154056#comments)
-
-  > 请下载思源笔记打开用户指南看下，整个指南都是用双链的思路编写。
-* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1600250812835)
-
-  > 永远不要试图去讨好用户，那样是开发不出好产品的。
 
 
 <!--events end -->
