@@ -23,7 +23,7 @@ const (
 func main() {
 	result := map[string]interface{}{}
 	response, data, errors := gorequest.New().TLSClientConfig(&tls.Config{InsecureSkipVerify: true}).
-		Get("https://hacpai.com/api/v2/user/"+hacpaiUserName+"/events?size=8").Timeout(7*time.Second).
+		Get("https://ld246.com/api/v2/user/"+hacpaiUserName+"/events?size=8").Timeout(7*time.Second).
 		Set("User-Agent", "Profile Bot; +https://github.com/"+githubUserName+"/"+githubUserName).EndStruct(&result)
 	if nil != errors || http.StatusOK != response.StatusCode {
 		logger.Fatalf("fetch events failed: %+v, %s", errors, data)
