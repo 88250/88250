@@ -20,10 +20,16 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-10-07 16:17:15`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-10-08 16:15:01`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 👍🌙 [赞同了清风明月](https://ld246.com/member/martinageradams/breezemoons/1602094281351)
+
+  > 拿了北京一家公司的前端 Offer，在北京租房开始北漂啦。 加油，加油，撸起袖子加油干！
+* 💗📝 [Golang 入门笔记 -06-Map](https://ld246.com/article/1602066740004)
+
+  > [图片] 声明和初始化 Map map 是一种特殊的数据结构，通过键 key 和值 value 来保存数据，可以快速地根据 key 找到其对应的 value，与 python 中的字典和 Java 中的 HashMap 类似。 map 是引用类型，声明方式如下： var variable map[keyType]val ..
 * 💗💬 [回深圳](https://ld246.com/article/1601970391739/comment/1601970547561#comments)
 
   > 在网吧写日记真的觉得尴尬，我佛了
@@ -42,12 +48,6 @@
 * 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1601568220573)
 
   > 今天国庆中秋双节，饭桌上有个亲戚对我说：“听说程序员是吃青春饭的，blabla……”我回他：“努力的程序员 35 普遍都退休了。” 不能给猿们抹黑，加油啊同志们！
-* 💬 [看板娘出现一个大错误](https://ld246.com/article/1601556240789/comment/1601557473586#comments)
-
-  > 感谢反馈，稍后尝试修复....
-* 💗💬 [社区更换域名和定位](https://ld246.com/article/1599662780208/comment/1601300010484#comments)
-
-  > 在倾城所收录的链接以及描述信息，已做修改；[链接]。
 
 
 <!--events end -->
