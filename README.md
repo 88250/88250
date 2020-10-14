@@ -20,10 +20,16 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-10-14 10:02:53`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-10-14 16:18:19`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [年轻 10 岁，现在拿 500w，选哪个？](https://ld246.com/article/1602644302627/comment/1602648358802#comments)
+
+  > 时间是无价的，要是有，远远超过 500。
+* 💬 [20201009 TGIF](https://ld246.com/article/1602205570822/comment/1602644109001#comments)
+
+  > 点更新
 * 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1602634744258)
 
   > Git 服务端文件夹权限控制方案思路： 通过 SSH 环境变量 SSH_ORIGINAL_COMMAND、SSH_USER_AUTH 获取到请求操作仓库的路径和用户标识 根据用户标识查询业务系统获得可操作仓库路径，判断请求的仓库路径是否允许
@@ -42,12 +48,6 @@
 * 👍🌙 [赞同了清风明月](https://ld246.com/member/martinageradams/breezemoons/1602094281351)
 
   > 拿了北京一家公司的前端 Offer，在北京租房开始北漂啦。 加油，加油，撸起袖子加油干！
-* 💗📝 [Golang 入门笔记 -06-Map](https://ld246.com/article/1602066740004)
-
-  > [图片] 声明和初始化 Map map 是一种特殊的数据结构，通过键 key 和值 value 来保存数据，可以快速地根据 key 找到其对应的 value，与 python 中的字典和 Java 中的 HashMap 类似。 map 是引用类型，声明方式如下： var variable map[keyType]val ..
-* 💗💬 [回深圳](https://ld246.com/article/1601970391739/comment/1601970547561#comments)
-
-  > 在网吧写日记真的觉得尴尬，我佛了
 
 
 <!--events end -->
