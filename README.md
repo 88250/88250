@@ -20,10 +20,13 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-10-14 16:18:19`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-10-15 16:18:35`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [Solo 访问 robot.txt 协议](https://ld246.com/article/1602725550750/comment/1602731650764#comments)
+
+  > /robots.txt
 * 💬 [年轻 10 岁，现在拿 500w，选哪个？](https://ld246.com/article/1602644302627/comment/1602648358802#comments)
 
   > 时间是无价的，要是有，远远超过 500。
@@ -45,9 +48,6 @@
 * 🗣 [社区更换域名和定位](https://ld246.com/article/1599662780208/comment/1602468980702#comments)
 
   > 请看前面几楼。
-* 👍🌙 [赞同了清风明月](https://ld246.com/member/martinageradams/breezemoons/1602094281351)
-
-  > 拿了北京一家公司的前端 Offer，在北京租房开始北漂啦。 加油，加油，撸起袖子加油干！
 
 
 <!--events end -->
