@@ -20,10 +20,25 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-10-29 16:20:45`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-10-30 06:24:10`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [社区缺陷报告与功能建议](https://ld246.com/article/1438049659432/comment/1603971893137#comments)
+
+  > @xjtushilei 刚刚调整了一波，大幅减少了社区广告投放，尽量保证未登录用户的体验 🙏
+* 💗🗣 [社区缺陷报告与功能建议](https://ld246.com/article/1438049659432/comment/1603971893137#comments)
+
+  > @88250 自动广告让前几个帖子排版有问题。 “今天也很难过 2020-9-8 ” 这个帖子和下面那个帖子显示有问题。
+* 💬 [Solo 集成 Gitalk 评论系统](https://ld246.com/article/1594988019287/comment/1603973404185#comments)
+
+  > Gitalk 是这样的，但是应该风险不大，请参考它的项目介绍和相关讨论。
+* 🗣 [社区缺陷报告与功能建议](https://ld246.com/article/1438049659432/comment/1603971893137#comments)
+
+  > 启用了 AdSense 的自动广告……
+* 💬 [社区缺陷报告与功能建议](https://ld246.com/article/1438049659432/comment/1603970397039#comments)
+
+  > 请升级到最新版 Solo，然后用社区账号登录，辛苦了。
 * 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1603760273667)
 
   > 先污染，后治理。
@@ -33,21 +48,6 @@
 * 💬 [有个问题，自己复制自己发布的内容，末尾也有来源链接](https://ld246.com/article/1603597646246/comment/1603687011880#comments)
 
   > 设置里可以关闭小尾巴。
-* 💬 [我是不是心理极不健康？](https://ld246.com/article/1603252958994/comment/1603342139152#comments)
-
-  > 快乐工作，认真生活。 可是快乐和工作往往只能二选一。
-* 💬 [主持人系统](https://ld246.com/article/1591172128000/comment/1603331516828#comments)
-
-  > Done
-* 💬 [solo 表格显示 bug](https://ld246.com/article/1603174051480/comment/1603290498498#comments)
-
-  > 没有同步社区的评论通过 GitHub Issues 管理；同步社区的平台由社区管理。
-* 💬 [solo 表格显示 bug](https://ld246.com/article/1603174051480/comment/1603175013071#comments)
-
-  > 开了 lute 吗？
-* 💬 [社区客户端 API 文档](https://ld246.com/article/1488603534762/comment/1603111041003#comments)
-
-  > 那应该是你代码的问题……
 
 
 <!--events end -->
