@@ -20,10 +20,19 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-11-01 16:12:00`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-11-02 16:13:33`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [社区缺陷报告与功能建议](https://ld246.com/article/1438049659432/comment/1604250854257#comments)
+
+  > @ironMan @kuailexs 感谢反馈，稍后排查。
+* 💗💬 [社区缺陷报告与功能建议](https://ld246.com/article/1438049659432/comment/1604246633576#comments)
+
+  > 不知道为什么。我的账号用 GitHub 登报 500
+* 💗💬 [社区缺陷报告与功能建议](https://ld246.com/article/1438049659432/comment/1604243626599#comments)
+
+  > 新建账户，绑定 GitHub 时提示 500 内部错误。何解
 * 👍🌙 [赞同了清风明月](https://ld246.com/member/zzkcode/breezemoons/1604129160145)
 
   > 合抱之木，生于毫末；九层之台，起于累土；千里之行，始于足下。
@@ -39,15 +48,6 @@
 * 💬 [Solo 集成 Gitalk 评论系统](https://ld246.com/article/1594988019287/comment/1603973404185#comments)
 
   > Gitalk 是这样的，但是应该风险不大，请参考它的项目介绍和相关讨论。
-* 🗣 [社区缺陷报告与功能建议](https://ld246.com/article/1438049659432/comment/1603971893137#comments)
-
-  > 启用了 AdSense 的自动广告……
-* 💬 [社区缺陷报告与功能建议](https://ld246.com/article/1438049659432/comment/1603970397039#comments)
-
-  > 请升级到最新版 Solo，然后用社区账号登录，辛苦了。
-* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1603760273667)
-
-  > 先污染，后治理。
 
 
 <!--events end -->
