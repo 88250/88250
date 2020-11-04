@@ -20,10 +20,19 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-11-03 16:13:41`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-11-04 16:13:59`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗🌙 [感谢了清风明月](https://ld246.com/member/Vanessa/breezemoons/1604383764950)
+
+  > 昨天把双十一的东西买齐了，再也不用去纠结喂猫喂狗的潜规则了。
+* 💬 [主持人系统](https://ld246.com/article/1591172128000/comment/1604453215743#comments)
+
+  > Done，请完善标签资料和介绍，谢谢。
+* 💬 [搭建 Solo 开发环境](https://ld246.com/article/1537694179006/comment/1604391858141#comments)
+
+  > 估计得升级到 11
 * 💬 [搭建 Solo 开发环境](https://ld246.com/article/1537694179006/comment/1604391042929#comments)
 
   > 这个应该是 JDK 版本不匹配，你用的 JDK 是哪个版本？
@@ -39,15 +48,6 @@
 * 💗💬 [社区缺陷报告与功能建议](https://ld246.com/article/1438049659432/comment/1604246633576#comments)
 
   > 不知道为什么。我的账号用 GitHub 登报 500
-* 💗💬 [社区缺陷报告与功能建议](https://ld246.com/article/1438049659432/comment/1604243626599#comments)
-
-  > 新建账户，绑定 GitHub 时提示 500 内部错误。何解
-* 👍🌙 [赞同了清风明月](https://ld246.com/member/zzkcode/breezemoons/1604129160145)
-
-  > 合抱之木，生于毫末；九层之台，起于累土；千里之行，始于足下。
-* 💬 [社区缺陷报告与功能建议](https://ld246.com/article/1438049659432/comment/1604050544191#comments)
-
-  > 发封邮件给我们 [链接] 我邮件里回你重置后的密码。
 
 
 <!--events end -->
