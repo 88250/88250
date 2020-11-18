@@ -20,10 +20,13 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-11-18 16:14:47`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-11-18 19:23:06`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [野生链滴微信小程序已经开源](https://ld246.com/article/1605677870423/comment/1605698272014#comments)
+
+  > 明年估计会上线 API Token。
 * 💗📝 [野生链滴微信小程序已经开源](https://ld246.com/article/1605677870423)
 
   > 链滴微信小程序 [图片] [图片] goldhan/ld 链滴，黑客派，小程序. Contribute to goldhan/ld development by creating an account on GitHub. GitHub - github.com gitee 同步：https://gitee.com/g ..
@@ -45,9 +48,6 @@
 * 💬 [使用 lute 渲染 markdown 支持渲染 LaTex 公式吗？](https://ld246.com/article/1605490500340/comment/1605491757451#comments)
 
   > Lute 会解析数学公式块，最终需要前端使用 MathJax 或者 KaTex 进行渲染。如果用 Vditor 的话，已经带了预览方法了，可以看下[链接]。
-* 💗📝 [Vditor 的离线使用（集成原生 JS 小案例，给迷茫的新手朋友们，我看官方文档也迷茫了好久）](https://ld246.com/article/1605404889889)
-
-  > Vditor 的离线使用 Vditor 是个很好的开源编辑器。但其实写这个的目的还是因为官方文档太晦涩难懂了，原生 HTML 的调用测试没有很好的例子，对于新手不怎么友好，我研究了一整天，才勉强搞出来。特此记录，供后人学习和快速使用。 在线测试 开启了 Gitee 的 Pages 服务，你也可以在线测试使用哦。 地址： ..
 
 
 <!--events end -->
