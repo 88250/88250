@@ -20,16 +20,22 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-11-18 19:23:06`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-11-19 16:14:15`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [代码即时渲染能不能就在编辑框渲染，不要额外在下方渲染](https://ld246.com/article/1604549315471/comment/1605756017111#comments)
+
+  > 现在还没有，因为还有很多任务需要完成，待 v1.0.0 发布以后尽量优化，谢谢。
+* 💬 [请问 Sym 这个开源协议怎么理解？](https://ld246.com/article/1605688884355/comment/1605718821953#comments)
+
+  > 公司使用算商用的，谢谢。
 * 💬 [野生链滴微信小程序已经开源](https://ld246.com/article/1605677870423/comment/1605698272014#comments)
 
   > 明年估计会上线 API Token。
 * 💗📝 [野生链滴微信小程序已经开源](https://ld246.com/article/1605677870423)
 
-  > 链滴微信小程序 [图片] [图片] goldhan/ld 链滴，黑客派，小程序. Contribute to goldhan/ld development by creating an account on GitHub. GitHub - github.com gitee 同步：https://gitee.com/g ..
+  > 链滴微信小程序 [图片] [图片] Programming-With-Love/ld 链滴，黑客派，小程序. Contribute to Programming-With-Love/ld development by creating an account on GitHub. GitHub - github.com  ..
 * 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1605633554661)
 
   > 基于 Electron 做产品不是长久之计……
@@ -42,12 +48,6 @@
 * 💗💬 [创业的第三个秋天](https://ld246.com/article/1605011228596/comment/1605598657383#comments)
 
   > 我是一名 HR，热爱技术，默默关注 D 哥一段时间了，希望 D 哥工作顺利，D 哥 D 嫂家庭幸福美满！
-* 💗💬 [创业的第三个秋天](https://ld246.com/article/1605011228596/comment/1605576148850#comments)
-
-  > 🎉🎉🎉 赞。
-* 💬 [使用 lute 渲染 markdown 支持渲染 LaTex 公式吗？](https://ld246.com/article/1605490500340/comment/1605491757451#comments)
-
-  > Lute 会解析数学公式块，最终需要前端使用 MathJax 或者 KaTex 进行渲染。如果用 Vditor 的话，已经带了预览方法了，可以看下[链接]。
 
 
 <!--events end -->
