@@ -20,10 +20,19 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-11-22 16:14:19`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-11-23 16:15:24`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗💬 [关于用户活跃度统计](https://ld246.com/article/1458624687933/comment/1606114226264#comments)
+
+  > 希望大家一起努力加油，未来可期
+* 💬 [社区缺陷报告与功能建议](https://ld246.com/article/1438049659432/comment/1606113342450#comments)
+
+  > 收到，请先手动清理一下。 @Vanessa
+* 💬 [关于脑图的改进想法](https://ld246.com/article/1606051210727/comment/1606055506907#comments)
+
+  > 我们计划在文档级关系图上进行支持，请移步 [链接]
 * 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1605958690285)
 
   > 今天去看牙医了，以后好好刷牙……
@@ -39,15 +48,6 @@
 * 💬 [请问 Sym 这个开源协议怎么理解？](https://ld246.com/article/1605688884355/comment/1605718821953#comments)
 
   > 公司使用算商用的，谢谢。
-* 💬 [野生链滴微信小程序已经开源](https://ld246.com/article/1605677870423/comment/1605698272014#comments)
-
-  > 明年估计会上线 API Token。
-* 💗📝 [野生链滴微信小程序已经开源](https://ld246.com/article/1605677870423)
-
-  > 链滴微信小程序 [图片] [图片] Programming-With-Love/ld 链滴，黑客派，小程序. Contribute to Programming-With-Love/ld development by creating an account on GitHub. GitHub - github.com  ..
-* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1605633554661)
-
-  > 基于 Electron 做产品不是长久之计……
 
 
 <!--events end -->
