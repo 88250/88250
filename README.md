@@ -20,10 +20,22 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-12-04 16:21:38`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-12-05 16:17:05`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1607156066487)
+
+  > 你不采纳用户建议，他们就说你一意孤行、高傲自大、闭门造车；你采纳用户建议，他们又说你缺乏主见、刻意迎合、没有灵魂。 姊妹篇
+* 💗💬 [关于之前自动 follow 88250 GitHub 账号的道歉](https://ld246.com/article/1606723827247/comment/1607069141349#comments)
+
+  > [图片]
+* 💬 [solo 如何进行百度站长验证](https://ld246.com/article/1607071258538/comment/1607073469135#comments)
+
+  > 我的意思是 Docker 前置的反代，宿主机上搭建的，或者也是 Docker 跑的 NGINX。
+* 💬 [solo 如何进行百度站长验证](https://ld246.com/article/1607071258538/comment/1607071428142#comments)
+
+  > 用 NGINX 反代简单些，在 NGINX 上配置。
 * 💬 [敢不敢来点真人访问我的博客，全都是 xxx  xxx](https://ld246.com/article/1607069144596/comment/1607069328065#comments)
 
   > 社区有个实时访客统计，bot 居多 [链接]
@@ -36,18 +48,6 @@
 * 💬 [思源笔记会自动在正文数字两侧添加空格吗？](https://ld246.com/article/1606376485542/comment/1607048867074#comments)
 
   > “打开关闭”指的是笔记本还是思源？
-* 💬 [思源笔记会自动在正文数字两侧添加空格吗？](https://ld246.com/article/1606376485542/comment/1607048019228#comments)
-
-  > 收到，稍后我试试看，谢谢。
-* 💬 [20201204 TGIF](https://ld246.com/article/1607044527980/comment/1607047782080#comments)
-
-  > 飞书文档的编辑器挺强的。
-* 💬 [思源笔记会自动在正文数字两侧添加空格吗？](https://ld246.com/article/1606376485542/comment/1607047684077#comments)
-
-  > 搜索不会更新内容的。 [图片]
-* 💬 [思源笔记会自动在正文数字两侧添加空格吗？](https://ld246.com/article/1606376485542/comment/1607047215318#comments)
-
-  > 我这里导入没有问题…… [图片] 我的导入方式是直接将文件夹放到已有笔记本下，然后再启动思源，日志文件里会显示： D 2020/12/04 09:53:04 conf.go:740: imported [15] Markdown files into notebook [http://127.0.0.1:6806/si ..
 
 
 <!--events end -->
