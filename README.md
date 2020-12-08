@@ -20,10 +20,13 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-12-07 16:18:24`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-12-08 16:18:47`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [我想知道思源笔记在数据传输过程中和（云端）存储中是加密的吗？](https://ld246.com/article/1607385964277/comment/1607396533834#comments)
+
+  > 你好，目前笔记内容不支持加密，以后可能会考虑。 [链接]
 * 💬 [solo 4.0 还支持第三方图片存储吗？](https://ld246.com/article/1607303164918/comment/1607305251255#comments)
 
   > 推荐使用 [链接]
@@ -45,9 +48,6 @@
 * 💬 [solo 如何进行百度站长验证](https://ld246.com/article/1607071258538/comment/1607073469135#comments)
 
   > 我的意思是 Docker 前置的反代，宿主机上搭建的，或者也是 Docker 跑的 NGINX。
-* 💬 [solo 如何进行百度站长验证](https://ld246.com/article/1607071258538/comment/1607071428142#comments)
-
-  > 用 NGINX 反代简单些，在 NGINX 上配置。
 
 
 <!--events end -->
