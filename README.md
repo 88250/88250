@@ -20,10 +20,25 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-12-30 16:24:33`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2020-12-31 16:28:10`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [（学生党）思源笔记使用体验与建议](https://ld246.com/article/1609389900156/comment/1609401206311#comments)
+
+  > 感谢建议，公式块和代码块类似，请在外部靠专业工具进行编辑。
+* 💬 [思源笔记 标题前的样式、列表光标跳动 bug](https://ld246.com/article/1609347650865/comment/1609371562207#comments)
+
+  > 第二个可能是主题的问题，请给主题仓库提 issue，谢谢。
+* 💗💬 [链滴 2020 年终征文赠书活动](https://ld246.com/article/1607769429589/comment/1609343897574#comments)
+
+  > 又一年过去了，每年来占个座 新人一个，支持下大佬
+* 💬 [http://pipe.b3log.org ，老大，官网运营版的 pipe 挂了，辛苦修复下啊！](https://ld246.com/article/1609340928605/comment/1609341002741#comments)
+
+  > 感谢反馈，已经恢复。
+* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1609332265590)
+
+  > 我现在看到“勇士”这两个字就感到害怕……
 * 💬 [思源笔记 docker 部署问题](https://ld246.com/article/1609235779041/comment/1609297097056#comments)
 
   > 稍后我们再完善一下文档 🙏
@@ -33,21 +48,6 @@
 * 💬 [思源笔记 docker 部署问题](https://ld246.com/article/1609235779041/comment/1609293703879#comments)
 
   > conf.json 请参考思源自动创建的，其中只用手动修改 box 字段，其他部分要保留一下。 另外，box.url 里面用 127 不要用 0.0
-* 💬 [思源笔记 docker 部署问题](https://ld246.com/article/1609235779041/comment/1609293295043#comments)
-
-  > data 文件夹也有 思源笔记用户指南 文件夹么？或者简单一点先用个 test 作为名字吧。
-* 💬 [思源笔记 docker 部署问题](https://ld246.com/article/1609235779041/comment/1609292826127#comments)
-
-  > 还是要添加 -v，宿主机上已经手工创建好 /siyuan/conf/ 文件夹了么？
-* 💬 [思源笔记 docker 部署问题](https://ld246.com/article/1609235779041/comment/1609288352091#comments)
-
-  > 不带 -v 试试看
-* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1609260558497)
-
-  > 准备参与 OKT 创世发行。
-* 💬 [关于思源文档内信息组织的一点想法](https://ld246.com/article/1609158747760/comment/1609259329412#comments)
-
-  > 后续会提供“专家模式”（源码模式），请关注 [链接]
 
 
 <!--events end -->
