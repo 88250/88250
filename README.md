@@ -20,31 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-01-25 16:48:16`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-01-26 16:22:16`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [某些文件保存不了 (或者提示没保存), 以及已保存的标题块搜不到](https://ld246.com/article/1611536308824/comment/1611540553352#comments)
+* 💬 [某些文件保存不了 (或者提示没保存), 以及已保存的标题块搜不到](https://ld246.com/article/1611536308824/comment/1611648356020#comments)
 
-  > 我们在 v0.6.7 中进行了一些修复，待 v0.6.7 发布以后请帮忙回归测试一下，如果还存在该问题，请继续反馈，谢谢。
-* ⭐️👨‍💻 [dejavudwh](https://ld246.com/member/dejavudwh)
+  > 问题已经定位到，v0.6.8 继续修复，感谢帮助。
+* 💬 [编辑器的代码块功能](https://ld246.com/article/1611641749524/comment/1611647316500#comments)
 
-  > 
-* 💗📝 [[1Bug2features1advice] 和对思源的一个表白](https://ld246.com/article/1611146149173)
+  > 抱歉了，短时间内应该做不到……
+* 💬 [关于 Vditor 自定义渲染的问题](https://ld246.com/article/1611636835657/comment/1611646640138#comments)
 
-  > 一个 Bug 因为这篇文章是昨天写的，但是注册时间不够还不能发。所以这个 Bug 昨天在 GitHub 提了 issue，D 大已经神速解决了。 描述 在表格内容块下对其它内容块多次正向链接，在关系图中只会显示一个节点（并且是所有链接中的一个随机链接） 复现截屏 [图片] [图片] [图片] 环境 两个 new fea ..
-* 💬 [[1Bug2features1advice] 和对思源的一个表白](https://ld246.com/article/1611146149173/comment/1611501506225#comments)
+  > 文本在 LinkText 节点上。
+* 💬 [关于 Vditor 自定义渲染的问题](https://ld246.com/article/1611636835657/comment/1611640281628#comments)
 
-  > 抱歉刚刚才看到，回复晚了。 你提的关系图显示信息自定义建议对思源很有帮助，应该可以优先使用块名和备注，这个会在 v0.7.0 中进行改进。性能方面的问题目前暂时不用太关注，我们会逐步改进的。 另外，也很感谢帮忙考虑推广这件事，但我们在项目一开始就已经决定了：我们不在任何媒体平台上主动进行推广宣传，顶多在 B 站放下入门 ..
-* 💬 [点击文档块引用计数显示引用出处功能不完善](https://ld246.com/article/1611109040882/comment/1611500765513#comments)
+  > 看下 token 字段或者用 tokenstr 函数。
+* 💬 [关于 Vditor 自定义渲染的问题](https://ld246.com/article/1611636835657/comment/1611638953746#comments)
 
-  > 点击引用计数异常问题在 [链接] 中修复。
-* 💬 [思源笔记 V0.6.3 之后版本，复制编辑器内容，粘贴到其他地方时会添加内容块标识](https://ld246.com/article/1611378057638/comment/1611388495649#comments)
+  > 估计得看下 node 的属性，里面应该有子节点属性 first，用 node.first.next 沿着这个树路径看下，找到 LinkDest 节点，这个节点就是 href 了。
+* 💬 [关于 Vditor 自定义渲染的问题](https://ld246.com/article/1611636835657/comment/1611637123695#comments)
 
-  > 你好，复制选项现在分开了，默认是 kramdown（即带块 ID 的）。
-* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1611387976744)
+  > 链接的锚文本和 href 是两个子节点 LinkText 和 LinkDest，请参考[链接]。
+* 💬 [重命名文件有问题](https://ld246.com/article/1611570777143/comment/1611578436877#comments)
 
-  > 试试 CloudFlare。
+  > 感谢反馈，v0.6.8 修复。
+* 💬 [Dock 停靠栏 可以关闭吗](https://ld246.com/article/1611563518749/comment/1611566982337#comments)
+
+  > 你好，上面没有标签的话会自动隐藏的，后面版本会继续改进，v0.6.7 里面只是初步引入，请耐心等待一下，谢谢。
 
 
 <!--events end -->
