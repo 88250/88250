@@ -20,10 +20,25 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-01-27 16:22:51`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-01-28 17:01:53`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [pipe 原生编译安装踩坑求助～](https://ld246.com/article/1611820282757/comment/1611822466799#comments)
+
+  > 建议用 Docker 谢谢。
+* 💬 [主页面两边边距不一样](https://ld246.com/article/1611720125951/comment/1611764115446#comments)
+
+  > 请给主题仓库提 issue 反馈，谢谢。
+* 💬 [我能只使用 latke 的 json-orm 功能吗？](https://ld246.com/article/1611715653398/comment/1611742618730#comments)
+
+  > 建议不要引入。
+* 💬 [主页面两边边距不一样](https://ld246.com/article/1611720125951/comment/1611736205262#comments)
+
+  > 请切换到默认主题并重置外观后再看看。
+* 💬 [点击关闭按钮缩小到托盘中不能使用](https://ld246.com/article/1611719519079/comment/1611736175867#comments)
+
+  > 感谢反馈，后面我们排查一下，估计有点不好找到问题。
 * 💬 [某些文件保存不了 (或者提示没保存), 以及已保存的标题块搜不到](https://ld246.com/article/1611536308824/comment/1611648356020#comments)
 
   > 问题已经定位到，v0.6.8 继续修复，感谢帮助。
@@ -33,21 +48,6 @@
 * 💬 [关于 Vditor 自定义渲染的问题](https://ld246.com/article/1611636835657/comment/1611646640138#comments)
 
   > 文本在 LinkText 节点上。
-* 💬 [关于 Vditor 自定义渲染的问题](https://ld246.com/article/1611636835657/comment/1611640281628#comments)
-
-  > 看下 token 字段或者用 tokenstr 函数。
-* 💬 [关于 Vditor 自定义渲染的问题](https://ld246.com/article/1611636835657/comment/1611638953746#comments)
-
-  > 估计得看下 node 的属性，里面应该有子节点属性 first，用 node.first.next 沿着这个树路径看下，找到 LinkDest 节点，这个节点就是 href 了。
-* 💬 [关于 Vditor 自定义渲染的问题](https://ld246.com/article/1611636835657/comment/1611637123695#comments)
-
-  > 链接的锚文本和 href 是两个子节点 LinkText 和 LinkDest，请参考[链接]。
-* 💬 [重命名文件有问题](https://ld246.com/article/1611570777143/comment/1611578436877#comments)
-
-  > 感谢反馈，v0.6.8 修复。
-* 💬 [Dock 停靠栏 可以关闭吗](https://ld246.com/article/1611563518749/comment/1611566982337#comments)
-
-  > 你好，上面没有标签的话会自动隐藏的，后面版本会继续改进，v0.6.7 里面只是初步引入，请耐心等待一下，谢谢。
 
 
 <!--events end -->
