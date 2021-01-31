@@ -20,10 +20,16 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-01-30 16:21:53`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-01-31 16:22:36`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [Vditor 的 markdown，大家一般如何解析](https://ld246.com/article/1612067350106/comment/1612079487672#comments)
+
+  > 使用任意的 GFM 解析库都可以，如果需要完整 Vditor 的语法支持，估计只能用 [链接]。
+* 💬 [思源笔记提些建议](https://ld246.com/article/1612053928826/comment/1612056861207#comments)
+
+  > 你好， 后面会提供密码锁屏功能，但数据不会进行加密 Android APP 预计 3 月份内测，请关注 [链接] 不会支持 VIM 模式 图片拉取的后缀的问题稍后改进 感谢反馈和支持。
 * 💬 [初次使用思源笔记的一些想法](https://ld246.com/article/1611973394936/comment/1611978420937#comments)
 
   > 感谢建议，我们会继续改进的。
@@ -42,12 +48,6 @@
 * 💬 [Solo github 备份失败](https://ld246.com/article/1611787626520/comment/1611885822357#comments)
 
   > 应该会自动建。
-* 💬 [Solo github 备份失败](https://ld246.com/article/1611787626520/comment/1611845865319#comments)
-
-  > 重新建库试试？
-* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1611842681933)
-
-  > 双链笔记的关系图多半是用来吸引新人的。
 
 
 <!--events end -->
