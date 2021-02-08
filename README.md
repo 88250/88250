@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-02-07 16:18:39`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-02-08 16:19:32`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [思源笔记悬浮窗的自动消失时间可以设置吗？](https://ld246.com/article/1612683972763/comment/1612684547085#comments)
-
-  > 你好，目前不能配置，可以按 Esc 关闭。
-* 💬 [思源笔记移动端无法打开](https://ld246.com/article/1612510019339/comment/1612680971735#comments)
-
-  > Android 端不支持云端同步的，只能用第三方网盘进行文件夹同步。
-* 💗💬 [思源笔记终身买断帐号回购](https://ld246.com/article/1609818892117/comment/1612680217608#comments)
-
-  > 买了早鸟支持开发
-* ⭐️👨‍💻 [igice](https://ld246.com/member/igice)
+* ⭐️👨‍💻 [HerbertHe](https://ld246.com/member/HerbertHe)
 
   > 
-* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1612633121612)
+* 💬 [预览模式下点击文件链接报错 问题](https://ld246.com/article/1612757715237/comment/1612760312377#comments)
 
-  > 七牛云 CDN 是基于阿里云的，相同的域名如果在七牛云上先配置了，再去阿里云上配置就会报重复……不过也许是阿里云基于七牛云 🙃
-* 💬 [URL 跳转建议](https://ld246.com/article/1612612997125/comment/1612617714772#comments)
+  > 稍后处理。
+* 💬 [发帖和清风明月区别在哪？](https://ld246.com/article/1612752630067/comment/1612757597866#comments)
 
-  > 跨库的话估计只能这样用了，库内的话走块链。
-* 💬 [提一个比较重要的双链问题](https://ld246.com/article/1612616898464/comment/1612617572126#comments)
+  > [链接]
+* 💬 [从网页复制内容时，严格保持原先网页内容格式特点（如加粗等）](https://ld246.com/article/1612535967996/comment/1612755366139#comments)
 
-  > 不一定用 SQL，可以试试表达式。
-* 💬 [我也是从 wolai 过来的，正在迁移笔记，但是发现有几个让我不太舒服的点](https://ld246.com/article/1612594530082/comment/1612617445829#comments)
+  > 这个不是 HTML 标签的加粗而是样式控制，所以暂时无法保留哦。
+* 💬 [插入图片无法预览](https://ld246.com/article/1612706250003/comment/1612754342682#comments)
 
-  > 用坚果云的同步盘，不要直接用 WebDAV 接口，谢谢。
+  > 感谢帮忙定位，稍后会排查修复。
+* 💬 [检测更新 问题](https://ld246.com/article/1612751217977/comment/1612754189862#comments)
+
+  > 更新包在临时目录 siyuan 文件夹下 update.zip，自动更新机制近期会完善，感谢反馈。
+* 💗📝 [0.8.5 版本 有序列表超过十之后，按 tab 不会正确缩进了](https://ld246.com/article/1612707855730)
+
+  > a a a a a a a a a a 如上，在思源笔记里，将 11. 按 tab 缩进之后不会变成 10.1 而是继续保持 11. 同时不可选中
+* 💬 [0.8.5 版本 有序列表超过十之后，按 tab 不会正确缩进了](https://ld246.com/article/1612707855730/comment/1612710081544#comments)
+
+  > 感谢反馈，后续会修复。
 
 
 <!--events end -->
