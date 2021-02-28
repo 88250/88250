@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-02-27 16:19:04`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-02-28 16:19:06`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [思源笔记 1.03 bug 反馈 无法使用命名、别名，显示读取笔记本失败](https://ld246.com/article/1614093755055/comment/1614411660376#comments)
+* 💬 [1.0.7 mac 下同步问题](https://ld246.com/article/1614434727198/comment/1614495956446#comments)
 
-  > 如果还有问题请艾特我，谢谢。
-* 🗣 [1.0.7 windows 端、macOS 端无法和云端仓库同步](https://ld246.com/article/1614403853859/comment/1614407628750#comments)
+  > 麻烦更新到 v1.0.8 再试试，谢谢。 同步功能非常重要，我们会在最近的几个版本中尽量把同步功能做稳定。
+* 💬 [1.0.7 无法正常同步](https://ld246.com/article/1614428780014/comment/1614495842095#comments)
 
-  > @zjbambll 参考一下其他教程，谢谢
-* 💬 [思源笔记同步失败](https://ld246.com/article/1614231181207/comment/1614407712153#comments)
+  > 请更新到 v1.0.8 试试，谢谢。
+* 💬 [Bug(Appimage)：帮助文件夹无法展开](https://ld246.com/article/1614440818652/comment/1614494952280#comments)
 
-  > 需要右键笔记本打开同步开关。
-* 💬 [1.0.7 windows 端、macOS 端无法和云端仓库同步](https://ld246.com/article/1614403853859/comment/1614407628750#comments)
+  > 我在 Ubuntu 上试了下 AppImage v1.0.8 可以打开帮助文档的，这问题估计暂时先这样，谢谢。
+* 🗣 [Ctrl+F 自动变换第一行消除标题或者变为引用](https://ld246.com/article/1614485499800/comment/1614486149959#comments)
 
-  > 请在笔记本设置中打开同步开关。
-* 💗📝 [Bug：关系图的 tag 和节点之间没有连线](https://ld246.com/article/1614338700949)
+  > @csb 好的，那就再观察一下，如果能找到重现步骤请艾特我，谢谢。
+* 💬 [Ctrl+F 自动变换第一行消除标题或者变为引用](https://ld246.com/article/1614485499800/comment/1614486149959#comments)
 
-  > [图片] 如上图所示，在这个文件夹（文件夹 A）中 Probability 并没有与之相连的节点 [图片] 但是在另一个文件夹（文件夹 B）中之间是有连线存在的，很奇怪 我在开发者工具里面调试看到并没有 A 中的 element 并没有出现本应该出现的 line，但在 B 中是有的
-* 💬 [Bug：关系图的 tag 和节点之间没有连线](https://ld246.com/article/1614338700949/comment/1614403406446#comments)
+  > 好像是你操作的时候把 # 删掉了，请确认一下。
+* 💬 [Ctrl+F 自动变换第一行消除标题或者变为引用](https://ld246.com/article/1614485499800/comment/1614485647021#comments)
 
-  > 感谢反馈，v1.0.8 修复。
-* 💬 [关于按时间段查询的问题](https://ld246.com/article/1614390422335/comment/1614391900779#comments)
+  > 如果不是最新版的话请升级最新版，查找的问题应该已经修复。 缩进 4 个空格或者 Tab 会转换为代码块，这个是 Markdown 语法，谢谢。
+* 💬 [新用户提问：无法实现思维导图模式](https://ld246.com/article/1614485119428/comment/1614485500513#comments)
 
-  > 感谢反馈，文本模式指定时间范围是个 bug 稍后修复。SQL 模式可以使用大于小于，比如这样： !{{select * from blocks where created &gt;= '20210225213305' and created &lt;= '20210227094735'}}
-* 💬 [思源笔记 1.03 bug 反馈 无法使用命名、别名，显示读取笔记本失败](https://ld246.com/article/1614093755055/comment/1614389337596#comments)
+  > 麻烦打包日志和转换的文档上传，谢谢。
+* 💬 [思源笔记 1.03 bug 反馈 无法使用命名、别名，显示读取笔记本失败](https://ld246.com/article/1614093755055/comment/1614482004470#comments)
 
-  > 你好，请卸载一次，然后删除用户家目录下的 .siyuan 文件夹，重新安装以后再看看，谢谢。
+  > 收到，我们再检查一下代码，谢谢。
 
 
 <!--events end -->
