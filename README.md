@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-03-06 16:19:14`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-03-07 16:19:20`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [[问题]Shift + 其他键只有第一次有效果](https://ld246.com/article/1615015101924/comment/1615016967567#comments)
+* 💗💬 [[笑言] 三八妇女节快来了，能否给单身男士个早鸟优惠？笑](https://ld246.com/article/1615045689302/comment/1615104505718#comments)
 
-  > 估计是输入法不太兼容，Win 下面没问题。
-* 💬 [请问有对文件夹加入 id 的计划吗？](https://ld246.com/article/1615010795402/comment/1615011042274#comments)
+  > 试用后感觉很符合我的个人需求就买了会员支持下，盼思源越来越好!
+* 💬 [标题块和代码块光标乱跳问题](https://ld246.com/article/1615100102225/comment/1615101628028#comments)
 
-  > 文件夹暂时做不了。
-* 💬 [导出标准 markdown 时，锚文本右侧出现多余换行](https://ld246.com/article/1614952246001/comment/1614991265776#comments)
+  > 感谢反馈，后续修复。
+* 💬 [关于字符统计](https://ld246.com/article/1615095019197/comment/1615101496821#comments)
 
-  > 感谢反馈，稍后修复。
-* 💬 [建议增加 / 更换下载时的网盘](https://ld246.com/article/1614962016444/comment/1614982401088#comments)
+  > 你好，后续会加入选中字符统计和块内容字符统计，区分英文单词，谢谢。
+* 💬 [1.1.0 Mac 系统下新建同步和克隆同步失败](https://ld246.com/article/1615094231998/comment/1615101353459#comments)
 
-  > 可以试试这个 GitHub Releases 高速下载 [链接]
-* 💬 [请问是否支持 base64 的图片拉取保存](https://ld246.com/article/1614936370058/comment/1614938109388#comments)
+  > 感谢反馈，下个版本修复。
+* 💬 [[笑言] 三八妇女节快来了，能否给单身男士个早鸟优惠？笑](https://ld246.com/article/1615045689302/comment/1615101249554#comments)
 
-  > 目前不支持。
-* 💬 [怎么设置提问的类别？](https://ld246.com/article/1614928988027/comment/1614938076030#comments)
+  > 你好，暂时不会有优惠活动了，感谢关注。
+* 💬 [克隆到本地（Mac 系统）失败，无反应](https://ld246.com/article/1615084351000/comment/1615101147121#comments)
 
-  > 发帖的时候在设置中可以写标签，谢谢。
-* 💬 [两个功能小建议 (*￣3￣)╭](https://ld246.com/article/1614926999358/comment/1614928621982#comments)
+  > 你好，这个是 bug 下个版本修复，谢谢。
+* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1615079620060)
 
-  > 关系图搜索支持路径过滤语法。v1.1.1 会改进关系图算法，等发布以后可以试试看 简单的时间管理以后有计划实现 感谢建议。
-* 💬 [1.1.0 kernel is missing](https://ld246.com/article/1614915696020/comment/1614918448789#comments)
+  > 出发到虚宁寺拜菩萨。
+* 💬 [关于用 SQL 搜索标签](https://ld246.com/article/1615017262462/comment/1615049311958#comments)
 
-  > 请重装后再观察，谢谢。
+  > 可能有问题，麻烦自己折腾下，不好意思了。
 
 
 <!--events end -->
