@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-03-19 16:21:45`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-03-20 16:19:38`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💗💬 [1.1.3 mac 上提示同步失败](https://ld246.com/article/1616111141133/comment/1616113444387#comments)
+* 💬 [快嵌入 BUG](https://ld246.com/article/1616220557623/comment/1616221280064#comments)
 
-  > 用 brew 装了 3.2.3 的 rsync, 在/usr/local/bin 里。重启了 SiYuan, 同步的时候还是一样的错误提示。是不是我有啥地方没设置对？SiYuan 没找到我本地的 rsync？谢谢！
-* 💬 [1.1.3 mac 上提示同步失败](https://ld246.com/article/1616111141133/comment/1616114064078#comments)
+  > 你好，版本是最新版吗？另外麻烦说下重现步骤，谢谢。
+* 💬 [WIN10 下 V1.1.4 版上传数据错误](https://ld246.com/article/1616220104229/comment/1616221231021#comments)
 
-  > 是个缺陷，下个版本修复，感谢帮忙。
-* 💬 [1.1.3 mac 上提示同步失败](https://ld246.com/article/1616111141133/comment/1616112023799#comments)
+  > 你好，这个问题主要是因为系统用户名带了空格，我们已经在 v1.1.5 中进行了部分改进，请等发布后再试，抱歉了。
+* 💬 [1.1.3 windows 同步失败](https://ld246.com/article/1616121237053/comment/1616207253115#comments)
 
-  > 你好，麻烦通过 Homebrew 安装一下 rsync：brew install rsync 后再试试，谢谢。
-* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1616103398179)
+  > 收到，后续修复。
+* 💬 [1.1.3 windows 同步失败](https://ld246.com/article/1616121237053/comment/1616170595026#comments)
 
-  > 社区系统和相关服务升级完毕。
-* 💬 [已经购买了思源一年订阅，在哪里查看到相关信息？](https://ld246.com/article/1613626888016/comment/1616062553315#comments)
+  > 麻烦升级到 v1.1.4 帮助测试，谢谢。
+* 💬 [1.1.3 同步失败，能看下是什么原因吗？](https://ld246.com/article/1616125308570/comment/1616170578341#comments)
 
-  > v1.1.3 重写了同步机制，等该版本发布以后再帮忙试试，谢谢。
-* 💬 [ubuntu20.04 的思源打开本地文件夹报错](https://ld246.com/article/1616035232901/comment/1616035813783#comments)
+  > 麻烦升级到 v1.1.4 帮助测试，谢谢。
+* 💬 [返回上一篇文档](https://ld246.com/article/1616073454572/comment/1616169799436#comments)
 
-  > 你好，你使用的是 tar.gz 还是 AppImage？另外思源的版本是？
-* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1616026617310)
+  > 你好，前进后退导航目前尚处于长期规划阶段，我们还在考虑实现方案，感谢关注。
+* 💬 [1.1.3 版本，Windows10 下同步失败](https://ld246.com/article/1616137898147/comment/1616169472866#comments)
 
-  > 今晚 22:00 停服升级社区系统，预计凌晨 3 点恢复。
-* 💬 [何时支持：跨笔记本双链以及标题、块链接分类链接按钮？](https://ld246.com/article/1615929601149/comment/1616026505256#comments)
+  > 麻烦更新到 v1.1.4 后再试试，谢谢。
+* 💬 [何时支持：跨笔记本双链以及标题、块链接分类链接按钮？](https://ld246.com/article/1615929601149/comment/1616157201242#comments)
 
-  > 请参考 @deerain 的[链接]。
+  > 感谢分享讨论。 我觉得我们暂时无需涉足方法论，每个人都有自己的做法，在一定程度上映射了个人思维方式。如果太限制强调方法论的话人和工具都会僵化，这应该不是现阶段需要去提炼总结的。
 
 
 <!--events end -->
