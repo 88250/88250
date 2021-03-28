@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-03-26 16:57:18`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-03-28 16:23:04`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1616864129916)
+
+  > 思源的数据同步实现告一段落。
+* 💬 [如何做到代码块自定义渲染？](https://ld246.com/article/1616859882176/comment/1616862291064#comments)
+
+  > 你好，暂时没有时间写具体的示例代码了，请参考一下 go 的 [链接]。
+* 💬 [文件夹导入不显示文档](https://ld246.com/article/1616769384771/comment/1616858767089#comments)
+
+  > 目前开发版上没有发现。
+* 💬 [文件夹导入不显示文档](https://ld246.com/article/1616769384771/comment/1616852624260#comments)
+
+  > v1.1.6 解决，感谢提供数据集。
+* 💬 [思源畅想 - 任意应用输入框内块引用](https://ld246.com/article/1616658417483/comment/1616827850969#comments)
+
+  > /api/query
+* 💬 [1.1.5-mac 无法下载云备份到本地](https://ld246.com/article/1616706018575/comment/1616809314459#comments)
+
+  > 你先试试看，如果碰到具体问题网络上找不到如何解决就反馈给我们，谢谢。
+* 💬 [1.1.5-mac 无法下载云备份到本地](https://ld246.com/article/1616706018575/comment/1616808232431#comments)
+
+  > 安装 Homebrew 请参考其官网 https://brew.sh/ 安装 rsync brew install rsync 中间如果碰到问题请先网络搜索报错语句，应该有解决方案。
 * 💬 [1.1.5-mac 无法下载云备份到本地](https://ld246.com/article/1616706018575/comment/1616746770818#comments)
 
   > 近期版本没有时间解决，还是需要 macOS 用户手动安装 rsync。
-* 💬 [20210326 TGIF](https://ld246.com/article/1616730411453/comment/1616731995437#comments)
-
-  > 对外表现也许是“走一步算一步”，但内心却无比坚定。加油！
-* 💬 [1.1.5-mac 无法下载云备份到本地](https://ld246.com/article/1616706018575/comment/1616715915971#comments)
-
-  > 请安装一下 rsync，网上搜索一下使用 Homebrew 安装 rsync，辛苦了。
-* 💬 [V1.1.5 仍然不能同步上传数据库](https://ld246.com/article/1616555438043/comment/1616682348680#comments)
-
-  > 你好，我发你邮件了，看到后麻烦回复一下，谢谢。
-* 💬 [上传失败](https://ld246.com/article/1616662718842/comment/1616682112649#comments)
-
-  > 麻烦用 v1.1.52 再试试。
-* 💬 [上传失败](https://ld246.com/article/1616662718842/comment/1616680361158#comments)
-
-  > 这个应该是网络问题，麻烦多试一下，如果还有问题请继续反馈。
-* 💬 [思源畅想 - 任意应用输入框内块引用](https://ld246.com/article/1616658417483/comment/1616663066122#comments)
-
-  > 试试看，可以用 HTTP API：GET /query/sql?stmt=SELECT * FROM blocks LIMIT 3
-* 💬 [V1.1.5 仍然不能同步上传数据库](https://ld246.com/article/1616555438043/comment/1616636615203#comments)
-
-  > 应该不是，我这里测过坚果云还有腾讯微云同步。
 
 
 <!--events end -->
