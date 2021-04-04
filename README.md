@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-04-03 16:22:52`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-04-04 16:22:47`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [代码块问题](https://ld246.com/article/1617436037138/comment/1617436515089#comments)
+* 💬 [在线工作空间 404 是为啥呢？](https://ld246.com/article/1617503586575/comment/1617506729957#comments)
 
-  > 你好，第一个粘贴代码块会增加空行的问题请关注 [链接] 其他问题我和 @Vanessa 稍后仔细看，非常感谢反馈。
-* 💬 [笔记本同步问题](https://ld246.com/article/1617367624250/comment/1617435046113#comments)
+  > 估计得用 Chrome，另外，直接用这个网址的话是会 404 的，每次都需要从入口点击进入。
+* 💬 [在线工作空间 404 是为啥呢？](https://ld246.com/article/1617503586575/comment/1617504356283#comments)
 
-  > 开着 Windows Defender 吗？有可能是这个影响的，我们目前正在解决。
-* 💬 [1.1.7 思源 本地版本管理的问题](https://ld246.com/article/1617422975945/comment/1617424771824#comments)
+  > 服务器上日志看上去是正常的，访问的时候又看到界面么？
+* 💬 [V1.1.8 mac 同步问题（rsync）](https://ld246.com/article/1617489986627/comment/1617498844306#comments)
 
-  > 谢谢反馈，下个版本尽量改进。
-* 💬 [笔记本同步问题](https://ld246.com/article/1617367624250/comment/1617422914211#comments)
+  > 好的，大致明白了，能加我一下 QQ 845765 么，发一个开发版给你帮忙测试一下。
+* 💬 [V1.1.8 mac 同步问题（rsync）](https://ld246.com/article/1617489986627/comment/1617496923971#comments)
 
-  > 谢谢反馈，下个版本我们会改进配置文件读写实现。
-* 💬 [笔记本同步问题](https://ld246.com/article/1617367624250/comment/1617421047640#comments)
+  > 麻烦卸载一下，然后重新安装，并观察第一次启动的时候在启动界面是否出现 Compiling components for your macOS, may take few minutes... 这个文案提示，谢谢。
+* 💬 [Sym 社区版和商业版的区别](https://ld246.com/article/1617495756964/comment/1617496802171#comments)
 
-  > 这就不太清楚了，也可能还有其他进程在操作吧。
-* 💬 [Mac 1.1.7 同步问题](https://ld246.com/article/1617390422202/comment/1617412646437#comments)
+  > 请看这里 [链接]
+* 💬 [思源 1.1.8“删除文件时进行备份”bug](https://ld246.com/article/1617467171830/comment/1617495505420#comments)
 
-  > 我们再看下，感谢反馈。
-* 💬 [从 1.1.6 开始无法正常新建笔记以及资源占用异常](https://ld246.com/article/1617371538944/comment/1617382429698#comments)
+  > 谢谢反馈，稍后排查修复。
+* 💬 [V1.1.8 mac 同步问题（rsync）](https://ld246.com/article/1617489986627/comment/1617495475106#comments)
 
-  > 好的，我们正在追踪该问题，下个版本应该能修复，谢谢。
-* 💗📝 [1.1.6 删除文件夹报错](https://ld246.com/article/1617361216693)
+  > 你好，这个报错是点击同步的时候弹出的吗？
+* 💬 [bug：我的块引用呢？](https://ld246.com/article/1617452338308/comment/1617454264262#comments)
 
-  > 问题：新建空文件夹 test 后，右键删除弹出错误，无法删除。 现在我的做法是先在思源中关闭笔记本，然后在资源管理器中删除 test 文件夹，再回到思源打开笔记本。 在重新打开笔记本前，我会同时删除笔记本下的.siyuan 文件夹（因为看到里面有个 filetree.json 文件，不确定这个文件是否需要更新），不知道 ..
+  > 你好，请等 v1.1.8 发布以后再试试，如果还重现请回复我。
 
 
 <!--events end -->
