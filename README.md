@@ -20,10 +20,25 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-04-04 16:22:47`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-04-05 16:23:56`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [是否能增加悬浮目录功能](https://ld246.com/article/1617604892046/comment/1617605632184#comments)
+
+  > 你好，这样用就可以了： [图片]
+* 💬 [思源笔记 1.1.81 Mac 版右键文件夹没有分享按钮？](https://ld246.com/article/1617601701136/comment/1617605558821#comments)
+
+  > 你好，你说的“分享”指的是？
+* 💬 [关于全局关系图无法显示标签的问题](https://ld246.com/article/1617592689651/comment/1617597607433#comments)
+
+  > 请勾选段落块，标签应该是挂在一个段落或者其他块的下面的子节点。目前还没有做跨层级关联，后续完善，感谢反馈。
+* 💬 [导出 PDF 图片失效](https://ld246.com/article/1617455674710/comment/1617595151464#comments)
+
+  > 方便的话麻烦帖一下图床图片地址或者上传一下 md，我们在开发环境调试看看，谢谢。
+* 💬 [在线工作空间 404 是为啥呢？](https://ld246.com/article/1617503586575/comment/1617530139298#comments)
+
+  > Android 移动端尽量用 APP，网页版我们还需要再观察一下网络情况，谢谢。
 * 💬 [在线工作空间 404 是为啥呢？](https://ld246.com/article/1617503586575/comment/1617506729957#comments)
 
   > 估计得用 Chrome，另外，直接用这个网址的话是会 404 的，每次都需要从入口点击进入。
@@ -33,21 +48,6 @@
 * 💬 [V1.1.8 mac 同步问题（rsync）](https://ld246.com/article/1617489986627/comment/1617498844306#comments)
 
   > 好的，大致明白了，能加我一下 QQ 845765 么，发一个开发版给你帮忙测试一下。
-* 💬 [V1.1.8 mac 同步问题（rsync）](https://ld246.com/article/1617489986627/comment/1617496923971#comments)
-
-  > 麻烦卸载一下，然后重新安装，并观察第一次启动的时候在启动界面是否出现 Compiling components for your macOS, may take few minutes... 这个文案提示，谢谢。
-* 💬 [Sym 社区版和商业版的区别](https://ld246.com/article/1617495756964/comment/1617496802171#comments)
-
-  > 请看这里 [链接]
-* 💬 [思源 1.1.8“删除文件时进行备份”bug](https://ld246.com/article/1617467171830/comment/1617495505420#comments)
-
-  > 谢谢反馈，稍后排查修复。
-* 💬 [V1.1.8 mac 同步问题（rsync）](https://ld246.com/article/1617489986627/comment/1617495475106#comments)
-
-  > 你好，这个报错是点击同步的时候弹出的吗？
-* 💬 [bug：我的块引用呢？](https://ld246.com/article/1617452338308/comment/1617454264262#comments)
-
-  > 你好，请等 v1.1.8 发布以后再试试，如果还重现请回复我。
 
 
 <!--events end -->
