@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-04-05 16:23:56`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-04-06 16:20:47`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [是否能增加悬浮目录功能](https://ld246.com/article/1617604892046/comment/1617605632184#comments)
+* 💬 [siyuan 笔记无法同步](https://ld246.com/article/1617682411524/comment/1617683801116#comments)
 
-  > 你好，这样用就可以了： [图片]
-* 💬 [思源笔记 1.1.81 Mac 版右键文件夹没有分享按钮？](https://ld246.com/article/1617601701136/comment/1617605558821#comments)
+  > 你好，系统用户名是中文名么？
+* 🗣 [你们清明节都干啥了?](https://ld246.com/article/1617669336428/comment/1617669401897#comments)
 
-  > 你好，你说的“分享”指的是？
-* 💬 [关于全局关系图无法显示标签的问题](https://ld246.com/article/1617592689651/comment/1617597607433#comments)
+  > @devcui 刷牙不认真
+* 💬 [B3T 有什么用](https://ld246.com/article/1617669077142/comment/1617669928234#comments)
 
-  > 请勾选段落块，标签应该是挂在一个段落或者其他块的下面的子节点。目前还没有做跨层级关联，后续完善，感谢反馈。
-* 💬 [导出 PDF 图片失效](https://ld246.com/article/1617455674710/comment/1617595151464#comments)
+  > 目前没有空投活动，只能和已经获得的用户交易获得。
+* 💬 [你们清明节都干啥了?](https://ld246.com/article/1617669336428/comment/1617669401897#comments)
 
-  > 方便的话麻烦帖一下图床图片地址或者上传一下 md，我们在开发环境调试看看，谢谢。
-* 💬 [在线工作空间 404 是为啥呢？](https://ld246.com/article/1617503586575/comment/1617530139298#comments)
+  > 陪娃看牙医……
+* 💬 [B3T 有什么用](https://ld246.com/article/1617669077142/comment/1617669366821#comments)
 
-  > Android 移动端尽量用 APP，网页版我们还需要再观察一下网络情况，谢谢。
-* 💬 [在线工作空间 404 是为啥呢？](https://ld246.com/article/1617503586575/comment/1617506729957#comments)
+  > 目前没有实际作用，以后可能可以用来购买社区产品服务。
+* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1617634480257)
 
-  > 估计得用 Chrome，另外，直接用这个网址的话是会 404 的，每次都需要从入口点击进入。
-* 💬 [在线工作空间 404 是为啥呢？](https://ld246.com/article/1617503586575/comment/1617504356283#comments)
+  > 第二次尝试 Cloudflare 失败，还是继续用阿里云吧。
+* 💬 [docker 部署的思源冗余 commit 太多](https://ld246.com/article/1617115793885/comment/1617629458573#comments)
 
-  > 服务器上日志看上去是正常的，访问的时候又看到界面么？
-* 💬 [V1.1.8 mac 同步问题（rsync）](https://ld246.com/article/1617489986627/comment/1617498844306#comments)
+  > 最新版本已经没有使用 Git 了。
+* 💬 [代码块问题](https://ld246.com/article/1617436037138/comment/1617624648522#comments)
 
-  > 好的，大致明白了，能加我一下 QQ 845765 么，发一个开发版给你帮忙测试一下。
+  > 后期继续优化，谢谢反馈。
 
 
 <!--events end -->
