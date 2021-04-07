@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-04-06 16:20:47`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-04-07 16:23:59`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [siyuan 笔记无法同步](https://ld246.com/article/1617682411524/comment/1617683801116#comments)
+* 💬 [思源笔记 1.1.5 在 Ubuntu 18.04 下无法同步笔记本](https://ld246.com/article/1616577708002/comment/1617781264087#comments)
 
-  > 你好，系统用户名是中文名么？
-* 🗣 [你们清明节都干啥了?](https://ld246.com/article/1617669336428/comment/1617669401897#comments)
+  > 你好，我们看了服务器上的鉴权日志，显示的都是成功的。但发现版本可能还是有点问题，你试下手动 kill SiYuan Kernel 进程，重启 v1.1.82，然后再用手动同步模式上传或者下载一次，我再观察日志看看结果，谢谢。
+* 💬 [已经购买了思源一年订阅，在哪里查看到相关信息？](https://ld246.com/article/1613626888016/comment/1617779612689#comments)
 
-  > @devcui 刷牙不认真
-* 💬 [B3T 有什么用](https://ld246.com/article/1617669077142/comment/1617669928234#comments)
+  > 最新版目前是 v1.1.82。
+* 💬 [siyuan 笔记无法同步](https://ld246.com/article/1617682411524/comment/1617752349409#comments)
 
-  > 目前没有空投活动，只能和已经获得的用户交易获得。
-* 💬 [你们清明节都干啥了?](https://ld246.com/article/1617669336428/comment/1617669401897#comments)
+  > 试下 v1.1.82
+* 💬 [安卓版思源打开一直卡在启动界面](https://ld246.com/article/1617704933253/comment/1617710183714#comments)
 
-  > 陪娃看牙医……
-* 💬 [B3T 有什么用](https://ld246.com/article/1617669077142/comment/1617669366821#comments)
+  > 这个问题我们再看看，谢谢反馈。
+* 💬 [安卓版思源打开一直卡在启动界面](https://ld246.com/article/1617704933253/comment/1617707178555#comments)
 
-  > 目前没有实际作用，以后可能可以用来购买社区产品服务。
-* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1617634480257)
+  > 请上传一下日志文件，路径 Android/data/org.b3log.siyuan/files/siyuan/conf/siyuan.log
+* 💬 [如何使用思源笔记高级功能 -- 支持复制粘贴到知乎](https://ld246.com/article/1617698004978/comment/1617698116865#comments)
 
-  > 第二次尝试 Cloudflare 失败，还是继续用阿里云吧。
-* 💬 [docker 部署的思源冗余 commit 太多](https://ld246.com/article/1617115793885/comment/1617629458573#comments)
+  > 请在预览中选择 [图片]
+* 💬 [跨笔记本的数据交互](https://ld246.com/article/1617696721250/comment/1617698052676#comments)
 
-  > 最新版本已经没有使用 Git 了。
-* 💬 [代码块问题](https://ld246.com/article/1617436037138/comment/1617624648522#comments)
+  > 跨笔记本的引用以及动态查询结果预览后续会支持，谢谢。
+* 💬 [关系图展现问题](https://ld246.com/article/1617694630547/comment/1617697887197#comments)
 
-  > 后期继续优化，谢谢反馈。
+  > 你好，试着调整一下块类型过滤。
 
 
 <!--events end -->
