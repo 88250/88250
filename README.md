@@ -20,10 +20,22 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-04-07 16:23:59`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-04-08 13:32:10`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [vditor 能增加支持合并单元格吗？](https://ld246.com/article/1617790369902/comment/1617849050270#comments)
+
+  > 你好，短时间内应该不会支持，请关注 [链接]
+* 💬 [超级块建议 ~](https://ld246.com/article/1617806419822/comment/1617808524919#comments)
+
+  > 感谢反馈，超级块的优化后续会进行。
+* 💬 [docker 部署的思源冗余 commit 太多](https://ld246.com/article/1617115793885/comment/1617801903348#comments)
+
+  > 这个还是由用户自己使用吧。
+* 💬 [macOS arm64（苹果芯片）一直卡在启动界面修改 rsync-src.zip 为 rsync4darwin.zip 正常](https://ld246.com/article/1617782865182/comment/1617784481094#comments)
+
+  > 感谢反馈，下个版本修复。
 * 💬 [思源笔记 1.1.5 在 Ubuntu 18.04 下无法同步笔记本](https://ld246.com/article/1616577708002/comment/1617781264087#comments)
 
   > 你好，我们看了服务器上的鉴权日志，显示的都是成功的。但发现版本可能还是有点问题，你试下手动 kill SiYuan Kernel 进程，重启 v1.1.82，然后再用手动同步模式上传或者下载一次，我再观察日志看看结果，谢谢。
@@ -36,18 +48,6 @@
 * 💬 [安卓版思源打开一直卡在启动界面](https://ld246.com/article/1617704933253/comment/1617710183714#comments)
 
   > 这个问题我们再看看，谢谢反馈。
-* 💬 [安卓版思源打开一直卡在启动界面](https://ld246.com/article/1617704933253/comment/1617707178555#comments)
-
-  > 请上传一下日志文件，路径 Android/data/org.b3log.siyuan/files/siyuan/conf/siyuan.log
-* 💬 [如何使用思源笔记高级功能 -- 支持复制粘贴到知乎](https://ld246.com/article/1617698004978/comment/1617698116865#comments)
-
-  > 请在预览中选择 [图片]
-* 💬 [跨笔记本的数据交互](https://ld246.com/article/1617696721250/comment/1617698052676#comments)
-
-  > 跨笔记本的引用以及动态查询结果预览后续会支持，谢谢。
-* 💬 [关系图展现问题](https://ld246.com/article/1617694630547/comment/1617697887197#comments)
-
-  > 你好，试着调整一下块类型过滤。
 
 
 <!--events end -->
