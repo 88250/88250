@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-04-15 16:22:42`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-04-16 16:24:46`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [数学公式换行问题](https://ld246.com/article/1618460059340/comment/1618471007891#comments)
+* 💬 [获取社区文件存储服务上传凭证异常 这个问题如何解决？](https://ld246.com/article/1618551052512/comment/1618558686048#comments)
 
-  > 我们正在重写编辑器，这个问题待重写完之后解决，谢谢。
-* 💬 [建议增加模板光标定位符](https://ld246.com/article/1618447796876/comment/1618455794415#comments)
+  > docker logs 或者管理界面设置里。
+* 💬 [公式块渲染过慢，页面卡顿，不流畅](https://ld246.com/article/1618557533279/comment/1618558604326#comments)
+
+  > 我们正在重写编辑器，待发布以后会有提升，请再等待一段时间，估计这个月底会发布开发版，下个月中旬发布内部预览版。
+* 💬 [硬盘涨价了](https://ld246.com/article/1618554197937/comment/1618556361767#comments)
+
+  > 存储币一直都有的，不过网络也得好才行。
+* 💬 [获取社区文件存储服务上传凭证异常 这个问题如何解决？](https://ld246.com/article/1618551052512/comment/1618556256090#comments)
+
+  > 请看下日志，里面应该有报错细节信息。
+* 🗣 [20210416 TGIF](https://ld246.com/article/1618538887452/comment/1618539268304#comments)
+
+  > @windvibra 加油！
+* 🗣 [20210416 TGIF](https://ld246.com/article/1618538887452/comment/1618539268304#comments)
+
+  > @windvibra 要够时间，顺便可以学一下技术。
+* 💬 [20210416 TGIF](https://ld246.com/article/1618538887452/comment/1618539268304#comments)
+
+  > 客户第一嘛……
+* 💬 [有新版本能否主动弹出提示？](https://ld246.com/article/1618535531481/comment/1618539041175#comments)
 
   > 后期考虑，谢谢。
-* 💬 [笔记无法打开 docker 版](https://ld246.com/article/1618452786603/comment/1618455744846#comments)
-
-  > 试试重置一次外观。
-* 💬 [代码块行尾中文编辑问题](https://ld246.com/article/1618406094082/comment/1618406491058#comments)
-
-  > 可开启代码块自动折行顶顶。我们正在重写编辑器，这个问题在后面会进行改进，谢谢。
-* 💬 [没有办法一次性关闭多个文档](https://ld246.com/article/1618396998882/comment/1618400544933#comments)
-
-  > 重置一次外观之后功能应该就正常了。
-* 💬 [希望每次更新以后可以出现一个类似于公告的悬浮窗，显示本次的更新内容](https://ld246.com/article/1618383964409/comment/1618384441715#comments)
-
-  > 你好，设置 - 关于里有更新公告链接。
-* 💬 [刚需: 搜索 "文件夹" 功能](https://ld246.com/article/1618369332730/comment/1618376066057#comments)
-
-  > 文件树上的搜索后期考虑，谢谢。
-* 💗💬 [B3log 构思 - 分布式社区网络](https://ld246.com/article/1546941897596/comment/1608046140759#comments)
-
-  > 分布式博客、B3log 构思真棒 👍
 
 
 <!--events end -->
