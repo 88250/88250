@@ -20,10 +20,13 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-04-16 16:24:46`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-04-17 16:22:19`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [layer 引进来缺少 jquery 的依赖](https://ld246.com/article/1618567263011/comment/1618572666009#comments)
+
+  > npm install 一下
 * 💬 [获取社区文件存储服务上传凭证异常 这个问题如何解决？](https://ld246.com/article/1618551052512/comment/1618558686048#comments)
 
   > docker logs 或者管理界面设置里。
@@ -45,9 +48,6 @@
 * 💬 [20210416 TGIF](https://ld246.com/article/1618538887452/comment/1618539268304#comments)
 
   > 客户第一嘛……
-* 💬 [有新版本能否主动弹出提示？](https://ld246.com/article/1618535531481/comment/1618539041175#comments)
-
-  > 后期考虑，谢谢。
 
 
 <!--events end -->
