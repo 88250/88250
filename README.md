@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-04-24 16:22:41`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-04-25 16:22:56`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 📝 [Google AdSense 广告加载 js 的域名 pagead2.googlesyndication.com 已经被 DNS 污染](https://ld246.com/article/1619334633678)
+
+  > 今天发现很多站点的 Google AdSense 广告都不展现了，ping 后发现是 DNS 污染。 [图片] 对于一些靠 AdSense 盈利的中文站点来说打击很大，可能得考虑更换广告联盟了，不过也有可能过一阵子就恢复。 如果恢复不了，那国内的广告联盟服务会有很多站涌入，我挺希望国内的各种网络服务都能够崛起，这样咱们 ..
+* 💬 [思源笔记在启动界面闪退](https://ld246.com/article/1619321566652/comment/1619326875961#comments)
+
+  > 你好，这可能是网络端口被防火墙拦截了，或者代理软件导致。
+* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1619322029150)
+
+  > 只有易于解析的格式才能方便迁移，让用户感到不被厂商捆绑。 大道至简。
+* 💗📝 [数学公式矩阵不能对齐, MathJax 不能正常换行](https://ld246.com/article/1619319439534)
+
+  > 数学公式矩阵不能对齐, MathJax 不能正常换行 描述问题: 公式引擎式 KaTeX 好多 md 编辑器都有这个问题 [图片] 公式引擎式 MathJax \\和\\\\都不能换行 [图片] [图片] 放在 align 里两个就都正常了 [图片] 版本环境: v1.1.83
+* 💬 [社区缺陷报告与功能建议](https://ld246.com/article/1438049659432/comment/1619313729666#comments)
+
+  > 后面我们排查一下，感谢反馈。
+* 💬 [思源笔记中的图片删除](https://ld246.com/article/1619081306874/comment/1619313316514#comments)
+
+  > 谢谢反馈，后面我们会持续改进的。
 * ⭐️👨‍💻 [iwh718](https://ld246.com/member/iwh718)
 
   > 
 * ⭐️👨‍💻 [zjp](https://ld246.com/member/zjp)
 
   > 
-* ⭐️👨‍💻 [llej](https://ld246.com/member/llej)
-
-  > 
-* 🗣 [思源笔记 id 污染啥时候可以解决啊](https://ld246.com/article/1618736353528/comment/1619189140478#comments)
-
-  > 有投票功能的 [链接]
-* ⭐️👨‍💻 [yscxy](https://ld246.com/member/yscxy)
-
-  > 
-* ⭐️👨‍💻 [abbj](https://ld246.com/member/abbj)
-
-  > 
-* 💗💬 [纯粹的 Markdown](https://ld246.com/article/1619080345258/comment/1619172795737#comments)
-
-  > 我支持标准化、“纯粹“的 Markdown，但是我认为它不适合用于做任何复杂的工作，只适用于 README、changelog、备忘录、实时聊天 等对格式和排版要求不高的简单场景。 但即使 Markdown 因为语法的肆意扩展而丧失了通用性，哪怕改的面目全非，我们也不需要担心跨工具的兼容性问题。因为不论“纯粹”与否，M ..
-* 💬 [思源笔记的粘贴为什么会多出来这么多东西，如何可以避免](https://ld246.com/article/1619163474929/comment/1619164999827#comments)
-
-  > 已经有预览模式了，编辑器上可以切换。
 
 
 <!--events end -->
