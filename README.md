@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-04-25 16:22:56`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-04-26 16:24:25`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 📝 [Google AdSense 广告加载 js 的域名 pagead2.googlesyndication.com 已经被 DNS 污染](https://ld246.com/article/1619334633678)
+* 💬 [solo 拉取 github 公开项目，怎么获取 userGitHubId，并存储到数据库？](https://ld246.com/article/1619424255137/comment/1619425460255#comments)
 
-  > 今天发现很多站点的 Google AdSense 广告都不展现了，ping 后发现是 DNS 污染。 [图片] 对于一些靠 AdSense 盈利的中文站点来说打击很大，可能得考虑更换广告联盟了，不过也有可能过一阵子就恢复。 如果恢复不了，那国内的广告联盟服务会有很多站涌入，我挺希望国内的各种网络服务都能够崛起，这样咱们 ..
-* 💬 [思源笔记在启动界面闪退](https://ld246.com/article/1619321566652/comment/1619326875961#comments)
+  > 这个 id 现在就是社区的 user id
+* 💬 [思源笔记 docker 部署 https 无法访问静态资源](https://ld246.com/article/1619371504850/comment/1619405632642#comments)
 
-  > 你好，这可能是网络端口被防火墙拦截了，或者代理软件导致。
-* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1619322029150)
+  > --servePath='https://note.xysycx.cn' --ssl='true'
+* 💬 [复制表格有点小问题](https://ld246.com/article/1619397290493/comment/1619399088184#comments)
 
-  > 只有易于解析的格式才能方便迁移，让用户感到不被厂商捆绑。 大道至简。
-* 💗📝 [数学公式矩阵不能对齐, MathJax 不能正常换行](https://ld246.com/article/1619319439534)
+  > 你好，新版编辑器做了调整，下个月中下旬发布，请耐心等待一下，谢谢。
+* 💬 [开启了类型过滤但没起作用](https://ld246.com/article/1619334362421/comment/1619396050604#comments)
 
-  > 数学公式矩阵不能对齐, MathJax 不能正常换行 描述问题: 公式引擎式 KaTeX 好多 md 编辑器都有这个问题 [图片] 公式引擎式 MathJax \\和\\\\都不能换行 [图片] [图片] 放在 align 里两个就都正常了 [图片] 版本环境: v1.1.83
-* 💬 [社区缺陷报告与功能建议](https://ld246.com/article/1438049659432/comment/1619313729666#comments)
+  > 支持的，比如 name:xxx、alias:xxx
+* 💬 [开启了类型过滤但没起作用](https://ld246.com/article/1619334362421/comment/1619392535676#comments)
 
-  > 后面我们排查一下，感谢反馈。
-* 💬 [思源笔记中的图片删除](https://ld246.com/article/1619081306874/comment/1619313316514#comments)
+  > 你好，开启表示纳入搜索。
+* 💬 [请问思源笔记云端的 CDN 占用可以清理吗？](https://ld246.com/article/1619372267589/comment/1619392109098#comments)
 
-  > 谢谢反馈，后面我们会持续改进的。
-* ⭐️👨‍💻 [iwh718](https://ld246.com/member/iwh718)
+  > 你好，等后面会支持管理的，谢谢。
+* 💬 [思源笔记 docker 部署 https 无法访问静态资源](https://ld246.com/article/1619371504850/comment/1619392017265#comments)
 
-  > 
-* ⭐️👨‍💻 [zjp](https://ld246.com/member/zjp)
+  > servePath 启动参数带上协议试试看 😉
+* 💬 [Google AdSense 广告加载 js 的域名 pagead2.googlesyndication.com 已经被 DNS 污染](https://ld246.com/article/1619334633678/comment/1619339345432#comments)
 
-  > 
+  > 目前似乎已经恢复。
 
 
 <!--events end -->
