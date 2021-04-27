@@ -20,10 +20,25 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-04-26 16:24:25`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-04-27 16:23:57`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [很好奇: 随着笔记本中文档数量增加, 是否会影响软件的启动速度以及笔记的编辑速度?](https://ld246.com/article/1619491023814/comment/1619506522114#comments)
+
+  > 笔记启动速度会有影响，后面会进行优化；其他方面（比如搜索）会有一定影响，但是问题不大，我们压测过的。
+* 💗💬 [问题反馈: "无序列表, 有序列表" 不起作用](https://ld246.com/article/1619489578076/comment/1619499262155#comments)
+
+  > 这个是 BUG，感谢反馈。目前开发者正在赶新编辑器，思源新版本在下个月中下旬出，所以目前只能先回退版本到 1.1.82 或者用语法顶顶了老铁……
+* 💬 [请问如何提取所有的备注？](https://ld246.com/article/1619450863927/comment/1619456094676#comments)
+
+  > SQL 模式 select * from blocks where memo like '%xxx%' 文本模式 memo:xxx
+* 💗💬 [linux 版编辑器光标闪跳](https://ld246.com/article/1619425663477/comment/1619427409694#comments)
+
+  > 感谢回复，也感谢你们开发的这么棒的产品
+* 💬 [linux 版编辑器光标闪跳](https://ld246.com/article/1619425663477/comment/1619426826100#comments)
+
+  > 你好，在标题附近如果有代码块的话，使用某些输入法的确会存在这个问题。我们正在重写编辑器，预计下个月下旬发布，届时这个问题应该就能得到解决，谢谢反馈。
 * 💬 [solo 拉取 github 公开项目，怎么获取 userGitHubId，并存储到数据库？](https://ld246.com/article/1619424255137/comment/1619425460255#comments)
 
   > 这个 id 现在就是社区的 user id
@@ -33,21 +48,6 @@
 * 💬 [复制表格有点小问题](https://ld246.com/article/1619397290493/comment/1619399088184#comments)
 
   > 你好，新版编辑器做了调整，下个月中下旬发布，请耐心等待一下，谢谢。
-* 💬 [开启了类型过滤但没起作用](https://ld246.com/article/1619334362421/comment/1619396050604#comments)
-
-  > 支持的，比如 name:xxx、alias:xxx
-* 💬 [开启了类型过滤但没起作用](https://ld246.com/article/1619334362421/comment/1619392535676#comments)
-
-  > 你好，开启表示纳入搜索。
-* 💬 [请问思源笔记云端的 CDN 占用可以清理吗？](https://ld246.com/article/1619372267589/comment/1619392109098#comments)
-
-  > 你好，等后面会支持管理的，谢谢。
-* 💬 [思源笔记 docker 部署 https 无法访问静态资源](https://ld246.com/article/1619371504850/comment/1619392017265#comments)
-
-  > servePath 启动参数带上协议试试看 😉
-* 💬 [Google AdSense 广告加载 js 的域名 pagead2.googlesyndication.com 已经被 DNS 污染](https://ld246.com/article/1619334633678/comment/1619339345432#comments)
-
-  > 目前似乎已经恢复。
 
 
 <!--events end -->
