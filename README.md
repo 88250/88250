@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-05-08 16:19:36`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-05-09 15:06:41`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1618768512217#comments)
+* 💬 [1.2 版本怎么插入表格呢？](https://ld246.com/article/1620528270152/comment/1620531150562#comments)
 
-  > @547176052 [链接]
-* 💬 [哈哈，发现个东西](https://ld246.com/article/1620437913214/comment/1620439598721#comments)
+  > 那应该是个 bug，1.2 内测版的问题请到 insider issues 上反馈，谢谢。
+* 💬 [1.2 版本怎么插入表格呢？](https://ld246.com/article/1620528270152/comment/1620530185539#comments)
 
-  > 上次我在这个论坛上找到一个 rsync 移动端编译方案，还是挺不错的。
-* 💬 [1.2 内测版的几个 bug](https://ld246.com/article/1620436219996/comment/1620437832010#comments)
+  > 表格是个叶子块，所以里面无法支持插入其他块，也就是不支持嵌套；换行的话请试下按两次回车；任务列表 /task 或者 /renwu。
+* 💗📝 [群晖 docker 部署思源笔记及遇到的问题](https://ld246.com/article/1620528472212)
 
-  > 多选块后复制、剪切和移动还没有开发 快捷键支持还在开发中
-* 💬 [【光雅集】14](https://ld246.com/article/1620287730037/comment/1620436920905#comments)
+  > 之前对 docker 是只闻其名不知其形，看到不少网友各种捧，正好也很适合我期望的需求，盲人摸象折腾了一把，勉强搞定，发个贴留个证，顺便给其他网友一个参考。 群晖 docker 安装及准备 关于安装就略过吧，不是重点。 准备工作是需要在 NAS 中提前创建几个文件夹或文件： /siyuan/conf /siyuan/c ..
+* 💬 [群晖 docker 部署思源笔记及遇到的问题](https://ld246.com/article/1620528472212/comment/1620529760484#comments)
 
-  > 应该是楼主博客端推送过来的。
-* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1620406793300)
+  > 感谢分享和反馈，问题已经记录在 [链接] 谢谢
+* 💬 [1.2 版本怎么插入表格呢？](https://ld246.com/article/1620528270152/comment/1620529644350#comments)
 
-  > 这次不能在“上下文”这儿翻车了。
-* 💬 [[Feature Request] 选中文字生成新的文档的改进](https://ld246.com/article/1620335456111/comment/1620405232400#comments)
+  > /table 或者 /biaoge
+* 💗💬 [v1.2 内测 -"图片尺寸调整" 功能去哪里了?](https://ld246.com/article/1620479519859/comment/1620483313927#comments)
 
-  > 你好，标题块转换文档块时会带着标题块下方的块一起到新文档中的。
-* ⭐️👨‍💻 [dammy](https://ld246.com/member/dammy)
+  > 图片的最右侧,有一个很小的标志,直接拉动就可以改变大小了
+* 💬 [v1.2 内测 -"图片尺寸调整" 功能去哪里了?](https://ld246.com/article/1620479519859/comment/1620485086141#comments)
 
-  > 
-* ⭐️👨‍💻 [devcui](https://ld246.com/member/devcui)
+  > 这个视觉有问题，alpha3 上会做改进。
+* 💬 [v1.2- 内测 - 问题反馈 - 重置工作目录无法迁移数据等](https://ld246.com/article/1620478001685/comment/1620485042642#comments)
 
-  > 
+  > 只是内测版的问题需要在 Issues 上，正式版还是在这里反馈，谢谢。
 
 
 <!--events end -->
