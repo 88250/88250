@@ -20,10 +20,19 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-05-11 16:20:22`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-05-12 16:21:25`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [Web 剪藏支持拉取图片到本地 - 这个功能如何使用?](https://ld246.com/article/1620800983790/comment/1620802511983#comments)
+
+  > 目前这个功能需要用 v1.2.0 内测版支持，使用说明请参考 [链接]
+* 💬 [很好奇: 既然有文件夹, 但为什么不提供搜索文件夹功能?](https://ld246.com/article/1620736675714/comment/1620739324490#comments)
+
+  > 后期估计会在文档树面板上支持，谢谢。
+* 💗📝 [oceanpress 已支持新版思源，欢迎试用以及反馈](https://ld246.com/article/1620728353107)
+
+  > [链接] 项目地址 : [链接]
 * 💬 [思源笔记 v1.2.0 将移除 WebDAV 支持，请提前迁移数据](https://ld246.com/article/1619520201279/comment/1620708175995#comments)
 
   > 跨设备同步可以考虑使用 FolderSync [链接] [链接]
@@ -39,15 +48,6 @@
 * 💬 [思源笔记  有类似浏览器 Ctrl + Tab 快速切换打开的标签 / 文件的功能吗?](https://ld246.com/article/1620619563390/comment/1620631513515#comments)
 
   > 暂时还没有，后续会实现 [链接] 谢谢
-* ⭐️👨‍💻 [pimgeek](https://ld246.com/member/pimgeek)
-
-  > 
-* 💬 [社区更换域名和定位](https://ld246.com/article/1599662780208/comment/1620630520756#comments)
-
-  > 就这样吧，ld246 也习惯了。
-* 💬 [Solo 中使用 Lute 渲染生成的目录中一级标题和二级标题之间没有缩进吗？](https://ld246.com/article/1620612439870/comment/1620615695791#comments)
-
-  > 这个可能和使用的主题有关系，麻烦到 Solo 项目 Issues 上反馈，谢谢。
 
 
 <!--events end -->
