@@ -20,10 +20,25 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-05-12 16:21:25`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-05-13 16:21:39`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [同步文件（上传资源的时候）出现错误](https://ld246.com/article/1620886119500/comment/1620893710354#comments)
+
+  > 你好，是否是切换过账号，如果切换过的话请删除全局配置文件然后重新登录。这个问题在 v1.2.0 上会做修复，谢谢反馈。
+* 💬 [在文件树操作与 PDF 支持上的一些小建议](https://ld246.com/article/1620824601432/comment/1620825953337#comments)
+
+  > 文档树上已经有展开/折叠全部操作按钮 按标题层级展开后续考虑 谢谢反馈。
+* 💬 [1.13 版本用不了，get version failed: request to http://127.0.0.1:6806/api/version failed, reason: net::ERR_CONNECTION_REFUSED](https://ld246.com/article/1620802966800/comment/1620811501671#comments)
+
+  > 可能是网络代理软件或者防火墙设置问题。
+* 💬 [关于 "标签" 的几点建议](https://ld246.com/article/1620802596378/comment/1620808508150#comments)
+
+  > 用动态查询嵌入应该可以做到。
+* 💬 [1.13 版本用不了，get version failed: request to http://127.0.0.1:6806/api/version failed, reason: net::ERR_CONNECTION_REFUSED](https://ld246.com/article/1620802966800/comment/1620808324266#comments)
+
+  > 老版本不太容易定位问题，请使用最新版本，谢谢。
 * 💬 [Web 剪藏支持拉取图片到本地 - 这个功能如何使用?](https://ld246.com/article/1620800983790/comment/1620802511983#comments)
 
   > 目前这个功能需要用 v1.2.0 内测版支持，使用说明请参考 [链接]
@@ -33,21 +48,6 @@
 * 💗📝 [oceanpress 已支持新版思源，欢迎试用以及反馈](https://ld246.com/article/1620728353107)
 
   > [链接] 项目地址 : [链接]
-* 💬 [思源笔记 v1.2.0 将移除 WebDAV 支持，请提前迁移数据](https://ld246.com/article/1619520201279/comment/1620708175995#comments)
-
-  > 跨设备同步可以考虑使用 FolderSync [链接] [链接]
-* 💬 [代码块不支持反向缩进](https://ld246.com/article/1620668953709/comment/1620693911608#comments)
-
-  > 谢谢提议，请关注 [链接]
-* 💬 [思源笔记编辑器的性能问题](https://ld246.com/article/1620634117970/comment/1620658126552#comments)
-
-  > 这次差不多是重写而不是重构……
-* 💬 [思源笔记编辑器的性能问题](https://ld246.com/article/1620634117970/comment/1620634309647#comments)
-
-  > 你好，月底将发布的 v1.2.0 版本中对编辑器进行了重写，性能会好很多，敬请期待。
-* 💬 [思源笔记  有类似浏览器 Ctrl + Tab 快速切换打开的标签 / 文件的功能吗?](https://ld246.com/article/1620619563390/comment/1620631513515#comments)
-
-  > 暂时还没有，后续会实现 [链接] 谢谢
 
 
 <!--events end -->
