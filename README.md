@@ -20,10 +20,16 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-05-13 21:59:33`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-05-14 16:23:18`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [思源笔记的复制文件问题](https://ld246.com/article/1620955449379/comment/1620957119345#comments)
+
+  > 你好，暂时用全选复制内容粘贴到新文档中顶顶，谢谢。
+* 💬 [20210514 TGIF](https://ld246.com/article/1620953372740/comment/1620954060376#comments)
+
+  > 要是我 23 的时候这么上进，现在可能就不用写代码了 [图片]
 * 💬 [solo 长期未使用，偶尔登录发现 500 报错](https://ld246.com/article/1620900677162/comment/1620905714476#comments)
 
   > 请更新到最新版后再试。
@@ -42,12 +48,6 @@
 * 💬 [关于 "标签" 的几点建议](https://ld246.com/article/1620802596378/comment/1620808508150#comments)
 
   > 用动态查询嵌入应该可以做到。
-* 💬 [1.13 版本用不了，get version failed: request to http://127.0.0.1:6806/api/version failed, reason: net::ERR_CONNECTION_REFUSED](https://ld246.com/article/1620802966800/comment/1620808324266#comments)
-
-  > 老版本不太容易定位问题，请使用最新版本，谢谢。
-* 💬 [Web 剪藏支持拉取图片到本地 - 这个功能如何使用?](https://ld246.com/article/1620800983790/comment/1620802511983#comments)
-
-  > 目前这个功能需要用 v1.2.0 内测版支持，使用说明请参考 [链接]
 
 
 <!--events end -->
