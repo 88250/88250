@@ -20,10 +20,13 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-05-14 16:23:18`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-05-15 16:21:34`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [思源笔记的一些 BUG](https://ld246.com/article/1620971693995/comment/1620980973994#comments)
+
+  > 你好，编辑器已经重写，月底发布新版，敬请期待。
 * 💬 [思源笔记的复制文件问题](https://ld246.com/article/1620955449379/comment/1620957119345#comments)
 
   > 你好，暂时用全选复制内容粘贴到新文档中顶顶，谢谢。
@@ -45,9 +48,6 @@
 * 💬 [1.13 版本用不了，get version failed: request to http://127.0.0.1:6806/api/version failed, reason: net::ERR_CONNECTION_REFUSED](https://ld246.com/article/1620802966800/comment/1620811501671#comments)
 
   > 可能是网络代理软件或者防火墙设置问题。
-* 💬 [关于 "标签" 的几点建议](https://ld246.com/article/1620802596378/comment/1620808508150#comments)
-
-  > 用动态查询嵌入应该可以做到。
 
 
 <!--events end -->
