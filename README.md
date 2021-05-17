@@ -20,10 +20,22 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-05-15 16:21:34`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/88250/88250)触发实时刷新，最近更新时间：`2021-05-17 16:21:45`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗💬 [纯粹的 Markdown](https://ld246.com/article/1619080345258/comment/1621166227147#comments)
+
+  > 正在试用思源 1.2.0，使用 json 格式也很有潜力
+* 💬 [v1.2.0 alpha6 内测版笔记空白](https://ld246.com/article/1621156364344/comment/1621166153986#comments)
+
+  > 你好，请问如何重现？ PS：内测版的 bug 请在 Insider Issues 上反馈，谢谢。
+* 💬 [Solo 生成导出静态站点](https://ld246.com/article/1579053576274/comment/1621077367624#comments)
+
+  > 看下他们的帮助文档，或者网络搜索，有非常多的教程可以参考。
+* 💬 [Solo 生成导出静态站点](https://ld246.com/article/1579053576274/comment/1621074911254#comments)
+
+  > 部署到静态网站托管服务上，比如 GitHub Pages 或者 Gitee Pages。
 * 💬 [思源笔记的一些 BUG](https://ld246.com/article/1620971693995/comment/1620980973994#comments)
 
   > 你好，编辑器已经重写，月底发布新版，敬请期待。
@@ -36,18 +48,6 @@
 * 💬 [solo 长期未使用，偶尔登录发现 500 报错](https://ld246.com/article/1620900677162/comment/1620905714476#comments)
 
   > 请更新到最新版后再试。
-* 💬 [【求助】1.1.83 版本在部分电脑上同步出错](https://ld246.com/article/1620896776637/comment/1620905672061#comments)
-
-  > 先卸载自己安装的 cygwin，然后按照报错提示全局搜索 cygwin1.dll ，估计是冲突了；和虚拟机没有关系。
-* 💬 [同步文件（上传资源的时候）出现错误](https://ld246.com/article/1620886119500/comment/1620893710354#comments)
-
-  > 你好，是否是切换过账号，如果切换过的话请删除全局配置文件然后重新登录。这个问题在 v1.2.0 上会做修复，谢谢反馈。
-* 💬 [在文件树操作与 PDF 支持上的一些小建议](https://ld246.com/article/1620824601432/comment/1620825953337#comments)
-
-  > 文档树上已经有展开/折叠全部操作按钮 按标题层级展开后续考虑 谢谢反馈。
-* 💬 [1.13 版本用不了，get version failed: request to http://127.0.0.1:6806/api/version failed, reason: net::ERR_CONNECTION_REFUSED](https://ld246.com/article/1620802966800/comment/1620811501671#comments)
-
-  > 可能是网络代理软件或者防火墙设置问题。
 
 
 <!--events end -->
