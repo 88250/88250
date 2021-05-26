@@ -20,10 +20,25 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2021-05-25 16:27:47`
+每天自动刷新，最近更新时间：`2021-05-26 16:34:19`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗💬 [思源笔记缘起](https://ld246.com/article/1619868273581/comment/1622010199057#comments)
+
+  > 唯一同时做到块式编辑器,双链,markdown,本地存储的,D 大加油
+* 👍🌙 [赞同了清风明月](https://ld246.com/member/zyk/breezemoons/1621866559894)
+
+  > 不要去做那些没有意义的事，尤其在这个年纪。
+* 👍🌙 [赞同了清风明月](https://ld246.com/member/nomec/breezemoons/1621909135196)
+
+  > 人的一生都在为认知买单
+* 💬 [社区缺陷报告与功能建议](https://ld246.com/article/1438049659432/comment/1621951981933#comments)
+
+  > 没有发版，但镜像已经更新了。
+* 💬 [社区缺陷报告与功能建议](https://ld246.com/article/1438049659432/comment/1621940256545#comments)
+
+  > 升级到最新镜像应该就解决了。
 * 💬 [【需求】增加一个快捷键，浏览历史光标位置快捷键](https://ld246.com/article/1621914873143/comment/1621928356200#comments)
 
   > 你好，前进后退特性已在计划中，感谢提议。
@@ -33,21 +48,6 @@
 * 💬 [solo-docker 无法将外链图片上传至 b3logfile 上去](https://ld246.com/article/1621847201096/comment/1621850051293#comments)
 
   > 不好意思，看错了……是你服务器和社区图床服务超时了。
-* 💬 [solo-docker 无法将外链图片上传至 b3logfile 上去](https://ld246.com/article/1621847201096/comment/1621848943826#comments)
-
-  > 从日志上看应该是你部署 Solo 的服务器和你的图床网络超时。
-* 💬 [思源 a9 反馈](https://ld246.com/article/1621742569272/comment/1621742740920#comments)
-
-  > 内测版的问题请到 Insider Issues 上反馈，谢谢。
-* 💬 [提交一个关于文字上色的小 BUG](https://ld246.com/article/1621698675567/comment/1621738892826#comments)
-
-  > 稍后排查，谢谢。
-* 💬 [请问思源笔记能不直接装到 C 盘吗](https://ld246.com/article/1621587450172/comment/1621616826826#comments)
-
-  > v1.1.x 是打开笔记本文件夹的路径 v1.2.0 以后是在 设置 - 关于 里配置工作空间路径
-* 💬 [列表块中的标题块能否在大纲中](https://ld246.com/article/1621601859411/comment/1621603320473#comments)
-
-  > 你好，v1.2.0 会将所有层级的标题纳入到大纲面板中： [图片]
 
 
 <!--events end -->
