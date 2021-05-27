@@ -20,10 +20,16 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2021-05-26 16:34:19`
+每天自动刷新，最近更新时间：`2021-05-27 16:43:12`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 📝 [macOS 通过 Homebrew 安装 Rsync](https://ld246.com/article/1622084568155)
+
+  > 安装 Homebrew 打开命令行终端，粘贴后回车： /bin/zsh -c '$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)' 安装 Rsync 安装完 Homebrew 后在命令行终端通过 Homebrew 安装 Rs ..
+* 💬 [思源笔记从脑图模式切换回即时渲染时会有几率导致笔记内文本全部消失](https://ld246.com/article/1622021684505/comment/1622022153198#comments)
+
+  > 抱歉了，v1.2.0 之前的脑图编辑模式有一些严重缺陷，在 v1.2.0 中已经删掉该编辑模式。以后我们会重新设计进行实现，谢谢。
 * 💗💬 [思源笔记缘起](https://ld246.com/article/1619868273581/comment/1622010199057#comments)
 
   > 唯一同时做到块式编辑器,双链,markdown,本地存储的,D 大加油
@@ -42,12 +48,6 @@
 * 💬 [【需求】增加一个快捷键，浏览历史光标位置快捷键](https://ld246.com/article/1621914873143/comment/1621928356200#comments)
 
   > 你好，前进后退特性已在计划中，感谢提议。
-* 💬 [思源笔记，关于引用的一个 bug](https://ld246.com/article/1621837587299/comment/1621850380335#comments)
-
-  > 你好，v1.2.0 以后应该就不存在该问题了，谢谢反馈。
-* 💬 [solo-docker 无法将外链图片上传至 b3logfile 上去](https://ld246.com/article/1621847201096/comment/1621850051293#comments)
-
-  > 不好意思，看错了……是你服务器和社区图床服务超时了。
 
 
 <!--events end -->
