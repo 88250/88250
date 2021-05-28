@@ -20,10 +20,16 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2021-05-27 16:43:12`
+每天自动刷新，最近更新时间：`2021-05-28 16:47:16`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [思源内测 1.2 alpha10  一直在 booting, 按论坛方法还是不行](https://ld246.com/article/1622172777220/comment/1622175219084#comments)
+
+  > 今天发布内测版 alpha11，下周发布内测版 alpha12，之后我们会发起社区投票，看内测用户投票反馈最终决定发布时间，下个月内一定可以发布正式版的，谢谢。
+* 💬 [思源内测 1.2 alpha10  一直在 booting, 按论坛方法还是不行](https://ld246.com/article/1622172777220/comment/1622173035101#comments)
+
+  > 请上传一下日志文件。
 * 📝 [macOS 通过 Homebrew 安装 Rsync](https://ld246.com/article/1622084568155)
 
   > 安装 Homebrew 打开命令行终端，粘贴后回车： /bin/zsh -c '$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)' 安装 Rsync 安装完 Homebrew 后在命令行终端通过 Homebrew 安装 Rs ..
@@ -42,12 +48,6 @@
 * 💬 [社区缺陷报告与功能建议](https://ld246.com/article/1438049659432/comment/1621951981933#comments)
 
   > 没有发版，但镜像已经更新了。
-* 💬 [社区缺陷报告与功能建议](https://ld246.com/article/1438049659432/comment/1621940256545#comments)
-
-  > 升级到最新镜像应该就解决了。
-* 💬 [【需求】增加一个快捷键，浏览历史光标位置快捷键](https://ld246.com/article/1621914873143/comment/1621928356200#comments)
-
-  > 你好，前进后退特性已在计划中，感谢提议。
 
 
 <!--events end -->
