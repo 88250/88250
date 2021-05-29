@@ -20,10 +20,25 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2021-05-28 16:47:16`
+每天自动刷新，最近更新时间：`2021-05-29 10:45:35`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [希望推出一个可以自动识别文字回链的功能](https://ld246.com/article/1622227311647/comment/1622249744334#comments)
+
+  > 你好，暂时不添加，我们还需要时间考虑，谢谢。
+* 💬 [思源内测 1.2 alpha10  一直在 booting, 按论坛方法还是不行](https://ld246.com/article/1622172777220/comment/1622196050846#comments)
+
+  > @Lchen09 @lane 请发邮件给我，谢谢 845765@qq.com
+* 💬 [群晖 docker 部署思源笔记及遇到的问题](https://ld246.com/article/1620528472212/comment/1622194980974#comments)
+
+  > 你好，经过考虑后，我们决定不在 Docker 中提供云端备份功能，因为 Docker 本身已经搭建在云端了，再做官方云端备份意义不大，并且再走一次网络的话可能会降低可用性，谢谢。
+* 💬 [20210528 TGIF](https://ld246.com/article/1622189326447/comment/1622194727472#comments)
+
+  > 这周忙到断签。
+* 💬 [思源内测 1.2 alpha10  一直在 booting, 按论坛方法还是不行](https://ld246.com/article/1622172777220/comment/1622193621243#comments)
+
+  > 可以的，请发 GitHub 登录名给我。
 * 💬 [思源内测 1.2 alpha10  一直在 booting, 按论坛方法还是不行](https://ld246.com/article/1622172777220/comment/1622175219084#comments)
 
   > 今天发布内测版 alpha11，下周发布内测版 alpha12，之后我们会发起社区投票，看内测用户投票反馈最终决定发布时间，下个月内一定可以发布正式版的，谢谢。
@@ -33,21 +48,6 @@
 * 📝 [macOS 通过 Homebrew 安装 Rsync](https://ld246.com/article/1622084568155)
 
   > 安装 Homebrew 打开命令行终端，粘贴后回车： /bin/zsh -c '$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)' 安装 Rsync 安装完 Homebrew 后在命令行终端通过 Homebrew 安装 Rs ..
-* 💬 [思源笔记从脑图模式切换回即时渲染时会有几率导致笔记内文本全部消失](https://ld246.com/article/1622021684505/comment/1622022153198#comments)
-
-  > 抱歉了，v1.2.0 之前的脑图编辑模式有一些严重缺陷，在 v1.2.0 中已经删掉该编辑模式。以后我们会重新设计进行实现，谢谢。
-* 💗💬 [思源笔记缘起](https://ld246.com/article/1619868273581/comment/1622010199057#comments)
-
-  > 唯一同时做到块式编辑器,双链,markdown,本地存储的,D 大加油
-* 👍🌙 [赞同了清风明月](https://ld246.com/member/zyk/breezemoons/1621866559894)
-
-  > 不要去做那些没有意义的事，尤其在这个年纪。
-* 👍🌙 [赞同了清风明月](https://ld246.com/member/nomec/breezemoons/1621909135196)
-
-  > 人的一生都在为认知买单
-* 💬 [社区缺陷报告与功能建议](https://ld246.com/article/1438049659432/comment/1621951981933#comments)
-
-  > 没有发版，但镜像已经更新了。
 
 
 <!--events end -->
