@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2021-06-10 16:19:17`
+每天自动刷新，最近更新时间：`2021-06-11 16:17:47`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [思源笔记序号标志漂移](https://ld246.com/article/1623294877902/comment/1623301024025#comments)
+* 💬 [思源 1.2beat4 多次遇到文档闪退情况](https://ld246.com/article/1623394677386/comment/1623396714146#comments)
 
-  > 重置下外观试试。
-* 💬 [思源笔记序号标志漂移](https://ld246.com/article/1623294877902/comment/1623296590219#comments)
+  > 这是个 bug，请升级到 Beta5。
+* 💬 [1.2 beta4 编辑器的工具栏在哪里](https://ld246.com/article/1623381387145/comment/1623396648288#comments)
 
-  > 使用的是默认主题吗？
-* 💬 [1.2 beta4 模板：无法识别中 sql 语句的内置变量](https://ld246.com/article/1623290948941/comment/1623294047046#comments)
+  > v1.2.0 取消了，使用悬浮工具栏。
+* 💬 [1.2 Beta5 单行“转换为”是不是可以放开所有样式？](https://ld246.com/article/1623379092582/comment/1623379140465#comments)
 
-  > 用户指南关闭再通过菜单打开，会重置为最新版。
-* 💬 [代码块可否增加 SystemVerilog 和 uvm 的语法支持](https://ld246.com/article/1623291984867/comment/1623292715190#comments)
+  > 会逐步补充的，谢谢。
+* 💬 [思源安卓查看笔记代码体验非常差](https://ld246.com/article/1623333434684/comment/1623378901931#comments)
 
-  > 你好，思源目前使用的是 [链接]，你提到的两个语言的高亮支持似乎只有 Verilog，uvm 没有找到，麻烦在这里看下 [链接] 是否有，有的话就可以支持，谢谢。
-* 💬 [1.2 Beta4 图片标题无法检索，命名、备注、别名等无问题](https://ld246.com/article/1623290962022/comment/1623292461243#comments)
+  > 是不是开启了代码折行？
+* 💬 [随机题头图的来源是否可以自定义](https://ld246.com/article/1623344739782/comment/1623371270377#comments)
 
-  > 现在还不支持搜索图片标题，后面改进。
-* 💬 [1.2 beta4 模板：无法识别中 sql 语句的内置变量](https://ld246.com/article/1623290948941/comment/1623292424763#comments)
+  > 随机题头图暂时不会支持自定义；提及功能命名、别名都有效果，具体细节请参考帮助文档。
+* 💬 [思源安卓查看笔记代码体验非常差](https://ld246.com/article/1623333434684/comment/1623334856892#comments)
 
-  > 内置变量移除了，queryBlocks 支持传参，请参考帮助文档。
-* 💬 [有关图片导出的问题](https://ld246.com/article/1623270925861/comment/1623282505227#comments)
+  > 感谢反馈，后续改进。 [链接]
+* 💬 [块折叠后外观不够直观](https://ld246.com/article/1623329219760/comment/1623329544962#comments)
 
-  > 最新版已经支持带 assets 导出。
-* 💬 [1.2 版本主题不显示图片且以前的 1.183 主题标题列表样式颜色等丢失](https://ld246.com/article/1623254580423/comment/1623256891764#comments)
+  > 有外圈的是折叠过的，应该比较直观了……
+* 💬 [代码块 markdown 支持中文符号](https://ld246.com/article/1623318683736/comment/1623323580070#comments)
 
-  > 你好，新版本不兼容老的主题，升级到 v1.2.0 以后请使用新主题。图片不显示多半是网络原因，请稍后再试。
+  > 好的，后面改进。
 
 
 <!--events end -->
