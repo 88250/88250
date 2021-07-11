@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2021-07-10 16:17:08`
+每天自动刷新，最近更新时间：`2021-07-11 16:16:59`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [beta 16 无法编辑](https://ld246.com/article/1625886772365/comment/1625888936647#comments)
+* 💬 [莫名丢失数据](https://ld246.com/article/1625966107469/comment/1625985581834#comments)
 
-  > 已经确认问题，是因为编辑器分屏以后有的编辑器页签太窄，导致了面包屑部分计算卡死。这个问题会在 v1.2.0-rc1 修复。
-* 💬 [Win10 beta16 无法正常关闭软件](https://ld246.com/article/1625882428587/comment/1625888811787#comments)
+  > 折叠标题后移动的 bug 下个版本修复，其他情况还请多帮忙留意，谢谢。
+* 💬 [[性能提升建议]- 同一张图片复制后仅保留一份避免多次复制多个冗余副本](https://ld246.com/article/1625912278890/comment/1625968468209#comments)
 
-  > 好的，请再留意一下。
-* 💬 [beta 16 无法编辑](https://ld246.com/article/1625886772365/comment/1625886913304#comments)
+  > 我的意思就是复制应该是新文件……引用功能现在还没做，但是可以手动通过链接引用。
+* 💬 [Pipe 开发指南](https://ld246.com/article/1533965022328/comment/1625968332678#comments)
 
-  > 请切换到默认主题以后再看看。
-* 💬 [Win10 beta16 无法正常关闭软件](https://ld246.com/article/1625882428587/comment/1625885578814#comments)
+  > 用的是宿主机网络么？
+* 💬 [beta16 表格居中只能影响到光标所在的一列](https://ld246.com/article/1625967046720/comment/1625968235798#comments)
 
-  > “被强制关闭”麻烦描述一下细节 “不停地删除和新建一些块”这个需要等待数据完全保存才能退出
-* 💗📝 [Docker 无法导出 markdown](https://ld246.com/article/1625847002422)
+  > 你好，确实只能按列调整对齐方式。
+* 💬 [莫名丢失数据](https://ld246.com/article/1625966107469/comment/1625968169378#comments)
 
-  > 原因是 docker 部署在服务器上，通过公网 IP 访问，但是导出 markdown 时却自动跳转到了 localhost。 这个应该是 bug 吧？ [图片] 日志如下，无异常： [图片]
-* 💬 [Docker 无法导出 markdown](https://ld246.com/article/1625847002422/comment/1625876004776#comments)
+  > 请问是否在标题折叠后移动过？
+* 💗📝 [导出 md 文件出现列表标志符号及 $$ 重复](https://ld246.com/article/1625926809058)
 
-  > 已经确认是个 bug，在 [链接] 中修复，谢谢反馈。
-* 💬 [Solo 用户指南](https://ld246.com/article/1492881378588/comment/1625849507107#comments)
+  > 如图 [图片] 附件如下： [链接]
+* 💬 [导出 md 文件出现列表标志符号及 $$ 重复](https://ld246.com/article/1625926809058/comment/1625927695698#comments)
 
-  > 我记得是默认启用的，但是和皮肤相关，有的皮肤有 pjax 有的没有。
-* 💬 [Docker 无法导出 markdown](https://ld246.com/article/1625847002422/comment/1625848736780#comments)
+  > 感谢反馈，在 [链接] 中修复。
+* 💬 [[性能提升建议]- 同一张图片复制后仅保留一份避免多次复制多个冗余副本](https://ld246.com/article/1625912278890/comment/1625920980905#comments)
 
-  > 是的，设置了试试看。
+  > 复制的逻辑应该就是副本 后面会引用资源文件自动提示，这样就是同一个文件了
 
 
 <!--events end -->
