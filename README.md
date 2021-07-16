@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2021-07-15 16:17:44`
+每天自动刷新，最近更新时间：`2021-07-16 16:18:52`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [MacOS 10.11.6 无法打开思源笔记软件](https://ld246.com/article/1626333080822/comment/1626335210499#comments)
+* 💬 [未引用资源加载很慢](https://ld246.com/article/1626174540864/comment/1626401999958#comments)
 
-  > 抱歉了，这个版本的 macOS 思源支持不了，需要大于这个版本的。
-* 💬 [关于思源笔记同步](https://ld246.com/article/1626321965351/comment/1626333716005#comments)
+  > 请问你的工作空间下面所有笔记本加起来大概多少个文档？
+* 💬 [20210716 TGIF](https://ld246.com/article/1626399400038/comment/1626401318266#comments)
 
-  > 目前只有备份功能，即在 A 设备上手动上传备份，B 设备上下载恢复。 同步功能正在开发，会在 v1.3.0 上线，谢谢。
-* 💬 [MacOS 10.11.6 无法打开思源笔记软件](https://ld246.com/article/1626333080822/comment/1626333568917#comments)
+  > 物理上云可还行……
+* 💗📝 [1.2.0 正式版 查询笔记本失败](https://ld246.com/article/1626397956190)
 
-  > 你好，请上传一下工作空间/conf/siyuan.log 谢谢
-* 💬 [列表聚焦容易误触](https://ld246.com/article/1626332697254/comment/1626333534569#comments)
+  > 不定期出现打开原本好好的笔记本突然报“”查询笔记本失败“”，重新打开该笔记本才可以。 [图片]
+* 💬 [1.2.0 正式版 查询笔记本失败](https://ld246.com/article/1626397956190/comment/1626399531418#comments)
 
-  > 你指的是点击小圆点进入聚焦么？如果是的话这个估计不会移除，因为这个是个特性……
-* 💬 [1.2 本地图片资源变成未引用资源](https://ld246.com/article/1622724164896/comment/1626320448652#comments)
+  > 感谢反馈，v1.2.1 修复。 [图片] 打开帮助文档后引起的未找到内容块 · Issue #2432 · siyuan-note/siyuan Describe the problem 打开两本笔记本的时候，点击另一本笔记本的文档会出现未找到内容块问题 Screenshot or screen recording p ..
+* 💬 [思源笔记 docker 安装后无法登陆。](https://ld246.com/article/1626389361514/comment/1626393755156#comments)
 
-  > 能否发一份数据集给我 [链接]
-* 💬 [现在的路径搜索是怎么使用的](https://ld246.com/article/1626319922010/comment/1626320055916#comments)
+  > 增加启动参数 --authCode=BEYOND 可以禁用鉴权，也可以改为其他密码。
+* 💬 [[体验与建议]- 把触发 (聚焦 / 进入书签 /...) 等动作的条件改为双击](https://ld246.com/article/1626363697025/comment/1626364702055#comments)
 
-  > 编辑器划选待搜索关键字或者文档树上选择文档/文件夹以后 Ctrl F
-* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1626316557694)
+  > 这几个地方暂时不动了，等后面收集多一些反馈再考虑，谢谢。
+* 💗📝 [[需求]- 导入 markdown 文档时, 能否将 markdown 中本地的图片一起导入?](https://ld246.com/article/1626354402024)
 
-  > [链接]
-* 💬 [大型复杂公式显示问题](https://ld246.com/article/1626266983540/comment/1626274122307#comments)
+  > 场景与需求 思源笔记可以导入 markdown 文档, 但是 markdown 文档的图片(本地存储), 并不能一起导入 导入 markdown 文档时, 能否将 markdown 中本地的图片一起导入?
+* 💬 [[需求]- 导入 markdown 文档时, 能否将 markdown 中本地的图片一起导入?](https://ld246.com/article/1626354402024/comment/1626364633758#comments)
 
-  > [图片] 我这里正常，可能是主题的缘故吧，你试下默认主题是否正常，如果正常的话麻烦给该主题作者提 issue 😁
+  > 导入文档目前确实不会导入相对路径的 assets，这个功能会在下个版本中加入，谢谢。
 
 
 <!--events end -->
