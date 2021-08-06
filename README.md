@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2021-08-05 16:17:48`
+每天自动刷新，最近更新时间：`2021-08-06 16:18:09`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💗📝 [【反馈建议】很难受的无序列表复制粘贴的体验](https://ld246.com/article/1628135252007)
+* 💬 [思源笔记终身买断帐号回购](https://ld246.com/article/1609818892117/comment/1628219372466#comments)
 
-  > [视频] 因为文字功底不好，不知道怎么描述，所以录成视频演示出来了 😊。
-* 💬 [【反馈建议】很难受的无序列表复制粘贴的体验](https://ld246.com/article/1628135252007/comment/1628136143624#comments)
+  > 目前我们还没有回购到，可以考虑加一下思源笔记用户 QQ 群（724713327），因为大部分早期买断账号的用户都在群里，可以试着问一下群里是否有人要出，谢谢。
+* 💬 [1.2.31 内核中断复现](https://ld246.com/article/1628175697591/comment/1628175808220#comments)
 
-  > 嗯，这里的确和使用预期不太符合，因为复制列表项后粘贴是自动创建新列表，而不是在已有列表中找个合适的位置进行插入，后面优化看看，感谢反馈。 [链接]
-* 💬 [Mac OS 12 beta4 系统安装 rsync 失败](https://ld246.com/article/1628133006177/comment/1628135893597#comments)
+  > 麻烦升级到 v1.2.31 看看，谢谢。
+* 💬 [模板提交了好像没生效](https://ld246.com/article/1628164134372/comment/1628165664369#comments)
 
-  > 试下把 Homebrew 完全卸载： /bin/bash -c '$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/uninstall.sh)' 然后重新安装： /bin/bash -c '$(curl -fsSL https:// ..
-* 💬 [有序列表调整困难 &amp; 内核中断](https://ld246.com/article/1628130474806/comment/1628133312001#comments)
+  > 刚刚部署好了，如果需要部署可以在开发者群里面吼一声，谢谢。
+* 💬 [模板提交了好像没生效](https://ld246.com/article/1628164134372/comment/1628165400243#comments)
 
-  > 你好， 重置一次快捷键以后再试试 Tab 列表超级块的操作步骤能否帮忙录屏一下，谢谢
-* 💬 [Mac OS 12 beta4 系统安装 rsync 失败](https://ld246.com/article/1628133006177/comment/1628133214679#comments)
+  > 集市部署是手动的，稍等我们部署一下，感谢贡献。
+* 💗📝 [Mac OS 12 beta4 系统安装 rsync 失败](https://ld246.com/article/1628133006177)
 
-  > 先更新一下 Homebrew 试试。
-* 💬 [请问思源笔记是否有开展第三方安全审查的计划？](https://ld246.com/article/1628082030880/comment/1628132822260#comments)
+  > Last login: Thu Aug** **5 10:11:11 on console [链接] ~ % brew install rsync Warning: You are using macOS 12. We do not provide support for this pre-release versio ..
+* 💬 [Mac OS 12 beta4 系统安装 rsync 失败](https://ld246.com/article/1628133006177/comment/1628163099209#comments)
 
-  > 代码方面暂时没有计划，也许后面会考虑相关安全认证。
-* 💬 [请问思源笔记是否有开展第三方安全审查的计划？](https://ld246.com/article/1628082030880/comment/1628121865128#comments)
+  > 感谢帮忙，v1.2.5 会使用系统自带的 rsync 进行兜底。
+* 💬 [Mac OS 12 beta4 系统安装 rsync 失败](https://ld246.com/article/1628133006177/comment/1628162033819#comments)
 
-  > 同步到云端的数据是加密过的，除非使用者提供密码，否则无法解密，也就无法审查。
-* 💬 [文档内显示的文档被引用数量不正确](https://ld246.com/article/1628096130042/comment/1628121248947#comments)
+  > 对了，你的系统是苹果芯片（M1）吗？另外，能帮忙看下 /usr/bin/rsync --version 返回的 rsync 版本号吗？
+* 💬 [内容块之间的链接 - 快捷键提议](https://ld246.com/article/1628158780712/comment/1628159479291#comments)
 
-  > 文档树上目录的数字是该目录下文档的数量，不是引用数。 v1.2.5 以后会从文件夹迁移到子文档，这样就不存在文件夹了，该数字统一为引用数。
+  > v1.2.5 实现，感谢反馈。
 
 
 <!--events end -->
