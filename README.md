@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2021-11-29 16:20:31`
+每天自动刷新，最近更新时间：`2021-11-30 16:17:00`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [无法显示太大太长的图片](https://ld246.com/article/1638170243527/comment/1638173993670#comments)
+* 💬 [对 PDF 功能的一点点建议：](https://ld246.com/article/1638246116298/comment/1638260167196#comments)
 
-  > 方便把该图片文件打包上传一下吗？我们方便测试，谢谢。
-* 💬 [功能建议: 增加选择用 enter 或者 shift+enter 开启新块的选项](https://ld246.com/article/1638170158524/comment/1638173964245#comments)
+  > 感谢反馈，GitHub 上已经回复你了。
+* 💬 [脑图后期可以支持链接吗？](https://ld246.com/article/1638242936200/comment/1638243528431#comments)
 
-  > 这个后期考虑，感谢提议。
-* 💬 [功能建议: 搜索功能增加文本类型的过滤条件](https://ld246.com/article/1638169114955/comment/1638173900437#comments)
+  > 现有的脑图后面我们会做一些改进，更长期的计划请关注 [链接]
+* 💗💬 [思源笔记的输入界面](https://ld246.com/article/1638156365762/comment/1638240924143#comments)
 
-  > 请关注 [链接]
-* 💬 [思源笔记的输入界面](https://ld246.com/article/1638156365762/comment/1638173791365#comments)
+  > 他应该是指类似语雀的‘小记’ 或者这样[图片] 但其实用 daily note，实现的功能是一样的
+* 💬 [Lute 一款对中文语境优化的 Markdown 引擎，支持 Go 和 JavaScript](https://ld246.com/article/1567047822949/comment/1638238226377#comments)
 
-  > 你好，你指的是展现形式么？
-* 💬 [本地（不同步）文件移动到同步的文件夹内资源文件同步问题](https://ld246.com/article/1638007677051/comment/1638173698833#comments)
+  > 之前我们用过 marked 和 markdown-it，当时是因为上面提到的原因最后转向自研。最近几年没有跟进了，这些问题不知道是否还存在。
+* 💗📝 [云空间显示的小 bug](https://ld246.com/article/1638235339844)
 
-  > 图片的链接地址麻烦截图发一下，另外，麻烦使用 Android 的文件管理器在 内部存储设备/Android/data/org.b3log.siyuan/files/siyuan/data/assets/ 下看看是否存在该文件。
-* 💬 [文本解析问题](https://ld246.com/article/1638152622654/comment/1638153947109#comments)
+  > 邀请人数已经超过了 32 人，但设置界面里的云空间一直显示为 23.5 GB
+* 💬 [云空间显示的小 bug](https://ld246.com/article/1638235339844/comment/1638236385431#comments)
 
-  > 普通文本需要转义 \$ 两个 $$ 就开启了公式块 ^ 是上标语法，如果出现在公式里的话会 KaTex 会解析 感谢反馈。
-* 💬 [改进聚焦模式](https://ld246.com/article/1637919826896/comment/1638153785576#comments)
+  > 感谢反馈，在 [链接] 中修复。
+* 💬 [笔记在自定义排序下，新建笔记怎么能默认排在最下面](https://ld246.com/article/1638233884753/comment/1638234613207#comments)
 
-  > 暂时先不动其他地方了，先考虑将折叠和聚焦的操作入口分开。
-* 💬 [改进聚焦模式](https://ld246.com/article/1637919826896/comment/1638151832153#comments)
+  > [链接]
+* 💬 [本地（不同步）文件移动到同步的文件夹内资源文件同步问题](https://ld246.com/article/1638007677051/comment/1638234572250#comments)
 
-  > 聚焦的主要作用是专注当前块，如果交互步骤太多的话就失去这个功效了。
+  > 试下从界面上重新插入这个文件，不要手动从文件系统上复制到 assets 下。
 
 
 <!--events end -->
