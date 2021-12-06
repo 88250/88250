@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2021-12-05 16:19:40`
+每天自动刷新，最近更新时间：`2021-12-06 16:20:43`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [在思源笔记中怎样添加 iconfont 图标？](https://ld246.com/article/1638678752117/comment/1638690529839#comments)
+* 💬 [能不能在页面下方显示该页被哪些页面引用了](https://ld246.com/article/1638763177401/comment/1638763808782#comments)
 
-  > png 或者 jpg
-* 💬 [安卓导航栏 选取笔记和折叠经常按错](https://ld246.com/article/1638587511726/comment/1638690355070#comments)
+  > 可以试试 Alt+7 打开反向链接面板。 [链接]
+* 💬 [建议：搜索相关的设置，最好放在搜索的地方](https://ld246.com/article/1638762930907/comment/1638763273614#comments)
 
-  > 移动端的改进只能一点点来。
-* 💬 [发现一枚小 bug，序号乱码。](https://ld246.com/article/1638633254552/comment/1638690218183#comments)
+  > 这个估计要等支持类型过滤以后再看 [链接]
+* 💬 [能否多提供几种有序列表的编号格式？](https://ld246.com/article/1638760953749/comment/1638761971250#comments)
 
-  > 我这里暂时重现不了，后续我们会重写代码编辑器。
-* 💬 [在思源笔记中怎样添加 iconfont 图标？](https://ld246.com/article/1638678752117/comment/1638679361270#comments)
+  > 你好，这个不会支持，可以考虑通过自定义主题 CSS 实现。
+* 💬 [查询反链时，如果内容在已折叠的块中希望能自动展开并且聚焦](https://ld246.com/article/1638759394691/comment/1638760561683#comments)
 
-  > 你好，这个不支持的，仅支持图片格式的单个文件作为自定义图标。
-* 💬 [思源支持非 Markdown 文本（即普通文本）](https://ld246.com/article/1638675478398/comment/1638676912302#comments)
+  > 暂时不调整了，请关注 [链接]
+* 💬 [建议增加快捷键：在不同页签之间切换](https://ld246.com/article/1638756486869/comment/1638756777132#comments)
 
-  > 抱歉，不支持。
-* 💗📝 [块移动到新的文档下面, 块的 update time 不会更新](https://ld246.com/article/1638633262097)
+  > 请关注 [链接]
+* 💬 [建议增加刷新图片的功能](https://ld246.com/article/1638708933760/comment/1638756744803#comments)
 
-  > 目前来看: 只要不改变块的内容, 只是拖动, 无论本文档的块顺序调整, 还是移动到新文档, update time 都不会更新. 是否能增加一个选项支持改变块位置后 update time 也进行更新呢? 我自己的需求是: 只要移动块位置了, 需要 update time 也会进行更新, 不知道目前有没有什么解决方案啊 ..
-* 💬 [块移动到新的文档下面, 块的 update time 不会更新](https://ld246.com/article/1638633262097/comment/1638667214631#comments)
+  > 外部修改目前不会考虑做监听，因为有一些其他情况可能会引起文件变动（比如同步）。
+* 💬 [希望增加 enter 与 shift+enter 切换的功能](https://ld246.com/article/1638754123690/comment/1638754778226#comments)
 
-  > 感谢反馈，先记录 [链接]
-* 💬 [发现一枚小 bug，序号乱码。](https://ld246.com/article/1638633254552/comment/1638667103737#comments)
+  > 你好，这个暂时不会考虑，感谢提议。
+* 💬 [浏览器方式下导出没有 pdf](https://ld246.com/article/1638731522848/comment/1638751767841#comments)
 
-  > 你好，使用的是默认主题吗？
+  > 是的，浏览器端不支持导入导出。
 
 
 <!--events end -->
