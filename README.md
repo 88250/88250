@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2021-12-28 16:21:31`
+每天自动刷新，最近更新时间：`2021-12-29 16:21:07`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [内容标题的 emoji 是黑白的](https://ld246.com/article/1640675103594/comment/1640675575952#comments)
+* 💗💬 [table 中使用 * 的异常](https://ld246.com/article/1640689090819/comment/1640765489781#comments)
 
-  > 是否最近升级过操作系统？
-* 💬 [同步失败，无法使用软件](https://ld246.com/article/1640670879281/comment/1640672759149#comments)
+  > [图片]
+* 💬 [table 中使用 * 的异常](https://ld246.com/article/1640689090819/comment/1640765819287#comments)
 
-  > 将工作空间 conf 和 data 复制到新的工作空间路径下，然后切换到新的工作空间试试。
-* 💬 [关于导出 Word 的机制](https://ld246.com/article/1638283280873/comment/1640672677392#comments)
+  > 明白了，这个问题暂时没法修复，后续请关注 [链接]
+* 💬 [华为手机思源笔记 1.55 无法调取输入法](https://ld246.com/article/1640754593585/comment/1640764996373#comments)
 
-  > 这个 #3592 没有关闭过，v1.5.5 关闭的是 [链接]
-* 💬 [[bug]1.5.5 依然还有这个问题 当被标记的文字相连时, 按回车会出现 ===== 字符](https://ld246.com/article/1640672085298/comment/1640672608990#comments)
+  > 可能是 bug，但是我们这里没有真机可以确认问题，暂时无法修复，抱歉抱歉。
+* 💬 [思源 IOS 可不可以访问 PC 或 Docker？](https://ld246.com/article/1640759765237/comment/1640763673701#comments)
 
-  > 继续编辑的时候应该会消除，更进一步的改进估计要等 [链接] 这个完成了。
-* 💗📝 [[思源笔记主题同步] 分享一个同步自定义主题的方案](https://ld246.com/article/1640660343654)
+  > 你好，目前没有计划进行支持。
+* 💬 [【SQL】如何查询 7 天内做的笔记？](https://ld246.com/article/1640525267297/comment/1640762649677#comments)
 
-  > 缘由 由于思源笔记的主题放在 conf\appearance\themes 目录中, 因此如果更改了主题的 theme.css 或 custom.css 在使用官方同步服务时无法同步到其他设备, 这在不方便访问文件系统的终端(例如移动端, Docker 服务端)不易应用自定义主题, 因此我想出了用过 CSS 的 @im ..
-* 💬 [关于导出 Word 的机制](https://ld246.com/article/1638283280873/comment/1640669287465#comments)
+  > 请参考这里 [链接]
+* 💬 [关于教育优惠的建议](https://ld246.com/article/1640751855228/comment/1640762594072#comments)
 
-  > 格式参数已经写死了是 docx 的，所以再指定的话会有冲突；还是等这个吧 [链接]
-* 💬 [望属性窗口支持 enter 键确认](https://ld246.com/article/1640654372192/comment/1640669110556#comments)
+  > 我们实在没有能力做审核验证，感谢理解。
+* 💬 [希望可以增加同时打开多个工作区的特性](https://ld246.com/article/1640737073438/comment/1640744096996#comments)
 
-  > 这个不能自定义的。
-* 💬 [插入项支持更多类型](https://ld246.com/article/1640658151632/comment/1640658623427#comments)
+  > 支持不了同时多开工作空间，抱歉了。
+* 💬 [云同步非常不好使](https://ld246.com/article/1640707527590/comment/1640744013371#comments)
 
-  > 对于外部网页应用可以考虑使用 /iframe 进行插入 超链接卡片以后可能会支持 感谢反馈。
+  > 现在启动时同步失败会出现遮罩提示的。
 
 
 <!--events end -->
