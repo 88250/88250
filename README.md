@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2022-01-01 16:20:43`
+每天自动刷新，最近更新时间：`2022-01-02 16:20:33`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [同步问题，批注，自定义属性](https://ld246.com/article/1641000702131/comment/1641006830499#comments)
+* 💬 [你们都没有一点分享需求吗？](https://ld246.com/article/1641094481602/comment/1641094693940#comments)
 
-  > 这两个文件夹都在工作空间文件夹下面，不支持独立设置 目前数据有变更的话需要全量重建索引，后面我们会尝试进行增量索引 请关注 [链接] 如果要做的话会重新打开这个 issue 可以考虑使用模板 可以考虑使用聚焦缩放 暂时不考虑了，参考 5 感谢反馈。
-* 💬 [如何修改思源笔记备份目录？](https://ld246.com/article/1641002111776/comment/1641006516025#comments)
+  > 请关注这两个 issues： [链接] [链接]
+* 💗📝 [最新版本 1.6.1 启动失败 MacOS](https://ld246.com/article/1641094274357)
 
-  > 工作空间/backup 目录是用于思源云端备份使用的，不支持修改路径 如果你需要手动备份的话，备份 data 文件夹即可
-* 💗🗣 [取消 1.5.6 版本的提权](https://ld246.com/article/1640842911941/comment/1640852023467#comments)
+  > 最新版本 1.6.1 启动失败 MacOS 从 GitHub 下载了 .dmg，启动失败。双击图标，图标在 dock 跳了跳就闪退了。 尝试用指令行启动，才发现了错误信息打印。提示 $HOME/.config/siyuan 无法打开。发现我的 .config 路径是 root 的，应用程序无权创建路径，于是错误退出。修 ..
+* 💗📝 [将笔记本导出到本地时出现问题](https://ld246.com/article/1640778961793)
 
-  > 谢谢回复。顺祝元旦快乐
-* 💬 [Ctrl+F 可否包含嵌入块的内容？](https://ld246.com/article/1632060589326/comment/1640957455712#comments)
+  > 一般对笔记本选择导出后会弹出网页来下载文档，但最近会变成如图所示。 不知道这种情况该如何解决？ [图片]
+* 💬 [将笔记本导出到本地时出现问题](https://ld246.com/article/1640778961793/comment/1641094036204#comments)
 
-  > 嗯，新年快乐 🎉
-* 💗💬 [博客后台管理账号登录不了的问题](https://ld246.com/article/1640693771481/comment/1640956480949#comments)
+  > 已经定位到问题，会在 [链接] 中修复。 问题是因为笔记本名称为空白导致，你设置一下笔记本名称就可以导出了，感谢提供数据帮助我们定位问题 🙏
+* 💬 [求助：1.60 版本，同步备份数据失败](https://ld246.com/article/1641091357970/comment/1641091934821#comments)
 
-  > 解决了。将 adminRole 和 visitorRole 这两个角色互换了下 OK 了。感谢解答哈。新年快乐~🎉
-* 💬 [Ctrl+F 可否包含嵌入块的内容？](https://ld246.com/article/1632060589326/comment/1640955274745#comments)
+  > 刚刚云端服务被攻击了，现在应该已经恢复。
+* 💗💬 [iframe 点击无法打开菜单](https://ld246.com/article/1641030067004/comment/1641032985153#comments)
 
-  > 没有找到解决方案，先放弃了。
-* 💬 [局域网 web 访问思源笔记插图不能直接贴图](https://ld246.com/article/1640938674807/comment/1640955052677#comments)
+  > 同报，windows/linux 版都有这问题
+* 💗📝 [关于思源、Supermemo、BookxNote 联动的尝试](https://ld246.com/article/1641054269232)
 
-  > 用浏览器的话访问不了系统上的文件，所以没有办法直接粘贴，拖拽应该可以。
-* 💬 [思源笔记如何实现工作区 (Workspace) 功能呢？](https://ld246.com/article/1640951603825/comment/1640955002623#comments)
+  > 本次分享三个 Quicker 动作。 第一个：摘录 + 补充信息 - 动作信息 - Quicker (getquicker.net) 在 BookxNote 摘录阅读内容进 Supermemo 前设置好书名、作者及思源中关于本书的块超链。在 Supermemo 渐进阅读的过程中可以跳转回 BookxNote 查看上下文 ..
+* 💬 [将笔记本导出到本地时出现问题](https://ld246.com/article/1640778961793/comment/1641055519962#comments)
 
-  > 应该是实现不了。
+  > 方便的话请把整个 data 文件夹打包发送，谢谢。
 
 
 <!--events end -->
