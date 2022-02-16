@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2022-02-15 16:19:28`
+每天自动刷新，最近更新时间：`2022-02-16 16:18:47`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [关于模板功能的一些建议](https://ld246.com/article/1626178395977/comment/1644886726698#comments)
+* 💬 [【bug 反馈】笔记丢失，整个父文件都消失了](https://ld246.com/article/1644983270609/comment/1644983388322#comments)
 
-  > 到工作空间/data/templates 文件夹下手动删。
-* 💬 [列表项块和列表块是否能够统一](https://ld246.com/article/1644854839093/comment/1644859626037#comments)
+  > 试试从历史恢复。
+* 💬 [搜索界面改进建议](https://ld246.com/article/1644897880895/comment/1644979112192#comments)
 
-  > 应该无法统一，因为需要区分引用列表和列表项的情况。
-* 💬 [关于模板功能的一些建议](https://ld246.com/article/1626178395977/comment/1644852811778#comments)
+  > [链接]
+* ⭐️👨‍💻 [nanmu42](https://ld246.com/member/nanmu42)
 
-  > 导出 - 模板
-* 💬 [代码块缩进问题](https://ld246.com/article/1644822204476/comment/1644843822387#comments)
+  > 
+* 💬 [搜索界面改进建议](https://ld246.com/article/1644897880895/comment/1644972269843#comments)
 
-  > 粘贴时 Tab 不会被替换为空格，思源中 Tab 默认是 8 个空格。可以考虑在外部将 Tab 替换为需要个数的空格后再粘贴。
-* 💬 [思源笔记列表问题](https://ld246.com/article/1644829285485/comment/1644843735825#comments)
+  > 之前对比过，上下分屏更好一些。
+* 💬 [最近这几天 jsdelivr 是不是经常抽风](https://ld246.com/article/1644860393241/comment/1644938706857#comments)
 
-  > 我这里暂时重现不了，麻烦再观察看看，谢谢。
-* 💬 [PDF 功能意见](https://ld246.com/article/1644837662527/comment/1644843693738#comments)
+  > 切换到其他 CDN 上吧。
+* 💬 [排版问题，请教各位，换行自动缩进，谢谢！](https://ld246.com/article/1644896593540/comment/1644938649083#comments)
 
-  > 从之前收集的反馈来看，大部分用户觉得鼠标悬浮预览更方便一些。
-* 💬 [pdf 的笔记导出 pdf](https://ld246.com/article/1644842372747/comment/1644843629654#comments)
+  > 应该是实现不了。
+* 💬 [关于模板功能的一些建议](https://ld246.com/article/1626178395977/comment/1644938534197#comments)
 
-  > 设置 - 导出 - PDF 标注引用
-* 💬 [如何关闭 katex 解析](https://ld246.com/article/1644753388554/comment/1644843582900#comments)
+  > 通过安装包安装的实现不了自更新。但通过商店安装的可以在商店里更新，我们正在上架微软商店，下个版本应该就能通过商店安装了。
+* 💗💬 [思源将来会 database 功能吗？](https://ld246.com/article/1644907839875/comment/1644916038302#comments)
 
-  > Markdown 语法的解析没有选项可以关闭。
+  > 我们应该不会开发和 Notion 一样的 database 功能，但是有类似的方案可以进行数据汇总展示，请关注 [链接] 这是 D 大今年 1 月在 [链接] 提到的。
 
 
 <!--events end -->
