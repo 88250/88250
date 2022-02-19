@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2022-02-18 16:19:10`
+每天自动刷新，最近更新时间：`2022-02-19 16:04:45`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [如何重置端到端加密密码？](https://ld246.com/article/1640499322555/comment/1645159130087#comments)
+* 💬 [关于思源 SQL 查询显示](https://ld246.com/article/1645242610308/comment/1645243678529#comments)
 
-  > 请参考帮助文档常见问题。
-* 💬 [表格 bug 反馈](https://ld246.com/article/1645106364288/comment/1645153160688#comments)
+  > 可考虑增加需要的类型，使用 OR 逻辑。
+* 💬 [IOS 端打不开](https://ld246.com/article/1645232083514/comment/1645240330354#comments)
 
-  > 方便的话请将该文档 .sy 文件发送给我 [链接] 谢谢
-* 💬 [【bug 反馈】列表切换，重建索引，高频出现路径](https://ld246.com/article/1644984299071/comment/1645151528059#comments)
+  > 那很有可能是设备不兼容，这个目前没法解决，抱歉抱歉。
+* 💬 [表格 bug 反馈](https://ld246.com/article/1645106364288/comment/1645237366958#comments)
 
-  > 传一下吧，谢谢。
-* 💬 [chrome 剪藏插件失效、文档树点击漂移](https://ld246.com/article/1645149127571/comment/1645150894331#comments)
+  > 感谢提供测试数据，已经能够重现问题。暂时还不清楚问题成因，目前可以通过手动修改 .sy 来修正，将这行删掉： [图片]
+* 💬 [IOS 端打不开](https://ld246.com/article/1645232083514/comment/1645233603139#comments)
 
-  > 和 [链接] 是同一个问题吗？
-* 💬 [为什么没法导入本地或云端的笔记](https://ld246.com/article/1645120739613/comment/1645146737308#comments)
+  > 思源版本是最新版么？
+* 💗📝 [1.8.2 超级块的属性问题](https://ld246.com/article/1645198065414)
 
-  > 之前使用的是 1.2.7 之前的版本的话需要进行数据迁移，请参考 [链接]
-* 💬 [【bug？】连续调用 api 导致查询失败](https://ld246.com/article/1645110837749/comment/1645113748694#comments)
+  > 当第一个内容块是段落的时候是没有 bug 的,但是当第一个内容块是标题时,其属性依旧会被设置为超级块的属性 {{{ ###### 123 {: custom-type='card'} 2022-02-18 23:22:27 {: custom-type='datetime'} content }}}
+* 💬 [1.8.2 超级块的属性问题](https://ld246.com/article/1645198065414/comment/1645201185428#comments)
 
-  > 数据是异步入库的，间隔大约是 3s 左右，写文件是实时的。
-* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1645110855497)
+  > 感谢反馈，先记录 [链接]
+* 💬 [mermaid 渲染延迟出现](https://ld246.com/article/1645199315785/comment/1645199649947#comments)
 
-  > 无论拿起何种武器，都要记得提醒自己这是一把双刃剑。
-* 💬 [【bug 反馈】列表切换，重建索引，高频出现路径](https://ld246.com/article/1644984299071/comment/1645106990693#comments)
+  > 麻烦使用默认主题测试看看。
+* 💬 [思源笔记 1.8.2 大文档操作崩溃](https://ld246.com/article/1645191697282/comment/1645192674967#comments)
 
-  > 方便提供一下 .sy 给我吗？ [链接]
+  > 请帮忙留意能够重现该问题的具体操作步骤，谢谢。
 
 
 <!--events end -->
