@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2022-03-09 16:07:09`
+每天自动刷新，最近更新时间：`2022-03-10 16:06:32`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [导出 html 时，能否提供可选的导航 sidebar 选项？](https://ld246.com/article/1646799025678/comment/1646799632057#comments)
+* 💬 [建议嵌入块双击进入嵌入块页面，](https://ld246.com/article/1646883446151/comment/1646887518922#comments)
 
-  > 暂时不考虑，抱歉。
-* 💬 [MicrosoftStore 版本的思源笔记外链跳转有问题](https://ld246.com/article/1646792941058/comment/1646797708768#comments)
+  > 单击块标或者右键都可以选择的。
+* 💬 [新建文档建议直接新建一个默认名称的文档](https://ld246.com/article/1625620385683/comment/1646881869185#comments)
 
-  > 安装后第一次启动会弹。
-* 💬 [DailyNote 特性提议](https://ld246.com/article/1646793406721/comment/1646794360996#comments)
-
-  > 这两个特性可能要通过社区挂件解决了，我们暂时不会考虑引入到主程序中，感谢理解。
-* 💬 [MicrosoftStore 版本的思源笔记外链跳转有问题](https://ld246.com/article/1646792941058/comment/1646794227829#comments)
-
-  > 启动的时候已经允许申请协议使用权限了吗？
-* 💬 [为什么坚决不考虑新建笔记的位置问题呢？](https://ld246.com/article/1646791579341/comment/1646794046364#comments)
+  > 帮助文档中搜索模板片段。
+* 💬 [思源笔记多笔记拖动](https://ld246.com/article/1646878150345/comment/1646880324289#comments)
 
   > [链接]
-* 💬 [贡献系统](https://ld246.com/article/1531283103334/comment/1646793806815#comments)
+* 💬 [对标签设置背景之后, 光标不显示](https://ld246.com/article/1646878597211/comment/1646880260664#comments)
 
-  > 暂时还不能确定问题，请暂时不要修改任何设置，等 24 小时以后（大概明天中午 11 点）再看看，如果还是有问题，我们再继续定位。
-* 💬 [建议增加禁用笔记本日记的开关](https://ld246.com/article/1646790604354/comment/1646790849832#comments)
+  > 我这里正常，不确定是否是主题影响。
+* 💗📝 [浅谈 Heptabase 创始人 Alan 的设计理念](https://ld246.com/article/1646875416551)
 
-  > 选择一次以后用 Alt+5 就会沿用上次的选择。
-* 💬 [上传视频或文件时被告知大于 1G 的不能上传，能否支持更大容量的视频或文件上传](https://ld246.com/article/1646784456897/comment/1646787762073#comments)
+  > 2022.3.10：浅谈 Heptabase 创始人 Alan 的设计理念 这里是思源笔记频道的驿站子频道，我是大米，会不定期分享自己在《学习科学与技术》这个领域上的探索，本次为大家带来的是我在看完'Heptabase'创始人 Alan Chan 直播后的一些想法。 Alan 是 heptabase 的共同创始人之一， ..
+* 💬 [Solo 登录报错 401 Unauthorized!](https://ld246.com/article/1646834937535/comment/1646841432855#comments)
 
-  > 感谢反馈，在 [链接] 中调整。
+  > 如果不是最新版的话请升级到最新版。
+* 💬 [solo 的导航菜单是否支持设置二级菜单？](https://ld246.com/article/1646820923319/comment/1646841373454#comments)
+
+  > 应该不会添加了。
+* 💗📝 [[思源笔记经验分享] 整篇文档的复制 / 剪切 (以 Markdown 格式) 与删除](https://ld246.com/article/1646806146533)
+
+  > 背景 由于思源所见即所得编辑器内容是动态加载的, 因此使用快捷键 Ctrl + A 是无法选中未动态加载出来的块, 但是许多时候我们需要 Markdown 全文的 复制, 剪切 与 删除 简介 主题 [链接] 在 v0.4.1 中又更新的几个小功能: 使用快捷键 Shift + Alt + C 将当前文章的 Markd ..
 
 
 <!--events end -->
