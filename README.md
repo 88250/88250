@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2022-04-19 16:05:03`
+每天自动刷新，最近更新时间：`2022-04-20 16:05:11`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [请问有无可能加入两个功能](https://ld246.com/article/1650313448901/comment/1650343045090#comments)
+* 💬 [请问导出 PDF 为什么一定要把图片一起导出啊？](https://ld246.com/article/1650424852727/comment/1650438760485#comments)
 
-  > 这个估计只能靠挂件扩展了，请参考帮助文档中的挂件章节。
-* 💬 [思源笔记建立链接异常卡顿](https://ld246.com/article/1650253537922/comment/1650342254062#comments)
+  > 好的，我们先记录，以后考虑 [链接]
+* 💬 [安卓手机 PDF 文件点击后要求下载，能否给个直接打开的选项](https://ld246.com/article/1650437927855/comment/1650438697884#comments)
 
-  > 谢谢，我们后面看下如何优化。
-* 💬 [思源笔记建立链接异常卡顿](https://ld246.com/article/1650253537922/comment/1650339980283#comments)
+  > 这个暂时只能这样，后期考虑改进，感谢反馈。
+* 💬 [docker 安装后停在 logo 页面进不去笔记](https://ld246.com/article/1650431881317/comment/1650438111118#comments)
 
-  > v2.0.0 公测版已经发布，请到 GitHub 上下载 [链接]
-* 💗📝 [[思源笔记经验分享] 块自定义字体](https://ld246.com/article/1650339201591)
+  > v2.0.0-beta2 会有比较大的更新，废弃了 servepath 参数，发布以后请帮忙测试看看。
+* 💬 [bug: 出现大量的重名文档](https://ld246.com/article/1650425285198/comment/1650425951202#comments)
 
-  > 简介 主题 Dark+ 在 v0.8.1 中又更新的几个小功能: 实现方案 siyuan-theme-dark-plus/custom-font-family.css at main · Zuoqiu-Yingyi/siyuan-theme-dark-plus siyuan-theme-dark-plus/menu.j ..
-* 💬 [几个功能需求](https://ld246.com/article/1650336019937/comment/1650337162395#comments)
+  > 试试重建索引。第三方同步不能在思源运行期间使用，否则数据会损坏。
+* 💬 [请问导出 PDF 为什么一定要把图片一起导出啊？](https://ld246.com/article/1650424852727/comment/1650425874015#comments)
 
-  > 日记模板在笔记本设置里有，右键笔记本 - 设置。挂件后续会支持面板扩展，请关注 [链接] 右键文档 - 打开 - 在页签右侧/下侧打开 Alt+1 和 Alt+2 书签只能定位到块，没有行级定位能力 感谢反馈。
-* 💬 [【建议】允许修改文档创建时间](https://ld246.com/article/1650335471691/comment/1650336894295#comments)
+  > 为了导出的完整性，比如有的资源文件不是图片而是文件，这时就需要一并导出了。
+* 💬 [bug: 出现大量的重名文档](https://ld246.com/article/1650425285198/comment/1650425616374#comments)
 
-  > 那就考虑用自定义排序吧。
-* 💬 [【建议】允许修改文档创建时间](https://ld246.com/article/1650335471691/comment/1650335624261#comments)
+  > 使用了第三方同步盘么？
+* 💬 [为什么我的思源笔记无法保存信息了](https://ld246.com/article/1650422555409/comment/1650424727323#comments)
 
-  > 目前可以考虑手动改 .sy 源文件实现，直接加入修改创建时间暂时不考虑了，感谢提议。 最后提到的排序方式应该不行，如果是前缀的话可能可以。
-* 💬 [功能建议: 标题全部展开 / 折叠](https://ld246.com/article/1650325930478/comment/1650333809041#comments)
+  > 直接拖拽进编辑器应该就行，如果视频太大的话就发邮箱吧 [链接]
+* 💬 [为什么我的思源笔记无法保存信息了](https://ld246.com/article/1650422555409/comment/1650423190018#comments)
 
-  > 抱歉……我还是不理解和大纲的区别，感觉都是仅显示标题？
+  > 麻烦录屏演示一下操作。
 
 
 <!--events end -->
