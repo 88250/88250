@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2022-05-31 16:05:57`
+每天自动刷新，最近更新时间：`2022-06-01 16:05:29`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [【Bug】网页剪藏后，英文半角【'】符号会被转成中文全角【‘】符号](https://ld246.com/article/1653894774140/comment/1653981920864#comments)
+* 💬 [Discord 社区无人管理](https://ld246.com/article/1654060535921/comment/1654069804852#comments)
 
-  > 这个网页中原本使用的就是 ’，不是 '。
-* 💬 [内存占用](https://ld246.com/article/1653980528923/comment/1653981589075#comments)
+  > 这个没有写在官方社区里面哦。
+* 💬 [Discord 社区无人管理](https://ld246.com/article/1654060535921/comment/1654069302551#comments)
 
-  > 麻烦展开看一下子进程 SiYuan Kernel 的占用。
-* 💬 [思源笔记无法登录，点击登录无反应](https://ld246.com/article/1653973836242/comment/1653978967590#comments)
+  > 这个是热心用户建立的，估计没有时间维护吧。
+* 💬 [【功能改进建议】关于新打开文件的 tab 位置的问题](https://ld246.com/article/1654065874033/comment/1654068291861#comments)
 
-  > 是否设置了代理？
-* 💬 [思源 "邀请" 解疑](https://ld246.com/article/1653976211833/comment/1653978933736#comments)
+  > 请看这里的讨论 [链接]
+* 💬 [像 idea 一样可以多光标选择做批量操作](https://ld246.com/article/1654065379844/comment/1654068179593#comments)
 
-  > 不会增加的，之前的活动已经结束了。
-* 💬 [思源笔记 - 建议 - 同页面块引用应该在局部关系图中显示](https://ld246.com/article/1653968875466/comment/1653978868441#comments)
+  > 这个支持不了，抱歉抱歉。
+* 💬 [导入 Markdown 转换成 .sy 格式问题](https://ld246.com/article/1654056541338/comment/1654059363857#comments)
 
-  > 列表项和段落也打开估计才行。
-* 💬 [思源笔记 - 建议 - 同页面块引用应该在局部关系图中显示](https://ld246.com/article/1653968875466/comment/1653969160417#comments)
+  > 是的，思源不是 Markdown 编辑器。
+* 💗📝 [利用挂件 Query 在笔记内显示反链内容](https://ld246.com/article/1653996983967)
 
-  > 试下关系图 ... 菜单中打开块类型。
-* 💗💬 [全局搜索能否屏蔽某个笔记本进行搜索？](https://ld246.com/article/1653885592762/comment/1653921775179#comments)
+  > 示例如下，供参考： SELECT '[' || a.content || '](siyuan://blocks/' || a.id || ')' AS __3____pre__链接内容, '[' || b.content || '](siyuan://blocks/' || b.id || ')' AS __2____ ..
+* 💗💬 [思源怎么把文档里的图片转换为图床地址？](https://ld246.com/article/1653999754603/comment/1654003090361#comments)
 
-  > 可以在 Ctrl+P 搜索时用 SQL 方式，比如用 box 排除指定 ID 的笔记本： select * from blocks where content like '% 日单 %' and box!='20211020230146-ovxz06t' order by type PS：为了避免每次搜索时输入太多文字 ..
-* 💗💬 [windows 电脑端出现同步卡死](https://ld246.com/article/1653905096762/comment/1653905156034#comments)
+  > [图片] 不知道说的是不是这个……上传到思源的图床的话，上传资源文件到云端，然后在 模式切换-&gt;导出预览 里复制。
+* 💬 [通过 /emoji 加入 emoji 时能否也加个随机按钮？](https://ld246.com/article/1654052592679/comment/1654053410119#comments)
 
-  > 旧版本云服务停了，更新至最新版本后重新配置云端即可
+  > 这个暂时不考虑了，可能可以考虑通过模板实现（需要一定的编程能力）或者用其他外部工具随机 emoji ascii alias 实现，谢谢。
 
 
 <!--events end -->
