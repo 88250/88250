@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2022-06-01 16:05:29`
+每天自动刷新，最近更新时间：`2022-06-02 16:05:10`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [Discord 社区无人管理](https://ld246.com/article/1654060535921/comment/1654069804852#comments)
+* 💬 [从笔记中直接拷出文件问题](https://ld246.com/article/1654079161781/comment/1654156118108#comments)
 
-  > 这个没有写在官方社区里面哦。
-* 💬 [Discord 社区无人管理](https://ld246.com/article/1654060535921/comment/1654069302551#comments)
+  > 下个版本会有所改进，谢谢。
+* 💬 [思源笔记 -Markdown 图片不显示](https://ld246.com/article/1654154597231/comment/1654156019472#comments)
 
-  > 这个是热心用户建立的，估计没有时间维护吧。
-* 💬 [【功能改进建议】关于新打开文件的 tab 位置的问题](https://ld246.com/article/1654065874033/comment/1654068291861#comments)
+  > 思源不支持这种格式。
+* 💬 [有序列表导出预览显示缩进问题。](https://ld246.com/article/1654155208598/comment/1654155985804#comments)
 
-  > 请看这里的讨论 [链接]
-* 💬 [像 idea 一样可以多光标选择做批量操作](https://ld246.com/article/1654065379844/comment/1654068179593#comments)
+  > 只有段落会缩进。
+* 💬 [从笔记中直接拷出文件问题](https://ld246.com/article/1654079161781/comment/1654144951982#comments)
 
-  > 这个支持不了，抱歉抱歉。
-* 💬 [导入 Markdown 转换成 .sy 格式问题](https://ld246.com/article/1654056541338/comment/1654059363857#comments)
+  > 资源文件的话可以右键定位打开。
+* 💬 [建议：云端收集箱，以后可以考虑接入企业微信来实现分享到收集箱的功能](https://ld246.com/article/1654141923632/comment/1654142846710#comments)
 
-  > 是的，思源不是 Markdown 编辑器。
-* 💗📝 [利用挂件 Query 在笔记内显示反链内容](https://ld246.com/article/1653996983967)
+  > 之前考虑过，但是目前没有开发资源继续跟进，也许以后会考虑，感谢提议。
+* 💬 [表格优化建议](https://ld246.com/article/1654141024733/comment/1654141199074#comments)
 
-  > 示例如下，供参考： SELECT '[' || a.content || '](siyuan://blocks/' || a.id || ')' AS __3____pre__链接内容, '[' || b.content || '](siyuan://blocks/' || b.id || ')' AS __2____ ..
-* 💗💬 [思源怎么把文档里的图片转换为图床地址？](https://ld246.com/article/1653999754603/comment/1654003090361#comments)
+  > 请参考这里的讨论 [链接]
+* 💬 [代码块中粘贴代码时显示效果异常](https://ld246.com/article/1654136490092/comment/1654140719184#comments)
 
-  > [图片] 不知道说的是不是这个……上传到思源的图床的话，上传资源文件到云端，然后在 模式切换-&gt;导出预览 里复制。
-* 💬 [通过 /emoji 加入 emoji 时能否也加个随机按钮？](https://ld246.com/article/1654052592679/comment/1654053410119#comments)
+  > 处理不了，建议在 IDE 里面统一格式化。
+* 💗📝 [是否可以在这个界面增加“打印”选项](https://ld246.com/article/1654135964968)
 
-  > 这个暂时不考虑了，可能可以考虑通过模板实现（需要一定的编程能力）或者用其他外部工具随机 emoji ascii alias 实现，谢谢。
+  > [图片] 虽然目前也可以通过导出 pdf，然后再打印 pdf 等方式实现打印。但如果直接有个打印选项，是更加便捷的。期待！
 
 
 <!--events end -->
