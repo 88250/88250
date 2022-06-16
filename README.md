@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2022-06-14 16:05:20`
+每天自动刷新，最近更新时间：`2022-06-16 16:05:19`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [思源可以开放【所有菜单选项】的自定义快捷键吗？](https://ld246.com/article/1655181409653/comment/1655191194864#comments)
+* 💬 [复制文章图片显示问题](https://ld246.com/article/1655365608236/comment/1655365768488#comments)
 
-  > 抱歉，支持不了。
-* 💬 [思源笔记 docker 升级了没有以前笔记](https://ld246.com/article/1655182335878/comment/1655191177804#comments)
+  > 估计是目标网站做了防盗链，可考虑用剪藏功能。
+* 💬 [附件存于 assert 下时，能否保持原本命名？](https://ld246.com/article/1655363338276/comment/1655365515658#comments)
 
-  > 可能是没有挂载好卷？
-* 💬 [为什么复制的图片会变模糊？](https://ld246.com/article/1655183605815/comment/1655191153199#comments)
+  > [图片] GitHub - siyuan-note/siyuan: 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYS ..
+* 💬 [[功能] 未来是否考虑将子文档嵌入到父文档中?(像 notion/wolai 那样)](https://ld246.com/article/1647609429505/comment/1655365396959#comments)
 
-  > 复制的话要看复制程序如何处理，使用下载图片试试。
-* 💗💬 [建议：挂件生成的资源文件可通过与挂件绑定，不显示在未引用资源中](https://ld246.com/article/1654713832912/comment/1655188469376#comments)
+  > 我记得有个划选文本然后作为子文档引用的快捷键，帮助文档里找下看看吧。
+* 💬 [附件存于 assert 下时，能否保持原本命名？](https://ld246.com/article/1655363338276/comment/1655365281422#comments)
 
-  > [图片] 这个是大佬的挂件自动关联的，但“未引用资源”仍然有，D 大，看下是不是有有什么问题呢？
-* 💬 [建议：挂件生成的资源文件可通过与挂件绑定，不显示在未引用资源中](https://ld246.com/article/1654713832912/comment/1655190248467#comments)
+  > 现在应该不大可能调整这个设计了，你有空的话可以试着改下相关代码看看是否可行。
+* 💬 [关于数据快照功能的一些小疑问](https://ld246.com/article/1655298055899/comment/1655359828836#comments)
 
-  > 确实有点兼容问题，在 [链接] 中修复，感谢反馈。
-* 💬 [建议：挂件块可以全屏](https://ld246.com/article/1655188080794/comment/1655189479531#comments)
+  > 请看帮助文档常见问题。
+* 💗📝 [app 无法复制数据仓库密钥](https://ld246.com/article/1655305838128)
 
-  > 后面考虑通过挂件面板支持，请关注 [链接]
-* 💬 [vditor 编辑器, 所见即所得 (WYSIWYG) 模式怎么自定义渲染](https://ld246.com/article/1655171668501/comment/1655177115214#comments)
+  > [视频] 可以在浏览器上复制绕过去
+* 💬 [app 无法复制数据仓库密钥](https://ld246.com/article/1655305838128/comment/1655359149658#comments)
 
-  > 这个要改解析器，如果不改的话只能覆写 NodeText 的渲染器。
-* 💬 [这个东西如何设置为只显示当前内容？](https://ld246.com/article/1655089294407/comment/1655177058363#comments)
+  > 感谢反馈，在 [链接] 中修复。
+* 💬 [可以通过 icloud 实现 mac 和 iphone 端自动同步吗？](https://ld246.com/article/1655348229611/comment/1655349099914#comments)
 
-  > 设置 - 文档树 - 在当前页签中打开
+  > 无法实现的，移动端是私有数据路径，同步盘访问不到。
 
 
 <!--events end -->
