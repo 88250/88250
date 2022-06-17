@@ -20,34 +20,31 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2022-06-16 16:05:19`
+每天自动刷新，最近更新时间：`2022-06-17 16:04:40`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [复制文章图片显示问题](https://ld246.com/article/1655365608236/comment/1655365768488#comments)
+* 💬 [有没有大神开发下 flomo 导入的功能？](https://ld246.com/article/1655429879770/comment/1655451642753#comments)
 
-  > 估计是目标网站做了防盗链，可考虑用剪藏功能。
-* 💬 [附件存于 assert 下时，能否保持原本命名？](https://ld246.com/article/1655363338276/comment/1655365515658#comments)
+  > API 鉴权失败，估计是 token 不对吧。
+* 💬 [有没有大神开发下 flomo 导入的功能？](https://ld246.com/article/1655429879770/comment/1655438114380#comments)
 
-  > [图片] GitHub - siyuan-note/siyuan: 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYS ..
-* 💬 [[功能] 未来是否考虑将子文档嵌入到父文档中?(像 notion/wolai 那样)](https://ld246.com/article/1647609429505/comment/1655365396959#comments)
+  > 在帮助文档里可以找到。这个 API 不属于思源笔记项目，所以没有列在 API.md 里。
+* 💬 [思源笔记 数据快照 移动端导入密钥失败](https://ld246.com/article/1655423277609/comment/1655437190064#comments)
 
-  > 我记得有个划选文本然后作为子文档引用的快捷键，帮助文档里找下看看吧。
-* 💬 [附件存于 assert 下时，能否保持原本命名？](https://ld246.com/article/1655363338276/comment/1655365281422#comments)
+  > 这里有 v2.0.21 桌面端的预发布版本，有空的话请帮忙测试看看桌面端快照是否已经修复 [链接]
+* 💬 [有没有大神开发下 flomo 导入的功能？](https://ld246.com/article/1655429879770/comment/1655437019293#comments)
 
-  > 现在应该不大可能调整这个设计了，你有空的话可以试着改下相关代码看看是否可行。
-* 💬 [关于数据快照功能的一些小疑问](https://ld246.com/article/1655298055899/comment/1655359828836#comments)
+  > 大概 20 个版本之前的 v2.0.0 就已经提供 [链接]
+* 💬 [有没有大神开发下 flomo 导入的功能？](https://ld246.com/article/1655429879770/comment/1655436609115#comments)
 
-  > 请看帮助文档常见问题。
-* 💗📝 [app 无法复制数据仓库密钥](https://ld246.com/article/1655305838128)
+  > 思源已经开放云端 API 了，帮助文档中搜索 收集箱。
+* 💗📝 [关于图片比例](https://ld246.com/article/1655429312221)
 
-  > [视频] 可以在浏览器上复制绕过去
-* 💬 [app 无法复制数据仓库密钥](https://ld246.com/article/1655305838128/comment/1655359149658#comments)
+  > 思源里图片的缩放比例是按笔记的编辑区域算的，如 100% 指的是铺满编辑区的宽度。 这样存在一个问题，例如某图片清晰度高，PC 端设置 100% 太占空间，改成 50% 更适合阅读和编辑；但到了手机端，也会被同步为 50% 的大小，而受限于手机的尺寸原因，50% 的图片就显得非常小，需要双击放大查看，这样就增加了一个操 ..
+* 💬 [思源的表格单元格内剪切文本会丢失换行](https://ld246.com/article/1653143710577/comment/1655399233324#comments)
 
-  > 感谢反馈，在 [链接] 中修复。
-* 💬 [可以通过 icloud 实现 mac 和 iphone 端自动同步吗？](https://ld246.com/article/1655348229611/comment/1655349099914#comments)
-
-  > 无法实现的，移动端是私有数据路径，同步盘访问不到。
+  > 单元格里面可以用换行的，但是有剪切操作的话换行会被移除。
 
 
 <!--events end -->
