@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2022-06-20 16:04:52`
+每天自动刷新，最近更新时间：`2022-06-21 16:11:03`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [浏览器中输入挂件 URL 地址，显示 找不到此 127.0.0.1 页面](https://ld246.com/article/1655644888258/comment/1655709728268#comments)
+* 💬 [Win11 中思源笔记被挂起后无法恢复](https://ld246.com/article/1655796281485/comment/1655799048961#comments)
 
-  > 生产环境指的是服务器部署吗？应该不是 127.0.0.1 访问吧。
-* 💬 [创建的文件重复](https://ld246.com/article/1655647283554/comment/1655709651001#comments)
+  > 被挂起指的是？
+* 💬 [能否区分开发版和稳定版发布？](https://ld246.com/article/1655782661506/comment/1655783933563#comments)
 
-  > 重建索引后再试试，如果能重现请提供一下录屏演示，谢谢。
-* 💬 [搜索文字在表格中时，没有定位到那一行](https://ld246.com/article/1655651187113/comment/1655709608502#comments)
+  > 目前已经区分了，开发版仅在 GitHub 上发布。
+* 💬 [mac 安装新版本 v2.0.16 后无法导入旧笔记本](https://ld246.com/article/1655783207419/comment/1655783851482#comments)
 
-  > 请关注 [链接]
-* 💬 [安卓移动端图标存疑](https://ld246.com/article/1655687705421/comment/1655709553284#comments)
+  > 外部手动复制数据后需要手动重建索引。
+* 💬 [全文搜索 bug](https://ld246.com/article/1655772447380/comment/1655778425790#comments)
 
-  > 应该是因为 Emoji 字体的问题。
-* 💬 [请教一个 github 的问题](https://ld246.com/article/1655690544275/comment/1655709522503#comments)
+  > 重建索引后再试试。
+* 💬 [希望能够有键入代码块提示](https://ld246.com/article/1655748707404/comment/1655751797309#comments)
 
-  > 用 Markdown 超链接语法 [foo](bar)。
-* 💗💬 [工作空间可选择需要同步的笔记](https://ld246.com/article/1655688874755/comment/1655694472754#comments)
+  > 继续输入才能搜索过滤。
+* 💬 [建议：备份 / 恢复采用本地压缩 / 解压](https://ld246.com/article/1655747550112/comment/1655751760948#comments)
 
-  > 用户指南-云端-数据同步，再里面看忽略文件
-* 💗💬 [思源笔记的虚拟引用无法识别别名](https://ld246.com/article/1655707755993/comment/1655709153000#comments)
+  > 感谢反馈，相关改进我们正在探索，请关注 [链接]
+* 💗📝 [【CSS 片段】多彩大纲层级](https://ld246.com/article/1655740026659)
 
-  > [图片] 这个勾上试试呢？
-* 💬 [想问问 D 与 V，你们考虑过给自己放个假吗](https://ld246.com/article/1655709246198/comment/1655709422516#comments)
+  > 灵感来源于“思源群友”在 QQ 群中的提问 经过讨论与完善，将 CSS 片段分享到论坛中，开阔大家思路 [图片] 效果图 [图片] 以“绿叶”主题为例，代码效果展示 /* 多彩层级大纲 */ /* 相关代码来自于dark+主题作者zuoqiu-yingyi和starDust主题作者，特别感谢notion主题作者Roy， ..
+* 💗📝 [【CSS 片段】调大文档树 emoji](https://ld246.com/article/1655740822785)
 
-  > 要做好一件事情苦一点是值得的。目前作息规律，感谢关心。
+  > 修改文档树中 emoji 大小 灵感来源于群友的求助 想起来很久以前也有群友求助怎么调大文档树 emoji 先直接上对比图 [图片] [图片] /* 设置文档树emoji所在容器大小，要大于下文中emoji大小（26px &gt; 22px） */ .b3-list-item__icon { line-height:  ..
 
 
 <!--events end -->
