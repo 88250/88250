@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2022-07-11 16:05:36`
+每天自动刷新，最近更新时间：`2022-07-12 16:06:20`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [现在新版本，对网络图片怎么处理的？](https://ld246.com/article/1657513097748/comment/1657519242080#comments)
+* 💬 [建议：插入 iframe 块，块内支持放大缩小](https://ld246.com/article/1657595180698/comment/1657598696604#comments)
 
-  > 是编辑器右上角的 ... 菜单： [图片]
-* 💬 [[反馈] 内部预览版 v2.0.26-alpha3 检查更新时提示有新版 v2.0.25 可用](https://ld246.com/article/1657515375599/comment/1657519192971#comments)
+  > 这个估计需要 iframe 内容本身来支持。
+* 💬 [父文档没有内容时不需要打开页签](https://ld246.com/article/1657598203258/comment/1657598649221#comments)
 
-  > 暂时不改了，内测版记得保持升级 😂
-* 💗📝 [思源笔记 Docker 伺服](https://ld246.com/article/1657460219441)
+  > 后面父文档中可能会加入子文档导航的挂件，所以这里暂时不能做调整。
+* 💬 [能否对单个文档做一个防搜索防引用的机制？](https://ld246.com/article/1657590118079/comment/1657590612074#comments)
 
-  > 服务端使用 Docker 版思源进行伺服搭建配置 [链接] 启动参数： docker run \ --detach \ --name siyuan \ -v /data/siyuan:/data/siyuan \ -p 6806:6806 \ -u 1000:1000 b3log/siyuan \ --ssl=true ..
-* 💬 [[反馈] 内部预览版 v2.0.26-alpha3 检查更新时提示有新版 v2.0.25 可用](https://ld246.com/article/1657515375599/comment/1657515934214#comments)
+  > 目前可以通过 SQL 搜索进行过滤，但是对不熟悉 SQL 的用户不太友好，后续会考虑加入可视化过滤设置，谢谢。
+* 💬 [重建索引，文件丢失](https://ld246.com/article/1657589828291/comment/1657590540235#comments)
 
-  > 内测版仅检测正式版和最新内测版发布，升级到最新内测版吧。
-* 💬 [最近是有大更吗](https://ld246.com/article/1657511466908/comment/1657514494415#comments)
+  > 多半是同时使用第三方同步盘导致数据损坏了，方便的话请打包工作空间/temp/siyuan.log 上传，谢谢。
+* 💬 [升级到 solo4.4.0 命令启动报错：org/b3log/solo/Server has been compiled by a more recent version of the Java Runtime (class file version 55.0), this version of the Java Runtime only recognizes class file versions up to 52.0](https://ld246.com/article/1657533692411/comment/1657583095386#comments)
 
-  > 明天或者后天应该能发布。
-* 💬 [现在新版本，对网络图片怎么处理的？](https://ld246.com/article/1657513097748/comment/1657513386249#comments)
+  > 升级 JDK11
+* 💬 [v2.0.25 同步失败：下载失败：请确保所有设备已更新到最新版](https://ld246.com/article/1657547951915/comment/1657551117015#comments)
 
-  > 可以试一下编辑器右上角 ... 中的 网络图片转换为本地图片。
-* 💗💬 [建议：支持快速新建超级块，方便内容关联](https://ld246.com/article/1657469712955/comment/1657509859287#comments)
+  > 下个版本会开始公测新的同步机制，计划明天发布，应该能彻底解决该问题，感谢反馈和理解。
+* 💬 [思源笔记 2.0.25 设置代理后，可以联网不可以同步](https://ld246.com/article/1657534872616/comment/1657550880788#comments)
 
-  > 比如我在一个超级块 a 中，有 2 个段落块 b c 同时我在其他地方引用了这个超级块 现在我只是想把 c 改成 d，一个 ctrl+x ... 超级块没了...引用没了... 而这并不是我的操作期望 除非我先把 d 复制进来，再去删除 c 如果引用的是 c 块 ，引用关系可以算是 c 块的属性，那么删除主体 c 块， ..
-* 💬 [建议：支持快速新建超级块，方便内容关联](https://ld246.com/article/1657469712955/comment/1657512326357#comments)
+  > 这个问题会在下个版本修复，谢谢。
+* 💬 [最近是有大更吗](https://ld246.com/article/1657511466908/comment/1657528868561#comments)
 
-  > 暂时不改了，这个等后续再收集反馈看，谢谢。
+  > 同步还处于公测阶段，2.1.0 再正式上线。
 
 
 <!--events end -->
