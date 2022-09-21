@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2022-09-20 16:06:59`
+每天自动刷新，最近更新时间：`2022-09-21 16:08:02`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [新设备导入 sy.zip 压缩包后文档树目录顺序混乱](https://ld246.com/article/1663658791382/comment/1663659785449#comments)
+* 💬 [请问下移除 assets 目录是什么意思？](https://ld246.com/article/1663742866544/comment/1663743763065#comments)
 
-  > 你好，导出文档.sy.zip 是不会保留顺序的，只有导出 data 会将整库原样保留。
-* 💬 [云端空间是不是有点小?](https://ld246.com/article/1663654081109/comment/1663657713398#comments)
+  > 移除的话就是不带附件导出。
+* 💬 [导入以后笔记本内容消失！](https://ld246.com/article/1663742677918/comment/1663742857079#comments)
 
-  > 请看用户指南云端相关章节有介绍。
-* 💬 [云端空间是不是有点小?](https://ld246.com/article/1663654081109/comment/1663654729709#comments)
+  > 请在设置关于中导出系统日志上传回帖。
+* 💬 [关于模板的 bug 和一个建议](https://ld246.com/article/1663639708028/comment/1663729782393#comments)
 
-  > 会员不只是同步功能 空间大小主要受限于运营成本
-* 💬 [【Bug】标题无法输入“/”](https://ld246.com/article/1663643479519/comment/1663647011989#comments)
+  > 把模板打包发一下吧。
+* 💬 [思源导入 markdown 文件夹图片是绝对路径](https://ld246.com/article/1663723288588/comment/1663724071387#comments)
 
-  > 文档标题不支持 /。
-* 💬 [内核多次连接中断](https://ld246.com/article/1663495600245/comment/1663639044101#comments)
+  > Markdown 中的路径是绝对路径的话不会转换的，只能手动先将 Markdown 路径调整为相对路径后再导入。
+* 💬 [思源笔记 - 标题批量升级 or 降级](https://ld246.com/article/1663663569467/comment/1663723040641#comments)
 
-  > 日志中发现是工作空间配置文件被其他程序占用导致内核退出： F 2022/09/20 04:50:47 conf.go:449: write conf [K:\anki\conf\conf.json] failed: open K:\anki\conf\conf.json: The process cannot acce ..
-* 💬 [是否对需求较为旺盛、问题较为集中的某一话题给予官方的汇总回应？](https://ld246.com/article/1663596828158/comment/1663599100545#comments)
+  > 这个之前已经有提议，请关注 [链接]
+* 💗📝 [关于页签下拉的建议](https://ld246.com/article/1663677250725)
 
-  > 用户指南 FAQ
-* 💬 [内核多次连接中断](https://ld246.com/article/1663495600245/comment/1663599030168#comments)
+  > 下拉很好用，方便切换。有没有可能在下拉界面提供关闭标签页的按键？就像 Edge 的垂直标签，每一项右侧都有关闭键： [图片] 现在只能先点击进入页面后，再进行关闭操作，假设要回到关闭前的页面，又得重新选择。
+* 💬 [建议增加复制纯文本的功能](https://ld246.com/article/1663679997344/comment/1663680648653#comments)
 
-  > 启动以后看下任务管理器里能否找到 SiYuan Kernel 进程。
-* 💬 [【提问】M1 Mac 2.1.14 上传 PDF 过程中出现错误](https://ld246.com/article/1663571453908/comment/1663576041478#comments)
+  > 划选后右键有复制为纯文本。
+* 💬 [思源笔记 - 标题批量升级 or 降级](https://ld246.com/article/1663663569467/comment/1663663647147#comments)
 
-  > 请在设置-关于中导出系统日志上传回帖。
+  > 换位置的话可以考虑分屏后折叠标题 + 拖拽
 
 
 <!--events end -->
