@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2022-11-07 16:05:32`
+每天自动刷新，最近更新时间：`2022-11-08 16:06:06`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [【bug 反馈】升级了 2.4.10，同步失败](https://ld246.com/article/1667807222382/comment/1667807301112#comments)
+* 💬 [思源浏览器插件不正确识别代码块](https://ld246.com/article/1667892457369/comment/1667893349745#comments)
 
-  > 从日志上看是网络问题，这个估计无法解决，可以试试换成移动端网络看看是否能正常。
-* 💬 [提及合虚拟引用是不是出 bug 了](https://ld246.com/article/1667806486796/comment/1667806886204#comments)
+  > 这个估计不会考虑为较为特别的网站做单独的适配，感谢理解。
+* 💬 [思源浏览器插件不正确识别代码块](https://ld246.com/article/1667892457369/comment/1667892824510#comments)
 
-  > 搜索设置中打开文档名选项了吗？
-* 💬 [思源笔记的安卓端是否支持 HTML 及 PDF 导出？](https://ld246.com/article/1667805319619/comment/1667805461567#comments)
+  > 这个网站的代码块目前无法支持，它用的是 table 标签……
+* 💗📝 [反馈 bug](https://ld246.com/article/1667891364675)
 
-  > 不支持哦。
-* 💬 [思源笔记是怎么同步的？](https://ld246.com/article/1667803159785/comment/1667804008754#comments)
+  > [图片] 快捷键 ctrl+shift+v 失效了，变成复制成资源文件并插入了 按住 alt 后拖入是好的
+* 💬 [反馈 bug](https://ld246.com/article/1667891364675/comment/1667891500122#comments)
 
-  > 请参考用户指南同步章节。
-* 💬 [【 SiYuan 快捷键录入】带 shift 时的显示问题【似乎已解决】](https://ld246.com/article/1667790264511/comment/1667794349342#comments)
+  > 感谢反馈， 先记录 [链接]
+* 💬 [期望嵌入块也能像引用那样可以在源文中统计嵌入的次数，以方便查看源文被嵌入的位置](https://ld246.com/article/1667891144654/comment/1667891188815#comments)
 
-  > 什么标准？
-* 💬 [数据丢失，无法找回数据](https://ld246.com/article/1667783599984/comment/1667794267125#comments)
+  > 关联 [链接]
+* 💬 [2.4.10  关闭思源再打开后发现无法记录上次打开的页签，即使钉住页签也不行](https://ld246.com/article/1667890468714/comment/1667890682446#comments)
 
-  > 混用 v2.2.0 以前的版本会导致该问题。
-* 💬 [分享一个小的使用体验问题](https://ld246.com/article/1667792111012/comment/1667792499526#comments)
+  > 勾选了 设置 - 文档树 - 启动时关闭所有页签？
+* 💬 [[bug] v2.4.10 无法拖动页签进行分屏](https://ld246.com/article/1667889430747/comment/1667889671175#comments)
 
-  > 点击标题需要双击。
-* 💬 [【 SiYuan 快捷键录入】带 shift 时的显示问题【似乎已解决】](https://ld246.com/article/1667790264511/comment/1667790794678#comments)
+  > 我这里目前重现不了问题。
+* 💬 [最近集市主题区很卷啊，怎么挂件都没人更新了？](https://ld246.com/article/1667827061367/comment/1667889615112#comments)
 
-  > 按了 Shift 以后 = 就是 + 了。
+  > 请关注 [链接]
 
 
 <!--events end -->
