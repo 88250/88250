@@ -20,10 +20,19 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2022-12-23 16:05:05`
+每天自动刷新，最近更新时间：`2022-12-24 16:06:36`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [思源同步失败的问题 request repo upload token failed](https://ld246.com/article/1671854004030/comment/1671865268277#comments)
+
+  > 这个问题可以帮忙测试一下最新的 dev 版吗，应该已经修复。
+* 💬 [思源同步失败的问题 request repo upload token failed](https://ld246.com/article/1671854004030/comment/1671854093481#comments)
+
+  > 云端同步服务的证书正常： [图片]
+* 💬 [2.5.5 搜索历史不正常](https://ld246.com/article/1671786075767/comment/1671786436400#comments)
+
+  > 等下个版用这个重置： [图片]
 * 💬 [同步失败，file exists v2.5.4](https://ld246.com/article/1671463065253/comment/1671766637094#comments)
 
   > @[链接] v2.6.0-dev1 已经发布 [链接] 请各位帮忙测试一下是否已经修复该问题，谢谢。
@@ -39,15 +48,6 @@
 * 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1670912958743)
 
   > Markdown 积重难返，只能另起炉灶 [链接]
-* 💗📝 [集市下载进度没有了](https://ld246.com/article/1670894160635)
-
-  > rt，新版在集市中点击下载按钮下载主题或图标，都不再显示进度条了，以前还有的，现在只能等右上角的下载完成提示了。 [图片]
-* 💬 [集市下载进度没有了](https://ld246.com/article/1670894160635/comment/1670899516125#comments)
-
-  > 感谢反馈，下个版本修复 [链接]
-* 💗📝 [实现 pdf 目标位置标记的代码](https://ld246.com/article/1670824969123)
-
-  > 点击 pdf 标记链，跳转后目标链会有个动画显示，但是时间比较短，对我来说辨识度不够，如下： [图片] 本代码实现目标链用不同的底色显示，效果如下： [图片] 使用方法：按照 ALT 键，并鼠标左键点击 pdf 链接的后部空白处。 [图片] //添加全局单击事件 document.body.addEventListen ..
 
 
 <!--events end -->
