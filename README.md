@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2022-12-24 16:06:36`
+每天自动刷新，最近更新时间：`2022-12-25 16:04:46`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [思源同步失败的问题 request repo upload token failed](https://ld246.com/article/1671854004030/comment/1671865268277#comments)
+* 💗📝 [2.5.4/2.5.5 Windows 开机启动无效](https://ld246.com/article/1671860767260)
 
-  > 这个问题可以帮忙测试一下最新的 dev 版吗，应该已经修复。
-* 💬 [思源同步失败的问题 request repo upload token failed](https://ld246.com/article/1671854004030/comment/1671854093481#comments)
+  > 现象：开启「开机自动启动」，重启电脑后不会自动启动。 然后做了个测试，开启选项后， [图片] 再重启思源（不重启电脑），这个选项会自动复原。 [图片] 就是这样。
+* 💬 [思源同步失败的问题 request repo upload token failed](https://ld246.com/article/1671854004030/comment/1671878101521#comments)
 
-  > 云端同步服务的证书正常： [图片]
-* 💬 [2.5.5 搜索历史不正常](https://ld246.com/article/1671786075767/comment/1671786436400#comments)
+  > 哦，等下个版本再试试吧。
+* 💬 [建议：备注功能希望能支持 markdown 语法](https://ld246.com/article/1671872783092/comment/1671877716609#comments)
 
-  > 等下个版用这个重置： [图片]
-* 💬 [同步失败，file exists v2.5.4](https://ld246.com/article/1671463065253/comment/1671766637094#comments)
+  > 备注的设计如此，需要带格式的话请使用引用。
+* 💬 [思源同步失败的问题 request repo upload token failed](https://ld246.com/article/1671854004030/comment/1671877611797#comments)
 
-  > @[链接] v2.6.0-dev1 已经发布 [链接] 请各位帮忙测试一下是否已经修复该问题，谢谢。
-* 💗📝 [数据同步问题，只能点强制退出](https://ld246.com/article/1671681736219)
+  > 是移动端网络不是 Wifi 网络吗？这样吧，下个开发版我们再调整一下参数看看。
+* 💬 [思源同步失败的问题 request repo upload token failed](https://ld246.com/article/1671854004030/comment/1671875920918#comments)
 
-  > [图片] 我手工点击了同步依然提示同步失败：file exists。 现在每次退出，都会提示这个错误。只能点强制退出。
-* 💬 [数据同步问题，只能点强制退出](https://ld246.com/article/1671681736219/comment/1671692430369#comments)
+  > 能否试下移动端网络？
+* 💬 [思源同步失败的问题 request repo upload token failed](https://ld246.com/article/1671854004030/comment/1671875608759#comments)
 
-  > 感谢反馈，下个版本应该能修复 [链接]
-* 💬 [数据同步问题，只能点强制退出](https://ld246.com/article/1671681736219/comment/1671684428020#comments)
+  > 400 状态码一般是由于程序传参错误导致，但是这里不是这个情况，程序传参肯定没问题的，否则的话所有用户都无法同步的。 这里的 400 状态码可能是因为某些环境参数校验不通过，这个不是思源的服务器返回的，而是七牛云服务器返回的，建议切换网络再试一下吧。
+* 💬 [思源同步失败的问题 request repo upload token failed](https://ld246.com/article/1671854004030/comment/1671875195634#comments)
 
-  > 请导出日志上传。
-* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1670912958743)
+  > 不要修改系统时间，不然证书或者某些服务器端校验无法通过。另外没有使用代理吧？我看日志中使用的是系统设置。 如果没有的话再试下设置 - 关于 - 数据仓库密钥 - 重置数据仓库，重置以后需要重新配置密钥，你使用以前的密码生成或者导入以前的密钥，然后同样使用新的云端目录再试试。 如果还是不行，再试下其他网络，比如移动端网络 ..
+* 💬 [思源同步失败的问题 request repo upload token failed](https://ld246.com/article/1671854004030/comment/1671874816618#comments)
 
-  > Markdown 积重难返，只能另起炉灶 [链接]
+  > 在设置 - 云端 - 云端同步目录中新建一个，然后切换到这个目录进行同步。
 
 
 <!--events end -->
