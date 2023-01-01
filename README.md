@@ -20,10 +20,25 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2022-12-31 16:04:43`
+每天自动刷新，最近更新时间：`2023-01-01 16:06:06`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [手机端有像 ctrl+E 打开最近文档的功能吗？](https://ld246.com/article/1672559635242/comment/1672560219696#comments)
+
+  > 搜索框留空是最新编辑过的文档。
+* 💬 [文档标题进行快捷键复制该块为引用块好像错误？](https://ld246.com/article/1672550056688/comment/1672551754606#comments)
+
+  > 文档树上面没有复制引用的快捷键。
+* 💬 [是否会有 mac 上的 safari 浏览器插件开发计划？](https://ld246.com/article/1672513524324/comment/1672542998947#comments)
+
+  > 没有计划哦 [链接]
+* 💬 [无法存取数据](https://ld246.com/article/1672542059662/comment/1672542668630#comments)
+
+  > 使用了第三方实时同步盘吗？
+* 💬 [报错：Access is denied.; unable to access file](https://ld246.com/article/1672477541687/comment/1672477707064#comments)
+
+  > local.json 这个文件是不是被其他程序占用了或者是文件权限不对。
 * 💬 [建议：查询的指定路径支持关键字和正则匹配](https://ld246.com/article/1672423524233/comment/1672449914536#comments)
 
   > 这个目前支持不了。
@@ -33,21 +48,6 @@
 * 💬 [浅提一些间隔重复制卡的建议](https://ld246.com/article/1672380876207/comment/1672449848548#comments)
 
   > 超级块应该就够了。
-* 💬 [浅提一些间隔重复制卡的建议](https://ld246.com/article/1672380876207/comment/1672389364033#comments)
-
-  > 下个版本会支持超级块制卡。
-* 💬 [只读模式下仍然可以修改](https://ld246.com/article/1672370608098/comment/1672370769173#comments)
-
-  > 只读默认只对编辑器内容有效，其他地方还是允许修改甚至删除的。
-* 💗💬 [[bug] 云端同步失败 (已解决)](https://ld246.com/article/1672296266342/comment/1672368374833#comments)
-
-  > 已经可以正常同步了。感谢！
-* 💗💬 [[bug] 云端同步失败 (已解决)](https://ld246.com/article/1672296266342/comment/1672368821514#comments)
-
-  > 同步正常了，辛苦 D 大 ❤️
-* 💬 [[bug] 云端同步失败 (已解决)](https://ld246.com/article/1672296266342/comment/1672368478597#comments)
-
-  > 感谢测试，这次应该能彻底解决这个同步问题了 🙏
 
 
 <!--events end -->
