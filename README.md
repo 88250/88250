@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2023-01-01 16:06:06`
+每天自动刷新，最近更新时间：`2023-01-02 16:04:55`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [同步失败，显示 400 Bad Request](https://ld246.com/article/1672628460092/comment/1672632253131#comments)
+
+  > 开发版只能在 GitHub 上下载哦。
+* 💬 [同步失败，显示 400 Bad Request](https://ld246.com/article/1672628460092/comment/1672629074144#comments)
+
+  > [链接]
+* 💬 [无法存取数据](https://ld246.com/article/1672542059662/comment/1672626834837#comments)
+
+  > 不能把工作空间放到云盘同步目录中，否则云盘同步软件在同步时会锁定文件，这样思源就无法写入文件了，最终导致数据丢失或数据损坏。
+* 💬 [siyuan 2.6 版本搜索异常问题清单](https://ld246.com/article/1672601495455/comment/1672622695368#comments)
+
+  > 重建索引后再试试。
+* 💬 [无法存取数据](https://ld246.com/article/1672542059662/comment/1672580980422#comments)
+
+  > 不支持第三方实时同步盘直接同步文件，但是支持 WebDAV 接入。
+* 💬 [无法存取数据](https://ld246.com/article/1672542059662/comment/1672563151265#comments)
+
+  > 思源不支持第三方同步盘。
 * 💬 [手机端有像 ctrl+E 打开最近文档的功能吗？](https://ld246.com/article/1672559635242/comment/1672560219696#comments)
 
   > 搜索框留空是最新编辑过的文档。
 * 💬 [文档标题进行快捷键复制该块为引用块好像错误？](https://ld246.com/article/1672550056688/comment/1672551754606#comments)
 
   > 文档树上面没有复制引用的快捷键。
-* 💬 [是否会有 mac 上的 safari 浏览器插件开发计划？](https://ld246.com/article/1672513524324/comment/1672542998947#comments)
-
-  > 没有计划哦 [链接]
-* 💬 [无法存取数据](https://ld246.com/article/1672542059662/comment/1672542668630#comments)
-
-  > 使用了第三方实时同步盘吗？
-* 💬 [报错：Access is denied.; unable to access file](https://ld246.com/article/1672477541687/comment/1672477707064#comments)
-
-  > local.json 这个文件是不是被其他程序占用了或者是文件权限不对。
-* 💬 [建议：查询的指定路径支持关键字和正则匹配](https://ld246.com/article/1672423524233/comment/1672449914536#comments)
-
-  > 这个目前支持不了。
-* 💬 [请问搜索排序功能中，怎么将“创建时间排序”设为默认排序方式](https://ld246.com/article/1672447662913/comment/1672449888816#comments)
-
-  > 保存为命名查询。
-* 💬 [浅提一些间隔重复制卡的建议](https://ld246.com/article/1672380876207/comment/1672449848548#comments)
-
-  > 超级块应该就够了。
 
 
 <!--events end -->
