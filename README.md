@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2023-01-03 16:05:18`
+每天自动刷新，最近更新时间：`2023-01-04 16:05:05`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💗📝 [2.6.1 点击右上角三个点，就弹出该功能为付费功能...](https://ld246.com/article/1672730526103)
+* 💗💬 [思源笔记 2.6.2，图标无法加载](https://ld246.com/article/1672811562871/comment/1672818364107#comments)
 
-  > [图片] 如图，点击文档右上角的三个点就会弹出付费订阅提示。
-* 💬 [2.6.1 点击右上角三个点，就弹出该功能为付费功能...](https://ld246.com/article/1672730526103/comment/1672732498269#comments)
+  > [图片] @88250 @Vanessa 异步代码存在 bug，这里的 getLocalStorage()会异步初始化 window.siyuan.storage，下面 onGetConfig 会在异步请求之后读取 window.siyuan.storage 里的 PDF 主题配置(initAssets())，这俩没有 ..
+* 💬 [思源笔记 2.6.2，图标无法加载](https://ld246.com/article/1672811562871/comment/1672818499125#comments)
 
-  > 感谢反馈，下个版本修复 [链接]
-* 💬 [ipad 超链接无法跳转 bug](https://ld246.com/article/1669825531366/comment/1672726508170#comments)
+  > 感谢反馈，这个问题我们已经调整了代码实现，目前正在打包 dev 版（GitHub Actions 打包可能还需要 10 多分钟），方便的话请等一会帮忙下载 dev 版测试看看是否已经修复 [链接]
+* 💬 [思源笔记 2.6.2，图标无法加载](https://ld246.com/article/1672811562871/comment/1672817735535#comments)
 
-  > 目前不支持。
-* 💬 [同步失败，显示 400 Bad Request](https://ld246.com/article/1672628460092/comment/1672632253131#comments)
+  > 请导出系统日志上传一下。
+* 💬 [思源笔记 2.6.2，图标无法加载](https://ld246.com/article/1672811562871/comment/1672813729489#comments)
 
-  > 开发版只能在 GitHub 上下载哦。
-* 💬 [同步失败，显示 400 Bad Request](https://ld246.com/article/1672628460092/comment/1672629074144#comments)
+  > 麻烦切换到默认主题测试一下。
+* 💗💬 [出现错误后笔记清零](https://ld246.com/article/1672803917391/comment/1672812604307#comments)
 
-  > [链接]
-* 💬 [无法存取数据](https://ld246.com/article/1672542059662/comment/1672626834837#comments)
+  > 感谢回复，首先为我当时没有控制好情绪感到非常抱歉。我是动画相关的，对程序相关的概念基本一片空白，使用笔记只是记录所见所得所想。到时候重新组织语言屯一遍可能更适合我（手动无奈）
+* 💬 [出现错误后笔记清零](https://ld246.com/article/1672803917391/comment/1672811075421#comments)
 
-  > 不能把工作空间放到云盘同步目录中，否则云盘同步软件在同步时会锁定文件，这样思源就无法写入文件了，最终导致数据丢失或数据损坏。
-* 💬 [siyuan 2.6 版本搜索异常问题清单](https://ld246.com/article/1672601495455/comment/1672622695368#comments)
+  > 看下面包屑上是不是进入了块聚焦。
+* 💬 [AAA 原理与配置](https://ld246.com/article/1672805041537/comment/1672810689113#comments)
 
-  > 重建索引后再试试。
-* 💬 [无法存取数据](https://ld246.com/article/1672542059662/comment/1672580980422#comments)
+  > 下个版本会加一个确认框 😂
+* 💬 [怎么创建多个标签](https://ld246.com/article/1672805712921/comment/1672810600729#comments)
 
-  > 不支持第三方实时同步盘直接同步文件，但是支持 WebDAV 接入。
+  > 用 → 键可以跳出标签元素。
 
 
 <!--events end -->
