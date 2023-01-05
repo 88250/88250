@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2023-01-04 16:05:05`
+每天自动刷新，最近更新时间：`2023-01-05 16:05:04`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💗💬 [思源笔记 2.6.2，图标无法加载](https://ld246.com/article/1672811562871/comment/1672818364107#comments)
+* 💬 [思源笔记 V2.6.2 无法关闭自动更新](https://ld246.com/article/1672826215697/comment/1672889880794#comments)
 
-  > [图片] @88250 @Vanessa 异步代码存在 bug，这里的 getLocalStorage()会异步初始化 window.siyuan.storage，下面 onGetConfig 会在异步请求之后读取 window.siyuan.storage 里的 PDF 主题配置(initAssets())，这俩没有 ..
-* 💬 [思源笔记 2.6.2，图标无法加载](https://ld246.com/article/1672811562871/comment/1672818499125#comments)
+  > 微软商店安装的吗？如果是的话确实没有这个选项，自动更新需要去商店里面关闭。
+* 💗💬 [思源笔记 2.6.2，图标无法加载](https://ld246.com/article/1672811562871/comment/1672885823642#comments)
 
-  > 感谢反馈，这个问题我们已经调整了代码实现，目前正在打包 dev 版（GitHub Actions 打包可能还需要 10 多分钟），方便的话请等一会帮忙下载 dev 版测试看看是否已经修复 [链接]
-* 💬 [思源笔记 2.6.2，图标无法加载](https://ld246.com/article/1672811562871/comment/1672817735535#comments)
+  > siyuan-v202301041542-win.exe 测了一下，问题解决了，刷新了很多遍都没有出现问题。
+* 💬 [软件启动后，标题栏上的图标隐藏](https://ld246.com/article/1672878958711/comment/1672882968894#comments)
 
-  > 请导出系统日志上传一下。
-* 💬 [思源笔记 2.6.2，图标无法加载](https://ld246.com/article/1672811562871/comment/1672813729489#comments)
+  > 可能和 [链接] 是一个问题。
+* 💬 [出现错误后笔记清零](https://ld246.com/article/1672803917391/comment/1672881965977#comments)
 
-  > 麻烦切换到默认主题测试一下。
-* 💗💬 [出现错误后笔记清零](https://ld246.com/article/1672803917391/comment/1672812604307#comments)
+  > 日志中看大概是因为一个图片元素 DOM 解析报错导致，这个问题下个版本会做一些改进，谢谢。
+* 💬 [网络环境里禁用了 websocket 思源笔记无法正常使用](https://ld246.com/article/1672839317582/comment/1672840656198#comments)
 
-  > 感谢回复，首先为我当时没有控制好情绪感到非常抱歉。我是动画相关的，对程序相关的概念基本一片空白，使用笔记只是记录所见所得所想。到时候重新组织语言屯一遍可能更适合我（手动无奈）
-* 💬 [出现错误后笔记清零](https://ld246.com/article/1672803917391/comment/1672811075421#comments)
+  > 只能先解决网络连通问题。
+* 💬 [思源笔记 V2.6.2 无法关闭自动更新](https://ld246.com/article/1672826215697/comment/1672829377004#comments)
 
-  > 看下面包屑上是不是进入了块聚焦。
-* 💬 [AAA 原理与配置](https://ld246.com/article/1672805041537/comment/1672810689113#comments)
+  > 关闭这个选项 自动下载更新安装包
+* 💗💬 [关于 pdf 跳转的问题](https://ld246.com/article/1672800421476/comment/1672823360594#comments)
 
-  > 下个版本会加一个确认框 😂
-* 💬 [怎么创建多个标签](https://ld246.com/article/1672805712921/comment/1672810600729#comments)
+  > 是的，只有在自动缩放模式下才不会。
+* 💬 [关于 pdf 跳转的问题](https://ld246.com/article/1672800421476/comment/1672823234221#comments)
 
-  > 用 → 键可以跳出标签元素。
+  > 是还能重现 PDF 返回第一页的问题吗？
 
 
 <!--events end -->
