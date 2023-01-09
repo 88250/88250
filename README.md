@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2023-01-08 16:04:45`
+每天自动刷新，最近更新时间：`2023-01-09 16:05:17`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💗💬 [思源笔记关于闪卡的几个功能建议](https://ld246.com/article/1673100293107/comment/1673101356274#comments)
+* 💬 [全局搜索无结果, 跳转极其卡顿](https://ld246.com/article/1673247843802/comment/1673251396868#comments)
 
-  > 如果你是想将闪卡在所有卡包中删除，那可以 shift+ 点击进入块的的属性界面，删除 riff 开头的属性就可以了。 浏览卡包在最新版中可以在制卡界面的眼睛图标进入。因为开发者认为浏览卡包内容是制卡过程的一部分，所以大概率不会再加一个进入入口了。 这也是我的希望，但是貌似使用的 fsrs 算法能够根据复习的数量动态的调 ..
-* 💬 [复制文章内容为 html, 存在多余属性及优化建议](https://ld246.com/article/1673100117746/comment/1673102794648#comments)
+  > 设置 - 关于 - 导出系统日志上传回复我即可。
+* 💬 [自动回滚](https://ld246.com/article/1673250121819/comment/1673250234990#comments)
 
-  > 暂时不考虑了，如果需要“整洁的” HTML 输出请使用导出 HTML。
-* 💗📝 [知乎文章，通过插件发送到思源，出现内容遗漏](https://ld246.com/article/1673094478886)
+  > 是不是还有更早版本的内核在运行着？
+* 💬 [全局搜索无结果, 跳转极其卡顿](https://ld246.com/article/1673247843802/comment/1673249947311#comments)
 
-  > 知乎文章链接：[链接] 以下是知乎文章的链接遗漏的位置 [图片] 这是思源笔记中的效果 [图片]
-* 💬 [知乎文章，通过插件发送到思源，出现内容遗漏](https://ld246.com/article/1673094478886/comment/1673100886379#comments)
+  > [图片] Releases · siyuan-note/siyuan Build Your Eternal Digital Garden. Contribute to siyuan-note/siyuan development by creating an account on GitHub. GitHub - gi ..
+* 💬 [思源笔记 如何在引用文档名时保留完整名称](https://ld246.com/article/1673243003340/comment/1673249345540#comments)
 
-  > 感谢反馈，下个版本支持 [链接]
-* 💬 [打开后内容重复，提示重建索引](https://ld246.com/article/1673086252754/comment/1673097141773#comments)
+  > 设置 - 编辑器 - 块引动态锚文本最大长度
+* 💬 [最新内测版更换空间问题](https://ld246.com/article/1673242699150/comment/1673249205658#comments)
 
-  > [链接]
-* 💬 [求助，重建引索失败，文档重复删不掉](https://ld246.com/article/1673087112619/comment/1673097126274#comments)
+  > 我这里重现不了问题，麻烦描述一下重现步骤。 @wxtgood 暂时不会考虑支持跨工作空间的全局配置了，因为目前工作空间的设计用意就是为了数据和配置隔离。
+* 💬 [全局搜索无结果, 跳转极其卡顿](https://ld246.com/article/1673247843802/comment/1673248768824#comments)
 
-  > 请等重建索引完成以后再尝试删除，如果还是报错，可以试下手动删除工作空间/temp/ 文件夹后再重建索引。
-* 💗💬 [v2.6.2 版本笔记丢失、搜索无显示问题](https://ld246.com/article/1672904565891/comment/1673076343732#comments)
+  > 我这里重现不了问题，可以下载开发版帮忙测试下看看。
+* 💬 [频繁错误提示 A JavaScript error occurred in the main process](https://ld246.com/article/1673232903718/comment/1673239805990#comments)
 
-  > 好的，理解了，加油，希望能看到更好的思源。
-* 💬 [2.6.2 使用标记一定概率会出现多的空行 &amp; 丢失内容](https://ld246.com/article/1672929892880/comment/1673056590969#comments)
+  > 最新的开发版应该已经修复这个问题。
+* 💬 [频繁错误提示 A JavaScript error occurred in the main process](https://ld246.com/article/1673232903718/comment/1673238354680#comments)
 
-  > 能帮忙找到一个稳定重现的步骤吗？
+  > 如何重现？
 
 
 <!--events end -->
