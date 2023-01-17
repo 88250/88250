@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2023-01-16 16:05:28`
+每天自动刷新，最近更新时间：`2023-01-17 16:04:59`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [只有 windows 可以同步 安卓和 ios 一直同步失败](https://ld246.com/article/1673797840623/comment/1673847033778#comments)
+* 💬 [data 目录下的 asserts 目录和笔记文件夹目录下的 asserts 目录内容有什么区别？](https://ld246.com/article/1673942406046/comment/1673942451722#comments)
 
-  > 这个好像是你重装后的日志，之前报错的日志没有了……
-* 💬 [S3 自动同步 本地新文档会消失](https://ld246.com/article/1673833796245/comment/1673846329756#comments)
+  > 用户指南资源文件章节有介绍。
+* 💬 [只有 windows 可以同步 安卓和 ios 一直同步失败](https://ld246.com/article/1673797840623/comment/1673942315145#comments)
 
-  > 是不是用了其他同步盘或者有其他软件会修改文件？
-* 💬 [官方云丢笔记](https://ld246.com/article/1673720331239/comment/1673841718609#comments)
+  > 麻烦再导出日志上传。
+* 💗💬 [思源笔记 Mac 端的 OCR 识别使用疑问](https://ld246.com/article/1673932379624/comment/1673938461010#comments)
 
-  > 那就是电脑这边的数据有问题，覆盖了移动端正常的数据。
-* 💬 [官方云丢笔记](https://ld246.com/article/1673720331239/comment/1673839333712#comments)
+  > 好的，我有空看看 😋
+* 💬 [思源笔记 Mac 端的 OCR 识别使用疑问](https://ld246.com/article/1673932379624/comment/1673938264552#comments)
 
-  > 之前可能是移动端上的数据有问题。
-* 💬 [只有 windows 可以同步 安卓和 ios 一直同步失败](https://ld246.com/article/1673797840623/comment/1673837956190#comments)
+  > 这有点奇怪，暂时还没找到原因，老铁有空的话也帮忙分析一下，谢谢。
+* 💬 [思源笔记 Mac 端的 OCR 识别使用疑问](https://ld246.com/article/1673932379624/comment/1673936844065#comments)
 
-  > 请上传手机端的日志。
-* 💬 [S3 自动同步 本地新文档会消失](https://ld246.com/article/1673833796245/comment/1673837856833#comments)
+  > 请测试下命令的返回 tesseract --version
+* 💬 [思源笔记 Mac 端的 OCR 识别使用疑问](https://ld246.com/article/1673932379624/comment/1673935866550#comments)
 
-  > 不要两个设备同时在线同步。
-* 💬 [思源 v2.1.7 版本启动后提示“6806 端口不可用”](https://ld246.com/article/1673837502054/comment/1673837766488#comments)
+  > 是不是之前的内核进程没有关闭？ 上传一下日志。
+* 💬 [思源笔记 Mac 端的 OCR 识别使用疑问](https://ld246.com/article/1673932379624/comment/1673933968109#comments)
 
-  > 请升级到最新版，已经解决端口问题。
-* 💬 [官方云丢笔记](https://ld246.com/article/1673720331239/comment/1673837739787#comments)
+  > 语言包的话也可以通过 brew 安装的，手动加入语言包的话要注意下载对应 Tesseract 的版本。
+* 💬 [temp 文件夹超大](https://ld246.com/article/1673930444496/comment/1673933412078#comments)
 
-  > 从日志上看可能是因为之前的数据已经有问题导致的，建议后续再观察看看。
+  > 关闭同步盘了吗？
 
 
 <!--events end -->
