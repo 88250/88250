@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2023-03-08 16:05:09`
+每天自动刷新，最近更新时间：`2023-03-09 16:05:19`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [关于 S3 同步的 问题 第 2 个](https://ld246.com/article/1678108107676/comment/1678260047114#comments)
+* 💬 [导出为图片的性能是否差了点](https://ld246.com/article/1678303109662/comment/1678325989998#comments)
 
-  > 从云端存储创建后开始累计。
-* 💬 [无法动态删除文本内容](https://ld246.com/article/1678158447913/comment/1678252332519#comments)
+  > 请导出这个文档的 .sy 发给我们试试 [链接]
+* 💬 [CloudFlare R2 同步使用问题](https://ld246.com/article/1674398326349/comment/1678325905577#comments)
 
-  > 这个估计改不了。
-* 💬 [未找到块，升级后还是这样。这是啥情况？咋解决](https://ld246.com/article/1678249694442/comment/1678250527626#comments)
+  > 找个 R2 的管理工具试试。
+* 💬 [无法动态删除文本内容](https://ld246.com/article/1678158447913/comment/1678325767543#comments)
 
-  > 重建索引后再试试。
-* 💬 [锁定云端同步目录失败](https://ld246.com/article/1678244564037/comment/1678244892141#comments)
+  > 用浏览器打开试试。
+* 💬 [Error! Can't initialize plug-ins directory](https://ld246.com/article/1678285508141/comment/1678289824739#comments)
 
-  > 不要多个设备同时同步，因为如果有一个设备在同步，就会锁定云端目录，等同步完成以后其他设备才能同步。
-* 💬 [2.7.8 最新版 gpt 找不到哎](https://ld246.com/article/1678178022531/comment/1678193258749#comments)
+  > 建议按照搜索结果中的解决方案试下。
+* 💬 [Error! Can't initialize plug-ins directory](https://ld246.com/article/1678285508141/comment/1678287540968#comments)
 
-  > 是不是使用了代码片段或者其他扩展？
-* 💗💬 [投票：是否支持思源移动端统一块菜单、块标菜单、文档菜单为半屏显示](https://ld246.com/article/1678185548080/comment/1678190152116#comments)
+  > 这个不是思源安装包的问题，而是系统 temp 文件夹权限的问题，仅供参考：[链接]
+* 💗📝 [思源笔记配置 ChatGPT](https://ld246.com/article/1678284235436)
 
-  > D 大，在块菜单全屏模式下，安卓手机用手势边缘滑动（后退）会直接退出软件，而不是“返回上一层”。 手机屏幕大一点手机左上角真的很难点 😰
-* 💬 [投票：是否支持思源移动端统一块菜单、块标菜单、文档菜单为半屏显示](https://ld246.com/article/1678185548080/comment/1678190429472#comments)
+  > 目前思源笔记 2.7.8 桌面端接入 OpenAI Chat API ，2.7.9 将加入针对内容块的人工智能辅助支持。 本篇基于思源笔记官方帮助文档，将简要介绍如何在思源笔记配置 ChatGPT 注册 OpenAI 账号，需要用国外手机号，教程可参考手把手教你注册 ChatGPT 账号。 [图片] 进入 OpenAI ..
+* 💬 [SQL 时如何保持原文的顺序？](https://ld246.com/article/1678282215798/comment/1678283807366#comments)
 
-  > 感谢反馈，先记录 [链接]
-* 💬 [2.7.8 最新版 gpt 找不到哎](https://ld246.com/article/1678178022531/comment/1678190111198#comments)
+  > 嵌入块不支持哦。
+* 💬 [2.7.8 更新版本后：图片问题](https://ld246.com/article/1678280995632/comment/1678283777028#comments)
 
-  > 今晚会发布 v2.7.9-dev1
+  > 关联 [链接]
 
 
 <!--events end -->
