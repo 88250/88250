@@ -20,32 +20,32 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2023-03-09 16:05:19`
+每天自动刷新，最近更新时间：`2023-03-10 16:05:14`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [导出为图片的性能是否差了点](https://ld246.com/article/1678303109662/comment/1678325989998#comments)
+* 💬 [v2.7.8 指定路径为文档时搜索子文档选项失效。](https://ld246.com/article/1678367298028/comment/1678428739027#comments)
 
-  > 请导出这个文档的 .sy 发给我们试试 [链接]
-* 💬 [CloudFlare R2 同步使用问题](https://ld246.com/article/1674398326349/comment/1678325905577#comments)
+  > 你用的是 Ctrl F 还是 Ctrl P？
+* 💬 [新版本导入 sy.zip 失败](https://ld246.com/article/1678419220926/comment/1678426443341#comments)
 
-  > 找个 R2 的管理工具试试。
-* 💬 [无法动态删除文本内容](https://ld246.com/article/1678158447913/comment/1678325767543#comments)
+  > 设置 - 关于 - 导出系统日志
+* 💬 [一个从 siyuan 刚刚立项就关注的用户发自内心的一些话](https://ld246.com/article/1678180484455/comment/1678425671924#comments)
 
-  > 用浏览器打开试试。
-* 💬 [Error! Can't initialize plug-ins directory](https://ld246.com/article/1678285508141/comment/1678289824739#comments)
+  > 目前来说最新版 bug 相对少一些。
+* 💬 [可以支持 GPT 的 stream 格式输出吗？阻塞请求真的有些影响体验](https://ld246.com/article/1678260733032/comment/1678425618205#comments)
 
-  > 建议按照搜索结果中的解决方案试下。
-* 💬 [Error! Can't initialize plug-ins directory](https://ld246.com/article/1678285508141/comment/1678287540968#comments)
+  > 现阶段暂时就这样了，以后再考虑打磨细节，感谢反馈。
+* 💬 [新版本导入 sy.zip 失败](https://ld246.com/article/1678419220926/comment/1678425565708#comments)
 
-  > 这个不是思源安装包的问题，而是系统 temp 文件夹权限的问题，仅供参考：[链接]
-* 💗📝 [思源笔记配置 ChatGPT](https://ld246.com/article/1678284235436)
+  > 请导出日志上传。
+* 💬 [V2.7.8 Bug oppo 商店 更新完一直这个页面，卸载重新安装也是，进不去](https://ld246.com/article/1678408579759/comment/1678408663733#comments)
 
-  > 目前思源笔记 2.7.8 桌面端接入 OpenAI Chat API ，2.7.9 将加入针对内容块的人工智能辅助支持。 本篇基于思源笔记官方帮助文档，将简要介绍如何在思源笔记配置 ChatGPT 注册 OpenAI 账号，需要用国外手机号，教程可参考手把手教你注册 ChatGPT 账号。 [图片] 进入 OpenAI ..
-* 💬 [SQL 时如何保持原文的顺序？](https://ld246.com/article/1678282215798/comment/1678283807366#comments)
+  > 不要开代理。
+* 💬 [v2.7.8 指定路径为文档时搜索子文档选项失效。](https://ld246.com/article/1678367298028/comment/1678408154045#comments)
 
-  > 嵌入块不支持哦。
-* 💬 [2.7.8 更新版本后：图片问题](https://ld246.com/article/1678280995632/comment/1678283777028#comments)
+  > Ctrl F 后是单篇文档内搜索，指定路径的话才会包含子文档的。
+* 💬 [图片宽度无法调节](https://ld246.com/article/1678326028148/comment/1678374877073#comments)
 
   > 关联 [链接]
 
