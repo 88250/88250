@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2023-03-10 16:05:14`
+每天自动刷新，最近更新时间：`2023-03-12 16:04:42`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [v2.7.8 指定路径为文档时搜索子文档选项失效。](https://ld246.com/article/1678367298028/comment/1678428739027#comments)
+* 💬 [建议优先把表格等基本的功能做扎实了，从能用到好用](https://ld246.com/article/1678606610783/comment/1678606861033#comments)
 
-  > 你用的是 Ctrl F 还是 Ctrl P？
-* 💬 [新版本导入 sy.zip 失败](https://ld246.com/article/1678419220926/comment/1678426443341#comments)
+  > 请关注 [链接]
+* 💗📝 [移动端下面工具栏会把正在输入的行挡住](https://ld246.com/article/1678440631522)
 
-  > 设置 - 关于 - 导出系统日志
-* 💬 [一个从 siyuan 刚刚立项就关注的用户发自内心的一些话](https://ld246.com/article/1678180484455/comment/1678425671924#comments)
+  > [图片]
+* 💬 [移动端下面工具栏会把正在输入的行挡住](https://ld246.com/article/1678440631522/comment/1678605480647#comments)
 
-  > 目前来说最新版 bug 相对少一些。
-* 💬 [可以支持 GPT 的 stream 格式输出吗？阻塞请求真的有些影响体验](https://ld246.com/article/1678260733032/comment/1678425618205#comments)
+  > 感谢反馈，先记录 [链接]
+* 💗📝 [关于 Mac 配置 AI 环境变量的解决方案](https://ld246.com/article/1678550510111)
 
-  > 现阶段暂时就这样了，以后再考虑打磨细节，感谢反馈。
-* 💬 [新版本导入 sy.zip 失败](https://ld246.com/article/1678419220926/comment/1678425565708#comments)
+  > 前言 相信很多小伙伴跟我一样，兴致勃勃的打开思源笔记，/ 唤出来 AI 菜单准备用，结果还要设置 key。然后文档也只说了去 openai，根本没提供注册，可能希望自己折腾。好吧，还好我之前注册了账号。 然后，好不容易打开 openai 官网，发现这家伙网站也是坑，token 获取地址隐晦得很，好不容易才找到。 这里前 ..
+* 💬 [请问如何在 Mac 设置环境变量？设置了似乎并不起作用？](https://ld246.com/article/1678437674870/comment/1678440898907#comments)
 
-  > 请导出日志上传。
-* 💬 [V2.7.8 Bug oppo 商店 更新完一直这个页面，卸载重新安装也是，进不去](https://ld246.com/article/1678408579759/comment/1678408663733#comments)
+  > 感觉是配置后没有 source 一下？
+* 💬 [思源配置 openai api 失败](https://ld246.com/article/1678437408148/comment/1678440634393#comments)
 
-  > 不要开代理。
-* 💬 [v2.7.8 指定路径为文档时搜索子文档选项失效。](https://ld246.com/article/1678367298028/comment/1678408154045#comments)
+  > 那可能是其他原因，你试下配置完环境变量后启动一个控制台，看看能否读取到： echo %SIYUAN_OPENAI_API_KEY%
+* 💬 [思源配置 openai api 失败](https://ld246.com/article/1678437408148/comment/1678440406960#comments)
 
-  > Ctrl F 后是单篇文档内搜索，指定路径的话才会包含子文档的。
-* 💬 [图片宽度无法调节](https://ld246.com/article/1678326028148/comment/1678374877073#comments)
+  > 是不是思源的版本不是最新版？另外，配置用户环境变量试试。
+* 💗📝 [在 mermaid 中无法渲染出时间轴和脑图 / 是否考虑将 mermaid 更新至最新版本？](https://ld246.com/article/1678438582988)
 
-  > 关联 [链接]
+  > 如题，今天想尝试用一下 mermaid 绘图来着，结果发现 mermaid 中的时间轴和脑图用不了。 我也不知道是 bug 问题，还是旧版本没这功能。 [图片][图片] [图片] [图片]
 
 
 <!--events end -->
