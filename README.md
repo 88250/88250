@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2023-03-24 16:04:46`
+每天自动刷新，最近更新时间：`2023-03-26 16:05:12`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💗💬 [一个笔记中有多个 mermaid 思维导图会出现显示问题 -Siyuan2.8](https://ld246.com/article/1679482894435/comment/1679643198916#comments)
+* 💬 [【已修复】思源笔记嵌入 B 站视频，打开文档时会自动播放](https://ld246.com/article/1678118905430/comment/1679815760443#comments)
 
-  > 排版元素一切正常，因为排版元素里面也没有同时放多个 mermaid mindmap。 sy 文件我是导出的该笔记 [链接]
-* 💗📝 [一个笔记中有多个 mermaid 思维导图会出现显示问题 -Siyuan2.8](https://ld246.com/article/1679482894435)
+  > 我这里无法重现，建议看下链接上是不是加了什么自动播放的参数。
+* 💬 [人工智能能否让用户自行调入接口？](https://ld246.com/article/1679813009210/comment/1679815682062#comments)
 
-  > 环境：Siyuan for windows 2.8 版。 前提：mermaid 语法没有问题，严格按照 mermaid 官网教程编写的，可以正常显示。在 Typora 里面也可以正常显示。 问题：如果一个笔记中有多个 mermaid 思维导图，首先经常会出现显示不正常，但是进入编辑脚本再关闭编辑窗体就正常了。更大的问题 ..
-* 💬 [一个笔记中有多个 mermaid 思维导图会出现显示问题 -Siyuan2.8](https://ld246.com/article/1679482894435/comment/1679643710725#comments)
+  > 如果你说的接口是代理 OpenAI API 的话修改 Base URL 试试。
+* 💬 [闪卡同步问题](https://ld246.com/article/1679814757429/comment/1679815597507#comments)
 
-  > 感谢反馈，已经可以重现问题，先记录 [链接]
-* 💬 [粘贴资源文件，文号括弧 [] 被自动清除的 BUG](https://ld246.com/article/1679583739125/comment/1679633604609#comments)
+  > 其他端同步之前如果修改过数据的话会覆盖云端数据，具体细节请看用户指南云端章节。
+* 💬 [关于在某一个笔记中搜索](https://ld246.com/article/1679800961171/comment/1679815422288#comments)
 
-  > 没有办法判断是否是文号，所以只能统一过滤掉，避免产生其它问题。
-* 💬 [思源笔记 A JavaScript error occurred in the main process](https://ld246.com/article/1679630654703/comment/1679633439902#comments)
+  > 在文档树上 Ctrl F
+* 💬 [关于在某一个笔记中搜索](https://ld246.com/article/1679800961171/comment/1679802529192#comments)
 
-  > 下个版本会修复这个问题。 另外，思源不支持第三方同步盘，强行使用的话会导致数据损坏。
-* 💬 [收集箱对知乎链接的内容解析存在问题](https://ld246.com/article/1679623461521/comment/1679627758260#comments)
+  > 对于移动端我们目前主要在优化界面和交互，搜索功能相关的改进估计得再等一段时间了。
+* 💬 [关于在某一个笔记中搜索](https://ld246.com/article/1679800961171/comment/1679801255381#comments)
 
-  > 估计没有……需要精确到回答的链接才行。
-* 💬 [收集箱对知乎链接的内容解析存在问题](https://ld246.com/article/1679623461521/comment/1679623866218#comments)
+  > 使用 包含子文档
+* 💬 [思源本地软件重新进入后，笔记内容丢失](https://ld246.com/article/1679798459173/comment/1679800635335#comments)
 
-  > 请参考 [链接]
-* 💬 [思源扩展在知乎上剪藏时默认从第二个回答开始，第一个回答略过了](https://ld246.com/article/1676889038674/comment/1679623854887#comments)
+  > 是否使用了第三方同步盘，比如 iCloud 或者坚果云？
+* 💬 [笔记导出 word 没反应](https://ld246.com/article/1679750924588/comment/1679792298146#comments)
 
-  > 请参考 [链接]
+  > 试下安装最新版，如果还是不行，麻烦在 设置 - 关于 中导出系统日志上传并回复我。
 
 
 <!--events end -->
