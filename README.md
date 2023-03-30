@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2023-03-29 16:05:36`
+每天自动刷新，最近更新时间：`2023-03-30 16:04:58`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [AI Chat 配置后报错怎么办？kernel log](https://ld246.com/article/1680063029536/comment/1680069795766#comments)
+* 💬 [关于英文单词的虚拟引用问题](https://ld246.com/article/1680160829991/comment/1680161703598#comments)
 
-  > 默认的地址国内网络不通，得走代理过的地址。
-* 💬 [内核因未知原因退出](https://ld246.com/article/1634663093126/comment/1680068496558#comments)
+  > 分词说的是楼主反馈的问题吗？
+* 💬 [关于英文单词的虚拟引用问题](https://ld246.com/article/1680160829991/comment/1680161038478#comments)
 
-  > [链接]
-* 💗📝 [在新窗口中重命名标签，提示不会消失](https://ld246.com/article/1680017552495)
+  > 这个问题我记得之前解决过，请更新下版本看看。
+* 💬 [2.8.1 内核不稳定](https://ld246.com/article/1679976833441/comment/1680160134763#comments)
 
-  > [图片] 实际已经重命名成功了，但这个提示一直不会消失
-* 💬 [在新窗口中重命名标签，提示不会消失](https://ld246.com/article/1680017552495/comment/1680068265459#comments)
+  > 你的这个报错和其他人不一样，请按弹框中的解决方案处理一下，不要使用第三方同步盘。
+* 💬 [AI Chat 配置后报错怎么办？kernel log](https://ld246.com/article/1680063029536/comment/1680157420826#comments)
 
-  > 感谢反馈，先记录 [链接]
-* 💗📝 [表格里输入 \ 后，不填写内容表格会自动删掉一列](https://ld246.com/article/1680055506040)
-
-  > [图片] 当表格有一个 \ 符号，且不填写内容，那么在表格任意位置填写内容，即会自动删掉一列，详细见 gif 动图~
-* 💬 [表格里输入 \ 后，不填写内容表格会自动删掉一列](https://ld246.com/article/1680055506040/comment/1680068088632#comments)
-
-  > 感谢反馈，先记录 [链接]
-* 💬 [当在新窗口中打开 PDF 文档时，点击笔记中的标注链接，PDF 文档不会自动滚动到标注处](https://ld246.com/article/1680065167986/comment/1680067708934#comments)
+  > 你这是 API Base URL 配置不对，用默认值 https://api.openai.com/v1 试试。
+* 💬 [A4 大小 PDF 如果缩放不是 100% 或 125%，划选和标注文本区域将错位](https://ld246.com/article/1648024666172/comment/1680157186973#comments)
 
   > 关联 [链接]
-* 💬 [AI Chat 配置后报错怎么办？kernel log](https://ld246.com/article/1680063029536/comment/1680067650638#comments)
+* 💬 [PDF 导出问题，设置界面内容出现在导出的 PDF 中](https://ld246.com/article/1680151630284/comment/1680156620830#comments)
 
-  > 网络代理 或者 API 基础地址 要选配一个，否则国内无法访问 OpenAI 接口的。
+  > 关联 [链接]
+* 💬 [如何获取 dev 的版本号？](https://ld246.com/article/1680154155920/comment/1680156378260#comments)
+
+  > dev 版应用中没有修改版本号，反馈的话建议直接使用 GitHub 上的下载地址或者 v2.8.2-dev2 这样的版本号即可。
+* 💬 [心累了，第 N 次出现同步失败问题，求助](https://ld246.com/article/1680141891505/comment/1680147245870#comments)
+
+  > 请按照用户指南常见问题中的密钥遗失步骤处理看看。
 
 
 <!--events end -->
