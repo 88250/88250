@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2023-04-05 16:06:10`
+每天自动刷新，最近更新时间：`2023-04-06 16:04:54`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [2.8.3docker 版，云端存储服务商提供的网络连通性校验异常](https://ld246.com/article/1680677870580/comment/1680680780816#comments)
+* 💗📝 [聚焦状态下转预览模式 bug](https://ld246.com/article/1680766751801)
 
-  > 你使用的服务端支持 HEAD 请求吗？可以找个 HTTP 客户端测试工具发送一个 HEAD 请求看下响应。 第二个问题是服务器配置的问题，可能是缺乏某些根证书吧。
-* 💬 [2.8.3docker 版，云端存储服务商提供的网络连通性校验异常](https://ld246.com/article/1680677870580/comment/1680678132669#comments)
+  > [图片]
+* 💬 [聚焦状态下转预览模式 bug](https://ld246.com/article/1680766751801/comment/1680767325760#comments)
 
-  > v2.8.3 在同步前会发送一个 HTTP 请求（HEAD）到配置的 Endpoint 地址上，如果返回报错的话会认为网络无法连通。
-* 💬 [求助：2.0.18 离线升级到 2.8.2 后，之前的文档全都没有了](https://ld246.com/article/1680593250881/comment/1680674031651#comments)
+  > 感谢反馈，先记录 [链接]
+* 💬 [版本 2.8.3 一直启动状态 进不去 求助帮忙](https://ld246.com/article/1680757302507/comment/1680766330563#comments)
 
-  > 很早的版本在安装和卸载时就会弹出警告提示的。
-* 💬 [siyuan-2.8.2-mac-arm64 重装后选择工作目录后没有反应](https://ld246.com/article/1680518813121/comment/1680660878861#comments)
+  > 关联 [链接]
+* 💬 [思源笔记打不开了 版本 2.8.3 一直启动状态](https://ld246.com/article/1680646880606/comment/1680762668139#comments)
 
-  > 对了，我想再问一下之前初始化报错时是不是没有开 iCloud，因为[链接]也有用户反馈初始化问题，他的环境没有打开 iCloud。
-* 💬 [2.8.3 NAS 自建 WebDAV 同步报错](https://ld246.com/article/1680652764596/comment/1680660737698#comments)
+  > 点击下面的刷新按钮能进去吗？
+* 💗💬 [移动端左右滑动其他块内容（如 mermaid）也会划出文档树面板](https://ld246.com/article/1680601720952/comment/1680747055651#comments)
 
-  > 现在的版本会通过 Endpoint 来检查网络连通性，如果无法连通则报错提示。
-* 💬 [MAC 在安装后不进入主界面](https://ld246.com/article/1680613119380/comment/1680660617101#comments)
+  > 说错了是左滑。 左滑那个应该是主题问题。 但是音频块默认主题下测试还是有问题的。 [视频]
+* 💬 [siyuan-2.8.2-mac-arm64 重装后选择工作目录后没有反应](https://ld246.com/article/1680518813121/comment/1680750129101#comments)
 
-  > 不能使用 iCloud 同步思源数据，这个是因为目前的判断代码有 bug。
-* 💬 [MAC 在安装后不进入主界面](https://ld246.com/article/1680613119380/comment/1680659925028#comments)
+  > 下个版本（v2.8.4）改进了一些判断 [链接] 等发布以后如果有空请帮忙回测看看，谢谢。
+* 💬 [移动端左右滑动其他块内容（如 mermaid）也会划出文档树面板](https://ld246.com/article/1680601720952/comment/1680750046919#comments)
 
-  > 再帮忙看下在文件管理器中是否存在报错的路径： /Users/leadway/Library/Mobile Documents 请注意最后这里有个空格。
-* 💗💬 [MAC 在安装后不进入主界面](https://ld246.com/article/1680613119380/comment/1680659195749#comments)
+  > 我在 Android 上测试的……等后面 @Vanessa 看看 iOS 吧 [链接]
+* 💬 [不能正常同步的问题](https://ld246.com/article/1680748876409/comment/1680749866485#comments)
 
-  > option command I 打开的 [图片]
+  > 是最新版吗？如果不是的话请更新到最新版后再试试。
 
 
 <!--events end -->
