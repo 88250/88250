@@ -20,10 +20,25 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2023-07-01 16:04:52`
+每天自动刷新，最近更新时间：`2023-07-02 16:05:00`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [Sync failed: Cloud data has been corrupted, please reset the local data repo and cloud sync dir to resolve the issue](https://ld246.com/article/1688195332175/comment/1688283980065#comments)
+
+  > 在 设置 - 关于 里有个重置按钮。
+* 💬 [Siyuan API 修改属性引用文本不更新](https://ld246.com/article/1687571184804/comment/1688267823414#comments)
+
+  > 2.9.3 已经包含了这项改进，调用以后界面可能需要等个几秒钟后再试试 F5 刷新。
+* 💬 [关于备注和数学公式](https://ld246.com/article/1688220117205/comment/1688221781565#comments)
+
+  > 需要排版的备注考虑用引用替代，行级公式改为块级公式。
+* 💬 [docker 用户应该成为思源未来会员收入的新增长点](https://ld246.com/article/1688143372308/comment/1688201243704#comments)
+
+  > 没人愿意付费一个产品说明这个产品没有太大价值，开发者想尽办法做营收只会适得其反。 我觉得现在这样就挺好了，解决现有程序问题是首要任务。
+* 💬 [Sync failed: Cloud data has been corrupted, please reset the local data repo and cloud sync dir to resolve the issue](https://ld246.com/article/1688195332175/comment/1688200040082#comments)
+
+  > 你好，你重置云端的时候有更换一个从来没使用过的云端目录名称吗，还是只点击删除云端目录重新上传？ 另外，重置的时候本地数据仓库也需要重置，否则还是会有问题。
 * 💬 [遇到文件访问访达直接卡死的问题](https://ld246.com/article/1686646375538/comment/1688179679672#comments)
 
   > 这个问题只能等 Electron 修复 [链接]
@@ -33,21 +48,6 @@
 * 💬 [docker 用户应该成为思源未来会员收入的新增长点](https://ld246.com/article/1688143372308/comment/1688167821565#comments)
 
   > [链接]
-* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1688135640382)
-
-  > 思源虽然谈不上优秀，但是我们还是得把它拉扯大。
-* 💬 [手机和 ipad 都能看见文档 电脑上同步不下来！](https://ld246.com/article/1688106514105/comment/1688128110758#comments)
-
-  > 老铁数据恢复了吗？
-* 💬 [手机和 ipad 都能看见文档 电脑上同步不下来！](https://ld246.com/article/1688106514105/comment/1688114855415#comments)
-
-  > 对，电脑上重置数据仓库以后再下载云端数据。
-* 💬 [手机和 ipad 都能看见文档 电脑上同步不下来！](https://ld246.com/article/1688106514105/comment/1688113230606#comments)
-
-  > 下载云端数据前电脑端要先重置本地数据仓库。
-* 💬 [手机和 ipad 都能看见文档 电脑上同步不下来！](https://ld246.com/article/1688106514105/comment/1688112210306#comments)
-
-  > 试下在手机上把同步模式改成完全手动模式，然后选择上传数据，完成以后再到电脑上下载。 如果还不行，那就用备份功能：在手机上标记快照，然后上传标记快照到云端，完成以后再到电脑上下载云端标记快照最后回滚快照。
 
 
 <!--events end -->
