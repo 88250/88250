@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2023-08-01 16:05:15`
+每天自动刷新，最近更新时间：`2023-08-02 16:05:17`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [想请问下后续的订阅还会有优惠吗？](https://ld246.com/article/1690874954359/comment/1690875415196#comments)
+* 💬 [mac 端隔一会儿就自动关闭，提示工作空间下的文件正在被第三方软件扫描读取占用](https://ld246.com/article/1690948166290/comment/1690956930604#comments)
 
-  > 抱歉应该是没有了。
-* 💬 [想请问下后续的订阅还会有优惠吗？](https://ld246.com/article/1690874954359/comment/1690875093748#comments)
+  > 重启一下系统，或者在任务管理器中把 SiYuan 相关进程结束后再启动。
+* 💬 [mac 端隔一会儿就自动关闭，提示工作空间下的文件正在被第三方软件扫描读取占用](https://ld246.com/article/1690948166290/comment/1690956198031#comments)
 
-  > 你好，有首年团购优惠和教育优惠。
-* 💬 [S3/WebDAV 同步是否可离线激活](https://ld246.com/article/1690859842906/comment/1690860340522#comments)
+  > 是的
+* 💬 [mac 端隔一会儿就自动关闭，提示工作空间下的文件正在被第三方软件扫描读取占用](https://ld246.com/article/1690948166290/comment/1690954445280#comments)
 
-  > 将工作空间/conf/conf.json 中的 userData 值拷贝过去就可以了。
-* 💬 [ios 手机端无法显示图片](https://ld246.com/article/1690541744956/comment/1690853037288#comments)
-
-  > 试下重置手机数据仓库后再同步。
-* 💬 [ios 手机端无法显示图片](https://ld246.com/article/1690541744956/comment/1690816509125#comments)
-
-  > 随意修改一下这个文档的任何部分，然后再同步看看。
-* 💬 [不显示内容](https://ld246.com/article/1690788325701/comment/1690789622692#comments)
-
-  > 更新程序和主题。
-* 💬 [外网访问公网云主机的思源程序](https://ld246.com/article/1690789036107/comment/1690789604710#comments)
-
-  > 反向代理一下。
-* 💬 [建议：优化切换页签后的位置跳转](https://ld246.com/article/1690770975769/comment/1690774663283#comments)
+  > 主界面左上角的菜单。
+* 💬 [关于思源笔记导出 docx 的功能](https://ld246.com/article/1690952982420/comment/1690953247139#comments)
 
   > 关联 [链接]
+* 💬 [mac 端隔一会儿就自动关闭，提示工作空间下的文件正在被第三方软件扫描读取占用](https://ld246.com/article/1690948166290/comment/1690948469478#comments)
+
+  > 工作空间不能位于 iCloud 等云盘同步路径下。
+* 💬 [S3 大量同步超时后手动同步导致全量上传数据](https://ld246.com/article/1690899915391/comment/1690903916167#comments)
+
+  > 嗯，不能用 CDN。不过暂时也无法排查出问题，建议使用大陆地区的 S3 存储看看。
+* 💬 [S3 大量同步超时后手动同步导致全量上传数据](https://ld246.com/article/1690899915391/comment/1690902699312#comments)
+
+  > 对象存储开启了 CDN 之类的吗？
+* 💬 [S3 大量同步超时后手动同步导致全量上传数据](https://ld246.com/article/1690899915391/comment/1690901134776#comments)
+
+  > 发一下日志，我们看看能不能改进，谢谢。
 
 
 <!--events end -->
