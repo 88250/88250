@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2023-08-17 16:04:56`
+每天自动刷新，最近更新时间：`2023-08-18 16:04:55`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 👍💬 [思源会考虑做 Readwise 自动同步吗？](https://ld246.com/article/1692249425692/comment/1692251788627#comments)
+* 💬 [表格是否会进行功能开发，例如下拉选择等简单的表格操作，或者可否引入开源的表格到思源文档中](https://ld246.com/article/1692344311645/comment/1692344484728#comments)
 
-  > 那如果有其他人有类似需求，欢迎去他们的 discord 里说 😂 ，说的人多了他们才会做
-* 💬 [思源会考虑做 Readwise 自动同步吗？](https://ld246.com/article/1692249425692/comment/1692250298480#comments)
+  > 正在开发类似 Notion Database 的功能。
+* 💬 [问问 3.0 版本的发布时间？](https://ld246.com/article/1692149015273/comment/1692343579667#comments)
 
-  > 等他们接入吧。
-* 💬 [如何将 Markdown 文本复制到思源后自动转化成 Markdown 格式](https://ld246.com/article/1692249932296/comment/1692250270840#comments)
+  > 争取今年年底前吧。
+* 💬 [recent-doc.json 导致创建数据快照失败](https://ld246.com/article/1692320858468/comment/1692329193545#comments)
 
-  > 复制纯文本后再粘贴。
-* 💬 [数据同步失败，无法更新至新版本](https://ld246.com/article/1692247179654/comment/1692247868067#comments)
+  > 下个版本改进 [链接]
+* 💗📝 [PDF 自带的书签无法锁定缩放比例](https://ld246.com/article/1692199035176)
 
-  > 重启系统后再试试。
-* 💬 [搜索资源文件希望可以限定特定资源内搜索](https://ld246.com/article/1692241665151/comment/1692242443434#comments)
+  > 在 PDF 页签内浏览时，有时需要通过 PDF 自带的书签来跳转， 跳转后有的文档页面缩放比例发生了改变，应该是重置为了该书签的默认缩放值。 有两种解决思路，一种是应用内锁定缩放比例，像 WPS，Adobe Acrobat 这样的都有这种功能； 还有一种是修改 PDF 文档，移除书签上自带的默认缩放比例。 我用的时第二 ..
+* 💬 [PDF 自带的书签无法锁定缩放比例](https://ld246.com/article/1692199035176/comment/1692328701700#comments)
 
-  > 目前主要是起到一个定位文件的作用，因为内容都转换为文本了，在文本中再次定位效果可能不是太好。定位到文件后双击用默认程序打开再在程序内搜索好一些。
-* 💬 [前面不是说有付费扩容？](https://ld246.com/article/1692197926340/comment/1692239365664#comments)
+  > 已经收到 PDF，可以重现问题，先记录 [链接] 感谢反馈。
+* 💗📝 [recent-doc.json 导致创建数据快照失败](https://ld246.com/article/1692320858468)
 
-  > 成本有限，目前只能做到这样了。
-* 💬 [同步不及时](https://ld246.com/article/1692236758794/comment/1692239273219#comments)
+  > 最近经常出现 recent-doc.json 的创建数据快照失败提示。 [图片]
+* 💬 [recent-doc.json 导致创建数据快照失败](https://ld246.com/article/1692320858468/comment/1692324527716#comments)
 
-  > 多试试看吧，我这里目前测试正常。
-* 💬 [关于功能性收费的问题](https://ld246.com/article/1692237206793/comment/1692238137070#comments)
+  > 感谢反馈，这个问题我们会留意定位。
+* 💗📝 [关于迷宫（白板）收集到的一些信息，希望对迷宫的开发有所帮助！](https://ld246.com/article/1692281099294)
 
-  > 应该就这三个了，谢谢。
+  > Tiddlywiki 作者开发的一个实验性产品：https://jermolene.com/cecily/ 双击空白处呼出控制菜单，包括搜索，白板之间的跳转等，跳转链接方面和 heptabase 有一些相似之处。 点击卡片聚焦 这是他为何这样设计的思考 [图片] 这个是一个视频，LiquidText Honeybee  ..
 
 
 <!--events end -->
