@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2023-10-01 16:04:54`
+每天自动刷新，最近更新时间：`2023-10-02 16:05:34`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [数据库“块栏”无法重命名](https://ld246.com/article/1695790906050/comment/1696233750577#comments)
+
+  > 最新的开发版已经支持直接添加行数据。
+* 💗📝 [【代码片段】鼠标悬浮块，显示特定的背景颜色（js，非 CSS）](https://ld246.com/article/1696233531402)
+
+  > 分享一个悬浮到块上显示颜色修改的代码片段，功能如题。 应用场景：需要聚焦的任何场景（复盘、核对...） function setupHoverEffect() { var parentDiv = document.querySelector('.protyle-wysiwyg[data-doc-type='NodeDo ..
+* 💬 [希望文档里输入标签的时候能够有下拉菜单提示](https://ld246.com/article/1696173635465/comment/1696210017383#comments)
+
+  > 正常情况下输入 # 后继续输入是有候选列表的。
+* 💬 [剪藏插件收藏网页时代码块格式错误](https://ld246.com/article/1696204715732/comment/1696205965627#comments)
+
+  > 抱歉，这个目前没有办法适配。
+* 💬 [目录不能拖动排序了](https://ld246.com/article/1696172465875/comment/1696201108684#comments)
+
+  > 笔记本的排序方式可以单独配置，配置为自定义排序就行了。
+* 💬 [v2.10.8-dev2，linux 版无法在 fedora 下启动](https://ld246.com/article/1696152212130/comment/1696153225034#comments)
+
+  > 暂时无法确认是否是升级 Electron 导致的，其他方面应该没有影响。
 * 💬 [剪切代码块异常 Bug](https://ld246.com/article/1696123786559/comment/1696124358731#comments)
 
   > 关联 [链接]
 * 💗💬 [导出 rtf 格式后没了换行效果](https://ld246.com/article/1696077481951/comment/1696079429119#comments)
 
   > [链接] 这是思源导出的，您导入，然后再导出 rtf 格式，看看 我是用 wps 打开的
-* 💬 [导出 rtf 格式后没了换行效果](https://ld246.com/article/1696077481951/comment/1696124238244#comments)
-
-  > 通过该测试数据可以重现问题了，感谢反馈，下个版本改进 [链接]
-* 💬 [安卓端附件不能下载](https://ld246.com/article/1696059039388/comment/1696078428669#comments)
-
-  > 使用伺服功能的话需要保持 APP 处于活动状态（不能在处于后台）。
-* 💬 [浮窗动画](https://ld246.com/article/1696031675148/comment/1696078115306#comments)
-
-  > 关联 [链接]
-* 💬 [导出 rtf 格式后没了换行效果](https://ld246.com/article/1696077481951/comment/1696077830263#comments)
-
-  > 我这里测试正常： [图片]
-* 💬 [语雀复制到思源文字加粗乱了](https://ld246.com/article/1696067499788/comment/1696075587900#comments)
-
-  > 这个没有办法兼容，原因和 [链接] 一样。
-* 💬 [怎么知道丢失的资源文件是在哪个文档丢失的？](https://ld246.com/article/1696048360369/comment/1696071952745#comments)
-
-  > 从文件看是题头图，这个确实搜索不到。
 
 
 <!--events end -->
