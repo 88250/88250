@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2023-10-02 16:05:34`
+每天自动刷新，最近更新时间：`2023-10-03 16:05:19`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* ⭐️👨‍💻 [Suiyuchi](https://ld246.com/member/Suiyuchi)
+
+  > 
+* 💬 [数据库无法添加同一块 2 次](https://ld246.com/article/1696309181619/comment/1696309360968#comments)
+
+  > 这个是设计如此，相同块在表中是唯一的。
+* 💗💬 [数据库“块栏”无法重命名](https://ld246.com/article/1695790906050/comment/1696234209062#comments)
+
+  > 数据库有一列出现了无法删除的 BUG，工作空间已经上传网盘 [链接] 提取码: 48px
+* 💬 [数据库“块栏”无法重命名](https://ld246.com/article/1695790906050/comment/1696294377332#comments)
+
+  > 感谢提供测试数据集，已经能够重现问题，下个版本修复。
+* 💬 [2.10.7，导出 epub，节点内换行失效？](https://ld246.com/article/1696237144725/comment/1696238829188#comments)
+
+  > 可能和这个是一个问题 [链接] 方便的话可以帮忙测试下 dev 版，应该已经修复。
+* 🗣 [mac 系统，使用快捷键剪切会将整个段落剪切掉](https://ld246.com/article/1696233889543/comment/1696235769631#comments)
+
+  > @Wangfh5 可以试试 dev 版，正式版要等周二了。
+* 💬 [mac 系统，使用快捷键剪切会将整个段落剪切掉](https://ld246.com/article/1696233889543/comment/1696235769631#comments)
+
+  > 感谢反馈，这是个已知 bug，下个版本修复。
 * 💬 [数据库“块栏”无法重命名](https://ld246.com/article/1695790906050/comment/1696233750577#comments)
 
   > 最新的开发版已经支持直接添加行数据。
-* 💗📝 [【代码片段】鼠标悬浮块，显示特定的背景颜色（js，非 CSS）](https://ld246.com/article/1696233531402)
-
-  > 分享一个悬浮到块上显示颜色修改的代码片段，功能如题。 应用场景：需要聚焦的任何场景（复盘、核对...） function setupHoverEffect() { var parentDiv = document.querySelector('.protyle-wysiwyg[data-doc-type='NodeDo ..
-* 💬 [希望文档里输入标签的时候能够有下拉菜单提示](https://ld246.com/article/1696173635465/comment/1696210017383#comments)
-
-  > 正常情况下输入 # 后继续输入是有候选列表的。
-* 💬 [剪藏插件收藏网页时代码块格式错误](https://ld246.com/article/1696204715732/comment/1696205965627#comments)
-
-  > 抱歉，这个目前没有办法适配。
-* 💬 [目录不能拖动排序了](https://ld246.com/article/1696172465875/comment/1696201108684#comments)
-
-  > 笔记本的排序方式可以单独配置，配置为自定义排序就行了。
-* 💬 [v2.10.8-dev2，linux 版无法在 fedora 下启动](https://ld246.com/article/1696152212130/comment/1696153225034#comments)
-
-  > 暂时无法确认是否是升级 Electron 导致的，其他方面应该没有影响。
-* 💬 [剪切代码块异常 Bug](https://ld246.com/article/1696123786559/comment/1696124358731#comments)
-
-  > 关联 [链接]
-* 💗💬 [导出 rtf 格式后没了换行效果](https://ld246.com/article/1696077481951/comment/1696079429119#comments)
-
-  > [链接] 这是思源导出的，您导入，然后再导出 rtf 格式，看看 我是用 wps 打开的
 
 
 <!--events end -->
