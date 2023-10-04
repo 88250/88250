@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2023-10-03 16:05:19`
+每天自动刷新，最近更新时间：`2023-10-04 16:05:17`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* ⭐️👨‍💻 [Suiyuchi](https://ld246.com/member/Suiyuchi)
+* 💬 [database 删除行之后再撤回，链接列里面的东西全没了，只有块还原了](https://ld246.com/article/1696323716573/comment/1696398688517#comments)
 
-  > 
-* 💬 [数据库无法添加同一块 2 次](https://ld246.com/article/1696309181619/comment/1696309360968#comments)
+  > 感谢反馈，但目前只能这样，无法保留已经输入的值。
+* 💬 [v2.10.8 数据库有些块不显示了](https://ld246.com/article/1696396480890/comment/1696396686677#comments)
 
-  > 这个是设计如此，相同块在表中是唯一的。
-* 💗💬 [数据库“块栏”无法重命名](https://ld246.com/article/1695790906050/comment/1696234209062#comments)
+  > 稍后会发布一个 dev 版（v2.10.9-dev1）尝试修复该问题，请下载测试看看，谢谢。
+* 💗🌙 [感谢了清风明月](https://ld246.com/member/mdzz2048/breezemoons/1696346390046)
 
-  > 数据库有一列出现了无法删除的 BUG，工作空间已经上传网盘 [链接] 提取码: 48px
-* 💬 [数据库“块栏”无法重命名](https://ld246.com/article/1695790906050/comment/1696294377332#comments)
+  > 不知不觉已经用了两年思源了呢……
+* 💗📝 [代码块行号显示异常](https://ld246.com/article/1696382815353)
 
-  > 感谢提供测试数据集，已经能够重现问题，下个版本修复。
-* 💬 [2.10.7，导出 epub，节点内换行失效？](https://ld246.com/article/1696237144725/comment/1696238829188#comments)
+  > [视频]
+* 💬 [代码块行号显示异常](https://ld246.com/article/1696382815353/comment/1696386726633#comments)
 
-  > 可能和这个是一个问题 [链接] 方便的话可以帮忙测试下 dev 版，应该已经修复。
-* 🗣 [mac 系统，使用快捷键剪切会将整个段落剪切掉](https://ld246.com/article/1696233889543/comment/1696235769631#comments)
+  > 感谢反馈，先记录 [链接]
+* 💬 [siyuan-2.10.8-linux.AppImage 在 ubuntu 下执行出现段错误](https://ld246.com/article/1696340748962/comment/1696379174691#comments)
 
-  > @Wangfh5 可以试试 dev 版，正式版要等周二了。
-* 💬 [mac 系统，使用快捷键剪切会将整个段落剪切掉](https://ld246.com/article/1696233889543/comment/1696235769631#comments)
+  > 可能和这个是同一个问题 [链接] 暂时无法定位。
+* 💬 [v2.10.8 安装包启动报错](https://ld246.com/article/1696340931771/comment/1696378832068#comments)
 
-  > 感谢反馈，这是个已知 bug，下个版本修复。
-* 💬 [数据库“块栏”无法重命名](https://ld246.com/article/1695790906050/comment/1696233750577#comments)
+  > [链接]
+* 💬 [怎样在文档树中查看数据库下的子文档](https://ld246.com/article/1696332842174/comment/1696333192722#comments)
 
-  > 最新的开发版已经支持直接添加行数据。
+  > 现在的版本不会隐藏数据库创建的子文档了，以前的数据可以在文档自定义属性中删除一下 hidden 属性。
 
 
 <!--events end -->
