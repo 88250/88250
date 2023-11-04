@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2023-11-03 16:05:21`
+每天自动刷新，最近更新时间：`2023-11-04 16:04:51`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [日记界面优化建议](https://ld246.com/article/1666247459669/comment/1698990380886#comments)
+* 💬 [数据库拖拽按钮消失](https://ld246.com/article/1699077234816/comment/1699077843919#comments)
 
-  > 暂时没有计划，用插件顶顶吧。
-* 💬 [思源笔记撤销功能为什么只能撤销，不能取消撤销？](https://ld246.com/article/1698979355605/comment/1698979435617#comments)
+  > 请把鼠标移到箭头位置看看。
+* 💗📝 [分屏时，文本光标所在列表项，一定滚动到底部 v2.10.13](https://ld246.com/article/1699067521542)
 
-  > 试试 Ctrl+Y 或者 数据历史 - 文档历史，应该能恢复。
-* 💬 [2.10.13 版导出 PDF 文件目录错乱的问题](https://ld246.com/article/1698967848880/comment/1698979052309#comments)
+  > 知道这点以后，也没什么，每次固定目光聚焦在底部就好了 [链接] 排除影响： 关闭所有代码片段、插件 重启思源笔记
+* 💬 [OCR tesseract  卡死 没反应 全部重头重新 OCR 识别](https://ld246.com/article/1699064798348/comment/1699065489563#comments)
 
-  > 你好，感谢提供数据集，我们这里在最新版上测试正常： [图片]
-* 💬 [mac 插入 rtfd 文件会自动打包成 zip 文件](https://ld246.com/article/1698843450102/comment/1698977563656#comments)
+  > 暂时还没想好如何解决，欢迎提出建议，我们一起讨论看看，谢谢。
+* 💬 [图片尺寸小问题](https://ld246.com/article/1699023470136/comment/1699063155697#comments)
 
-  > 你好，我们已经收到数据集，在 macOS 上测试正常： [图片] 目前可以尝试通过如下步骤看看能否解决： 把已有的所有引用该 .zip 的超链接删掉 使用 设置 - 资源 - 未引用的资源文件 - 删除 功能将文件系统上的这个物理文件清理删除 文档树面板 - 更多 - 重建索引 重新上传该文件
-* 💬 [网上找的 emoji 符号如何收藏到 emoji 里](https://ld246.com/article/1698973892984/comment/1698974325133#comments)
+  > 你好，我这里无法重现问题，请看操作录屏： [视频]
+* 💗📝 [【代码片段】思源笔记导出 pdf 按分割线分页](https://ld246.com/article/1699023624773)
 
-  > 如果是 Emoji 字符的话可以直接用，会使用系统默认的 Emoji 字体，如果是 :smile: 这样的形式则会转换为 Emoji 字符，然后同样使用系统默认的 Emoji 字体渲染。
-* 💬 [保存脚本的时候代码段里面都出现了 '\'，求大佬解惑](https://ld246.com/article/1698940141253/comment/1698973794452#comments)
+  > CSS 代码 #preview.protyle-wysiwyg .hr { page-break-before: always; } #preview.protyle-wysiwyg .hr &gt; div { display: none; } ‍ 有需要的可以在【外观-代码片段】加入代码片段以启用 [图片]
+* 💬 [思源笔记 2.10.13 S3 云端同步报错 AccessDenied: AWS authentication requires a valid Date or x-amz-date header](https://ld246.com/article/1699058751171/comment/1699059011854#comments)
 
-  > 请使用代码块保存代码脚本。
-* 💬 [2.10.13 版导出 PDF 文件目录错乱的问题](https://ld246.com/article/1698967848880/comment/1698973252192#comments)
+  > 建议核对一下 AccessKey 和 SecretKey 等配置，思源使用的是 Amazon 官方 S3 SDK，理论上该有的请求标头都是有的，应该非常标准。
+* 💬 [思源笔记放一会不操作会卡顿](https://ld246.com/article/1699030331656/comment/1699058640206#comments)
 
-  > 方便的话请把该文档导出 .sy.zip 发给我们测试 [链接]
-* 💬 [mac 插入 rtfd 文件会自动打包成 zip 文件](https://ld246.com/article/1698843450102/comment/1698973180995#comments)
+  > 你好，我这里无法重现问题，请把开发者工具打开，观察一下 Network 中的请求，另外，麻烦附上系统日志，谢谢。
+* 💬 [如何使用数据库创建参考文献作者列？](https://ld246.com/article/1699010828847/comment/1699056721352#comments)
 
-  > 方便的话请把这个文件发给我们测试看看 [链接]
+  > 哦，我懂了，需要的是引用列或者文本列中可以加引用。
 
 
 <!--events end -->
