@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2023-11-04 16:04:51`
+每天自动刷新，最近更新时间：`2023-11-05 16:04:41`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [数据库拖拽按钮消失](https://ld246.com/article/1699077234816/comment/1699077843919#comments)
+* 💬 [【需求】挖空依次显示](https://ld246.com/article/1699093386779/comment/1699093750031#comments)
 
-  > 请把鼠标移到箭头位置看看。
-* 💗📝 [分屏时，文本光标所在列表项，一定滚动到底部 v2.10.13](https://ld246.com/article/1699067521542)
+  > 近期版本实在没有时间解决这个需求了，见谅。
+* 💬 [ipad 端新建笔记是默认锁住的](https://ld246.com/article/1699083212183/comment/1699093712141#comments)
 
-  > 知道这点以后，也没什么，每次固定目光聚焦在底部就好了 [链接] 排除影响： 关闭所有代码片段、插件 重启思源笔记
-* 💬 [OCR tesseract  卡死 没反应 全部重头重新 OCR 识别](https://ld246.com/article/1699064798348/comment/1699065489563#comments)
+  > 开了只读模式的话编辑器就是只读了。
+* 💬 [图标错误](https://ld246.com/article/1699092936199/comment/1699093671470#comments)
 
-  > 暂时还没想好如何解决，欢迎提出建议，我们一起讨论看看，谢谢。
-* 💬 [图片尺寸小问题](https://ld246.com/article/1699023470136/comment/1699063155697#comments)
+  > 系统缺失 Emoji 字体，可以试下安装字体，或者试下集市中的 emoji 插件。
+* 💬 [2.10.13 有点卡](https://ld246.com/article/1699079572468/comment/1699091381352#comments)
 
-  > 你好，我这里无法重现问题，请看操作录屏： [视频]
-* 💗📝 [【代码片段】思源笔记导出 pdf 按分割线分页](https://ld246.com/article/1699023624773)
+  > 提供的信息有点少，暂时无法确认问题。卡的时候请看下任务管理器思源相关进程占用，并记录下时间，提供系统日志后方便我们分析问题，谢谢。
+* 💬 [关于思源笔记 webdev 同步](https://ld246.com/article/1699085589498/comment/1699091256209#comments)
 
-  > CSS 代码 #preview.protyle-wysiwyg .hr { page-break-before: always; } #preview.protyle-wysiwyg .hr &gt; div { display: none; } ‍ 有需要的可以在【外观-代码片段】加入代码片段以启用 [图片]
-* 💬 [思源笔记 2.10.13 S3 云端同步报错 AccessDenied: AWS authentication requires a valid Date or x-amz-date header](https://ld246.com/article/1699058751171/comment/1699059011854#comments)
+  > 这个报错是因为之前上传数据到云端用的密钥和现在用的密钥不一致，建议重置本地数据仓库重新导入密钥确认下，如果还是不行，请参考用户指南常见问题遗失密钥步骤处理。
+* 💬 [ipad 端新建笔记是默认锁住的](https://ld246.com/article/1699083212183/comment/1699091080396#comments)
 
-  > 建议核对一下 AccessKey 和 SecretKey 等配置，思源使用的是 Amazon 官方 S3 SDK，理论上该有的请求标头都是有的，应该非常标准。
-* 💬 [思源笔记放一会不操作会卡顿](https://ld246.com/article/1699030331656/comment/1699058640206#comments)
+  > 是不是因为打开了 设置 - 编辑器 中的只读模式？
+* 💬 [希望能加强【无压力记录】的相关功能](https://ld246.com/article/1698646168172/comment/1699091018714#comments)
 
-  > 你好，我这里无法重现问题，请把开发者工具打开，观察一下 Network 中的请求，另外，麻烦附上系统日志，谢谢。
-* 💬 [如何使用数据库创建参考文献作者列？](https://ld246.com/article/1699010828847/comment/1699056721352#comments)
+  > 暂时不考虑修改了，我们得先解决其他更基础的问题，见谅。
+* 💗💬 [数据库拖拽按钮消失](https://ld246.com/article/1699077234816/comment/1699089601194#comments)
 
-  > 哦，我懂了，需要的是引用列或者文本列中可以加引用。
+  > 找到问题出在哪儿了，如果数据库的布局是居中或者居右，就会导致拖拽的按钮消失
 
 
 <!--events end -->
