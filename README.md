@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2023-11-07 16:05:25`
+每天自动刷新，最近更新时间：`2023-11-08 16:05:07`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [反馈一个浏览器 插件问题](https://ld246.com/article/1699321767805/comment/1699323634743#comments)
+* 💬 [（已解决）手机开局域网后 edge 插件连不上思源，不能进行剪藏，提示 Authentication failed](https://ld246.com/article/1699321767805/comment/1699415496785#comments)
 
-  > 需要填入正确的 API token，在设置中可以查询和修改。
-* 💬 [感觉最近思源笔记经常卡顿，是否是升级所致，还是因为数据量大了](https://ld246.com/article/1699321407309/comment/1699323571678#comments)
+  > 所以我之前让你用浏览器访问一下看看，没有配置访问授权码的话界面会提示的。
+* 💬 [（已解决）手机开局域网后 edge 插件连不上思源，不能进行剪藏，提示 Authentication failed](https://ld246.com/article/1699321767805/comment/1699414260794#comments)
 
-  > 请上传日志我们看看能不能找到原因。
-* 💬 [云端收集箱 -- 先知社区文章无法爬取图片问题](https://ld246.com/article/1699321335043/comment/1699323540124#comments)
+  > 我这里 Android 伺服，使用 Chrome 和 Edge 测试剪藏扩展都是正常的。需要注意 API token 和 访问授权码 一定要配置一致。
+* 💬 [浏览器上使用时输入光标偶尔不显示 / 丢失](https://ld246.com/article/1699412002911/comment/1699412732080#comments)
 
-  > 有的站点防盗链无法绕过。
-* 💬 [v2.10.7 PDF 矩形标注失效](https://ld246.com/article/1695890365142/comment/1699320149886#comments)
+  > 可能是某个浏览器插件导致的吧。
+* 💬 [有时会发生编辑丢失的问题](https://ld246.com/article/1698370932077/comment/1699412242821#comments)
 
-  > 你好，已经确认问题，这是因为该文件的图层有错位，导致标注位置计算发生了偏移，思源的代码目前无法解决这个问题，见谅。
-* 💗💬 [v2.10.7 PDF 矩形标注失效](https://ld246.com/article/1695890365142/comment/1699260669977#comments)
+  > 下个版本我们做一个改进，避免旧的云端数据覆盖新的本地数据 [链接]
+* 💬 [（已解决）手机开局域网后 edge 插件连不上思源，不能进行剪藏，提示 Authentication failed](https://ld246.com/article/1699321767805/comment/1699412033379#comments)
 
-  > 已发送邮箱
-* 💬 [【求助】文件内 pdf 打不开](https://ld246.com/article/1699277682664/comment/1699316753322#comments)
+  > 只是用浏览器访问伺服的思源可以使用吗？
+* 💬 [请问 D 大可否实现嵌入块中直接编辑](https://ld246.com/article/1699409124524/comment/1699410613320#comments)
 
-  > 没有使用代理类软件吧？
-* 💗💬 [请问 meteor link 这个模板合集怎么找不到？](https://ld246.com/article/1699282305350/comment/1699284440840#comments)
+  > 这个实现不了，抱歉。
+* 💬 [（已解决）手机开局域网后 edge 插件连不上思源，不能进行剪藏，提示 Authentication failed](https://ld246.com/article/1699321767805/comment/1699410533945#comments)
 
-  > 过时下架了，现在可以从这里下，[链接] 下载后放入 工作空间/templates 目录下
-* 💬 [Unraid 使用思源笔记在创建时创建失败](https://ld246.com/article/1699285009692/comment/1699286931205#comments)
+  > 使用 PC 浏览器能访问手机伺服的思源吗？ 访问地址要填手机的局域网 IP。
+* 💗💬 [有时会发生编辑丢失的问题](https://ld246.com/article/1698370932077/comment/1699407840445#comments)
 
-  > 感觉是挂载的 /user/siyuan 没有给 1000:1000 这个用户组分配读写权限。
+  > @88250 @zxhd86 上传了一份新版本的日志，请两位大佬再帮忙看一下。[链接] 文档 ID 还是 20231027092334-fdsjqtl，发生时间是今天早上九点之后。这次从文件历史里可以找到记录直接回滚。
 
 
 <!--events end -->
