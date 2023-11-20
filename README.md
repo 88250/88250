@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2023-11-19 16:04:40`
+每天自动刷新，最近更新时间：`2023-11-20 16:05:41`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [标题展开，自动产生副本导致字符剧增、卡顿](https://ld246.com/article/1700306148133/comment/1700380409364#comments)
+* 💬 [作为一个新用户，提点小建议](https://ld246.com/article/1700453581077/comment/1700453865183#comments)
 
-  > 重新折叠展开如果能恢复的话可能是之前版本的遗留问题，暂时就用这个方法顶顶吧，谢谢。
-* 💬 [roamresearch 和 logseq 的 [[ 符号，思源中是什么](https://ld246.com/article/1700364238786/comment/1700370989500#comments)
+  > 你好，思源笔记现阶段主要是面向个人用户，所以不支持协同编辑，感谢反馈。
+* 💬 [mac 系统下思源笔记容易崩溃](https://ld246.com/article/1700451123687/comment/1700451194106#comments)
 
-  > 目前是支持导入 [[wikilink]] 语法转换为引用，但是实际上 wikilink 的地址如果识别定位不到文件路径就无法转换了。
-* 💬 [roamresearch 和 logseq 的 [[ 符号，思源中是什么](https://ld246.com/article/1700364238786/comment/1700369827897#comments)
+  > 可能和这个相关 [链接] 请等下个版本升级后再观察看看。
+* 💬 [建议支持在笔记图片上添加链接](https://ld246.com/article/1700449920527/comment/1700450923130#comments)
 
-  > 哦，前面说的是思源中的输入方式，导入的话不支持的，只支持标准 Markdown 导入。
-* 💬 [反链面板涉及到的超级块，能否增加一下选项：只显示所在的超级块，而不是所在的基础块](https://ld246.com/article/1700306848522/comment/1700364605370#comments)
+  > 这个目前支持不了，替代方案是图片后面超链接元素，谢谢。
+* 💬 [如何将某篇笔记发送到桌面快捷方式？](https://ld246.com/article/1700448636828/comment/1700448792624#comments)
 
-  > 有点不好理解，方便截图描述一下吗，谢谢。
-* 💬 [mybatis-spring-starter 配置](https://ld246.com/article/1700361290779/comment/1700364452883#comments)
+  > 快捷方式目标加参数 siyuan://blocks/块ID，比如：C:\Users\用户名\AppData\Local\Programs\SiYuan\SiYuan.exe siyuan://blocks/20231030233645-i5cwvcm
+* 💬 [多端标题粗体显示不一致的问题](https://ld246.com/article/1700362144847/comment/1700447544916#comments)
 
-  > 文档标签对应社区的标签。
-* 💬 [roamresearch 和 logseq 的 [[ 符号，思源中是什么](https://ld246.com/article/1700364238786/comment/1700364417022#comments)
+  > 是的，标题块在桌面端和移动端显示是有一些区别的，主要是被字体和样式影响。
+* 💬 [电脑端更新安装行为建议](https://ld246.com/article/1700446247011/comment/1700446522345#comments)
 
-  > 在思源中 (( 和 [[ 默认是等价的，都是引用块，除非开启这个选项： [图片]
-* 💬 [多端标题粗体显示不一致的问题](https://ld246.com/article/1700362144847/comment/1700364321420#comments)
+  > 第二个问题请参考 [链接]
+* 💬 [手机版没有工具栏吗](https://ld246.com/article/1700389406071/comment/1700444524252#comments)
 
-  > 使用数据同步的话会保持所有设备数据的一致性，是不是因为字体或者主题问题？
-* 💬 [标题展开，自动产生副本导致字符剧增、卡顿](https://ld246.com/article/1700306148133/comment/1700364205659#comments)
+  > 需要手机端的日志哦。
+* 💬 [同一个电脑，同一个版本，为何在办公室流畅，在家里很卡顿？](https://ld246.com/article/1700305956953/comment/1700443155907#comments)
 
-  > 这有点奇怪，请在默认主题和关闭所有扩展的情况下测试看看。
+  > 有相应的影响反馈我们再考虑继续改进，先解决卡顿问题。
 
 
 <!--events end -->
