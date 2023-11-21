@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2023-11-20 16:05:41`
+每天自动刷新，最近更新时间：`2023-11-21 16:05:30`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [作为一个新用户，提点小建议](https://ld246.com/article/1700453581077/comment/1700453865183#comments)
+* 💬 [导出的 PDF 只有一页](https://ld246.com/article/1700546515477/comment/1700553827779#comments)
 
-  > 你好，思源笔记现阶段主要是面向个人用户，所以不支持协同编辑，感谢反馈。
-* 💬 [mac 系统下思源笔记容易崩溃](https://ld246.com/article/1700451123687/comment/1700451194106#comments)
+  > 关联 [链接]
+* 💬 [导出 PDF 只有一页](https://ld246.com/article/1700546431718/comment/1700553479851#comments)
 
-  > 可能和这个相关 [链接] 请等下个版本升级后再观察看看。
-* 💬 [建议支持在笔记图片上添加链接](https://ld246.com/article/1700449920527/comment/1700450923130#comments)
+  > 我这里无法重现该问题，麻烦进一步观察，谢谢。
+* 💬 [导出 PDF 概率出现一页且有时候会直接关闭思源](https://ld246.com/article/1700550340018/comment/1700553452161#comments)
 
-  > 这个目前支持不了，替代方案是图片后面超链接元素，谢谢。
-* 💬 [如何将某篇笔记发送到桌面快捷方式？](https://ld246.com/article/1700448636828/comment/1700448792624#comments)
+  > 暂时无法重现，还需要进一步观察，谢谢。
+* 💬 [安卓 APP 端最近有更新吗？](https://ld246.com/article/1700551996477/comment/1700553405979#comments)
 
-  > 快捷方式目标加参数 siyuan://blocks/块ID，比如：C:\Users\用户名\AppData\Local\Programs\SiYuan\SiYuan.exe siyuan://blocks/20231030233645-i5cwvcm
-* 💬 [多端标题粗体显示不一致的问题](https://ld246.com/article/1700362144847/comment/1700447544916#comments)
+  > 移动端和桌面端是一起发布的，也就是说一旦发布新版本，移动端也有更新的，谢谢。
+* 💬 [一打开软件就卡死，版本：v2.10.6](https://ld246.com/article/1700548414564/comment/1700553360207#comments)
 
-  > 是的，标题块在桌面端和移动端显示是有一些区别的，主要是被字体和样式影响。
-* 💬 [电脑端更新安装行为建议](https://ld246.com/article/1700446247011/comment/1700446522345#comments)
+  > 请确定不要使用任何第三方同步盘 把工作空间/temp/ 文件夹删除后再启动
+* 💬 [同一个电脑，同一个版本，为何在办公室流畅，在家里很卡顿？](https://ld246.com/article/1700305956953/comment/1700553302605#comments)
 
-  > 第二个问题请参考 [链接]
-* 💬 [手机版没有工具栏吗](https://ld246.com/article/1700389406071/comment/1700444524252#comments)
+  > @wumaojj @NaughtyCat 请参考前面 @temacc0531 的回复，暂时不添加设置项了，谢谢。
+* 💬 [社区缺陷报告与功能建议](https://ld246.com/article/1438049659432/comment/1700545055540#comments)
 
-  > 需要手机端的日志哦。
-* 💬 [同一个电脑，同一个版本，为何在办公室流畅，在家里很卡顿？](https://ld246.com/article/1700305956953/comment/1700443155907#comments)
+  > 代码上进行的标签规范化，避免出现太多无法分类的标签。
+* 🗣 [一个普通用户对于数据库 / 属性视图的期望](https://ld246.com/article/1696471196362/comment/1696472969934#comments)
 
-  > 有相应的影响反馈我们再考虑继续改进，先解决卡顿问题。
+  > @moohadun 是的，具体用法后续我们会写在用户指南中，目前请参考 issue 摸索一下，辛苦了。
 
 
 <!--events end -->
