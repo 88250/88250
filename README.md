@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-01-02 16:05:14`
+每天自动刷新，最近更新时间：`2024-01-03 16:05:06`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💗📝 [【优化建议】数据库汇总列功能交互及提醒优化](https://ld246.com/article/1704177017981)
+* 💬 [最近经常遇到卡顿的问题，点哪里都没反应，等了好久才会有反应](https://ld246.com/article/1704250858537/comment/1704255590407#comments)
 
-  > 2.12 上线了数据库汇总列功能，至此数据库大体可用了，但是汇总列一点提示语都没有，对于不熟悉没用过 notion 的人无从下手，我建议名字啥的更清晰些并增加提示语。如果能在添加关联列后自动弹出来汇总列（wolai 的交互）可能会更好，但这个不一定。 [图片] 关联操作增加提示语：请先选择一个关联列 [图片] 属性字段 ..
-* 💬 [从 Joplin 导入的 MD 文件，有些外链图片无法显示](https://ld246.com/article/1704121077413/comment/1704182196382#comments)
+  > 你好，如果不是最新版的话升级看看。
+* 💬 [怎么快速批量选择目录下所有文档](https://ld246.com/article/1702454385751/comment/1704245195271#comments)
 
-  > [链接]
-* 💬 [使用阿里云 oss 同步失败，网络超时](https://ld246.com/article/1704082476257/comment/1704175810397#comments)
+  > 鼠标点击的话焦点就切换到编辑器上了，Ctrl+1 以后继续用键盘就可以了。
+* 💬 [怎么快速批量选择目录下所有文档](https://ld246.com/article/1702454385751/comment/1704244817644#comments)
 
-  > 建议用大陆节点，网络质量有所保障。
-* 💬 [复制内容中的改进建议](https://ld246.com/article/1704017572254/comment/1704175740005#comments)
+  > 我这里测试可以用，版本 v2.12.0。
+* 💗💬 [同步出现了问题，The filename, directory name, or volume label syntax is incorrect.](https://ld246.com/article/1704236905145/comment/1704244151823#comments)
 
-  > 因为接到前面的带下划线的元素上了。
-* 💬 [官方同步失败，不知道原因](https://ld246.com/article/1704173078832/comment/1704174896158#comments)
+  > 好的，感谢开发者做这么好的软件。新版已经封锁了免费 webdav 和 S3 的同步接口，虽然可以用其他方式同步，但方便程度不如本身自带的。 最后感谢开发者
+* 💬 [同步出现了问题，The filename, directory name, or volume label syntax is incorrect.](https://ld246.com/article/1704236905145/comment/1704240903861#comments)
 
-  > 请勿多个设备同时同步。
-* 💬 [搜索结果双击进入后没有高光提醒，而且页面不是居中的](https://ld246.com/article/1703745831488/comment/1704174829871#comments)
+  > 抱歉了，老旧版本我们不再维护，除了升级版本没有其他办法了。
+* 💬 [同步出现了问题，The filename, directory name, or volume label syntax is incorrect.](https://ld246.com/article/1704236905145/comment/1704239946055#comments)
 
-  > 这个做不到哦。
-* 💬 [复制内容中的改进建议](https://ld246.com/article/1704017572254/comment/1704166413194#comments)
+  > 应该是的....
+* 💬 [同步出现了问题，The filename, directory name, or volume label syntax is incorrect.](https://ld246.com/article/1704236905145/comment/1704238420383#comments)
 
-  > 首尾空格会被删除的。
-* 💬 [数据库功能有什么使用场景吗？](https://ld246.com/article/1704104866650/comment/1704157179148#comments)
+  > 升级到最新版试试。
+* 💗📝 [分享：Memos 同步插件](https://ld246.com/article/1704204876718)
 
-  > 更多按钮绑定块的方式还是要保留的，因为有的用户可能不知道 [[ 用法。
+  > Memos 同步插件 Github：Yimien/plugin-memos-sync (github.com)，后续可通过集市下载。 功能介绍 将 Memos 的数据同步到思源笔记。 支持将 Memos 中的数据同步到思源笔记，包括文本、图片、标签、引用等。 支持保存到 Daily Notes 或者指定的笔记本或文档下 ..
 
 
 <!--events end -->
