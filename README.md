@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-01-04 16:05:20`
+每天自动刷新，最近更新时间：`2024-01-05 16:05:21`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💗💬 [数据库 - 链接类型错误](https://ld246.com/article/1703745572803/comment/1704335519876#comments)
+* 💬 [建议在 docker 版本中，也同样支持与 windows 客户端同样的插件功能，如一键发布](https://ld246.com/article/1704441521860/comment/1704441839885#comments)
 
-  > 思源笔记中的 Quicker 链接不能正常跳转了，格式如下： [链接文本](quicker:runaction:f66d360c-0eb5-43d9-99e5-b2025b32fb63?text) [链接] [图片]
-* 💬 [数据库 - 链接类型错误](https://ld246.com/article/1703745572803/comment/1704338089504#comments)
+  > 应该是插件不支持 和 3. 请使用本地文件系统路径，不要使用网络文件系统路径 感谢反馈。
+* 💬 [使用的是华为云   同步失败  提示 网络超时，请稍后再试 (Provider: S3)](https://ld246.com/article/1704439861413/comment/1704441774776#comments)
 
-  > 感谢反馈，下个版本修复 [链接]
-* 💬 [* 号不能替换为空](https://ld246.com/article/1704285860053/comment/1704337263028#comments)
+  > 应该是因为这个 Endpoint 地址无法进行域名解析，请确认地址是否正确。
+* 💬 [使用的是华为云   同步失败  提示 网络超时，请稍后再试 (Provider: S3)](https://ld246.com/article/1704439861413/comment/1704441580776#comments)
 
-  > 是不是 替换类型 没有选择？
-* 💬 [网页文本中的 * 号导致剪藏内容增加大量空链接重文](https://ld246.com/article/1704148844724/comment/1704336665764#comments)
+  > 请在 设置 - 关于 中导出系统日志并上传回复我，谢谢。
+* 💬 [闪卡复习界面右上角的数字含义是什么呢？](https://ld246.com/article/1704355019266/comment/1704441163050#comments)
 
-  > 知乎上面的原文是个 a 标签嵌套 span： [图片] 思源不支持嵌套，所以会转换为展开平铺的两个超链接元素： [图片]
-* 💬 [请问安装版编译运行后主界面空白大概是哪里的问题?](https://ld246.com/article/1704267652662/comment/1704278194890#comments)
+  > 关联 [链接]
+* 💬 [闪卡复习问题反馈](https://ld246.com/article/1704438719954/comment/1704441158663#comments)
 
-  > 得调试看看具体报错。
-* 💗📝 [支持预览功能 OceanPress v0.0.10](https://ld246.com/article/1704274208112)
+  > “轮次”大概可以理解为触发一次间隔重复，但是主要问题是这次触发后的复习时间可能比较久，可能会重复复习到某些评分较低的卡。
+* 💬 [什么时候思源笔记能实现图床和博客功能？](https://ld246.com/article/1704426106502/comment/1704428050050#comments)
 
-  > 站点地址：https://oceanpress.heartstack.space 支持预览功能，依赖于 hono 优秀的多平台运行能力，我将 OceanPress cli 程序的 运行代理站点 功能移植到了 web ui 界面， 现在 web ui 可以在编译之前点击相关文档预览编译之后的效果了。 [图片] 、 [图片 ..
-* 💬 [请问安装版编译运行后主界面空白大概是哪里的问题?](https://ld246.com/article/1704267652662/comment/1704271996079#comments)
+  > 你好，没有该方向的计划，思源笔记主要是作为笔记工具哦。
+* 💬 [闪卡复习界面右上角的数字含义是什么呢？](https://ld246.com/article/1704355019266/comment/1704424061463#comments)
 
-  > 可以打开远程调试或者启用伺服，浏览器中调试看看。
-* 💗💬 [绿联 docker 端无法启动](https://ld246.com/article/1703829811670/comment/1703989913392#comments)
+  > 暂时不会调整复习的轮次概念了，等后面有空我们看看能不能找到问题，谢谢。
+* 💬 [对数据库多选列的筛选的疑惑](https://ld246.com/article/1704412924491/comment/1704423658681#comments)
 
-  > 看上去你这个是绿联吧，进 ssh 里面启动思源，不要用 GUI 这个。我都是进 ssh 用 docker run 命令跑起来的。 docker run -d \ --name siyuan \ -v 本地路径:/home/siyuan/sy \ -p 本地端口:6806 \ --restart=always \ b3l ..
+  > 嗯，会逐步优化的。
 
 
 <!--events end -->
