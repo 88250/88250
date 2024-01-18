@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-01-17 16:05:29`
+每天自动刷新，最近更新时间：`2024-01-18 16:05:16`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 🗣 [Xiaomi HyperOS 小米澎湃系统数据同步后丢失了大量的资源文件](https://ld246.com/article/1705421031321/comment/1705464680720#comments)
+* 💬 [又数据库被锁定了](https://ld246.com/article/1705399570490/comment/1705558020545#comments)
 
-  > @llej 帮忙观察下是不是只会出现在 merge 后，还是说没有 merge 的时候也容易出现。
-* 💬 [链滴两步验证的可以关么？手机重置了](https://ld246.com/article/1705468275253/comment/1705470330510#comments)
+  > 应该不是程序的问题，我们没有收到其他类似反馈。
+* 💬 [2.12.3WebDav 同步失败（cloud index changed），请问是什么原因，怎么处理？](https://ld246.com/article/1705451524988/comment/1705557953199#comments)
 
-  > 请使用账号绑定的邮箱发邮件给我们重置 [链接]
-* 🗣 [Xiaomi HyperOS 小米澎湃系统数据同步后丢失了大量的资源文件](https://ld246.com/article/1705421031321/comment/1705464680720#comments)
+  > 试下直接下载访问，日志中下载的内容不对，是空的。
+* 💬 [Nginx 转发后网页打开速度极慢](https://ld246.com/article/1702956527906/comment/1705546815494#comments)
 
-  > @llej 嗯，现在 App 点同步就能测试，日志里有遍历计数。
-* 🗣 [Xiaomi HyperOS 小米澎湃系统数据同步后丢失了大量的资源文件](https://ld246.com/article/1705421031321/comment/1705464680720#comments)
+  > 这个 29s 的请求是加载插件，请看下启用了哪些插件，如果方便的话在桌面端启用相同的插件看看这个请求的加载速度。
+* 💬 [思源笔记 WebDAV 问题 teracloud](https://ld246.com/article/1705544382358/comment/1705544545066#comments)
 
-  > @llej 暂时还没有想到解决方案……
-* 💬 [Xiaomi HyperOS 小米澎湃系统数据同步后丢失了大量的资源文件](https://ld246.com/article/1705421031321/comment/1705464891974#comments)
+  > 建议使用国内的服务以确保网络能够连通。
+* 💗💬 [请问 WIN7 支持的最高版本是哪个版本？](https://ld246.com/article/1705539900409/comment/1705541054615#comments)
 
-  > 手机上同步后电脑再同步，电脑上的数据也会被删除的。
-* 💬 [Xiaomi HyperOS 小米澎湃系统数据同步后丢失了大量的资源文件](https://ld246.com/article/1705421031321/comment/1705464680720#comments)
+  > 我也是现在才知道发帖要扣积分，但是看了积分明细后，发现被回帖是会加积分的，所以应该是为了减少水贴吧。
+* 💬 [笔记老是自动跳转开头，请问到末尾的快捷键是什么?](https://ld246.com/article/1705499071947/comment/1705543048265#comments)
 
-  > 在 Q 群里已经收到 @f8401067 的日志和系统型号，已经确认三位的手机系统都是 Xiaomi HyperOS，这个问题目前仅在该系统上出现，我们先记录下 [链接] @llej
-* 💬 [希望同步功能优化一下](https://ld246.com/article/1705462155865/comment/1705464011159#comments)
+  > 看到有人提醒说是插件的原因，解决就好，谢谢。
+* 💬 [笔记老是自动跳转开头，请问到末尾的快捷键是什么?](https://ld246.com/article/1705499071947/comment/1705503701030#comments)
 
-  > 之前讨论过，请参考 [链接]
-* 💬 [想跨文本块取消粗体格式该怎么操作？](https://ld246.com/article/1705462383129/comment/1705463669787#comments)
+  > 把录屏文件直接拖拽到回帖框里就行了，会自动上传的。
+* 💬 [笔记老是自动跳转开头，请问到末尾的快捷键是什么?](https://ld246.com/article/1705499071947/comment/1705501936739#comments)
 
-  > 请关注 [链接]
+  > 你好，我这里测试无法重现问题，方便的话请在默认主题下录屏演示操作，谢谢。
 
 
 <!--events end -->
