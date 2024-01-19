@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-01-18 16:05:16`
+每天自动刷新，最近更新时间：`2024-01-19 16:05:25`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [又数据库被锁定了](https://ld246.com/article/1705399570490/comment/1705558020545#comments)
+* 💬 [事件总线的一些事件早于 sql 更新](https://ld246.com/article/1705628269512/comment/1705632088543#comments)
 
-  > 应该不是程序的问题，我们没有收到其他类似反馈。
-* 💬 [2.12.3WebDav 同步失败（cloud index changed），请问是什么原因，怎么处理？](https://ld246.com/article/1705451524988/comment/1705557953199#comments)
+  > 调用内核接口 flushTransaction 可以确保事务提交完成再返回。
+* 💬 [关于双链代替标签功能的一个建议（借鉴 RR 和 Logseq 的用法）](https://ld246.com/article/1690702712149/comment/1705621812923#comments)
 
-  > 试下直接下载访问，日志中下载的内容不对，是空的。
-* 💬 [Nginx 转发后网页打开速度极慢](https://ld246.com/article/1702956527906/comment/1705546815494#comments)
+  > 缺陷修复和提升稳定性是最高优先级，你可以看下每个版本的发版记录，几乎每个版本都包含了改进和缺陷修复。 数据库是很早起就定下要开发的特性了，目前是特性开发的最高优先级，在完成计划之前不会再有变动，谢谢。
+* 💬 [关于续费的问题](https://ld246.com/article/1705596715543/comment/1705621436855#comments)
 
-  > 这个 29s 的请求是加载插件，请看下启用了哪些插件，如果方便的话在桌面端启用相同的插件看看这个请求的加载速度。
-* 💬 [思源笔记 WebDAV 问题 teracloud](https://ld246.com/article/1705544382358/comment/1705544545066#comments)
+  > 续订价格终身按第一次订阅时的价格，即断过续订后再次续订也是第一次订阅时的价格。 该政策不适用于团购订阅激活码，团购订阅激活码续订价格为购买激活码时的正常订阅价（目前是 ￥148）。
+* 💬 [请问如何配置禁用或启用部分 Markdown 语法？](https://ld246.com/article/1705580853013/comment/1705588300271#comments)
 
-  > 建议使用国内的服务以确保网络能够连通。
-* 💗💬 [请问 WIN7 支持的最高版本是哪个版本？](https://ld246.com/article/1705539900409/comment/1705541054615#comments)
+  > 设置缩进代码块不解析：lute.SetIndentCodeBlock(false)
+* 💗📝 [AI 输出的 C# 的代码中的尖括号 &lt;&gt; 不见了](https://ld246.com/article/1705559711034)
 
-  > 我也是现在才知道发帖要扣积分，但是看了积分明细后，发现被回帖是会加积分的，所以应该是为了减少水贴吧。
-* 💬 [笔记老是自动跳转开头，请问到末尾的快捷键是什么?](https://ld246.com/article/1705499071947/comment/1705543048265#comments)
+  > AI 打出来的显示为：public static void CalculateRectangleSize(Listdouble[] points) AI 实际想输入： public static void CalculateRectangleSize(List points)
+* 💬 [AI 输出的 C# 的代码中的尖括号 &lt;&gt; 不见了](https://ld246.com/article/1705559711034/comment/1705588181265#comments)
 
-  > 看到有人提醒说是插件的原因，解决就好，谢谢。
-* 💬 [笔记老是自动跳转开头，请问到末尾的快捷键是什么?](https://ld246.com/article/1705499071947/comment/1705503701030#comments)
+  > 感谢反馈，下个版本改进 [链接]
+* 💬 [3 个列表块合并为水平超级块 出现“不要惊慌...”](https://ld246.com/article/1705581230800/comment/1705583499340#comments)
 
-  > 把录屏文件直接拖拽到回帖框里就行了，会自动上传的。
-* 💬 [笔记老是自动跳转开头，请问到末尾的快捷键是什么?](https://ld246.com/article/1705499071947/comment/1705501936739#comments)
+  > 这个情况目前无法准确计算高度，所以会显示这个提示 [链接]
+* 💗📝 [功能特性已购买](https://ld246.com/article/1705554389536)
 
-  > 你好，我这里测试无法重现问题，方便的话请在默认主题下录屏演示操作，谢谢。
+  > 虽然自己绕过了会员限制，但还是支持一波，不能为爱发电
 
 
 <!--events end -->
