@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-01-19 16:05:25`
+每天自动刷新，最近更新时间：`2024-01-20 16:04:39`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [事件总线的一些事件早于 sql 更新](https://ld246.com/article/1705628269512/comment/1705632088543#comments)
+* 🗣 [关于用户活跃度统计](https://ld246.com/article/1458624687933/comment/1705717627981#comments)
 
-  > 调用内核接口 flushTransaction 可以确保事务提交完成再返回。
-* 💬 [关于双链代替标签功能的一个建议（借鉴 RR 和 Logseq 的用法）](https://ld246.com/article/1690702712149/comment/1705621812923#comments)
+  > @a2930610542 可以发帖的。
+* 💬 [关于用户活跃度统计](https://ld246.com/article/1458624687933/comment/1705717627981#comments)
 
-  > 缺陷修复和提升稳定性是最高优先级，你可以看下每个版本的发版记录，几乎每个版本都包含了改进和缺陷修复。 数据库是很早起就定下要开发的特性了，目前是特性开发的最高优先级，在完成计划之前不会再有变动，谢谢。
-* 💬 [关于续费的问题](https://ld246.com/article/1705596715543/comment/1705621436855#comments)
+  > 云端数据删除以后就无法恢复了，只能靠你本地数据恢复。 另外，请勿在不相关的帖子下面提问，如需社区帮助，请单独发帖，谢谢。
+* 💬 [数据库编辑问题](https://ld246.com/article/1705675165888/comment/1705712089241#comments)
 
-  > 续订价格终身按第一次订阅时的价格，即断过续订后再次续订也是第一次订阅时的价格。 该政策不适用于团购订阅激活码，团购订阅激活码续订价格为购买激活码时的正常订阅价（目前是 ￥148）。
-* 💬 [请问如何配置禁用或启用部分 Markdown 语法？](https://ld246.com/article/1705580853013/comment/1705588300271#comments)
+  > 收到，这个问题我们会继续跟进的 [链接]
+* 💗💬 [数据库编辑问题](https://ld246.com/article/1705675165888/comment/1705710496478#comments)
 
-  > 设置缩进代码块不解析：lute.SetIndentCodeBlock(false)
-* 💗📝 [AI 输出的 C# 的代码中的尖括号 &lt;&gt; 不见了](https://ld246.com/article/1705559711034)
+  > @88250 D 大同样的问题 [链接]
+* 💬 [数据库编辑问题](https://ld246.com/article/1705675165888/comment/1705676046675#comments)
 
-  > AI 打出来的显示为：public static void CalculateRectangleSize(Listdouble[] points) AI 实际想输入： public static void CalculateRectangleSize(List points)
-* 💬 [AI 输出的 C# 的代码中的尖括号 &lt;&gt; 不见了](https://ld246.com/article/1705559711034/comment/1705588181265#comments)
+  > 我这里也使用搜狗输入法，但是测试正常，可能我俩搜狗输入法版本不一样吧。
+* 💬 [数据库编辑问题](https://ld246.com/article/1705675165888/comment/1705675615907#comments)
 
-  > 感谢反馈，下个版本改进 [链接]
-* 💬 [3 个列表块合并为水平超级块 出现“不要惊慌...”](https://ld246.com/article/1705581230800/comment/1705583499340#comments)
+  > 收到，这有点不对劲，暂时不太确定什么原因。 @Vanessa 有空看看。
+* 💬 [数据库编辑问题](https://ld246.com/article/1705675165888/comment/1705675295897#comments)
 
-  > 这个情况目前无法准确计算高度，所以会显示这个提示 [链接]
-* 💗📝 [功能特性已购买](https://ld246.com/article/1705554389536)
+  > 你好，我这里无法重现该问题，你没有启用任何插件或者代码片段吧？
+* 💬 [电脑开伺服同一局域网其他设备连不上如何排查？](https://ld246.com/article/1705670589600/comment/1705672006626#comments)
 
-  > 虽然自己绕过了会员限制，但还是支持一波，不能为爱发电
+  > 我没设置过，但看上去应该是对的，你再看看杀毒软件、电脑管家啥的，可能也需要配置。
 
 
 <!--events end -->
