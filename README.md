@@ -20,10 +20,25 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-02-26 16:05:25`
+每天自动刷新，最近更新时间：`2024-02-27 16:05:21`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [有没有可能启动再快一点点](https://ld246.com/article/1709002604913/comment/1709020218956#comments)
+
+  > 清理一下数据快照应该就快起来了 😂
+* 💬 [代码块高亮不支持 docker cli 和 docker compose 语法](https://ld246.com/article/1709003798237/comment/1709019470628#comments)
+
+  > 使用 sh/shell/bash 和 yml。
+* 💬 [关于思源笔记微信公众号和思源小助手收集箱问题?](https://ld246.com/article/1709015717788/comment/1709016719232#comments)
+
+  > 存在大概 10s 左右的延迟。
+* 💬 [刚话了 64 元订购，webdav 就无法使用了](https://ld246.com/article/1709008358610/comment/1709011142859#comments)
+
+  > 建议使用国内大陆地区服务，国外服务网络可能会被网络运营商阻断。
+* 💬 [只读状态下，无法切换表格视图](https://ld246.com/article/1708995167617/comment/1708995334267#comments)
+
+  > 切换视图会涉及到数据修改，所以目前在只读模式下不允许切换视图，感谢反馈。
 * 💗📝 [Excelize 开源基础发布 2.8.1 版本，2024 年首个更新](https://ld246.com/article/1708928916273)
 
   > [图片] Excelize 是 Go 语言编写的用于操作电子表格办公文档的开源基础库，基于 ISO/IEC 29500、ECMA-376 国际标准。可以使用它来读取、写入由 Microsoft Excel、WPS、Apache OpenOffice、LibreOffice 等办公软件创建的电子表格文档。支持 XLAM  ..
@@ -33,21 +48,6 @@
 * 💬 [linux 版本启动思源笔记问题咨询](https://ld246.com/article/1708914931077/comment/1708924882100#comments)
 
   > 桌面端需要运行 UI 程序，否则内核会自动关闭。
-* 💬 [数据表格排序功能失效](https://ld246.com/article/1708917926698/comment/1708918075908#comments)
-
-  > 对于文字内容而言，升降序是字母序排列，不是按 单选列 选项的顺序排列。
-* 💬 [v3.0.0 Web 应用 图标显示异常](https://ld246.com/article/1708914465987/comment/1708917825911#comments)
-
-  > 试试更新插件。
-* 💬 [linux 版本启动思源笔记问题咨询](https://ld246.com/article/1708914931077/comment/1708917635170#comments)
-
-  > 把工作目录指定到 resources 这一层，内核参数传入 --wd=siyuan-3.0.0-linux/resources/
-* 💬 [关于两个虚拟引用问题的疑惑](https://ld246.com/article/1708907439063/comment/1708917278209#comments)
-
-  > 近期版本会支持列出失效引用，请关注 [链接]
-* 💬 [关于两个虚拟引用问题的疑惑](https://ld246.com/article/1708907439063/comment/1708915749297#comments)
-
-  > 可以看看是不是这个问题 [链接]
 
 
 <!--events end -->
