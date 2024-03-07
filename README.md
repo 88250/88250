@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-03-06 16:05:57`
+每天自动刷新，最近更新时间：`2024-03-07 16:04:48`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [右键复制粘贴菜单消失不见；拼音输入时首字母异常](https://ld246.com/article/1709703804844/comment/1709710626572#comments)
+* 💬 [使用 s3 同步，不同的工作空间会同步吗](https://ld246.com/article/1709776512103/comment/1709781580220#comments)
 
-  > 这个是触发了块级菜单，我这里右键不会触发，建议排查一下是不是主题或者插件影响 更新一下搜狗输入法看看，我这里也是搜狗，没有这个问题
-* 💬 [建议有图标时钉住时也能显示笔记名称](https://ld246.com/article/1709710315016/comment/1709710390533#comments)
+  > 是的，需要打开工作空间然后同步。
+* 💬 [S3 同步慢](https://ld246.com/article/1709780147698/comment/1709781511915#comments)
 
-  > 这个大概是主题特性吧，默认主题是全显示的。
-* 💬 [WebDAV 数据同步失败 HTTP 413](https://ld246.com/article/1709698004765/comment/1709709128814#comments)
+  > 从日志上看你是用的是 Cloudflare R2，这个是国外服务，国内使用的话确实慢，建议使用国内大陆地区的 S3 服务以提升网络质量。
+* 💬 [S3 同步慢](https://ld246.com/article/1709780147698/comment/1709780277355#comments)
 
-  > 从内核日志上看是因为 WebDAV 服务端返回了 HTTP 状态码 413 导致的上传失败： E 2024/03/06 11:23:19 webdav.go:89: upload object [main/siyuan/repo/objects/9a/6c9beeddfcb6d11236c2d2d1d8cfd4f2d5 ..
-* 💬 [WebDAV 数据同步失败 HTTP 413](https://ld246.com/article/1709698004765/comment/1709707942023#comments)
+  > 数据量不大但慢的话多半是网络问题，如果服务端是自建的 S3，建议也排查一下。 如果无法自行定位问题，请上传日志以便分析，谢谢。
+* 💬 [概率性出现问题——同步后，同一文章内的嵌入块不能正常显示](https://ld246.com/article/1709778833584/comment/1709779966826#comments)
 
-  > 还是传一下内核日志吧，同步数据是并发操作，其中某次上传失败后会退出同步，退出时肯定要删锁的，所以不是你认为的靠这几行日志就能判断出问题，真正的问题可能是其他原因导致。
-* 💬 [WebDAV 数据同步失败 HTTP 413](https://ld246.com/article/1709698004765/comment/1709707535357#comments)
+  > 同步增量索引完成后才能搜索到，所以嵌入块无法立即显示，需要刷新一下。
+* 💬 [思源特别容易卡死](https://ld246.com/article/1709771291957/comment/1709778586832#comments)
 
-  > 在工作空间文件夹里。
-* 💬 [WebDAV 数据同步失败 HTTP 413](https://ld246.com/article/1709698004765/comment/1709702721342#comments)
+  > 关联 [链接]
+* 💬 [思源打开体量大的文档时白屏](https://ld246.com/article/1709625121442/comment/1709778376279#comments)
 
-  > 内核日志位于工作空间/temp/siyuan.log
-* 💬 [求助 Docker 搭建，输入正确的授权码后 302，继续输入授权码](https://ld246.com/article/1709697747489/comment/1709702675589#comments)
+  > 方便的话请到插件 GitHub 仓库上提 issue 反馈一下，谢谢。
+* 💬 [思源打开体量大的文档时白屏](https://ld246.com/article/1709625121442/comment/1709777941732#comments)
 
-  > 配置过反代吗？配置过的话检测一下域名反代，另外不要使用 URL 重写。
-* 💬 [WebDAV 数据同步失败 HTTP 413](https://ld246.com/article/1709698004765/comment/1709698464399#comments)
+  > 建议关闭所有插件后再试试。
+* 💬 [使用 s3 同步，不同的工作空间会同步吗](https://ld246.com/article/1709776512103/comment/1709776758805#comments)
 
-  > 获取不到锁文件的话会创建锁，删除不存在的锁返回 204 不会导致报错，这些都是正常逻辑。 多半是 WebDAV 服务器或者网络导致的其他问题，建议结合思源内核日志定位问题。
+  > 仅同步当前工作空间。
 
 
 <!--events end -->
