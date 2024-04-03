@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-04-02 16:05:16`
+每天自动刷新，最近更新时间：`2024-04-03 16:05:28`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [数据库求和位置与对应列不对齐](https://ld246.com/article/1712041049346/comment/1712045113381#comments)
+* 💬 [行间公式一敲回车就消失](https://ld246.com/article/1712128219731/comment/1712128368364#comments)
 
-  > 所以得截图全一点看看问题，因为我这里可以对齐的： [图片]
-* 💗💬 [任务节点是否可以考虑新增一个额外的字段 finished 来标识任务的完成时间](https://ld246.com/article/1712032447148/comment/1712042721242#comments)
+  > 最新版应该已经修复，请升级看看。
+* 💬 [v3.0.6 SiYuan Not Found Tree](https://ld246.com/article/1712127900436/comment/1712128290101#comments)
 
-  > 好的 D 大，这个功能完成后会进行详细说明的，防止用户对数据产生困惑。
-* 💬 [任务节点是否可以考虑新增一个额外的字段 finished 来标识任务的完成时间](https://ld246.com/article/1712032447148/comment/1712042534203#comments)
+  > 请重建索引后再观察看看。
+* 💬 [模板语法不支持 sql 函数了，希望恢复支持](https://ld246.com/article/1712117460760/comment/1712126736391#comments)
 
-  > 这一点可以在插件的 README 中说明一下让用户知道，谢谢。
-* 💗💬 [任务节点是否可以考虑新增一个额外的字段 finished 来标识任务的完成时间](https://ld246.com/article/1712032447148/comment/1712042214629#comments)
+  > 抱歉，是文档有问题，请使用下面例子中的格式： .action{$today := now | date '20060102150405'} .action{$blocks :=queryBlocks 'SELECT * FROM blocks WHERE content LIKE '?' AND updated &gt ..
+* 💬 [导出 PDF 失败 Error invoking remote method 'siyuan-get'](https://ld246.com/article/1712044803581/comment/1712113052171#comments)
 
-  > 好的，感谢 D 大解答，本意想通过这个属性来在【任务列表 siyuan-plugin-task-list】插件中管理统计各个任务的完成时间的，目前已经想到了在插件中使用自定义属性来解决这个问题。不过缺点就是只有用户安装了这个插件，完成的任务才能通过插件设置完成时间，当用户卸载插件后，再次安装，这个空档期期间完成的任务就 ..
-* 💬 [数据库求和位置与对应列不对齐](https://ld246.com/article/1712041049346/comment/1712041189332#comments)
+  > 设置 - 关于 - 导出系统日志
+* 💬 [导出 PDF 失败 Error invoking remote method 'siyuan-get'](https://ld246.com/article/1712044803581/comment/1712111630094#comments)
 
-  > 麻烦图截全一点，我们才方便看到问题，谢谢。 注：数据和列名可以进行打码处理，这样不会泄漏隐私。
-* 🗣 [数据库日期字段反馈](https://ld246.com/article/1712034584014/comment/1712040282571#comments)
+  > 方便的话请将文档导出 .sy.zip 发给我们测试看看 [链接] 另外也需要导出系统日志一并发送，谢谢。
+* 💬 [如何在思源中插入文件夹的快捷方式？](https://ld246.com/article/1712105694485/comment/1712106088086#comments)
 
-  > @moohadun 点 清空 即可
-* 💗📝 [去格式化粘贴文档名](https://ld246.com/article/1712040148842)
+  > 直接拖入文件夹即可。
+* 💗💬 [v3.0.6 安卓端设置菜单、碰一下屏幕就自动关闭](https://ld246.com/article/1712103804858/comment/1712105156522#comments)
 
-  > [图片] 文档内容等有加粗的，粘贴到文档名栏，总是带有特殊符号，能否给个去格式化粘贴，自动去除符号？
-* 💬 [去格式化粘贴文档名](https://ld246.com/article/1712040148842/comment/1712040507616#comments)
+  > [链接]
+* 💬 [由于自动调整大纲导致笔记内容丢失问题](https://ld246.com/article/1712081537162/comment/1712099417246#comments)
 
-  > 感谢反馈，请关注 [链接]
+  > 今天发布新版本修复，谢谢。
 
 
 <!--events end -->
