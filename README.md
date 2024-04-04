@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-04-03 16:05:28`
+每天自动刷新，最近更新时间：`2024-04-04 16:06:07`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [行间公式一敲回车就消失](https://ld246.com/article/1712128219731/comment/1712128368364#comments)
+* 💬 [开通了思源会员，但无法把原电脑的笔记内容同步？](https://ld246.com/article/1712197653631/comment/1712215219218#comments)
 
-  > 最新版应该已经修复，请升级看看。
-* 💬 [v3.0.6 SiYuan Not Found Tree](https://ld246.com/article/1712127900436/comment/1712128290101#comments)
+  > 手机端左上角打开左侧栏面板，然后第二行中有个刷新形状的按钮就是重建索引按钮。
+* 💬 [开通了思源会员，但无法把原电脑的笔记内容同步？](https://ld246.com/article/1712197653631/comment/1712208475035#comments)
 
-  > 请重建索引后再观察看看。
-* 💬 [模板语法不支持 sql 函数了，希望恢复支持](https://ld246.com/article/1712117460760/comment/1712126736391#comments)
+  > 电脑上改一下这个笔记本里面任意文档后同步，完成以后再到手机上同步。
+* 💬 [开通了思源会员，但无法把原电脑的笔记内容同步？](https://ld246.com/article/1712197653631/comment/1712203899048#comments)
 
-  > 抱歉，是文档有问题，请使用下面例子中的格式： .action{$today := now | date '20060102150405'} .action{$blocks :=queryBlocks 'SELECT * FROM blocks WHERE content LIKE '?' AND updated &gt ..
-* 💬 [导出 PDF 失败 Error invoking remote method 'siyuan-get'](https://ld246.com/article/1712044803581/comment/1712113052171#comments)
+  > SiYuan 存储上新建一个目录后再同步。
+* 💬 [开通了思源会员，但无法把原电脑的笔记内容同步？](https://ld246.com/article/1712197653631/comment/1712201069572#comments)
 
-  > 设置 - 关于 - 导出系统日志
-* 💬 [导出 PDF 失败 Error invoking remote method 'siyuan-get'](https://ld246.com/article/1712044803581/comment/1712111630094#comments)
+  > [图片] 云端快照选择下载以后就是本地快照了，这里选择 本地快照 就可以看到。
+* 💬 [开通了思源会员，但无法把原电脑的笔记内容同步？](https://ld246.com/article/1712197653631/comment/1712199255649#comments)
 
-  > 方便的话请将文档导出 .sy.zip 发给我们测试看看 [链接] 另外也需要导出系统日志一并发送，谢谢。
-* 💬 [如何在思源中插入文件夹的快捷方式？](https://ld246.com/article/1712105694485/comment/1712106088086#comments)
+  > 最好是新建一个工作空间，然后把之前 WebDAV 存储上的最新快照同步下来，检查数据是否是最新完整的，如果数据无误，再重复之前说的步骤，即重置本地数据仓库，然后切换到 SiYuan 存储上。
+* ⭐️👨‍💻 [Ethansun97](https://ld246.com/member/Ethansun97)
 
-  > 直接拖入文件夹即可。
-* 💗💬 [v3.0.6 安卓端设置菜单、碰一下屏幕就自动关闭](https://ld246.com/article/1712103804858/comment/1712105156522#comments)
+  > 
+* 💗📝 [数据表时间介于筛选有问题](https://ld246.com/article/1712190855243)
 
-  > [链接]
-* 💬 [由于自动调整大纲导致笔记内容丢失问题](https://ld246.com/article/1712081537162/comment/1712099417246#comments)
+  > [图片] 做了一个数据表，想要分月筛选，比如我只想筛选某一个月的时段，每次输入第二个时间，它就自动变成了 2001-01-01，这个 bug 比较大 我也试过添加 2 格筛选，比如早于 和晚于，但是发现没办法同时针对时间来增加 2 个筛选项，这个 bug 希望修复
+* 💬 [数据表时间介于筛选有问题](https://ld246.com/article/1712190855243/comment/1712198510782#comments)
 
-  > 今天发布新版本修复，谢谢。
+  > 感谢反馈，下个版本修复 [链接]
 
 
 <!--events end -->
