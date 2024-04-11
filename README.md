@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-04-10 16:05:24`
+每天自动刷新，最近更新时间：`2024-04-11 16:05:37`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [数据库关联列问题](https://ld246.com/article/1712735082783/comment/1712735519497#comments)
+* 🗣 [同步造成丢失数据问题（数据无价，且行且珍惜）](https://ld246.com/article/1712750476025/comment/1712797149485#comments)
 
-  > 方便的话请将相关文档导出 .sy.zip 发给我们调试 [链接]
-* 💬 [为什么我的思源硬盘读取量达 60GB？](https://ld246.com/article/1711810929980/comment/1712720869977#comments)
+  > @5kyfkr 差异什么时候算较大？我觉得就算只改一个字符也是有差异的，不可能每次都提醒吧。
+* 💬 [对数据库表格左右滑动功能的建议](https://ld246.com/article/1712800357215/comment/1712820308929#comments)
 
-  > 关联 [链接]
-* 💬 [较大目录导出 PDF 的问题](https://ld246.com/article/1712712330251/comment/1712719308264#comments)
+  > 很早之前我记得是这样的，后来社区投票改为文档宽度以后就成现在这样了。
+* 💬 [chrome 插件, 能不能在点击的时候把 token 隐藏掉?](https://ld246.com/article/1712812342298/comment/1712813046324#comments)
 
-  > 关联 [链接]
-* 💬 [v3.0.7 卡顿，大量占用 CPU 及内存](https://ld246.com/article/1712715298304/comment/1712718798495#comments)
+  > 麻烦帮建个 issue，谢谢。
+* 🗣 [同步造成丢失数据问题（数据无价，且行且珍惜）](https://ld246.com/article/1712750476025/comment/1712797149485#comments)
 
-  > 已经区别了的，GitHub 上可以下载 dev 版本。
-* 💬 [较大目录导出 PDF 的问题](https://ld246.com/article/1712712330251/comment/1712716204082#comments)
+  > @JeffreyChen 加了拦截的话搞不好会有其他问题，所以不加为好。
+* 🗣 [同步造成丢失数据问题（数据无价，且行且珍惜）](https://ld246.com/article/1712750476025/comment/1712797149485#comments)
 
-  > 方便的话请将该文档导出 .sy.zip 发给我们测试一下 [链接]
-* 💬 [v3.0.7 卡顿，大量占用 CPU 及内存](https://ld246.com/article/1712715298304/comment/1712716114288#comments)
+  > @JeffreyChen 已经有快照恢复兜底了。
+* 💬 [对数据库表格左右滑动功能的建议](https://ld246.com/article/1712800357215/comment/1712804042980#comments)
 
-  > 请升级到最新版后再试试。
-* 💬 [笔记正文内容离奇丢失](https://ld246.com/article/1712682971907/comment/1712707744734#comments)
+  > 这个是操作系统默认操作。
+* 💬 [如何快捷键呼出搜索, 只对当前笔记本进行查找](https://ld246.com/article/1712650040368/comment/1712802904441#comments)
 
-  > 收到，请再通过邮件发一下导出的 .sy.zip 以及 设置 - 编辑器 - 动态加载块数 给我以便调试，谢谢。
-* 💗💬 [数据库使用反馈](https://ld246.com/article/1712676912135/comment/1712677871913#comments)
+  > @Vanessa
+* 💬 [只修改 2 个字符也要读取约 2GB 的磁盘数据嘛？](https://ld246.com/article/1712674234132/comment/1712802814485#comments)
 
-  > 是的，Database 就是这样的东西，跟一般的表格不同，上面的那些都是同一个「数据库」的不同「视图」。这些视图可以用于排序、筛选，不同的视图可以「展示出」不同的内容。
+  > v3.0.9 降低了编辑时的磁盘用量，请重建索引完成后再测试看看。
 
 
 <!--events end -->
