@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-05-23 16:05:43`
+每天自动刷新，最近更新时间：`2024-05-24 16:05:19`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [网页后台唤起思源等待时间太长](https://ld246.com/article/1716445402896/comment/1716450779960#comments)
+* 💬 [社区客户端 API 文档](https://ld246.com/article/1488603534762/comment/1716515495491#comments)
 
-  > 看上去是服务端下行带宽不够或者客户端网络太慢，导致稍微大一点的文件加载时间太长。
-* 💬 [基础 markdown 语法问题](https://ld246.com/article/1716429730072/comment/1716450425460#comments)
+  > 抱歉，这个不考虑改变了。
+* 💗💬 [iOS 客户端两周未更新](https://ld246.com/article/1716433478653/comment/1716513550827#comments)
 
-  > 暂时不加了，谢谢。
-* 💬 [基础 markdown 语法问题](https://ld246.com/article/1716429730072/comment/1716450413555#comments)
+  > 谢谢，已更新，非常棒
+* 💗💬 [希望可以重置链滴的 API Token](https://ld246.com/article/1716472604023/comment/1716511797885#comments)
 
-  > 对，是思源不支持。
-* 💬 [思源笔记的 我记录的信息的路径设置在哪里](https://ld246.com/article/1716446795846/comment/1716449919219#comments)
+  > D 大我的 api/v2/notifications/comment2ed 怎么获取收到的评论消息列表没有内容，其他几个通知 API 都正常 @88250 [图片]
+* 💬 [希望可以重置链滴的 API Token](https://ld246.com/article/1716472604023/comment/1716514852858#comments)
 
-  > 主界面左上角查看工作空间 请参考 用户指南 数据同步 章节
-* 💬 [网页后台唤起思源等待时间太长](https://ld246.com/article/1716445402896/comment/1716449802396#comments)
+  > 感谢反馈，已经更新。
+* 💬 [希望可以重置链滴的 API Token](https://ld246.com/article/1716472604023/comment/1716480265880#comments)
 
-  > F12 看下网络请求耗时。
-* 💬 [希望思源授权码支持 OTP 码，方便放心的在公共场合输入一次性密码来访问 docker 版思源](https://ld246.com/article/1716258747525/comment/1716434134201#comments)
+  > 刚刚上线了重置 API Token 功能，仅支持桌面端。
+* 💬 [无法同步怎么办](https://ld246.com/article/1716477105045/comment/1716478485117#comments)
 
-  > 欢迎 PR 贡献代码，谢谢。
-* 💬 [基础 markdown 语法问题](https://ld246.com/article/1716429730072/comment/1716433490581#comments)
+  > 在 设置 - 账号 中刷新一下或者重新登录后再试试。
+* 💬 [无法同步怎么办](https://ld246.com/article/1716477105045/comment/1716477768357#comments)
 
-  > 我印象里好像很多地方的编辑器都是这样的，比如 Typora。
-* 💬 [基础 markdown 语法问题](https://ld246.com/article/1716429730072/comment/1716432810481#comments)
+  > 请在 设置 - 关于 中导出系统日志并上传回帖。
+* 💗📝 [同步完成后，能否自动解锁当前文档](https://ld246.com/article/1716427167425)
 
-  > 是的，高亮这个不是标准 Markdown 语法，但是也算较为通用，类似的还是上标和下标。
+  > 在 A 电脑上打开一篇文档，编辑后，退出。 在 B 电脑上同步后，打开这个文档，笔记后，退出。 在 A 电脑上同步后，这个文档持续维持锁定状态。请问能否在同步完成后自动解锁？
 
 
 <!--events end -->
