@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-05-28 16:05:46`
+每天自动刷新，最近更新时间：`2024-05-29 16:06:10`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [子项目可否不用 Notion 的模式？](https://ld246.com/article/1716774985502/comment/1716860531865#comments)
+* 💬 [怎么编辑标签？](https://ld246.com/article/1716953465184/comment/1716953557256#comments)
 
-  > 抱歉，暂时不考虑了，我们得先完成其他优先级更高的任务。
-* 💬 [请问闪卡能加入一些统计功能吗？现在我依靠每天新增的闪卡数量来判断自己一天的学习情况](https://ld246.com/article/1686190557159/comment/1716856796938#comments)
+  > 这个可能是你用的主题的一个样式，不是实际字符。
+* 💬 [代码块行号与实际行数不对应](https://ld246.com/article/1716951122841/comment/1716951404515#comments)
 
-  > 请关注 [链接]
-* 💬 [这软件适配一个 arm 版本这么难吗](https://ld246.com/article/1716822432347/comment/1716856641897#comments)
+  > 默认主题如果没有问题的话那就是其他主题有问题 😂
+* 💬 [社区客户端 API 文档](https://ld246.com/article/1488603534762/comment/1716947583495#comments)
 
-  > 抱歉，目前我们实在没有精力搞 arm 版本编译，你如果没有办法自己尝试编译的话只能换个软件用了。 另外，思源笔记从来没搞过什么挖矿病毒，请勿信谣传谣，谢谢。
-* 🗣 [撤回「取消闪卡」操作时，到期时间、复习次数等被清空](https://ld246.com/article/1716732554465/comment/1716737003530#comments)
+  > 这个不考虑加了，抱歉。
+* 💬 [代码片段未正常同步](https://ld246.com/article/1716831744548/comment/1716946807039#comments)
 
-  > @3Woods 已经制卡的界面上会有个竖条
-* 💬 [ubuntu 20.04  思源笔记遇到的问题](https://ld246.com/article/1716818633859/comment/1716818978945#comments)
+  > 从日志上看是因为这个文件在同步前本地修改过，所以会覆盖云端： I 2024/05/27 16:48:50 sync.go:1325: upsert file [53fc3ba7522f73260ee9fdbd8393e0b46c9abbe7, /snippets/conf.json, 2024-05-27 16:37: ..
+* 💬 [这软件适配一个 arm 版本这么难吗](https://ld246.com/article/1716822432347/comment/1716943206633#comments)
 
-  > v3.0.15 已经可以在 Ubuntu 20.04 上正常启动了。
-* 💬 [换了一台电脑以后无法上传图片至图床](https://ld246.com/article/1716799315737/comment/1716817815163#comments)
+  > 多谢支持！我们稍后会在 GitHub 上发布一个 arm 测试版，如果方便的话请下载帮忙测试看看。
+* 💗💬 [思源导入 md 时总是有一个 assert 空笔记](https://ld246.com/article/1716885416114/comment/1716912438394#comments)
 
-  > 可以试下给该插件仓库提 issue 看看。
-* 💗💬 [找到了可稳定重现异常, 请看视频](https://ld246.com/article/1716803157136/comment/1716803671597#comments)
+  > [链接]
+* 💬 [思源导入 md 时总是有一个 assert 空笔记](https://ld246.com/article/1716885416114/comment/1716912163869#comments)
 
-  > @88250 我能够复现
-* 💗📝 [找到了可稳定重现异常, 请看视频](https://ld246.com/article/1716803157136)
+  > 麻烦帮开个 issue 记录，谢谢。
+* 💬 [这软件适配一个 arm 版本这么难吗](https://ld246.com/article/1716822432347/comment/1716912084109#comments)
 
-  > [链接] [视频]
+  > 我想问下：如果开发者现在解决了你的需求（发布 arm64 版本），你还会考虑订阅吗？
 
 
 <!--events end -->
