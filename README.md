@@ -20,31 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-06-03 16:06:28`
+每天自动刷新，最近更新时间：`2024-06-04 16:05:39`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [这软件适配一个 arm 版本这么难吗](https://ld246.com/article/1716822432347/comment/1717401822825#comments)
+* 💬 [DockerV3.0.16 重建索引后提示 database is locked，起 docker 内核就挂掉，现在已经无法使用，急！！](https://ld246.com/article/1717471125039/comment/1717474548075#comments)
 
-  > 你指的是下载源码自己编译吗？
-* 💗💬 [数据库视图独立且可以单独链接功能](https://ld246.com/article/1717231829580/comment/1717387598234#comments)
+  > 建议看下是不是有其他内核进程占用了该工作空间。
+* 💬 [我 docker 版本的搜索功能貌似失效了，不管怎么修改搜索类型都搜索不到任何东西 3.0.16 版本](https://ld246.com/article/1717401576324/comment/1717474489608#comments)
 
-  > v3.0.16 已经支持将数据库 复制为完整副本 了
-* 💬 [想问下思源笔记如何使用 obsidian 插件？](https://ld246.com/article/1717384698307/comment/1717385895924#comments)
+  > 说明有其他内核进程正在使用该工作空间。
+* 💬 [这软件适配一个 arm 版本这么难吗](https://ld246.com/article/1716822432347/comment/1717474426105#comments)
 
-  > 没有这样的工具的，因为两个软件的插件系统接口完全不一样。
-* 💬 [想问下思源笔记如何使用 obsidian 插件？](https://ld246.com/article/1717384698307/comment/1717385476747#comments)
+  > 没有官方群...
+* 💬 [这软件适配一个 arm 版本这么难吗](https://ld246.com/article/1716822432347/comment/1717463324357#comments)
 
-  > 用不了的。
-* 💬 [想问下思源笔记如何使用 obsidian 插件？](https://ld246.com/article/1717384698307/comment/1717384901294#comments)
+  > 新版本已经发布了，请帮忙测试看看。
+* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1717434311562)
 
-  > 思源笔记无法使用 Obsidian 的插件，这两个软件的插件系统并不通用。
-* 💬 [授权码忘记了，打不开其他工作空间](https://ld246.com/article/1717383760987/comment/1717384227329#comments)
+  > 苹果 iOS 商店审核又被卡了。
+* 💬 [PlantUML 数据丢失异常](https://ld246.com/article/1717429419765/comment/1717429762525#comments)
 
-  > [链接]
-* 💬 [这软件适配一个 arm 版本这么难吗](https://ld246.com/article/1716822432347/comment/1717380186458#comments)
+  > 只有文件数据变动才会生成历史，所以这段时间内可能数据没有正确写入。 日志中未发现相关异常，建议再观察看看，如果有数据快照，可以对比下看看。
+* 💬 [文件丢失，历史数据无法回滚，急！](https://ld246.com/article/1717416082060/comment/1717424664020#comments)
 
-  > 其他软件的 appimage 能运行吗？
+  > 可能是因为 5 月 13 号之前清理过文件历史，也有可能是设置了自动清理 20 天之前文件历史，这个可以在 设置 - 编辑器 中看看。 目前可以考虑将工作空间单独拷贝到另一个地方，然后通过快照恢复，恢复以后再手动将需要的文件覆盖到当前工作空间，最后重建索引。
+* 💬 [同步失败:DownloadUnavailable: download is temporarily unavailablestatus code: 452, request id: 7A8AAACPAfeyZtUX, host id: (Provider: S3) v3.0.15](https://ld246.com/article/1717392449391/comment/1717420599476#comments)
+
+  > 这几天七牛云正在“维护”，七牛云工程师回复如下： 您好 十分抱歉目前系统正在维护，本月新建的 CDN 和源站域名访问下载暂不可用，给您带来不便我们深感抱歉。维护完成后，我们将立即恢复功能，维护期间 6 月 3-5 日期间禁止的，预计 5 号后恢复的，还请耐心等待 [图片]
 
 
 <!--events end -->
