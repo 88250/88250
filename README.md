@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-06-16 16:05:14`
+每天自动刷新，最近更新时间：`2024-06-17 16:06:13`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [被关联数据库的主键内容，在关联列中显示不全（而且每次点击显示的内容都不一样，感觉像是随机显示的）](https://ld246.com/article/1718595792058/comment/1718596387213#comments)
+
+  > 太多的话省略了，用上面的搜索试试。
+* 💬 [云空间不足](https://ld246.com/article/1718593972643/comment/1718595691107#comments)
+
+  > 未标记的快照不会纳入大小统计的。 楼主打开 设置 - 云端 截图看一下吧。
+* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1718587004584)
+
+  > 得改进一下社区搜索了。
+* 💬 [手机端经常不显示下面的＋号按钮](https://ld246.com/article/1718099260631/comment/1718548814273#comments)
+
+  > 等过一久考虑下吧，目前暂时不动了。
+* 💬 [重装系统后思源笔记打不开了，提示 A JavaScript error occurred in the main procees](https://ld246.com/article/1718507927246/comment/1718543988468#comments)
+
+  > 卸载商店版后试试安装版
+* 💬 [重装系统后思源笔记打不开了，提示 A JavaScript error occurred in the main procees](https://ld246.com/article/1718507927246/comment/1718542579376#comments)
+
+  > 检查一下是不是下载错版本了，因特尔处理器的话不要下载 arm64 版本的安装包。
+* 💬 [手机端经常不显示下面的＋号按钮](https://ld246.com/article/1718099260631/comment/1718527716400#comments)
+
+  > 引入第三方依赖的话后续不好维护，我们尽量不引入第三方依赖。
 * 💗💬 [手机端经常不显示下面的＋号按钮](https://ld246.com/article/1718099260631/comment/1718520836933#comments)
 
   > 从悬浮键盘切换为普通键盘的过程也适配了（视频 0.5 倍数处理），应该已经完美了。 [视频]
-* 💬 [重装系统后思源笔记打不开了，提示 A JavaScript error occurred in the main procees](https://ld246.com/article/1718507927246/comment/1718508392483#comments)
-
-  > 多半是被杀毒软件删了思源内核程序了，建议加一下信任列表。
-* 💗📝 [Siyuan x LifeLog - 先导｜2024 年什么笔记软件最好用呀？](https://ld246.com/article/1718505053708)
-
-  > 写了篇知乎回答，刚好作为先导版吧。 2024 年什么笔记软件最好用呀？ - Wetoria 的回答 - 知乎 简单分享一下这些年里我对“记笔记”这件事的经验，如果你想听一个答案，那我用的是思源笔记。 我向来习惯于授之以渔，而不是鱼。 因此以下内容，不关乎任何一款笔记软件，而是关于记笔记的一个实践思路。 你可以选择用任何 ..
-* 💗💬 [有关数据库添加数据异常](https://ld246.com/article/1718496019008/comment/1718502628305#comments)
-
-  > 这个会在下个版本修复：[链接]
-* 💬 [手机端经常不显示下面的＋号按钮](https://ld246.com/article/1718099260631/comment/1718425751788#comments)
-
-  > 哦哦，那还是暂时不 PR 了吧，等后面再说，谢谢。
-* 💬 [手机端经常不显示下面的＋号按钮](https://ld246.com/article/1718099260631/comment/1718422012248#comments)
-
-  > PR 的话得把 sofill 和 import 依赖的代码都一并提交，不然以后可能很难维护。
-* 💬 [v3.0.17 无法进入到系统，总是出现点击刷新，重装无效，重启偶尔有效](https://ld246.com/article/1718405919843/comment/1718418868793#comments)
-
-  > 这个和思源版本应该没有关系的，建议还是排查一下杀毒软件等影响。另外，可以试试最新版 Chrome 访问 https://127.0.0.1:6806 看看是否能进入主界面。
-* 💬 [v3.0.17 无法进入到系统，总是出现点击刷新，重装无效，重启偶尔有效](https://ld246.com/article/1718405919843/comment/1718418231668#comments)
-
-  > Failed to load resource: net::ERR_INVALID_CHUNKED_ENCODING 这个报错我网上搜了下，大概率还是因为杀毒软件和代理等影响，建议再往这个方面排查一下看看。
 
 
 <!--events end -->
