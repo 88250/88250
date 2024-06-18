@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-06-17 16:06:13`
+每天自动刷新，最近更新时间：`2024-06-18 16:05:42`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [重装系统后思源笔记打不开了，提示 A JavaScript error occurred in the main procees](https://ld246.com/article/1718507927246/comment/1718676615797#comments)
+
+  > 这个就很奇怪了，如果有其他电脑的话换台电脑安装看看，请从官网下载安装包 [链接]
+* 💬 [数据库使用新方法 - 任务时间追踪](https://ld246.com/article/1718417706013/comment/1718673173875#comments)
+
+  > 目前只能 F5 手动刷新文档
+* 💬 [思源笔记 docker 部署之后一直转圈无法访问](https://ld246.com/article/1718635114199/comment/1718638016995#comments)
+
+  > 可以看下 Network 网络请求，建议检查一下容器相关的网络配置是否能连通。
+* 💬 [思源笔记插入视频却只显示音频，是格式不支持？](https://ld246.com/article/1718636335981/comment/1718636889762#comments)
+
+  > 可以试下 Chrome 浏览器是否支持，如果不支持的话就支持不了了，因为思源笔记是基于 Electron/Chromium 实现前端界面的。
+* 💬 [被关联数据库的主键内容，在关联列中显示不全（而且每次点击显示的内容都不一样，感觉像是随机显示的）](https://ld246.com/article/1718595792058/comment/1718634345415#comments)
+
+  > 抱歉不支持。
+* 💬 [数据没了，请求帮助](https://ld246.com/article/1718598444456/comment/1718629183264#comments)
+
+  > 从日志上看，8 点半到 12 点之间没有异常，12 点启动后的数据同步有一些数据变动也正常同步了。 建议看下 数据历史 - 文件历史 中是否有变动，如果没有的话，说明数据应该是真的没有变动过。
+* 💬 [云空间不足](https://ld246.com/article/1718593972643/comment/1718617382220#comments)
+
+  > 再看一下本地工作空间 data 文件夹占用大小。
 * 💬 [被关联数据库的主键内容，在关联列中显示不全（而且每次点击显示的内容都不一样，感觉像是随机显示的）](https://ld246.com/article/1718595792058/comment/1718596387213#comments)
 
   > 太多的话省略了，用上面的搜索试试。
-* 💬 [云空间不足](https://ld246.com/article/1718593972643/comment/1718595691107#comments)
-
-  > 未标记的快照不会纳入大小统计的。 楼主打开 设置 - 云端 截图看一下吧。
-* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1718587004584)
-
-  > 得改进一下社区搜索了。
-* 💬 [手机端经常不显示下面的＋号按钮](https://ld246.com/article/1718099260631/comment/1718548814273#comments)
-
-  > 等过一久考虑下吧，目前暂时不动了。
-* 💬 [重装系统后思源笔记打不开了，提示 A JavaScript error occurred in the main procees](https://ld246.com/article/1718507927246/comment/1718543988468#comments)
-
-  > 卸载商店版后试试安装版
-* 💬 [重装系统后思源笔记打不开了，提示 A JavaScript error occurred in the main procees](https://ld246.com/article/1718507927246/comment/1718542579376#comments)
-
-  > 检查一下是不是下载错版本了，因特尔处理器的话不要下载 arm64 版本的安装包。
-* 💬 [手机端经常不显示下面的＋号按钮](https://ld246.com/article/1718099260631/comment/1718527716400#comments)
-
-  > 引入第三方依赖的话后续不好维护，我们尽量不引入第三方依赖。
-* 💗💬 [手机端经常不显示下面的＋号按钮](https://ld246.com/article/1718099260631/comment/1718520836933#comments)
-
-  > 从悬浮键盘切换为普通键盘的过程也适配了（视频 0.5 倍数处理），应该已经完美了。 [视频]
 
 
 <!--events end -->
