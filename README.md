@@ -20,10 +20,16 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-06-20 16:06:25`
+每天自动刷新，最近更新时间：`2024-06-21 16:06:18`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [求助 文档树定位当前闪卡](https://ld246.com/article/1718804848764/comment/1718925639649#comments)
+
+  > 可以的，请在 GitHub Issues 上记录。
+* 💬 [求助 文档树定位当前闪卡](https://ld246.com/article/1718804848764/comment/1718900444428#comments)
+
+  > 可以考虑用 getBlockInfo 接口获取 path，然后再调用 listDocsByPath 展开文档树。
 * 💬 [求助 文档树定位当前闪卡](https://ld246.com/article/1718804848764/comment/1718805581224#comments)
 
   > 抱歉这个不考虑了，建议通过面包屑打开定位。
@@ -42,12 +48,6 @@
 * 💬 [链滴社区有打算做自己的搜索吗？用必应感觉很难搜到需要的东西](https://ld246.com/article/1700578570195/comment/1718698050632#comments)
 
   > [链接]
-* 💬 [必应搜索好难用啊，什么时候能恢复站内搜索？](https://ld246.com/article/1710963490734/comment/1718698026195#comments)
-
-  > 暂时已经重新恢复站内搜索，仅登录后可用。
-* 💬 [重装系统后思源笔记打不开了，提示 A JavaScript error occurred in the main procees](https://ld246.com/article/1718507927246/comment/1718676615797#comments)
-
-  > 这个就很奇怪了，如果有其他电脑的话换台电脑安装看看，请从官网下载安装包 [链接]
 
 
 <!--events end -->
