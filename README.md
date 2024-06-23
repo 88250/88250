@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-06-22 16:05:08`
+每天自动刷新，最近更新时间：`2024-06-23 16:05:06`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [求助数据库莫名出现未命名的文档！](https://ld246.com/article/1718986699003/comment/1718987078616#comments)
+* 💬 [v3.1.0-dev5 版本安装后，被添加至数据库中的引用行全部消失，需要通过回滚的方式解决（每一个数据库都这样）](https://ld246.com/article/1719117529369/comment/1719118744878#comments)
 
-  > 是不是用的 v3.1.0-dev4，是的话关联 [链接]
-* 💬 [建议自动识别文本内容的超链接](https://ld246.com/article/1718943213071/comment/1718977628439#comments)
+  > 日志中暂时未发现问题，可以试试安装 v3.0.17 看看能否正常。
+* 💬 [v3.1.0-dev5 版本安装后，被添加至数据库中的引用行全部消失，需要通过回滚的方式解决（每一个数据库都这样）](https://ld246.com/article/1719117529369/comment/1719118027302#comments)
 
-  > 前面说了嘛，自动链接有问题的。
-* 💬 [建议自动识别文本内容的超链接](https://ld246.com/article/1718943213071/comment/1718975127821#comments)
+  > 上传一下日志吧。
+* 💬 [v3.1.0-dev5 版本安装后，被添加至数据库中的引用行全部消失，需要通过回滚的方式解决（每一个数据库都这样）](https://ld246.com/article/1719117529369/comment/1719117639214#comments)
 
-  > 不考虑啊，因为按照自动链接的解析算法有很多漏洞，比如无法正确端口超链接和后面的文本。
-* 💬 [建议自动识别文本内容的超链接](https://ld246.com/article/1718943213071/comment/1718973179127#comments)
+  > 不用回滚，重建索引后再看看。
+* 💗🌙 [感谢了清风明月](https://ld246.com/member/JeffreyChen/breezemoons/1718985158592)
 
-  > 如果是包含了超链接的富文本可以自动识别，但是如果是纯文本的话识别不了。
-* 💬 [建议自动识别文本内容的超链接](https://ld246.com/article/1718943213071/comment/1718971344879#comments)
+  > 不知道为什么，思源到我手里就全是问题，issue 量根本下不去。 [图片] Issues · siyuan-note/siyuan A privacy-first, self-hosted, fully open source personal knowledge management software, writte ..
+* 💬 [闪卡能否支持不同的笔记本（牌组）使用不同的 fsrs 参数？](https://ld246.com/article/1719108706851/comment/1719109483169#comments)
 
-  > Ctrl+K 粘贴超链接
-* 💬 [关于内容块丢失问题的建议](https://ld246.com/article/1718760746286/comment/1718968278590#comments)
+  > 抱歉，现在还没有明确的计划。
+* 💬 [闪卡能否支持不同的笔记本（牌组）使用不同的 fsrs 参数？](https://ld246.com/article/1719108706851/comment/1719109144210#comments)
 
-  > 从日志上看是 5 月 4 日中午 12 点出现了文档数据 .sy 文件解析失败，是不是这个时间使用过第三方同步或者某些其他会写入文档数据文件的软件导致数据损坏了： W 2024/05/04 12:49:46 tree.go:102: tree [20230401091643-zmv81fd\20240208162012 ..
-* 💬 [求助 文档树定位当前闪卡](https://ld246.com/article/1718804848764/comment/1718925639649#comments)
+  > 关联 [链接]
+* 💗💬 [思源笔记暗黑模式下的表格线看不清, 建议在暗黑模式下表格线改为白色](https://ld246.com/article/1719021643298/comment/1719028007313#comments)
 
-  > 可以的，请在 GitHub Issues 上记录。
-* 💬 [求助 文档树定位当前闪卡](https://ld246.com/article/1718804848764/comment/1718900444428#comments)
+  > 自己是习惯在暗黑模式下用表格的那一类。话虽如此，先给一段能将就着用的代码吧 😄 .b3-typography table td, .b3-typography table th, .protyle-wysiwyg table td, .protyle-wysiwyg table th { border: 1px so ..
+* 💗💬 [带 [[]] 文字自动识别为引用](https://ld246.com/article/1719044116560/comment/1719048346553#comments)
 
-  > 可以考虑用 getBlockInfo 接口获取 path，然后再调用 listDocsByPath 展开文档树。
+  > 这种应该是做不了。不过你这个需求可以善用「虚拟引用」和「提及」功能
 
 
 <!--events end -->
