@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-06-23 16:05:06`
+每天自动刷新，最近更新时间：`2024-06-24 16:06:44`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [v3.1.0-dev5 版本安装后，被添加至数据库中的引用行全部消失，需要通过回滚的方式解决（每一个数据库都这样）](https://ld246.com/article/1719117529369/comment/1719118744878#comments)
+* 💬 [输入含有 "" 一律会变成 emoji, 粘贴转义文本无效](https://ld246.com/article/1719156052132/comment/1719183591236#comments)
 
-  > 日志中暂时未发现问题，可以试试安装 v3.0.17 看看能否正常。
-* 💬 [v3.1.0-dev5 版本安装后，被添加至数据库中的引用行全部消失，需要通过回滚的方式解决（每一个数据库都这样）](https://ld246.com/article/1719117529369/comment/1719118027302#comments)
+  > 好像没啥问题，这个 emoji 的文本别名就这样。
+* 💬 [为何总出现“数据库被锁定”？](https://ld246.com/article/1719138909768/comment/1719152358998#comments)
 
-  > 上传一下日志吧。
-* 💬 [v3.1.0-dev5 版本安装后，被添加至数据库中的引用行全部消失，需要通过回滚的方式解决（每一个数据库都这样）](https://ld246.com/article/1719117529369/comment/1719117639214#comments)
+  > 这个弹窗给不了路径，只有进程退出码。
+* 💬 [空格替换失灵](https://ld246.com/article/1719128636664/comment/1719149758549#comments)
 
-  > 不用回滚，重建索引后再看看。
-* 💗🌙 [感谢了清风明月](https://ld246.com/member/JeffreyChen/breezemoons/1718985158592)
+  > 可以去掉 assets 后发送试试。
+* 💬 [数据库支持关联模板字段吗?](https://ld246.com/article/1719146234865/comment/1719148278184#comments)
 
-  > 不知道为什么，思源到我手里就全是问题，issue 量根本下不去。 [图片] Issues · siyuan-note/siyuan A privacy-first, self-hosted, fully open source personal knowledge management software, writte ..
-* 💬 [闪卡能否支持不同的笔记本（牌组）使用不同的 fsrs 参数？](https://ld246.com/article/1719108706851/comment/1719109483169#comments)
+  > 关联 字段关联的是数据库，不是数据库字段 汇总 字段不支持指定模板字段
+* 💗💬 [v3.1.0-dev5 版本安装后，被添加至数据库中的引用行全部消失，需要通过回滚的方式解决（每一个数据库都这样）](https://ld246.com/article/1719117529369/comment/1719120111042#comments)
 
-  > 抱歉，现在还没有明确的计划。
-* 💬 [闪卡能否支持不同的笔记本（牌组）使用不同的 fsrs 参数？](https://ld246.com/article/1719108706851/comment/1719109144210#comments)
+  > @88250 确实是： [视频]
+* 💬 [清理不使用的图片](https://ld246.com/article/1719145052901/comment/1719145943732#comments)
 
-  > 关联 [链接]
-* 💗💬 [思源笔记暗黑模式下的表格线看不清, 建议在暗黑模式下表格线改为白色](https://ld246.com/article/1719021643298/comment/1719028007313#comments)
+  > 设置 - 资源 - 删除未引用的资源文件
+* 💬 [为何总出现“数据库被锁定”？](https://ld246.com/article/1719138909768/comment/1719143796162#comments)
 
-  > 自己是习惯在暗黑模式下用表格的那一类。话虽如此，先给一段能将就着用的代码吧 😄 .b3-typography table td, .b3-typography table th, .protyle-wysiwyg table td, .protyle-wysiwyg table th { border: 1px so ..
-* 💗💬 [带 [[]] 文字自动识别为引用](https://ld246.com/article/1719044116560/comment/1719048346553#comments)
+  > 工作空间不能放在第三方云盘路径中。
+* 💬 [空格替换失灵](https://ld246.com/article/1719128636664/comment/1719135301542#comments)
 
-  > 这种应该是做不了。不过你这个需求可以善用「虚拟引用」和「提及」功能
+  > 暂时不太清楚，可能得把整个工作空间/data/ 打包发我试试 [链接]
 
 
 <!--events end -->
