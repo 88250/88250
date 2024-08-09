@@ -20,10 +20,19 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-08-08 16:05:59`
+每天自动刷新，最近更新时间：`2024-08-09 16:06:14`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [论坛 @功能无法使用](https://ld246.com/article/1723116496121/comment/1723167815811#comments)
+
+  > 目前新手是有艾特权限的 [链接]
+* 💬 [Trojan:Win32/Sabsik.RD.A!ml 这个木马怎么回事](https://ld246.com/article/1723165641481/comment/1723165796818#comments)
+
+  > 是误报，建议添加信任列表。
+* 💗📝 [代码片段实现代码块最近使用的语言置顶](https://ld246.com/article/1723089690687)
+
+  > 介绍 如题，在代码块顶部筛选语言时，每次都是按 a-z 排列，能不能按照最近使用的排在上面呢？ 当然，这个代码片段就是实现这个功能的。 还增加了默认语言，设置了默认语言后，将不受上次选择的影响，始终是这个默认语言。 还增加了置顶语言功能，加入置顶列表的语言，始终置顶，不管是否最近使用过。 排序顺序是：置顶 》最近使用  ..
 * 💗📝 [回复代码导致帖子异常](https://ld246.com/article/1721710246161)
 
   > @88250 D 大, 这个页面, 因为占了一个代码, 导致整个网页有问题, 能不能吧这个回复删了 [链接] [图片] [图片] [链接]
@@ -36,15 +45,6 @@
 * 💗💬 [代码片段, 用于简化界面操作](https://ld246.com/article/1722943231810/comment/1722951062083#comments)
 
   > 写了个很生草的脚本，简化色彩工具。（这里懒得写监听直接挂循环了，css 用来删组件，js 用来注入行内样式 默认颜色为：当前字体颜色、渐进阅读插件在分片中改变文字后出现的黄色，链接的蓝色，引用色 纯自用了属于是： [图片] /** 颜色工具 **/ .protyle-font&gt;div:nth-Child(1),  ..
-* 💗💬 [行级代码的字体颜色可以默认设置为红色吗？](https://ld246.com/article/1722948159339/comment/1722948742791#comments)
-
-  > .fn__code, .b3-typography code:not(.hljs), .b3-typography span[data-type~=code], .protyle-wysiwyg code:not(.hljs), .protyle-wysiwyg span[data-type~=code] { colo ..
-* 💗💬 [行级代码的字体颜色可以默认设置为红色吗？](https://ld246.com/article/1722948159339/comment/1722949439576#comments)
-
-  > .fn__code, .b3-typography code:not(.hljs), .b3-typography span[data-type~=code], .protyle-wysiwyg code:not(.hljs), .protyle-wysiwyg span[data-type~=code]{ color ..
-* 💗💬 [有没有办法批量转换标题等级](https://ld246.com/article/1722951780875/comment/1722952015091#comments)
-
-  > 一种方案：在所有 H3 前插入一个 H2 ，然后在 H2 的块标里使用 带子标题转换 转换为 H1 ，然后所有子标题就会提升一级
 
 
 <!--events end -->
