@@ -20,10 +20,16 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-08-20 16:06:57`
+每天自动刷新，最近更新时间：`2024-08-21 16:06:19`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗📝 [思源笔记接入 Moonshot AI 尝鲜](https://ld246.com/article/1724204888125)
+
+  > 写在前面 鉴于 OpenAI 现状，我为大家推荐一个国内平替 Kimi ，供大家尝鲜 准备工作 准备账号 在 https://login.moonshot.cn/中申请账号，现在注册 可以看到平台赠送的 15 元体验额度 [图片] 注意 此 API 不是免费资源 此 API 不是免费资源 此 API 不是免费资源 模型 ..
+* 💗💬 [如何在指定的「标题」或「块」内搜索？](https://ld246.com/article/1724151501188/comment/1724153838334#comments)
+
+  > 有个规避的方法 先聚焦 然后使用插件搜索 [图片]
 * 👍💬 [思源笔记 S3 服务商 - 海外和国内延迟](https://ld246.com/article/1723997878463/comment/1723998114736#comments)
 
   > 选云服务商提供的海外区域就行了
@@ -42,12 +48,6 @@
 * 💗💬 [想知道锤子便签主题的边框背景颜色的代码和标题用的是什么字体](https://ld246.com/article/1723952749805/comment/1723956009281#comments)
 
   > 边框背景颜色的代码，这个背景其实是个图片，更换图片即可 图片路径：conf/appearance/themes/chuizi/src/background1.jpg .fn__flex.fn__flex-1 { background-image: url(../../src/background1.jpg); } 标题 ..
-* 💗💬 [打开思源笔记卡了](https://ld246.com/article/1723957483372/comment/1723957916419#comments)
-
-  > 参考：[链接]
-* 💗📝 [插件分享：图标工具箱 siyuan-icon-tools v1.0.5](https://ld246.com/article/1723976628955)
-
-  > siyuan-icon-tools 最新版 v1.0.5 已发布，修改点如下： 修复了两次启用、禁用插件后两次切换图标的异常。 支持自定义表情随机选择。 [图片] 到此，siyuan-icon-tools 可以配合官方功能完整使用了，欢迎 star 支持或者提 issues。 相关帖子：插件分享：图标工具箱 siyua ..
 
 
 <!--events end -->
