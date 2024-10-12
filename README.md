@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-10-11 16:06:32`
+每天自动刷新，最近更新时间：`2024-10-12 16:05:41`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [反馈个及其严重的问题](https://ld246.com/article/1728632751259/comment/1728633415357#comments)
+* 💬 [电脑端无法打开](https://ld246.com/article/1728528234910/comment/1728700186367#comments)
 
-  > 方便的话请把工作空间/data/ 打包发给我们调试看看 [链接]
-* 💬 [为什么复制加粗的文字到笔记时显示 ** 复制内容 **，而不是加粗后的样式](https://ld246.com/article/1728629920156/comment/1728630091969#comments)
+  > 日志上看正常的。 可以试下安装的时候选择为自己安装（不要选择为所有用户安装），然后不要用管理员启动。
+* 💗📝 [siyuan 究极性能优化笔记](https://ld246.com/article/1728615417710)
 
-  > 启用 设置 - 编辑器 - Markdown 行级星号语法
-* 💗💬 [代码块错位](https://ld246.com/article/1728613481066/comment/1728618543109#comments)
+  > 前期提要：这只是个优化超大文档（100mb+,3000 万字 +）打开、浏览、编辑速度的优化方案，在此过程中我做了很多丧心病狂的操作以追求性能的机制。最后的成果见下： before getDoc: 4000ms+ getBlockBreadcrumb:800ms+ getBlockIndex: 800ms+ trans ..
+* 💗💬 [思源笔记如何实现项目管理、时间管理](https://ld246.com/article/1728631973785/comment/1728640565844#comments)
 
-  > 看样子不是默认主题， 你可以先检查一下主题和插件（如“代码块美化”）有没有更新到最新版本。 或者切换主题和关闭插件。
-* 💬 [请问如何更改思源中打开外链的软件的默认位置？](https://ld246.com/article/1728552763370/comment/1728617146616#comments)
+  > 思源很可能不会做日历视图
+* 💗💬 [v3.1.6 图片居中宽度百分比失效](https://ld246.com/article/1728641412710/comment/1728642553240#comments)
 
-  > 这个要在系统中配置，不是思源能够解决的。
-* 💗💬 [v3.1.8 云同步失败，提示数据仓库密钥不正确，无法解密数据](https://ld246.com/article/1728056773643/comment/1728581826956#comments)
+  > 你需要更新到最新版思源
+* 💬 [Export PDF failed: Error: Error invoking remote method 'siyuan-get': Error: Failed to generate PDF: Printing failed v3.1.8](https://ld246.com/article/1728638862825/comment/1728639453051#comments)
 
-  > 弄好鸟，血淋淋的教训啊！ 首先，第一步，永远永远要记住，“初次同步时需要重置数据仓库”，这句话的意思是，当你开启 S3 服务后，只要在思源里面获得一个“密钥”（永久保存），从此之后，永远永远不要再轻易去“重置数据仓库”。 [这次我之所以会去重置数据仓库，就是错误理解了这句话的意思——理解成了，“在不同的笔记库里，初次同 ..
-* 💬 [v3.1.8 云同步失败，提示数据仓库密钥不正确，无法解密数据](https://ld246.com/article/1728056773643/comment/1728576087603#comments)
+  > 关联 [链接]
+* 💬 [反馈个及其严重的问题](https://ld246.com/article/1728632751259/comment/1728639244351#comments)
 
-  > 7 号凌晨你初始化了一次密钥： I 2024/10/07 00:15:16 repository.go:549: passphrase is base64 encoded, use it as key directly 从这个后面开始就报错解密失败了，应该是密钥不对。 多个设备上必须使用相同的密钥，否则某个设备同步成功 ..
-* 💬 [v3.1.8 云同步失败，提示数据仓库密钥不正确，无法解密数据](https://ld246.com/article/1728056773643/comment/1728569432044#comments)
+  > 已经在服务器端修复这个问题了，你可以再打开收集箱看看。
+* 💬 [反馈个及其严重的问题](https://ld246.com/article/1728632751259/comment/1728637719430#comments)
 
-  > 麻烦传一下日志我们分析看看。
-* 💗📝 [思源笔记格式刷插件开发笔记](https://ld246.com/article/1728550902669)
+  > 这个暂时不改变了，谢谢。
+* 💬 [反馈个及其严重的问题](https://ld246.com/article/1728632751259/comment/1728637196687#comments)
 
-  > 最近看社区有格式刷需求，以及自己也有需求，因此开发了格式刷插件：Achuan-2/siyuan-plugin-formatPainter: Use the format painter to batch apply styles (github.com) 觉得好用的欢迎点个 star [图片] 自己没正经学过 js，很 ..
+  > 稍后我们调试看看，感谢反馈。
 
 
 <!--events end -->
