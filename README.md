@@ -20,10 +20,22 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-10-12 16:05:41`
+每天自动刷新，最近更新时间：`2024-10-13 16:06:06`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [右键 - 添加到数据库如何使用？](https://ld246.com/article/1706757995356/comment/1728781057841#comments)
+
+  > /数据库
+* 💗💬 [手机端图片丢失](https://ld246.com/article/1728721869803/comment/1728744458714#comments)
+
+  > 我知道问题出在哪了，这些丢失的图片路径不是 assets 开头的，是保存在 zotero 文件夹下的，所以同步的时候手机端才看不到。复制这些图片再重新粘贴到思源里就可以了。另外这些图片双击的时候也没法放大，只有在思源文件夹里的图片双击才能放大
+* 💬 [手机端图片丢失](https://ld246.com/article/1728721869803/comment/1728742730527#comments)
+
+  > 请确认一下这些图片是不是本地资源文件，即 assets/ 开头的地址。
+* 💬 [好像 markdown 加粗的 ** 语法不支持](https://ld246.com/article/1728725691614/comment/1728725806662#comments)
+
+  > 启用：设置 - 编辑器 - Markdown 行级 xxx 语法
 * 💬 [电脑端无法打开](https://ld246.com/article/1728528234910/comment/1728700186367#comments)
 
   > 日志上看正常的。 可以试下安装的时候选择为自己安装（不要选择为所有用户安装），然后不要用管理员启动。
@@ -36,18 +48,6 @@
 * 💗💬 [v3.1.6 图片居中宽度百分比失效](https://ld246.com/article/1728641412710/comment/1728642553240#comments)
 
   > 你需要更新到最新版思源
-* 💬 [Export PDF failed: Error: Error invoking remote method 'siyuan-get': Error: Failed to generate PDF: Printing failed v3.1.8](https://ld246.com/article/1728638862825/comment/1728639453051#comments)
-
-  > 关联 [链接]
-* 💬 [反馈个及其严重的问题](https://ld246.com/article/1728632751259/comment/1728639244351#comments)
-
-  > 已经在服务器端修复这个问题了，你可以再打开收集箱看看。
-* 💬 [反馈个及其严重的问题](https://ld246.com/article/1728632751259/comment/1728637719430#comments)
-
-  > 这个暂时不改变了，谢谢。
-* 💬 [反馈个及其严重的问题](https://ld246.com/article/1728632751259/comment/1728637196687#comments)
-
-  > 稍后我们调试看看，感谢反馈。
 
 
 <!--events end -->
