@@ -20,10 +20,22 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-10-13 16:06:06`
+每天自动刷新，最近更新时间：`2024-10-14 16:07:15`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗💬 [请问思源笔记怎么随意调整单个字的大小？就像语雀一样](https://ld246.com/article/1728876270935/comment/1728877244817#comments)
+
+  > 从外观里面改 [图片]
+* 💬 [v3.1.8 无法云端同步，无法退出程序](https://ld246.com/article/1728870855474/comment/1728871826182#comments)
+
+  > 可以试下随便改个文档，然后手动触发同步，等同步完再退出。
+* 💬 [v3.1.8 无法云端同步，无法退出程序](https://ld246.com/article/1728870855474/comment/1728871245641#comments)
+
+  > 从日志上看是还有数据在同步，多等会看看。
+* 💗💬 [求写一个削减 dailynote 层级的函数](https://ld246.com/article/1728810381946/comment/1728811499581#comments)
+
+  > 比如这样： [视频]
 * 💬 [右键 - 添加到数据库如何使用？](https://ld246.com/article/1706757995356/comment/1728781057841#comments)
 
   > /数据库
@@ -36,18 +48,6 @@
 * 💬 [好像 markdown 加粗的 ** 语法不支持](https://ld246.com/article/1728725691614/comment/1728725806662#comments)
 
   > 启用：设置 - 编辑器 - Markdown 行级 xxx 语法
-* 💬 [电脑端无法打开](https://ld246.com/article/1728528234910/comment/1728700186367#comments)
-
-  > 日志上看正常的。 可以试下安装的时候选择为自己安装（不要选择为所有用户安装），然后不要用管理员启动。
-* 💗📝 [siyuan 究极性能优化笔记](https://ld246.com/article/1728615417710)
-
-  > 前期提要：这只是个优化超大文档（100mb+,3000 万字 +）打开、浏览、编辑速度的优化方案，在此过程中我做了很多丧心病狂的操作以追求性能的机制。最后的成果见下： before getDoc: 4000ms+ getBlockBreadcrumb:800ms+ getBlockIndex: 800ms+ trans ..
-* 💗💬 [思源笔记如何实现项目管理、时间管理](https://ld246.com/article/1728631973785/comment/1728640565844#comments)
-
-  > 思源很可能不会做日历视图
-* 💗💬 [v3.1.6 图片居中宽度百分比失效](https://ld246.com/article/1728641412710/comment/1728642553240#comments)
-
-  > 你需要更新到最新版思源
 
 
 <!--events end -->
