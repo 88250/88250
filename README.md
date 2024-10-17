@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-10-16 16:06:50`
+每天自动刷新，最近更新时间：`2024-10-17 16:07:05`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [v3.1.9 webdav 同步问题](https://ld246.com/article/1729054503374/comment/1729064687339#comments)
+* 💬 [自动同步失败次数过多，请尝试手动触发同步，如果还有问题请反馈 v3.1.8](https://ld246.com/article/1729128996504/comment/1729134726309#comments)
 
-  > 从日志上看是服务端返回 403 状态，表示服务端拒绝了客户端请求。 E 2024/10/16 13:12:47 webdav.go:89: upload object [vbc3/siyuan/repo/objects/db/a400ad9c6c15cd2cfb0a46e77327f5f5c9ba9f] failed: ..
-* 💬 [v3.1.9 webdav 同步问题](https://ld246.com/article/1729054503374/comment/1729055417847#comments)
+  > 建议使用互联网时间校准，包括时区。
+* 💬 [思源的性能需要优化，打开文档的速度太慢了](https://ld246.com/article/1729095436681/comment/1729133354201#comments)
 
-  > 请在 设置关于 中导出系统日志上传。
-* 👍💬 [群晖 NAS Docker 内部署的思源笔记 3.18，升级 3.19 后一直报错](https://ld246.com/article/1728983777587/comment/1729050598972#comments)
+  > 代理软件上设置不要代理 127.0.0.1
+* 💬 [自动同步失败次数过多，请尝试手动触发同步，如果还有问题请反馈 v3.1.8](https://ld246.com/article/1729128996504/comment/1729131286239#comments)
 
-  > 要排查解决问题，最好把运行日志贴出来。
-* 💬 [docker 版的 S3 同步异常](https://ld246.com/article/1728972962321/comment/1729050372028#comments)
+  > E 2024/10/17 10:03:12 repository.go:1313: sync data repo failed: system time incorrect 从日志上看是系统时间不正确，请校准系统时间后再同步看看。
+* 💬 [v3.1.9 webdav 同步问题](https://ld246.com/article/1729054503374/comment/1729129424699#comments)
 
-  > 我们这边没有改变过网络架构，建议还是检查一下你那边云服务器相关配置，比如是不是启用了安全组防火墙之类的。
-* 💬 [docker 版的 S3 同步异常](https://ld246.com/article/1728972962321/comment/1729049858911#comments)
+  > 今年没有哦。
+* 💬 [自动同步失败次数过多，请尝试手动触发同步，如果还有问题请反馈 v3.1.8](https://ld246.com/article/1729128996504/comment/1729129379361#comments)
 
-  > 还是容器网络有问题，无法连通云端服务接口。 PS：如果容器在境外的话可能无法连通，因为思源云端服务器在境内。
-* 💗🗣 [思源 3.1.9 更新之后 Tab 不是按照两个字符来缩进了吗？](https://ld246.com/article/1728995344003/comment/1729047606522#comments)
+  > 请在设置关于中导出系统日志上传
+* 💗💬 [思源如何图片本地化啊](https://ld246.com/article/1729117239911/comment/1729120921805#comments)
 
-  > 这个确实是有问题的，我已经提过 issue 了
-* 💬 [无法删除块](https://ld246.com/article/1729046906259/comment/1729047778093#comments)
+  > [图片][图片]
+* 💬 [v3.1.9 webdav 同步问题](https://ld246.com/article/1729054503374/comment/1729128014452#comments)
 
-  > 直接在挂载的工作空间文件夹下操作吧。
-* 💬 [思源 3.1.9 更新之后 Tab 不是按照两个字符来缩进了吗？](https://ld246.com/article/1728995344003/comment/1729047606522#comments)
+  > 我觉得不太可能，你可以测试看看。
+* 💬 [S3 云存储遇到文件大于最大限制 [10 MiB]，已忽略上传到社区图床 v3.1.9](https://ld246.com/article/1729096778641/comment/1729099364136#comments)
 
-  > 我这里正常，请录屏演示。
+  > 这个是把资源文件上传到链滴，和同步功能不相关的。
 
 
 <!--events end -->
