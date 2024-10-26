@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-10-25 16:06:32`
+每天自动刷新，最近更新时间：`2024-10-26 16:05:55`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [表格列无法粘贴到思源](https://ld246.com/article/1729816149556/comment/1729827697087#comments)
+* 💗📝 [enhance v0.27.0｜今天起，解锁不一样的思源阅读体验](https://ld246.com/article/1729916460363)
 
-  > 不支持粘贴合并单元格表格。
-* 💬 [S3 和 WebDAV 同步失败](https://ld246.com/article/1729822953078/comment/1729827603301#comments)
+  > 由于视频太大（99MB），链滴限制 20M，具体效果麻烦移步：https://simplest-frontend.feishu.cn/docx/B3NndXHi7oLLXJxnxQmcczRsnse#share-K247dJH9uosQjnxBesicEXhbnTg 只能说，在思源里读文档，从来没这么爽过。 搭配思源剪 ..
+* 💬 [关于 Debian 系 Linux 自动更新的问题以及一种可能的解决方案](https://ld246.com/article/1729905219649/comment/1729907300833#comments)
 
-  > 地址配置错了吧 biji.192.168.1.15: no such host
-* 💗💬 [云端到底能不能用啊](https://ld246.com/article/1729766871518/comment/1729769742497#comments)
+  > 你来搞吧，谢谢。
+* 💬 [关于 Debian 系 Linux 自动更新的问题以及一种可能的解决方案](https://ld246.com/article/1729905219649/comment/1729906027605#comments)
 
-  > [链接]
-* 💬 [ios 大纲显示异常](https://ld246.com/article/1729762491420/comment/1729762995019#comments)
+  > 欢迎 PR 贡献 GitHub Actions 上传包管理仓库。
+* 💬 [S3 和 WebDAV 同步失败](https://ld246.com/article/1729822953078/comment/1729905923976#comments)
 
-  > 代码片段默认都是开启的。
-* 💗💬 [请问如何旋转插入的图片?](https://ld246.com/article/1729747297082/comment/1729759372672#comments)
+  > 再仔细看下日志吧，七牛云的配置可以论坛搜索下，需要仔细核对一下配置值。
+* 🗣 [代码块上面是否支持写文字，折叠后用来描述多个代码块](https://ld246.com/article/1729860158480/comment/1729872730131#comments)
 
-  > 如果是 win 客户端的话可以试试右键图片 → 默认应用打开，用 win 默认的看图软件旋转并保存，然后刷新。
-* 💬 [请问如何旋转插入的图片?](https://ld246.com/article/1729747297082/comment/1729757957731#comments)
+  > 应该是....
+* 💗💬 [代码块上面是否支持写文字，折叠后用来描述多个代码块](https://ld246.com/article/1729860158480/comment/1729872730131#comments)
 
-  > 只能在外边使用其他图片编辑应用编辑好以后再插入。
-* 💬 [CSDN 网页剪藏加粗显示星号](https://ld246.com/article/1729757656573/comment/1729757865929#comments)
+  > [图片] 其实可以考虑换成这样的版本。 PS：实际上我还考虑过给代码块增加别名的方式，但是折叠后，别名会不展示，就像上面的图。 在不折叠时，可以通过命名或者别名进行“备注”。 [图片] @88250 折叠后不显示别名是专门设计过的吗？
+* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1729871730741)
 
-  > 启用 设置 - 编辑器 - Markdown 行级星号语法
-* 💬 [将引述块里的文字转换为标题后，大纲中不显示](https://ld246.com/article/1729754955270/comment/1729757614004#comments)
+  > 最近 PayPal 跨境收款非常困难
+* 💬 [如何找回笔记？](https://ld246.com/article/1729861434626/comment/1729861933422#comments)
 
-  > 不考虑改变设计了，谢谢。
+  > 云端目录一旦删除就无法恢复了 本地数据仓库如果没有重置可以用本地快照回滚
 
 
 <!--events end -->
