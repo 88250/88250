@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-10-26 16:05:55`
+每天自动刷新，最近更新时间：`2024-10-27 16:06:52`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💗📝 [enhance v0.27.0｜今天起，解锁不一样的思源阅读体验](https://ld246.com/article/1729916460363)
+* 💗💬 [插件开发求助丨安卓端如何通过本地 URL 返回动态 svg](https://ld246.com/article/1729935510467/comment/1730010132361#comments)
 
-  > 由于视频太大（99MB），链滴限制 20M，具体效果麻烦移步：https://simplest-frontend.feishu.cn/docx/B3NndXHi7oLLXJxnxQmcczRsnse#share-K247dJH9uosQjnxBesicEXhbnTg 只能说，在思源里读文档，从来没这么爽过。 搭配思源剪 ..
-* 💬 [关于 Debian 系 Linux 自动更新的问题以及一种可能的解决方案](https://ld246.com/article/1729905219649/comment/1729907300833#comments)
+  > 设计完成了，设计了 8 种 type，8 种配色 源码见：Achuan-2/siyuan-plugin-dynamic-calendar-icon: 思源笔记动态图片设计 内核我晚点再折腾 参数 type：图标类型，默认为 1 type=1：显示年月日星期 type=2 ： 显示年月日 type=3 ： 仅显示年月 t ..
+* 💬 [网页版导出图片时外链图片白屏，显示异常](https://ld246.com/article/1729997101877/comment/1730002395368#comments)
 
-  > 你来搞吧，谢谢。
-* 💬 [关于 Debian 系 Linux 自动更新的问题以及一种可能的解决方案](https://ld246.com/article/1729905219649/comment/1729906027605#comments)
+  > 那估计是因为开启了防盗链的原因
+* 💬 [网页版导出图片时外链图片白屏，显示异常](https://ld246.com/article/1729997101877/comment/1730001242186#comments)
 
-  > 欢迎 PR 贡献 GitHub Actions 上传包管理仓库。
-* 💬 [S3 和 WebDAV 同步失败](https://ld246.com/article/1729822953078/comment/1729905923976#comments)
+  > 试试桌面端伺服浏览器访问是不是也有问题
+* 💬 [使用 docker 版思源时提示磁盘写入超 100M，怎么解决](https://ld246.com/article/1729971050008/comment/1729998664049#comments)
 
-  > 再仔细看下日志吧，七牛云的配置可以论坛搜索下，需要仔细核对一下配置值。
-* 🗣 [代码块上面是否支持写文字，折叠后用来描述多个代码块](https://ld246.com/article/1729860158480/comment/1729872730131#comments)
+  > 思源对系统资源要求较高，建议使用没有配额限制的环境。
+* 💬 [网页版导出图片时外链图片白屏，显示异常](https://ld246.com/article/1729997101877/comment/1729998613122#comments)
 
-  > 应该是....
-* 💗💬 [代码块上面是否支持写文字，折叠后用来描述多个代码块](https://ld246.com/article/1729860158480/comment/1729872730131#comments)
+  > 参考 README 中的部署指南部署即可。
+* 💬 [关于 EDGE 浏览器剪藏问题](https://ld246.com/article/1729967688029/comment/1729998548763#comments)
 
-  > [图片] 其实可以考虑换成这样的版本。 PS：实际上我还考虑过给代码块增加别名的方式，但是折叠后，别名会不展示，就像上面的图。 在不折叠时，可以通过命名或者别名进行“备注”。 [图片] @88250 折叠后不显示别名是专门设计过的吗？
-* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1729871730741)
+  > 这个网页用的是“影子 DOM（Shadow DOM）”，没有办法全文一键剪藏。 你可以试下划选需要剪藏的内容然后复制，到思源文档中粘贴，然后使用网络图片转换本地功能下载图片。
+* 💬 [网页版导出图片时外链图片白屏，显示异常](https://ld246.com/article/1729997101877/comment/1729997700687#comments)
 
-  > 最近 PayPal 跨境收款非常困难
-* 💬 [如何找回笔记？](https://ld246.com/article/1729861434626/comment/1729861933422#comments)
+  > 请用最新版测试看看。
+* 💬 [关于 EDGE 浏览器剪藏问题](https://ld246.com/article/1729967688029/comment/1729994613468#comments)
 
-  > 云端目录一旦删除就无法恢复了 本地数据仓库如果没有重置可以用本地快照回滚
+  > 那个不属于正文了，所以不会剪藏。 “别的网站”你得发一个网页链接，我这测试看看。
 
 
 <!--events end -->
