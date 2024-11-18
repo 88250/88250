@@ -20,10 +20,25 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-11-17 16:06:06`
+每天自动刷新，最近更新时间：`2024-11-18 16:07:25`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [在思源中导出工作空间的数据提示报错](https://ld246.com/article/1731910770119/comment/1731914292886#comments)
+
+  > 有个 PPT 被外部打开了，先关掉再导出看看。
+* 💬 [剪藏又不能保存 GIF 动画了？](https://ld246.com/article/1731885857871/comment/1731900166141#comments)
+
+  > 下个版本改进看看
+* 💬 [粘贴的链接如何自动转成可点击的那种链接？](https://ld246.com/article/1731893831618/comment/1731896386901#comments)
+
+  > 使用 Ctrl+K 粘贴
+* 💗💬 [有单独文档加密功能么](https://ld246.com/article/1731782143163/comment/1731860213065#comments)
+
+  > 本地完全加密的话性能会比较差，实现起来也不简单。 目前是本地同时存两份数据：明文存一份、加密存一份，同步时会增量上传加密文件
+* 💗💬 [真的无语，S3 同步是不是又改过？](https://ld246.com/article/1731860567358/comment/1731860992919#comments)
+
+  > 大概是阿里云的配置有变化，比如不再允许使用 Path-style 之类的。你重新配置一下吧。 数据仓库密钥不对的话那就真是不对了，你再检查一下吧。
 * 💗💬 [PlantUML 必须联网，离线可以如何操作？](https://ld246.com/article/1731777072485/comment/1731810176023#comments)
 
   > 本地部署 plantuml [链接] 然后设置里修改 plantuml 伺服指向你的本地地址
@@ -33,21 +48,6 @@
 * 💬 [思源 WBDAV 服务同步问题](https://ld246.com/article/1731677092318/comment/1731678574647#comments)
 
   > 可能子目录没有给吧
-* 💬 [思源 WBDAV 服务同步问题](https://ld246.com/article/1731677092318/comment/1731678196209#comments)
-
-  > E 2024/11/15 21:14:59 webdav.go:469: mkdir [siyuanyun/siyuan/repo] failed: MkdirAll /siyuanyun/siyuan/repo/: 403 无法创建目录，检查一下文件夹权限。
-* 💬 [思源 WBDAV 服务同步问题](https://ld246.com/article/1731677092318/comment/1731677798667#comments)
-
-  > 请在 思源 - 设置 - 关于 中导出系统日志上传
-* 💬 [思源 WBDAV 服务同步问题](https://ld246.com/article/1731677092318/comment/1731677387297#comments)
-
-  > WebDAV 服务端是自己搭建的吗？
-* 💗📝 [思源集市内容打包方案](https://ld246.com/article/1731669340350)
-
-  > 想要给集市上架一个插件/主题/模板等内容，就不可避免地面临发布前的一个重要动作：打包。 集市从你的仓库里拉取文件的必要条件就是一个以版本号命名的 tag 和这个 tag 对应的发布（Release），并且必须有一个名为 package.zip 的文件。 要打包这个 package.zip 文件可以有多种途径。 手动打包 ..
-* 💬 [想问一下 latke 框架如何拦截路径路由呢](https://ld246.com/article/1731639147915/comment/1731650449440#comments)
-
-  > 请参考 solo 或者 symphony 代码
 
 
 <!--events end -->
