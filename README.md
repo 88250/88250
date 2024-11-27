@@ -20,10 +20,22 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-11-26 16:06:56`
+每天自动刷新，最近更新时间：`2024-11-27 16:06:50`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [真的是被思源笔记的启动问题折磨疯了，现在多一个安装问题](https://ld246.com/article/1732641048924/comment/1732663145048#comments)
+
+  > 应该是环境的问题。 换个安装路径和工作空间路径 不要用管理员安装 不要用管理员权限运行
+* 💗📝 [极空间 docker 部署思源云笔记](https://ld246.com/article/1732614530028)
+
+  > 一、下载思源笔记 docker 镜像包 我已经打包好了：下载地址 https://wwzi.lanzouj.com/b00wm54aza 密码:64qb 二、配置极空间 docker 倒入思源镜像到极空间 [图片] [图片] 配置容器 取消限制，思源笔记占用不了多少性能。限制了会影响稳定性！ [图片] 添加文件夹路径  ..
+* 💗📝 [极空间配置 minio 同步思源笔记](https://ld246.com/article/1732614826861)
+
+  > 一、倒入镜像到极空间 docker 镜像下载地址：https://wwzi.lanzouj.com/b00wm54aza 密码:64qb [图片] 二、配置 docker 取消 docker 的性能限制，minio 用不了多少性能，限制会影响稳定 [图片] 配置文件夹路径 文件/文件夹表示极空间的本地路径。装载路径为  ..
+* 💬 [同步失败：仓库密钥不正确](https://ld246.com/article/1732554599091/comment/1732613611933#comments)
+
+  > 使用新的云端目录
 * 💬 [多端编辑数据库后丢数据了](https://ld246.com/article/1732592503042/comment/1732593746326#comments)
 
   > 呃，这么说之前一直都没有同步咯？ 再熟悉一下使用应该会好很多。
@@ -36,18 +48,6 @@
 * 💬 [多端编辑数据库后丢数据了](https://ld246.com/article/1732592503042/comment/1732592943628#comments)
 
   > 每个参与同步的设备上都有快照的
-* 💬 [多端编辑数据库后丢数据了](https://ld246.com/article/1732592503042/comment/1732592822426#comments)
-
-  > 试试数据快照回滚
-* 💬 [多端编辑数据库后丢数据了](https://ld246.com/article/1732592503042/comment/1732592697860#comments)
-
-  > 不建议多端编辑，思源只会以一端的数据为准 文件历史默认保存 30 天内的，超过 30 天的会自动清理，可在 设置 - 编辑器 - 历史保留天数 中调整
-* 💗📝 [flowjs 版本过低导致报错](https://ld246.com/article/1732588537903)
-
-  > 使用 flow chart 报错 Flow Chart render error: TypeError: Cannot set properties of undefined (setting 'next') 查看 github: [链接] 发现是 flowjs 版本过低，希望作者更新一下版本
-* 💬 [flowjs 版本过低导致报错](https://ld246.com/article/1732588537903/comment/1732592153016#comments)
-
-  > 感谢反馈，先记录 [链接]
 
 
 <!--events end -->
