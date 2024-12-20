@@ -20,10 +20,22 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-12-19 16:06:52`
+每天自动刷新，最近更新时间：`2024-12-20 16:06:38`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 👍📝 [怎么越更新越垃圾了？s3 配置导入怎么没了？](https://ld246.com/article/1734580047573)
+
+  > [图片] ？？？原来有的 [图片]
+* 💗📝 [怎么越更新越垃圾了？s3 配置导入怎么没了？](https://ld246.com/article/1734580047573)
+
+  > [图片] ？？？原来有的 [图片]
+* 💬 [v3.1.16 图片居中后调整大小导致居中失效](https://ld246.com/article/1734665662652/comment/1734665737242#comments)
+
+  > @Vanessa
+* 💬 [思源笔记监听端口失败](https://ld246.com/article/1734054045532/comment/1734602487273#comments)
+
+  > 建议排查防火墙、杀毒软件设置，可以试下将思源安装路径和工作空间文件夹路径加入到信任列表中。 另外，如果是公司办公设备，可能是被统一安装的安全策略限制了，可以问下 IT 网管。
 * 💬 [编写的内容被旧版本覆盖了](https://ld246.com/article/1734340375149/comment/1734534003704#comments)
 
   > 请更新最新版后再观察看看
@@ -36,18 +48,6 @@
 * 💬 [鸿蒙 next 正式版闪退](https://ld246.com/article/1734492432949/comment/1734509736848#comments)
 
   > 试试卸载测试版后再安装正式版（注意先备份数据）
-* 💬 [求助 webdav 内网地址同步失败，外网地址正常 sync failed caused by network connect: no route to host](https://ld246.com/article/1734446547817/comment/1734486912237#comments)
-
-  > alist.example.com 这个域名解析不了哦
-* 💬 [安卓端思源笔记不能跟随系统切换夜间模式](https://ld246.com/article/1734454820297/comment/1734484227001#comments)
-
-  > Android 上需要打开这个选项： [图片] 鸿蒙上不太清楚，可以找一下类似设置看看。
-* 💬 [思源笔记 3.1.15 版本 - 出现 cpu44%，文档树无法点开](https://ld246.com/article/1734438408672/comment/1734479740228#comments)
-
-  > 在这个数据量 database size [1.21 GB], tree/block count [2182/461200] 下某些 SQL 查询可能会较为占用 CPU，建议关闭插件排查。
-* 💬 [绑定的邮箱失效了无法使用，怎么换绑邮箱](https://ld246.com/article/1734440065983/comment/1734443549539#comments)
-
-  > 请发邮件至 [链接]
 
 
 <!--events end -->
