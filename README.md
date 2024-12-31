@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-12-30 16:07:04`
+每天自动刷新，最近更新时间：`2024-12-31 16:06:35`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [鸿蒙 next 版登录后从 s3 恢复会闪退](https://ld246.com/article/1735540271773/comment/1735541764122#comments)
+* 💬 [鸿蒙 next 版登录后从 s3 恢复会闪退](https://ld246.com/article/1735540271773/comment/1735631413554#comments)
 
-  > 麻烦导出日志上传一下
-* 💬 [求助 siyuan 访问授权码忘记了怎么办](https://ld246.com/article/1735524281390/comment/1735525024790#comments)
+  > 从日志来看是网络问题导致同步报错的，但是理论上不应该导致闪退，这个问题后续我们会继续留意，感谢反馈。
+* 💬 [云端配置导入异常](https://ld246.com/article/1735565414976/comment/1735620054033#comments)
 
-  > [链接]
-* 💗💬 [搜索问题](https://ld246.com/article/1735118443431/comment/1735119344095#comments)
+  > 麻烦发下日志
+* 💬 [鸿蒙 NEXT 版本升级后闪退](https://ld246.com/article/1735383661249/comment/1735619790965#comments)
 
-  > 明显你第二个没有选包含子文档，就是路径旁边那个按钮。 这样搜的就是单独 da 那个文档，里面没有这个数据。
-* 💗💬 [搜索问题](https://ld246.com/article/1735118443431/comment/1735129949569#comments)
+  > 嗯，等下个版本再试试，应该能修复。
+* 💬 [思源笔记 S3 同步失败：锁定云端同步目录失败，糟心的多端同步总出问题](https://ld246.com/article/1735574717330/comment/1735603001688#comments)
 
-  > [图片] [图片]
-* 💗📝 [[js] 在右侧边栏添加快捷切换指定大小字号按钮](https://ld246.com/article/1735489255593)
+  > api error SlowDownWrite: Resource requested is unwritable, please reduce your request rate 这个不是思源的问题，是 MinIO 吞吐不够抛出的异常，看一下是不是还有其他存取任务在执行？ 参考：[链接]
+* 💬 [云端配置导入异常](https://ld246.com/article/1735565414976/comment/1735571084050#comments)
 
-  > 代码片段求助 —— 在右侧边栏添加快捷切换指定大小字号按钮 在侧边栏添加 24、48 字号切换按钮。 [图片]
-* 💗🗣 [这里大家讨论最多是 v3.1.16，为啥我还是 v3.1.15？](https://ld246.com/article/1735004640528/comment/1735005032789#comments)
+  > 我这里测试可以重复导入。
+* 💗💬 [鸿蒙 NEXT 版本升级后闪退](https://ld246.com/article/1735383661249/comment/1735558461025#comments)
 
-  > D 大，微软商店啥时候能恢复更新呀，恢复了可以说一声吗？
-* 💬 [关于打开文件很卡的情况](https://ld246.com/article/1735465244171/comment/1735469723161#comments)
+  > [视频]
+* 💬 [鸿蒙 NEXT 版本升级后闪退](https://ld246.com/article/1735383661249/comment/1735563805204#comments)
 
-  > 请参考 用户指南 - 性能优化 章节
-* 💗💬 [思源笔记导出 PDF 时标题有误](https://ld246.com/article/1735405469940/comment/1735459968850#comments)
+  > 收到，下个版本再试试。
+* 💬 [鸿蒙版返回逻辑有点问题](https://ld246.com/article/1735434915698/comment/1735563780753#comments)
 
-  > 实测最新预览版中已经修复
+  > 感谢反馈，这个问题我们后面解决 [链接]
 
 
 <!--events end -->
