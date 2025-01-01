@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2024-12-31 16:06:35`
+每天自动刷新，最近更新时间：`2025-01-01 16:06:25`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [鸿蒙 next 版登录后从 s3 恢复会闪退](https://ld246.com/article/1735540271773/comment/1735631413554#comments)
+* 💬 [请问导入的 PDF 能否直接显示，而不是只有一个标题链接](https://ld246.com/article/1735704669917/comment/1735708080035#comments)
 
-  > 从日志来看是网络问题导致同步报错的，但是理论上不应该导致闪退，这个问题后续我们会继续留意，感谢反馈。
-* 💬 [云端配置导入异常](https://ld246.com/article/1735565414976/comment/1735620054033#comments)
+  > 有可能是 PDF 的字体不支持
+* 💬 [v3.1.18 版本 webdav 启动时同步数据失败](https://ld246.com/article/1735653750334/comment/1735705909291#comments)
 
-  > 麻烦发下日志
-* 💬 [鸿蒙 NEXT 版本升级后闪退](https://ld246.com/article/1735383661249/comment/1735619790965#comments)
+  > v3.1.16 也是一样的报错： E 2025/01/01 12:14:42 sync.go:1560: download cloud latest failed: unexpected EOF ...... E 2025/01/01 12:15:32 sync.go:1560: download cloud late ..
+* 💬 [感觉两百多个 issue 一半都是数据库的功能](https://ld246.com/article/1735704967987/comment/1735705818177#comments)
 
-  > 嗯，等下个版本再试试，应该能修复。
-* 💬 [思源笔记 S3 同步失败：锁定云端同步目录失败，糟心的多端同步总出问题](https://ld246.com/article/1735574717330/comment/1735603001688#comments)
+  > 开发者自己也用数据库，谈不上多大代价 [图片]
+* 💬 [请问下为什么在文档下的块创建引用时不能搜索到文档本身的名字啊](https://ld246.com/article/1735705202817/comment/1735705657068#comments)
 
-  > api error SlowDownWrite: Resource requested is unwritable, please reduce your request rate 这个不是思源的问题，是 MinIO 吞吐不够抛出的异常，看一下是不是还有其他存取任务在执行？ 参考：[链接]
-* 💬 [云端配置导入异常](https://ld246.com/article/1735565414976/comment/1735571084050#comments)
+  > 设计如此，排除了自身块、父块和根块。
+* 💬 [请问导入的 PDF 能否直接显示，而不是只有一个标题链接](https://ld246.com/article/1735704669917/comment/1735704788161#comments)
 
-  > 我这里测试可以重复导入。
-* 💗💬 [鸿蒙 NEXT 版本升级后闪退](https://ld246.com/article/1735383661249/comment/1735558461025#comments)
+  > 可以试试集市中的 PDF嵌入器 插件
+* 💬 [从 17.18 版本不断出现 s3 无法同步的问题](https://ld246.com/article/1735702818505/comment/1735704696372#comments)
 
-  > [视频]
-* 💬 [鸿蒙 NEXT 版本升级后闪退](https://ld246.com/article/1735383661249/comment/1735563805204#comments)
+  > 请参考对应 S3 提供商的文档改一下 Region ID
+* 💬 [思源笔记手机端 S3 同步失败](https://ld246.com/article/1735701904635/comment/1735704686708#comments)
 
-  > 收到，下个版本再试试。
-* 💬 [鸿蒙版返回逻辑有点问题](https://ld246.com/article/1735434915698/comment/1735563780753#comments)
+  > 请参考对应 S3 提供商的文档改一下 Region ID
+* 💬 [iphone 的思源 APP 如何安装历史版本](https://ld246.com/article/1735704400486/comment/1735704673127#comments)
 
-  > 感谢反馈，这个问题我们后面解决 [链接]
+  > 请参考对应 S3 提供商的文档改一下 Region ID
 
 
 <!--events end -->
