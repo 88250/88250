@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2025-01-01 16:06:25`
+每天自动刷新，最近更新时间：`2025-01-02 16:06:30`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [请问导入的 PDF 能否直接显示，而不是只有一个标题链接](https://ld246.com/article/1735704669917/comment/1735708080035#comments)
+* 💗📝 [自己做了一款 sy 转 word 的文件](https://ld246.com/article/1735710916330)
 
-  > 有可能是 PDF 的字体不支持
-* 💬 [v3.1.18 版本 webdav 启动时同步数据失败](https://ld246.com/article/1735653750334/comment/1735705909291#comments)
-
-  > v3.1.16 也是一样的报错： E 2025/01/01 12:14:42 sync.go:1560: download cloud latest failed: unexpected EOF ...... E 2025/01/01 12:15:32 sync.go:1560: download cloud late ..
-* 💬 [感觉两百多个 issue 一半都是数据库的功能](https://ld246.com/article/1735704967987/comment/1735705818177#comments)
-
-  > 开发者自己也用数据库，谈不上多大代价 [图片]
-* 💬 [请问下为什么在文档下的块创建引用时不能搜索到文档本身的名字啊](https://ld246.com/article/1735705202817/comment/1735705657068#comments)
-
-  > 设计如此，排除了自身块、父块和根块。
-* 💬 [请问导入的 PDF 能否直接显示，而不是只有一个标题链接](https://ld246.com/article/1735704669917/comment/1735704788161#comments)
-
-  > 可以试试集市中的 PDF嵌入器 插件
-* 💬 [从 17.18 版本不断出现 s3 无法同步的问题](https://ld246.com/article/1735702818505/comment/1735704696372#comments)
+  > introduction 高中学生，平时用 SiYuan 学习，真的很不错！ 个人感觉思源笔记中借用 pandoc 导出 word 的功能不是很好用，尤其是标记块不能挖空处理，于是自己重写了一个版本，实现了大部分功能 链接：sy2doc: 更好的思源笔记转 Word，使用 python-docx 用法 从源代码使用 依 ..
+* 💬 [v3.1.18 S3 同步失败: operation error S3. DeleteObject, resolve auth scheme: resolve endpoint endpoint rule eror, Invalid region: region was not a valid DNS name](https://ld246.com/article/1735786164165/comment/1735786602147#comments)
 
   > 请参考对应 S3 提供商的文档改一下 Region ID
-* 💬 [思源笔记手机端 S3 同步失败](https://ld246.com/article/1735701904635/comment/1735704686708#comments)
+* 💬 [同步失败：锁定云端同步目录失败](https://ld246.com/article/1735786254417/comment/1735786566098#comments)
 
-  > 请参考对应 S3 提供商的文档改一下 Region ID
-* 💬 [iphone 的思源 APP 如何安装历史版本](https://ld246.com/article/1735704400486/comment/1735704673127#comments)
+  > 请更新到最新版后再试试，如果还是不行，麻烦在 设置 - 关于 中导出系统日志上传。
+* 💬 [更新到 3.1.17 后 S3 同步一直失败](https://ld246.com/article/1735054998401/comment/1735781203477#comments)
 
-  > 请参考对应 S3 提供商的文档改一下 Region ID
+  > Region 那里参考一下 S3 提供商的文档，填 Region ID
+* 🗣 [感觉两百多个 issue 一半都是数据库的功能](https://ld246.com/article/1735704967987/comment/1735705818177#comments)
+
+  > @Bard 大概率要优先开发画廊视图了
+* 💗📝 [请问这个新提示是什么含义呢？点添加好像没有成功](https://ld246.com/article/1735724674894)
+
+  > [图片]
+* 💬 [请问这个新提示是什么含义呢？点添加好像没有成功](https://ld246.com/article/1735724674894/comment/1735774448744#comments)
+
+  > 下个版本改进，感谢。
+* 💬 [v3.1.16 IPAD 端打开 PDF（无论 PDF 文件大小）后内容为空白，电脑端和手机端都是正常的](https://ld246.com/article/1735746360467/comment/1735747778245#comments)
+
+  > 请试一下弹出浏览器后马上切换回思源应用，过几秒再切到浏览器。
 
 
 <!--events end -->
