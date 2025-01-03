@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2025-01-02 16:06:30`
+每天自动刷新，最近更新时间：`2025-01-03 16:06:28`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💗📝 [自己做了一款 sy 转 word 的文件](https://ld246.com/article/1735710916330)
+* 💗💬 [为什么一直提示 Microsoft Defender 可能会误杀内核](https://ld246.com/article/1735873155114/comment/1735887254473#comments)
 
-  > introduction 高中学生，平时用 SiYuan 学习，真的很不错！ 个人感觉思源笔记中借用 pandoc 导出 word 的功能不是很好用，尤其是标记块不能挖空处理，于是自己重写了一个版本，实现了大部分功能 链接：sy2doc: 更好的思源笔记转 Word，使用 python-docx 用法 从源代码使用 依 ..
-* 💬 [v3.1.18 S3 同步失败: operation error S3. DeleteObject, resolve auth scheme: resolve endpoint endpoint rule eror, Invalid region: region was not a valid DNS name](https://ld246.com/article/1735786164165/comment/1735786602147#comments)
+  > 因为 Microsoft Defender 确实会误杀 siyuan 的 SiYuan-Kernel.exe 文件，我遇到不止一次了。所以后来就一直将 siyuan 所有相关文件夹列入 Microsoft Defender 的信任列表，但不是所有人都知道，所以软件这边现在给了一个提示，我觉得也是为了提醒新用户吧，以免被 ..
+* 💬 [v3.1.18 后一直卡在正在下载仓库快照](https://ld246.com/article/1735831340517/comment/1735874200671#comments)
 
-  > 请参考对应 S3 提供商的文档改一下 Region ID
-* 💬 [同步失败：锁定云端同步目录失败](https://ld246.com/article/1735786254417/comment/1735786566098#comments)
+  > 看上去多半是网络问题，等待网络超时后应该能正常进入。
+* 💬 [ios 端提示数据仓库密钥不正确](https://ld246.com/article/1735870490424/comment/1735874051416#comments)
 
-  > 请更新到最新版后再试试，如果还是不行，麻烦在 设置 - 关于 中导出系统日志上传。
-* 💬 [更新到 3.1.17 后 S3 同步一直失败](https://ld246.com/article/1735054998401/comment/1735781203477#comments)
+  > 请参考 用户指南 - 常见问题 - 遗失密钥 步骤处理 手动备份好数据，可通过 导出 Data 或者直接在文件系统上复制 工作空间/data/ 文件夹 设置 - 关于 - 数据仓库密钥 - 重置数据仓库 重新初始化数据仓库密钥，在一台设备上初始化密钥以后，其他设备导入密钥 云端使用新的同步目录，旧的同步目录已经无法使用 ..
+* 💬 [PC 端鼠标指针在笔记页面，鼠标指针会消失](https://ld246.com/article/1735860615776/comment/1735873912795#comments)
 
-  > Region 那里参考一下 S3 提供商的文档，填 Region ID
-* 🗣 [感觉两百多个 issue 一半都是数据库的功能](https://ld246.com/article/1735704967987/comment/1735705818177#comments)
+  > 如果是 AMD 显卡的话可以试试这个方案：[链接]
+* 💬 [20250103 TGIF](https://ld246.com/article/1735872238516/comment/1735873603706#comments)
 
-  > @Bard 大概率要优先开发画廊视图了
-* 💗📝 [请问这个新提示是什么含义呢？点添加好像没有成功](https://ld246.com/article/1735724674894)
+  > 这个可能还有点用，仅供参考 [链接]
+* 💬 [为什么一直提示 Microsoft Defender 可能会误杀内核](https://ld246.com/article/1735873155114/comment/1735873223668#comments)
 
-  > [图片]
-* 💬 [请问这个新提示是什么含义呢？点添加好像没有成功](https://ld246.com/article/1735724674894/comment/1735774448744#comments)
+  > 感谢反馈，下个版本支持忽略添加 [链接]
+* 💗📝 [20250103 TGIF](https://ld246.com/article/1735872238516)
 
-  > 下个版本改进，感谢。
-* 💬 [v3.1.16 IPAD 端打开 PDF（无论 PDF 文件大小）后内容为空白，电脑端和手机端都是正常的](https://ld246.com/article/1735746360467/comment/1735747778245#comments)
+  > 是不是现在登录论坛的都是关注思源笔记的，所以也没有人写 TGIF 了。 这个周的上四休三好爽啊。 周二的感觉已经周五了，又要过周末了，好开心啊。 看了下上次发是 23 年 9 月 15 日的周五，竟然已经到了 25 年了，真真儿的快啊。 23 年 9 月那个 TGIF，最终标中了，当时公司整体都在做业财的新项目，老项目 ..
+* 💬 [我已经购买了 64 元的功能特性包，为什么仍然提示无法使用 S3/WebDAV 呢？](https://ld246.com/article/1735869203732/comment/1735869627315#comments)
 
-  > 请试一下弹出浏览器后马上切换回思源应用，过几秒再切到浏览器。
+  > 请在 设置 - 账号 中刷新或者重新登录。
 
 
 <!--events end -->
