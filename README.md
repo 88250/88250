@@ -20,10 +20,19 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2025-01-13 16:07:13`
+每天自动刷新，最近更新时间：`2025-01-14 16:06:24`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [电脑思源 app 和网页打开思源 docker 的文件夹](https://ld246.com/article/1736779557616/comment/1736831188410#comments)
+
+  > 使用文件系统同步方式可能会导致数据损坏。
+* 💗📝 [v3.1.17 或更高版本通过 CloudFlare Tunnel 访问 MinIO S3 提示 SignatureMismatch 问题的一些研究](https://ld246.com/article/1736783427721)
+
+  > 我的服务器 群晖 Container Manager 部署 Docker 版 MinIO，没有公网 IP 所以使用 cloudflared docker（Tunnel）做内网穿透。 问题描述 思源笔记更新到 3.1.17 或更高版本之后，通过上述环境访问 MinIO 上的 S3 资源会提示认证失败：服务器计算得到的签名 ..
+* 💬 [同步 s3 win 客户端正常，安卓端异常](https://ld246.com/article/1736760123582/comment/1736760790180#comments)
+
+  > 500 Internal Error 是 S3 服务端返回的，建议看下服务端日志（如果是自己搭建的 S3 服务端的话）。
 * 💬 [v3.1.19 云端 S3 同步异常](https://ld246.com/article/1736599269821/comment/1736752339522#comments)
 
   > 从日志上看最近一条同步成功的记录是 10 号： I 2025/01/10 02:03:56 repository.go:1502: synced data repo 这个时候使用的版本也是 v3.1.19，后面就开始同步报错了： E 2025/01/10 09:16:45 sync.go:1419: upload ch ..
@@ -39,15 +48,6 @@
 * 💗💬 [移动端 - 云端数据损坏同步失败](https://ld246.com/article/1736613650515/comment/1736618818213#comments)
 
   > 😂 行，睡了，晚安。感谢 D 大辛苦排查 ❤️
-* 💬 [移动端 - 云端数据损坏同步失败](https://ld246.com/article/1736613650515/comment/1736618688646#comments)
-
-  > 从这两个文件的时间看有可能是以前版本的遗留问题，建议重置云端目录和本地数据仓库后再观察，谢谢。
-* 💬 [移动端 - 云端数据损坏同步失败](https://ld246.com/article/1736613650515/comment/1736616199588#comments)
-
-  > 麻烦看下 PC 端工作空间/repo/objects/ 文件夹下是否存在这两个文件路径： 97/d34acf4cdd75c9cd544fcd16866c3f5d1292a6 6a/948af220689fd45350cbbd76aefd0e181ee274
-* 💗📝 [移动端 - 云端数据损坏同步失败](https://ld246.com/article/1736613650515)
-
-  > 两个终端：移动端和 pc 端。 移动端上显示： [图片] pc 端上同步正常的。 附上两日志。 这是移动端的。 systemlog1.zip 这是 pc 端的。 systemlog4.zip 似乎没做过什么特殊操作，在发现移动端同步失败前，记得 pc 端上批量移动过一些文档(文档树操作的)，移动完我还手动重建过索引，不 ..
 
 
 <!--events end -->
