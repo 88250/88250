@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2025-01-14 16:06:24`
+每天自动刷新，最近更新时间：`2025-01-16 16:06:15`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [电脑思源 app 和网页打开思源 docker 的文件夹](https://ld246.com/article/1736779557616/comment/1736831188410#comments)
+* 💬 [怎么导入 REMNOTE 笔记内容](https://ld246.com/article/1737012298859/comment/1737013622490#comments)
 
-  > 使用文件系统同步方式可能会导致数据损坏。
-* 💗📝 [v3.1.17 或更高版本通过 CloudFlare Tunnel 访问 MinIO S3 提示 SignatureMismatch 问题的一些研究](https://ld246.com/article/1736783427721)
+  > 解压为文件夹后导入
+* 💬 [升级到 v3.1.19 后 S3 云端无法同步](https://ld246.com/article/1736994201012/comment/1737009369494#comments)
 
-  > 我的服务器 群晖 Container Manager 部署 Docker 版 MinIO，没有公网 IP 所以使用 cloudflared docker（Tunnel）做内网穿透。 问题描述 思源笔记更新到 3.1.17 或更高版本之后，通过上述环境访问 MinIO 上的 S3 资源会提示认证失败：服务器计算得到的签名 ..
-* 💬 [同步 s3 win 客户端正常，安卓端异常](https://ld246.com/article/1736760123582/comment/1736760790180#comments)
+  > 不会改了，底层 SDK 没有兼容模式。
+* 💬 [升级到 v3.1.19 后 S3 云端无法同步](https://ld246.com/article/1736994201012/comment/1736995735825#comments)
 
-  > 500 Internal Error 是 S3 服务端返回的，建议看下服务端日志（如果是自己搭建的 S3 服务端的话）。
-* 💬 [v3.1.19 云端 S3 同步异常](https://ld246.com/article/1736599269821/comment/1736752339522#comments)
+  > 截图看下配置
+* 💬 [升级到 v3.1.19 后 S3 云端无法同步](https://ld246.com/article/1736994201012/comment/1736994638703#comments)
 
-  > 从日志上看最近一条同步成功的记录是 10 号： I 2025/01/10 02:03:56 repository.go:1502: synced data repo 这个时候使用的版本也是 v3.1.19，后面就开始同步报错了： E 2025/01/10 09:16:45 sync.go:1419: upload ch ..
-* 💬 [数据库模板语法是什么?](https://ld246.com/article/1736736604058/comment/1736736686586#comments)
+  > 建议升级到最新版后再试试，如果还有问题，可参考 [链接]
+* 💬 [购买“功能特性”最多支持多少台终端？](https://ld246.com/article/1736929596755/comment/1736932302745#comments)
 
-  > 和模板片段语法一样，具体细节请参考用户指南。
-* 💬 [v3.1.19 云端 S3 同步异常](https://ld246.com/article/1736599269821/comment/1736733401524#comments)
+  > 没有设备数限制，但不可和他人共享账号使用，谢谢。
+* 💬 [思源笔记只显示导出中，不显示导出成功，有大佬可以帮忙解决一下吗？](https://ld246.com/article/1736907346779/comment/1736912281275#comments)
 
-  > 请在 设置 - 关于 中导出系统日志上传。
-* 💬 [社区缺陷报告与功能建议](https://ld246.com/article/1438049659432/comment/1736671625145#comments)
+  > 不是最新版的话升级到最新版后再试试
+* 💬 [S3 换源后发现丢失了部分笔记，有办法找回吗？](https://ld246.com/article/1736845202259/comment/1736868765923#comments)
 
-  > 有的用户名是系统保留的，或者是之前注销账号的用户名也不再可用，换个其他的用户名吧。
-* 💗💬 [移动端 - 云端数据损坏同步失败](https://ld246.com/article/1736613650515/comment/1736618818213#comments)
+  > 不要切换源，不然同步信息无法跟踪。
+* 💬 [S3 换源后发现丢失了部分笔记，有办法找回吗？](https://ld246.com/article/1736845202259/comment/1736867215289#comments)
 
-  > 😂 行，睡了，晚安。感谢 D 大辛苦排查 ❤️
+  > 再弄一个工作空间，回滚以后手动拷贝 data 文件夹合并。
 
 
 <!--events end -->
