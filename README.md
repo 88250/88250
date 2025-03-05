@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2025-03-04 16:07:03`
+每天自动刷新，最近更新时间：`2025-03-05 16:07:01`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [如何通过思源 API 获取某个笔记本下面的所有笔记 id](https://ld246.com/article/1741053543624/comment/1741074927087#comments)
+* 💗📝 [[js] 支持文档树 shift+click 多选文档](https://ld246.com/article/1733364742803)
 
-  > 目前还是内部 API，等稳定后再编入 API 文档。
-* 💗📝 [第四次买官方同步，所以官方同步到底赚不赚钱](https://ld246.com/article/1741056993033)
+  > 抱怨思源笔记不能 shift+click 多选文档已久 终于忍无可忍，用了 3 分钟让 claude 写了一个代码片段 暂时用了没有问题，有问题欢迎反馈 使用方法 普通 click 点击第一个文档，按 shift+click 点击最后一个文档，即可选中区域内的所有文档进行批量操作（删除、移动等） 代码片段 (() =& ..
+* 💬 [调整系统时间后思源笔记内核因未知原因退出](https://ld246.com/article/1740562046743/comment/1741149173438#comments)
 
-  > 肯定是比卖功能特性一锤子买卖要挣钱吧。
-* 💬 [第四次买官方同步，所以官方同步到底赚不赚钱](https://ld246.com/article/1741056993033/comment/1741057135624#comments)
+  > 没有计划哦
+* 🗣 [在笔记本中找不到也搜不到了，在数据历史中能找到](https://ld246.com/article/1740965774810/comment/1741141348674#comments)
 
-  > 能赚钱，感谢老铁支持 🙏
-* 💬 [如何通过思源 API 获取某个笔记本下面的所有笔记 id](https://ld246.com/article/1741053543624/comment/1741053789919#comments)
+  > @llej 上传一下各个设备的日志我分析看看，说不定能找到原因。
+* 💬 [用什么办法能把用 /api/file/getFile 返回的笔记内容组装成字符串？](https://ld246.com/article/1741141515715/comment/1741141783476#comments)
 
-  > 请考虑使用 listDocTree，细节可参考 [链接]
-* 💬 [插入超级块失败](https://ld246.com/article/1741052743446/comment/1741053597935#comments)
+  > 这个是思源文档的语法树结构，可以参考 [链接] 进行遍历组装。
+* 💬 [在笔记本中找不到也搜不到了，在数据历史中能找到](https://ld246.com/article/1740965774810/comment/1741141348674#comments)
 
-  > 请参考 [链接]
-* 💗📝 [v3.1.23 数据历史回滚报错](https://ld246.com/article/1741016571975)
+  > 结合家里设备的日志分析，问题主要出在了一个 Android 设备上： I 2025/02/27 15:45:59 sync.go:1609: got cloud latest [device=9yxmq8nytu43/android, id=31fb11b4055b29b13a6ab1f650a0be8856c3c87 ..
+* 💬 [思源笔记无限退出，急急急！](https://ld246.com/article/1741098244440/comment/1741104582484#comments)
 
-  > 因为误删了一个文档，使用数据历史 → 文件历史 → 回滚，但是报错，提示： open E:work_tools\siyuan_workspace\test-only\data\20250223194806-dnvpcy5: is a directory v3.1.23 PS：E:work_tools\siyuan_wo ..
-* 💬 [v3.1.23 数据历史回滚报错](https://ld246.com/article/1741016571975/comment/1741017315520#comments)
+  > 对数据批量操作前建议先打个快照，这样即使出问题了也好恢复。
+* 💬 [思源笔记无限退出，急急急！](https://ld246.com/article/1741098244440/comment/1741101015199#comments)
 
-  > 感谢反馈，这个问题下个版本修复 [链接]
-* 💬 [关于手机 APP 的文档树最大列出数量无法更改](https://ld246.com/article/1702216476341/comment/1741012820766#comments)
+  > 从日志上看是很多文档文件无法加载了，不太清楚你之前的“迁移”是如何操作的，如果是直接在文件系统上移动文件的话可能会出现这个问题。
+* 💗💬 [使用 minio 自动同步问题](https://ld246.com/article/1741084249506/comment/1741086280881#comments)
 
-  > 关联 [链接]
+  > 似乎你需要的是同步感知，同步感知只有官方同步会自带，第三方同步的没有。不过社区有同步感知的方案 集市里的插件，比如 同步感知（太久没维护了，但可以用，需要自建一个同步感知的服务） w 佬的 js 代码（js 大佬出品，不用自建服务，但似乎要用其他的第三方服务） 我的插件，sttools 里的 docker 同步感知（不 ..
 
 
 <!--events end -->
