@@ -20,10 +20,16 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2025-03-07 16:07:02`
+每天自动刷新，最近更新时间：`2025-03-08 16:05:15`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗📝 [QueryView 分享 | 查看所有的 Tag](https://ld246.com/article/1741359583429)
+
+  > 最近突然又开始用上了标签功能，不过思源内置的标签查看有点难用，就自己用 Query View 写了一个。 作用是点击查看所有的标签，标签块的渲染默认使用了表格组件， //!js const useButton = (title, onclick) =&gt; { let button = document.create ..
+* 💬 [新安装的 siyuan 无法登录账户，报错：“获取社区用户账号失败……”](https://ld246.com/article/1741266774453/comment/1741346026128#comments)
+
+  > 检查一下是否是防火墙等安全设置问题。
 * 💗📝 [utools 一键添加灵感到思源笔记](https://ld246.com/article/1741314053776)
 
   > 功能 通过 utools 一键添加灵感到思源笔记 安装方法 安装 utools 软件 安装快捷命令插件（utools 的插件） 访问 https://qc.qaz.ink/script/info/373 在左下角滚动到底部，点击安装 [图片] 安装完成后，打开 utools 的快捷命令插件，找到刚才安装的脚本，点空白处 ..
@@ -42,12 +48,6 @@
 * 💬 [安卓端自定义工作区位置](https://ld246.com/article/1741187355593/comment/1741230633376#comments)
 
   > 你好，不考虑了，备份和迁移可以通过数据导出或者云端同步/备份 功能实现。
-* 💬 [符号错位](https://ld246.com/article/1741185121134/comment/1741230546665#comments)
-
-  > 界面缩放大小了吗？
-* 💬 [在笔记本中找不到也搜不到了，在数据历史中能找到](https://ld246.com/article/1740965774810/comment/1741166213574#comments)
-
-  > 结合三份日志找到原因了：27 号 15:40 左右你同时使用了 Android 和公司 Windows 进行同步，Android 先开始的同步，期间 Windows 也尝试同步，但是云端被 Android 锁定所以同步失败了几次。 但后面因为同步数据量较大，需要时间较久，所以 Android 的云端锁就自动超时释放了， ..
 
 
 <!--events end -->
