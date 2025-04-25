@@ -9,34 +9,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2025-04-24 16:07:27`
+每天自动刷新，最近更新时间：`2025-04-25 16:07:30`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💗💬 [使用间隔重复时显示 msgpack: invalid code=ef decoding array length v3.1.28](https://ld246.com/article/1745312046739/comment/1745465105855#comments)
+* 💬 [纯血鸿蒙思源无法高亮字体制作闪卡](https://ld246.com/article/1745317171182/comment/1745568440210#comments)
 
-  > [链接] 删除这个文件后可以正常使用闪卡功能了，这是 202404.msgpack 打包后的文件。
-* 💬 [使用间隔重复时显示 msgpack: invalid code=ef decoding array length v3.1.28](https://ld246.com/article/1745312046739/comment/1745465132621#comments)
+  > 关联 [链接]
+* 💬 [手机和电脑都同步失败？](https://ld246.com/article/1745552900261/comment/1745567757523#comments)
 
-  > 收到，谢谢。
-* 💬 [动态锚文本能否支持富文本？](https://ld246.com/article/1745464993270/comment/1745465116501#comments)
+  > 从日志上看是连接思源云端服务器的时候超时了，目前可以试下使用手机热点网络是否能同步。 请检查杀毒软件和防火墙设置，将思源安装路径和工作路径路径加入到杀软信任列表中，防火墙放行思源的所有请求。 另外，如果使用的网络是办公/学校网络的话，请咨询网管是否禁用了思源笔记云端服务地址，具体地址请看[链接]。
+* 💬 [手机和电脑都同步失败？](https://ld246.com/article/1745552900261/comment/1745553796125#comments)
 
-  > 支持不了哦
-* 💬 [使用间隔重复时显示 msgpack: invalid code=ef decoding array length v3.1.28](https://ld246.com/article/1745312046739/comment/1745462477931#comments)
+  > 请导出系统日志上传以便分析。
+* 💬 [macOS 版本有序列表序号问题](https://ld246.com/article/1745499570855/comment/1745499708446#comments)
 
-  > 不太确定问题原因，楼主如果还没删 202504.msgpack 的话打个包上传一下，我这边调试看看。
-* 💬 [使用间隔重复时显示 msgpack: invalid code=ef decoding array length v3.1.28](https://ld246.com/article/1745312046739/comment/1745461465322#comments)
+  > 请排除是主题、代码片段或者插件的影响，可以在一个全新的工作空间中测试看看，谢谢。
+* 💬 [导出 PDF 加文字水印，字体参数无效问题](https://ld246.com/article/1745485692508/comment/1745498935542#comments)
 
-  > 请在 工作空间/data/storage/riff/logs/ 文件夹下找到这个月的日志包然后删掉应该就好了。
-* 💬 [同步失败：云端数据已经损坏](https://ld246.com/article/1745348833884/comment/1745461085710#comments)
+  > 这个问题如果要完全支持的话开发工作量有点大，v3.1.29 发布后实现半自动： 下载 [链接] 通过 pdfcpu fonts install 命令手动安装字体，比如 pdfcpu fonts install ./simkai.ttf，安装好以后在 pdfcpu 配置路径下找到安装好的字体（安装命令执行完以后会打印配置 ..
+* 💗💬 [导出 PDF 加文字水印，字体参数无效问题](https://ld246.com/article/1745485692508/comment/1745486479066#comments)
 
-  > 从日志上看确实是云端数据损坏，目前没有办法可以恢复，只能靠之前你本地的其他数据备份可以恢复（或者试试下载早些时间的云端快照，看看是否有没有损坏的快照可以恢复）。 云端数据仓库损坏的问题目前我们统计下来占比为 0.12%，大概率是比较老的仓库没有重置过会存在该问题。
-* 💗📝 [思源媒体播放器 v0.3.0 更新（重大更新）](https://ld246.com/article/1745401175217)
+  > 我下意识以为是没有水印。支持的字体列表：[链接] 不知道能不能指定当前系统中的字体？ @88250 导出 PDF 的水印要怎么指定当前系统中的其他字体？
+* 💗📝 [导出 PDF 加文字水印，字体参数无效问题](https://ld246.com/article/1745485692508)
 
-  > 🎬 思源媒体播放器 📚 快速导航 📖 帮助文档 | 💬 反馈与交流 | 📋 更新日志 | 👏 鸣谢 关于最新功能和改进的详细信息，请参阅更新日志。 🧧 打赏、鼓励、催更 [图片] 支付宝 [图片] 微信 🚀 近期更新 0.3.0 版本更新： 🎯 B 站弹幕支持：添加 B 站视频弹幕显示功能 ✨ Pro ..
-* 💬 [使用间隔重复时显示 msgpack: invalid code=ef decoding array length v3.1.28](https://ld246.com/article/1745312046739/comment/1745314478148#comments)
+  > 导出 PDF 添加水印，参考文档：https://ld246.com/article/1712737833847 但是里面有个字体参数没说，按照 pdfcpu 官网的文档 https://pdfcpu.io/core/watermark 添加自定义字体后，没有效果。 请问如何能实现自定义字体的水印？ [图片] 水印参数 ..
+* 💬 [导出 PDF 加文字水印，字体参数无效问题](https://ld246.com/article/1745485692508/comment/1745486565688#comments)
 
-  > 我这里无法重现该问题，请在 设置 - 关于 中导出系统日志上传。
+  > 感谢反馈，是有点问题，先记录 [链接]
 
 
 <!--events end -->
