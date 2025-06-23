@@ -20,10 +20,13 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2025-06-22 16:06:57`
+每天自动刷新，最近更新时间：`2025-06-23 16:08:23`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗📝 [[js] 告别 select * from blocks！嵌入块多字段查询来了](https://ld246.com/article/1750463052773)
+
+  > 前言 众所周知，思源嵌入块查询（输入{{}}弹出查询窗的那个）不支持指定字段查询，只能使用类似这样的 SQL 查询。 select * from blocks limit 3 那么，你想像下面这样查询吗？ select content, created from blocks where type='d' and tr ..
 * 👍💬 [请教一下思源 s3 同步只同步了 repo 文件夹，最重要的 data 没有同步](https://ld246.com/article/1750504275939/comment/1750504543518#comments)
 
   > repo 文件夹就是加密之后的 data 文件夹，需要使用相同的密钥进行解密才能读取数据。这就是思源的端到端加密同步。具体 data 文件夹内数据可查看用户指南。
@@ -45,9 +48,6 @@
 * 💬 [求助 S3 设置了七牛云，但是无法使用 10G 的免费额度](https://ld246.com/article/1750214577011/comment/1750216977842#comments)
 
   > 嗯，流量是需要花钱的
-* 💬 [求助 S3 设置了七牛云，但是无法使用 10G 的免费额度](https://ld246.com/article/1750214577011/comment/1750215905571#comments)
-
-  > 思源不能使用 CDN 同步，只能用存储桶的流量
 
 
 <!--events end -->
