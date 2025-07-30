@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2025-07-29 16:08:20`
+每天自动刷新，最近更新时间：`2025-07-30 16:08:26`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [html 块会被优化排版打乱](https://ld246.com/article/1753668831491/comment/1753773670077#comments)
+* 💬 [v3.2.1 执行云端清理时报错 WebDAV](https://ld246.com/article/1753791682835/comment/1753848163509#comments)
 
-  > 代码中不能有空行，去掉就行了。 [图片]
-* 💬 [思源笔记 v3.2.1 无法上传本地文件](https://ld246.com/article/1753525774483/comment/1753709955080#comments)
+  > 从日志上看思源无法读取到这些文件，我怀疑是 WebDAV 服务端的问题。
+* 💬 [画廊视图复选框展示问题](https://ld246.com/article/1753841094899/comment/1753842744768#comments)
 
-  > 我这里使用商店版测试插入图片没有遇到问题哦
-* 💬 [链滴无法签到，标签停留页面过一会就要真人验证](https://ld246.com/article/1753497328231/comment/1753580895044#comments)
+  > 请关注 [链接]
+* 💗📝 [画廊视图复选框展示问题](https://ld246.com/article/1753841094899)
 
-  > 因为自动签到的请求太多了，已经给服务器造成了不小的压力，所以签到页面开启了真人验证。
-* 💬 [思源笔记 v3.2.1 无法上传本地文件](https://ld246.com/article/1753525774483/comment/1753532731782#comments)
+  > [图片] 画廊视图展示的不应该是字段的类型，而是需要展示字段的名称 [图片]
+* 💬 [画廊视图复选框展示问题](https://ld246.com/article/1753841094899/comment/1753841599218#comments)
 
-  > 建议在默认主题下测试看看。
-* 💗📝 [简单写了一个文档比较插件](https://ld246.com/article/1753505200697)
+  > 感谢反馈，先记录 [链接]
+* 💬 [v3.2.1 表格计算求和时多了冗余](https://ld246.com/article/1753837505305/comment/1753841303490#comments)
 
-  > [图片] GitHub 地址：Achuan-2/siyuan-plugin-doc-diff 功能特性 ✅ 智能菜单显示：只有在文档树中选中两个文档时，右键菜单才会显示'比较文档差异'选项 ✅ 获取文档内容：自动获取文档标题和 markdown 内容 ✅ 高级差异算法：使用改进的 Myers 算法计算文档差异，提供准确 ..
-* 💬 [链滴无法签到，标签停留页面过一会就要真人验证](https://ld246.com/article/1753497328231/comment/1753503302938#comments)
+  > 我这里重现不了： [图片] 请导出该文档（或者制作一个能够重现问题的文档）.sy.zip 上传回帖以便调试，谢谢。
+* 💬 [v3.2.1 执行云端清理时报错 WebDAV](https://ld246.com/article/1753791682835/comment/1753840859002#comments)
 
-  > 嗯，我后面留意阿里云有没有更新。
-* 💬 [链滴无法签到，标签停留页面过一会就要真人验证](https://ld246.com/article/1753497328231/comment/1753502132168#comments)
+  > 你同步完看下服务器这个 indexes 文件夹下面应该有才对。
+* 💬 [v3.2.1 执行云端清理时报错 WebDAV](https://ld246.com/article/1753791682835/comment/1753837983523#comments)
 
-  > 没啥好办法，我这只能选择信任阿里云防火墙，攻击实在太多了……
-* 💬 [链滴无法签到，标签停留页面过一会就要真人验证](https://ld246.com/article/1753497328231/comment/1753500907464#comments)
+  > 还是有报错： E 2025/07/30 09:01:09 webdav.go:267: list objects [1/siyuan/repo/check/indexes/] failed: PROPFIND /1/siyuan/repo/check/indexes/: 404 indexes 是快照索引文件夹，这个文 ..
+* 💬 [v3.2.1 执行云端清理时报错 WebDAV](https://ld246.com/article/1753791682835/comment/1753837517155#comments)
 
-  > 阿里云的防火墙可能还根据 IP 等因素识别了潜在的攻击
+  > 再发一下日志
 
 
 <!--events end -->
