@@ -20,10 +20,13 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2025-07-30 16:08:26`
+每天自动刷新，最近更新时间：`2025-07-31 16:08:48`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [跨设备同步思源笔记的配置](https://ld246.com/article/1753933773634/comment/1753934842727#comments)
+
+  > 主题不会同步，插件和图标是会同步的。
 * 💬 [v3.2.1 执行云端清理时报错 WebDAV](https://ld246.com/article/1753791682835/comment/1753848163509#comments)
 
   > 从日志上看思源无法读取到这些文件，我怀疑是 WebDAV 服务端的问题。
@@ -45,9 +48,6 @@
 * 💬 [v3.2.1 执行云端清理时报错 WebDAV](https://ld246.com/article/1753791682835/comment/1753837983523#comments)
 
   > 还是有报错： E 2025/07/30 09:01:09 webdav.go:267: list objects [1/siyuan/repo/check/indexes/] failed: PROPFIND /1/siyuan/repo/check/indexes/: 404 indexes 是快照索引文件夹，这个文 ..
-* 💬 [v3.2.1 执行云端清理时报错 WebDAV](https://ld246.com/article/1753791682835/comment/1753837517155#comments)
-
-  > 再发一下日志
 
 
 <!--events end -->
