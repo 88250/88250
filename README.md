@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2025-08-27 16:07:27`
+每天自动刷新，最近更新时间：`2025-08-28 16:07:28`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗📝 [思源笔记 3.30 数据库筛选当前月失效](https://ld246.com/article/1756363642110)
+
+  > [图片] 筛选当前月没有任何作用。
+* 💬 [思源笔记 3.30 数据库筛选当前月失效](https://ld246.com/article/1756363642110/comment/1756366017067#comments)
+
+  > 感谢反馈，下个版本修复 [链接]
+* 💗💬 [★ 思源：史上最简单的 MCP 使用教程（有手就行）](https://ld246.com/article/1756172573626/comment/1756220950608#comments)
+
+  > [图片] 最爱的诗歌捏，咋没有啦，好家伙，一星期置顶保护期，时间掐的准准的。[图片] Obsidian 配合任意 ai 软件，如 cursor，vscode，和通义灵码 基本不需要任何操作就可以实现知识库构建 还能保持原有的文件夹嵌套关系 ai 软件内也支持 rag 检索 毕竟是 markdown~~ 而且，ai 返回 ..
+* 💗💬 [★ 思源：史上最简单的 MCP 使用教程（有手就行）](https://ld246.com/article/1756172573626/comment/1756222560620#comments)
+
+  > 说的有理，不愧是你，看问题就是一针见血。 ob 天生和 ai 亲和。 思源得用 api 调用读取和写入才行。 光靠 siyuan.db 和.sy 文件不行，可能会导致数据混乱。 所以，在思源里 MCP 才显得格外重要。 另外，不是所有帖子都顶，不是所有帖子都持续顶，不是所有帖子都写诗，不是所有帖子都能写好诗。 不过，擦 ..
+* 💗📝 [v3.3.0 数据库汇总模板类型数据求和、最大值等好几种计算方式都有问题](https://ld246.com/article/1756287182315)
+
+  > 测试模板代码就简单的显示原值：.action{ .数量 } [图片]
+* 💬 [v3.3.0 数据库汇总模板类型数据求和、最大值等好几种计算方式都有问题](https://ld246.com/article/1756287182315/comment/1756288356639#comments)
+
+  > 感谢反馈，先记录 [链接]
 * 💬 [鸿蒙 3.3 版本无法预览 pdf](https://ld246.com/article/1756220867148/comment/1756221639848#comments)
 
   > 鸿蒙 NEXT？先记录 [链接]
 * 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1756221444484)
 
   > 电脑国补劵抢不到，先给我的老伙计加了点内存，再战一年。
-* 💬 [数据库报错：json: cannot unmarshal number into Go struct field View.views.groupHidden of type bool v3.2.1](https://ld246.com/article/1756214070132/comment/1756214112565#comments)
-
-  > 请升级到最新版
-* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1756093033894)
-
-  > 退坑三国冰河时代了，因为被同盟踢了 🤣
-* 💗📝 [思源媒体播放器 v0.5.5 更新（增加百度网盘，非会员畅享 1080p）](https://ld246.com/article/1755960001833)
-
-  > 📅 v0.5.5 版本更新 (2025.8.23) ✨ 新增功能 ☁️ 百度网盘深度集成: 多种登录方式: 支持百度 App 扫码登录与授权码登录。 播放列表集成: 可浏览并添加网盘媒体到播放列表。 文件夹钉住与导入: 支持标签栏钉住文件夹并一键批量导入。 高清播放体验: 非会员支持播放 1080p。 ☁️ 自定义云 ..
-* 💗📝 [OceanPress - 快速的从思源笔记本生成一个静态站点](https://ld246.com/article/1755856181121)
-
-  > 非常快速的从思源笔记本生成一个静态站点，直接访问 oceanpress.heartstack.space 即可使用 源码仓库： https://github.com/2234839/oceanPress_js 可以兼容 hexo ： hexo-oceanpress （这里内容是基于旧版 OceanPress 生成的，但 ..
-* 💗📝 [思源笔记任务笔记管理插件支持项目管理面板、四象限面板](https://ld246.com/article/1755826640096)
-
-  > Github：Achuan-2/siyuan-plugin-task-note-management: A task note reminder plugin developed for practicing the Bullet Journal method, supporting document and bloc ..
-* 💗📝 [Savor 主题经过几次迭代，超级块宽度调节算是能用了](https://ld246.com/article/1755859430675)
-
-  > 1、直接拖动显示宽度百分比 [图片] 2、双击均分宽度 [图片] 3、块拆分默认自动补全到 100% 宽度 [图片] 4、列的最末端可以点击加列 [图片] 应该还有许多不足，但已经到达本人能力上限，以上功能在 v5.9.0 上线，欢迎小伙伴们品鉴。
 
 
 <!--events end -->
