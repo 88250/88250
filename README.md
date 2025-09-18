@@ -20,13 +20,13 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2025-09-17 16:07:44`
+每天自动刷新，最近更新时间：`2025-09-18 16:07:34`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
 * 💗📝 [[css] “转换为”二级菜单上移至一级菜单](https://ld246.com/article/1750413128094)
 
-  > 效果 [图片] CSS 片段 /* “转换为”二级菜单上移至一级菜单 CSS片段 */ .b3-menu__items &gt; button[data-id='turnInto']:first-of-type { height: 30px; padding: 0; } .b3-menu__items &gt; but ..
+  > 2.0 版本效果 每行 6 个按钮： [图片] CSS 片段 /* “转换为”二级菜单上移至一级菜单 2.0 CSS片段 */ .b3-menu__items &gt; button[data-id='turnInto']:first-of-type { padding: 0; } .b3-menu__items &g ..
 * 💬 [docker 安装的思源笔记服务（绿联 nas），开通了功能特性服务，webdav 同步是可以的，但在那些客户端啥的还是不行](https://ld246.com/article/1757942435583/comment/1757943839665#comments)
 
   > 多个设备同时同步的话只有一个设备可以同步，其他设备会被锁定
