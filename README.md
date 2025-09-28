@@ -20,10 +20,13 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2025-09-27 16:06:16`
+每天自动刷新，最近更新时间：`2025-09-28 16:06:20`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗🗣 [移动端遇到了些奇怪的问题](https://ld246.com/article/1758627024457/comment/1758627833843#comments)
+
+  > 重装之后好了，但是原因还没搞明白
 * 👍💬 [云端快照出现大量重复快照且不显示快照情况](https://ld246.com/article/1758850342093/comment/1758945854806#comments)
 
   > 试了，无法正常回滚快照 😂 。 我决定备份下原数据库重新开始，有需要了再回去翻。 感谢 D 大回复 🙏 。
@@ -45,9 +48,6 @@
 * 💬 [the kernel exited for unknown reasons [code=1]](https://ld246.com/article/1758875876731/comment/1758884747648#comments)
 
   > 下个思源的 targz 包解压后在命令行下启动内核进程看看，启动命令在 ~/.config/siyuan/app.log 里找找
-* 💬 [the kernel exited for unknown reasons [code=1]](https://ld246.com/article/1758875876731/comment/1758880787792#comments)
-
-  > 是的，新版的内核不支持了老的 libc 了 [链接]
 
 
 <!--events end -->
