@@ -20,10 +20,25 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2025-10-18 16:06:33`
+每天自动刷新，最近更新时间：`2025-10-19 16:06:38`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [换华为 P80 后思源笔记同步失败 + 闪退](https://ld246.com/article/1760787245813/comment/1760859203566#comments)
+
+  > 鸿蒙端重置数据仓库后再试试
+* 💬 [ios 文档导出图片半天导不出](https://ld246.com/article/1760599136882/comment/1760803641905#comments)
+
+  > 文档太长的话设备内存不够就无法导出了
+* 💬 [换华为 P80 后思源笔记同步失败 + 闪退](https://ld246.com/article/1760787245813/comment/1760788787195#comments)
+
+  > 试下其他端把文件名改短再同步看看
+* 💗📝 [Excelize 开源基础库发布 2.10.0 版本更新](https://ld246.com/article/1760777318837)
+
+  > [图片] Excelize 是 Go 语言编写的用于操作 Office Excel 文档基础库，基于 ECMA-376，ISO/IEC 29500 国际标准。可以使用它来读取、写入由 Excel、WPS、OpenOffice 等办公软件创建的电子表格文档。支持 XLAM / XLSM / XLSX / XLTM / X ..
+* 💬 [Excelize 开源基础库发布 2.10.0 版本更新](https://ld246.com/article/1760777318837/comment/1760780541172#comments)
+
+  > 等 [链接] 好久了，终于解决了，点赞！
 * 💬 [S3 同步报错](https://ld246.com/article/1760762296870/comment/1760763407230#comments)
 
   > 看上去可能是文件权限的问题，建议换个工作空间路径后再试试。
@@ -33,21 +48,6 @@
 * 💬 [是否有获取某个 id 的笔记的更新时间的 API？](https://ld246.com/article/1760714588089/comment/1760717305268#comments)
 
   > 我这里测试没发现问题，获取到的 updated 是块的最近更新时间。 我看你截图也是正常的吧，第一个红框和第二个红框对应的 id 是同一个，第三个红框的时间也早于前两个，所以肯定不是 API 调用时间，建议你再确认下看看。
-* 💗💬 [思源表格可以优化一下吗](https://ld246.com/article/1760581355631/comment/1760583847209#comments)
-
-  > 对于均分列宽，这是 css 的实现思路 .protyle-wysiwyg [data-node-id][custom-t~=m] table { table-layout: fixed; width: 100%; } .protyle-wysiwyg [data-node-id][custom-t~=m] table  ..
-* 💬 [数据库被锁定，尝试了很多在滴链中搜到的方法都解决不了](https://ld246.com/article/1760512036665/comment/1760516385724#comments)
-
-  > 从日志上只能看到是 SQLite 数据库损坏了，是不是用了同步盘或者其他文件系统同步方式？
-* 💬 [关键词搜索时如何指定结果的块类型？](https://ld246.com/article/1760502087778/comment/1760502157478#comments)
-
-  > 使用界面提供的类型过滤
-* 💬 [如何让安卓客户端的导航键常驻](https://ld246.com/article/1760501971357/comment/1760502109679#comments)
-
-  > 这是设计如此，故意隐藏了导航栏，已提供更好的沉浸式体验。
-* 💬 [请增加 siyuan ai token 的上限](https://ld246.com/article/1760404351939/comment/1760416303341#comments)
-
-  > 下个版本（v3.3.5）再试试，还报错的话发一下日志，谢谢。
 
 
 <!--events end -->
