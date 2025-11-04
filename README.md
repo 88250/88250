@@ -20,10 +20,19 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2025-11-03 16:08:32`
+每天自动刷新，最近更新时间：`2025-11-04 16:08:03`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [Android 咋老闪退](https://ld246.com/article/1762243012129/comment/1762243260171#comments)
+
+  > 看日志是某个嵌入块的 SQL 有问题，可能会导致内存占用太高从而被系统强制 kill，建议自己写的 SQL 都加 limit 限制结果集大小。
+* 💬 [请问一下开发者有没有适配 ios 暗黑模式计划](https://ld246.com/article/1762229913858/comment/1762229986056#comments)
+
+  > [链接]
+* 💗📝 [鸿蒙系统 11 月 3 号 3.3.6 版本，打开应用会跳转浏览器](https://ld246.com/article/1762177255345)
+
+  > [视频] [图片]
 * 💬 [siyuan OCR 提取字符串全部失败](https://ld246.com/article/1762006888854/comment/1762133830627#comments)
 
   > 我这里下载不了你前面发的图片包，麻烦发到邮箱 [链接] 谢谢。
@@ -39,15 +48,6 @@
 * 💗🗣 [清理数据仓库失败：cloud object not found v3.3.4](https://ld246.com/article/1761981331650/comment/1761987229479#comments)
 
   > 我创建一个新的空间，使用又拍云同步，发现可以同步，但无法清理数据仓库，因该是和又拍云 s3 的兼容性问题
-* 💬 [清理数据仓库失败：cloud object not found v3.3.4](https://ld246.com/article/1761981331650/comment/1761987229479#comments)
-
-  > 从截图上看正常，下个版本我们稍微兼容一下看看，请等 v3.4.0-dev1 发布以后下载帮忙测试，谢谢。
-* 💬 [闪卡复习时的快捷键没有效果](https://ld246.com/article/1761985476172/comment/1761986262074#comments)
-
-  > 关联 [链接]
-* 💬 [清理数据仓库失败：cloud object not found v3.3.4](https://ld246.com/article/1761981331650/comment/1761985180639#comments)
-
-  > 请看下云端存储/repo/refs/ 路径下是否有文件
 
 
 <!--events end -->
