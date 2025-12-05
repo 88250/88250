@@ -20,10 +20,22 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2025-12-04 16:08:47`
+每天自动刷新，最近更新时间：`2025-12-05 16:08:09`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [功能特性购买为啥现在无法操作？](https://ld246.com/article/1764908950325/comment/1764916403060#comments)
+
+  > 麻烦再试试
+* 💗💬 [随着思源的用户量增加，会否推出增加容量功能？](https://ld246.com/article/1764815528439/comment/1764899859251#comments)
+
+  > 要加油啊。大家齐心协力让思源被更多人知道，使用
+* 💗📝 [v3.4.2 看板视图无法将项目拖拽至空分组](https://ld246.com/article/1764773214734)
+
+  > 测试文档： [链接] 有三个分组： [图片] 拖拽 ALOHA 到「规划中」（空分组）后分组字段被置空（同时从规划中和进行中分组中消失） [图片] [图片] 但拖拽到已完成（非空分组）则正常 [图片] [图片]
+* 💬 [v3.4.2 看板视图无法将项目拖拽至空分组](https://ld246.com/article/1764773214734/comment/1764840066026#comments)
+
+  > 感谢反馈，关联 [链接]
 * 💬 [随着思源的用户量增加，会否推出增加容量功能？](https://ld246.com/article/1764815528439/comment/1764828401166#comments)
 
   > 保密哈 😊
@@ -36,18 +48,6 @@
 * 💗📝 [Solo 无法登入：HTTP 401 Error，Can't get user info with token](https://ld246.com/article/1764817415715)
 
   > 状况 Solo 点击“开始使用”登录链滴后返回 HTTP 401 错误。 [图片] 本地控制台输出 [ERROR]-[2025-12-04 10:50:25]-[org.b3log.solo.util.Solos:123]: Gets community user info failed org.json.JSONEx ..
-* 💬 [Solo 无法登入：HTTP 401 Error，Can't get user info with token](https://ld246.com/article/1764817415715/comment/1764818357494#comments)
-
-  > 感谢反馈，请重新登录看看。
-* 💬 [v3.4.2 思源内核因未知原因退出 [code=2]](https://ld246.com/article/1764815193228/comment/1764817420601#comments)
-
-  > 应该不是这个文件，history 文件夹下面的是生成的历史文件，不需要的话可以删了。 你试下重建索引，还报错的话再发下日志。
-* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1764816998314)
-
-  > 针对链滴的攻击太多，只能开启滑块验证访问了。
-* 💬 [随着思源的用户量增加，会否推出增加容量功能？](https://ld246.com/article/1764815528439/comment/1764815808208#comments)
-
-  > 目前没有其他扩容计划，还是继续之前的[链接]。 PS：用户量并没有太大增长。
 
 
 <!--events end -->
