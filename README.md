@@ -20,10 +20,19 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2025-12-29 16:09:38`
+每天自动刷新，最近更新时间：`2025-12-30 16:08:51`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗📝 [v3.5.1 无法正确对嵌套在 Todo 列表中的 Callout 块执行「优化排版」，且无法解析 Markdown 中的 Callout 块](https://ld246.com/article/1767017845894)
+
+  > 版本：v3.5.1 @ Windows 11 测试文档：未命名.sy.zip [图片] 对该文档进行「优化排版」操作，会得到： [图片] 可以看到，Todo 列表中的 Callout 块消失了 另外，该文档导出 Markdown 为： --- title: 未命名 date: 2025-12-29T22:12:21Z  ..
+* 💬 [v3.5.1 无法正确对嵌套在 Todo 列表中的 Callout 块执行「优化排版」，且无法解析 Markdown 中的 Callout 块](https://ld246.com/article/1767017845894/comment/1767019499902#comments)
+
+  > 感谢反馈，先记录 [链接]
+* 💬 [提示块消失](https://ld246.com/article/1767000274019/comment/1767000641820#comments)
+
+  > 请将所有设备都更新到最新版，否则提示块会丢失。
 * 💬 [v3.5.1 Ctrl+Alt+ 数字快捷键失灵](https://ld246.com/article/1766981744354/comment/1766981814738#comments)
 
   > 看下快捷键设置，是不是被重置了，如果被重置了，排查下最近安装的插件。
@@ -39,15 +48,6 @@
 * 💬 [思源笔记打开输入密码功能失效](https://ld246.com/article/1766468331862/comment/1766482197554#comments)
 
   > 勾选了“记住”的话就不需要每次都输入了
-* 💗📝 [[js] [css] 全链路 Callout (提示块) 中文化 &amp;&amp; 样式分享](https://ld246.com/article/1766459927403)
-
-  > Callout (提示块)中文化（内容区 + 两种菜单 + 编辑弹窗强同步） 1、斜杠 ‘/’ 菜单翻译 [图片] 2、内容区域翻译 [图片] 3、修改类型翻译 [图片] // custom.js - 全链路 Callout 中文化（内容区 + 两种菜单 + 编辑弹窗强同步） (function () { const  ..
-* 💬 [文档发布到链滴问题](https://ld246.com/article/1765883237590/comment/1766467617433#comments)
-
-  > 图床不支持文件夹路径，仅支持 assets/xxx.jpg 这种格式。
-* 💬 [「提示」的这个搜索，是预期的行为么?](https://ld246.com/article/1766456875715/comment/1766457462027#comments)
-
-  > [链接]
 
 
 <!--events end -->
