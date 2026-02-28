@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2026-02-27 16:16:20`
+每天自动刷新，最近更新时间：`2026-02-28 16:09:02`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [购买了“功能特性”，极空间的思源笔记用不了，请问如何退费？](https://ld246.com/article/1772003756977/comment/1772260706144#comments)
+
+  > 请发邮件给我们 [链接]
+* 💬 [Mermaid 不显示箭头](https://ld246.com/article/1772250708463/comment/1772251456233#comments)
+
+  > 这应该是 Mermaid 的问题 [链接]
+* 💬 [Linux 系统下无法使用中文输入法](https://ld246.com/article/1770192403628/comment/1772249097767#comments)
+
+  > 我们尝试在 v3.5.9 中解决该问题，关联 [链接]
+* 💬 [Linux 系统下无法使用中文输入法](https://ld246.com/article/1770192403628/comment/1772246647727#comments)
+
+  > 楼主，麻烦看下环境变量 XDG_CURRENT_DESKTOP 和 XDG_SESSION_TYPE 的值。
+* 💬 [v3.5.5-linux-arm64 版本无法弹出输入法键盘](https://ld246.com/article/1770802272048/comment/1772243817818#comments)
+
+  > 仅供参考 [链接]
+* 💬 [移动端启动时同步](https://ld246.com/article/1772170873660/comment/1772239555757#comments)
+
+  > 移动端和桌面端的启动时同步逻辑是一样的，仅同步索引文件，进入到主界面后才同步实际的数据分块。
+* 💬 [v3.5.5-linux-arm64 版本无法弹出输入法键盘](https://ld246.com/article/1770802272048/comment/1772205898123#comments)
+
+  > 电脑端的话就比较奇怪了，可能和输入法服务配置相关，不太好定位问题。 估计只能靠你自己往这个方向尝试排查一下了，抱歉。
 * 💬 [鸿蒙 PC 端无法粘贴图片？](https://ld246.com/article/1772073350595/comment/1772077508318#comments)
 
   > 请使用默认主题、关闭代码片段、插件等扩展后测试看看。
-* 💬 [文档页面无法移动或删除](https://ld246.com/article/1772073522407/comment/1772076790993#comments)
-
-  > [图片]
-* 💬 [鸿蒙 PC 端无法粘贴图片？](https://ld246.com/article/1772073350595/comment/1772076450226#comments)
-
-  > 我在 MateBook Pro 鸿蒙 6 上测试无法重现问题（从浏览器中复制图片、使用系统自带的截图工具），麻烦录屏演示下操作步骤。
-* 💬 [文档页面无法移动或删除](https://ld246.com/article/1772073522407/comment/1772073640681#comments)
-
-  > 文档树面板 - 定位打开的文档 [图片]
-* 💬 [v3.3.6 在 win11 上嵌入块查询出现很多其他信息](https://ld246.com/article/1762534961092/comment/1772005318479#comments)
-
-  > 关联 [链接]
-* 💬 [华为鸿蒙 Pura X 无法输入文字](https://ld246.com/article/1771944557514/comment/1772003906065#comments)
-
-  > 请升级到最新的 v3.5.8（1000067）后再试试。
-* 💬 [鸿蒙 purax 的版本无法唤出键盘](https://ld246.com/article/1771621249786/comment/1772003894429#comments)
-
-  > 请升级到最新的 v3.5.8（1000067）后再试试。
-* 💬 [v3.5.7 使用蓝牙键盘时软键盘异常弹出](https://ld246.com/article/1771598343112/comment/1771984543758#comments)
-
-  > 在设置里搜索 键盘 看看
 
 
 <!--events end -->
