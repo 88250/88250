@@ -20,10 +20,22 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2026-03-02 16:17:02`
+每天自动刷新，最近更新时间：`2026-03-03 16:15:08`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [v3.5.5-linux-arm64 版本无法弹出输入法键盘](https://ld246.com/article/1770802272048/comment/1772501545217#comments)
+
+  > v3.5.9 还没有发布，你自己编译的吗？
+* 💬 [手动同步文件夹到 U 盘频繁需要索引](https://ld246.com/article/1772458124536/comment/1772499004820#comments)
+
+  > 完整拷贝工作空间文件（不是仅拷贝 data 文件夹）的话应该不需要重建索引才对。
+* 💬 [执行数据库提示怎么去掉](https://ld246.com/article/1772467242181/comment/1772467713604#comments)
+
+  > 右侧栏面板 - 外观 - 隐藏底部状态栏 - 设置
+* 💬 [手动同步文件夹到 U 盘频繁需要索引](https://ld246.com/article/1772458124536/comment/1772458607007#comments)
+
+  > 不要使用任何基于文件系统的同步方案，否则数据会损坏。
 * 🗣 [无序列表问题](https://ld246.com/article/1772323832625/comment/1772328322595#comments)
 
   > @601063672 用标题大纲
@@ -36,18 +48,6 @@
 * 💬 [购买了“功能特性”，极空间的思源笔记用不了，请问如何退费？](https://ld246.com/article/1772003756977/comment/1772260706144#comments)
 
   > 请发邮件给我们 [链接]
-* 💬 [Mermaid 不显示箭头](https://ld246.com/article/1772250708463/comment/1772251456233#comments)
-
-  > 这应该是 Mermaid 的问题 [链接]
-* 💬 [Linux 系统下无法使用中文输入法](https://ld246.com/article/1770192403628/comment/1772249097767#comments)
-
-  > 我们尝试在 v3.5.9 中解决该问题，关联 [链接]
-* 💬 [Linux 系统下无法使用中文输入法](https://ld246.com/article/1770192403628/comment/1772246647727#comments)
-
-  > 楼主，麻烦看下环境变量 XDG_CURRENT_DESKTOP 和 XDG_SESSION_TYPE 的值。
-* 💬 [v3.5.5-linux-arm64 版本无法弹出输入法键盘](https://ld246.com/article/1770802272048/comment/1772243817818#comments)
-
-  > 仅供参考 [链接]
 
 
 <!--events end -->
