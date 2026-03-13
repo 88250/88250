@@ -20,10 +20,19 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2026-03-12 16:17:00`
+每天自动刷新，最近更新时间：`2026-03-13 16:15:39`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [liuyun.io 国内访问缓慢](https://ld246.com/article/1773326822025/comment/1773327229286#comments)
+
+  > 用的是 Cloudflare 免费版，慢一点是正常的 😂
+* 💬 [blocktree.db 为什么总有重复的记录?](https://ld246.com/article/1773212868508/comment/1773312478104#comments)
+
+  > 等下个版本再试试，改进了增量索引，可能和这个有关系。
+* 💬 [blocktree.db 为什么总有重复的记录?](https://ld246.com/article/1773212868508/comment/1773307846263#comments)
+
+  > 不确定是不是某个地方还在调用 db，思源本身已经对 db 操作加锁了。
 * 💬 [blocktree.db 为什么总有重复的记录?](https://ld246.com/article/1773212868508/comment/1773287053519#comments)
 
   > 重建索引会先删除整个库，所以不需要判断的。
@@ -39,15 +48,6 @@
 * 💗💬 [用户指南关闭后遗留数据库](https://ld246.com/article/1773215961111/comment/1773224102565#comments)
 
   > 关联 [链接]
-* 💬 [FN-EVO2，同步失败：锁定云端同步目录失败，请稍后再试 (Provider: WebDAV) v3.5.10](https://ld246.com/article/1773223634535/comment/1773224220709#comments)
-
-  > FN-EVO2 看上去可能是 WebDAV 服务端的报错信息，请查看服务端日志。
-* 💬 [blocktree.db 为什么总有重复的记录?](https://ld246.com/article/1773212868508/comment/1773222486106#comments)
-
-  > 那没有办法了，我们对于列表是这样嵌套拆分的，不然没法实现列表下的块级独立。 建议不要全部用列表，思源是文档式的，不是大纲式的。
-* 💬 [blocktree.db 为什么总有重复的记录?](https://ld246.com/article/1773212868508/comment/1773222339853#comments)
-
-  > 没有唯一索引主要是考虑到插入速度；目前 sqlite 的设置是不支持并发写入的，所以不会和你说的 sql 线程有关系；_old_ 这两个表不是思源建的。
 
 
 <!--events end -->
