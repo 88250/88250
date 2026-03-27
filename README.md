@@ -20,10 +20,13 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2026-03-26 16:22:11`
+每天自动刷新，最近更新时间：`2026-03-27 16:20:07`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗📝 [siyuan-skill v1.6.15](https://ld246.com/article/1774552951194)
+
+  > Siyuan Skill v1.6.15 — 让 AI Agent 像人一样使用思源笔记 GitHub: [链接] 许可: MIT | 运行时: Node.js ≥ 14（零外部依赖） ClawHub: [链接] 这是什么？ Siyuan Skill 是一个专为 AI Agent 设计的思源笔记命令行工具（CLI）。它 ..
 * 💗📝 [安卓版的思源 APP 同步使用域名同步存在问题](https://ld246.com/article/1774195819831)
 
   > 购买的功能特性，自建 S3 存储库，docker、安卓 APP 和纯血鸿蒙 APP 共用一个 S3 存储库，实现三端同步，三个配置都一样。 S3 存储库部署在家里的 NAS 中，端点都采用的同一个域名，这个域名在家里网络环境指向的 NAS 内网 IP，出了家庭环境就指向家庭出口 IP，docker、纯血鸿蒙 APP 同 ..
@@ -45,9 +48,6 @@
 * 💬 [关于会员缴费的问题](https://ld246.com/article/1774279533369/comment/1774280986198#comments)
 
   > 你好，请在 思源 - 设置 - 账号 中刷新一下看看，感谢支持。
-* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1774272220675)
-
-  > 蓄须两次都失败了……
 
 
 <!--events end -->
