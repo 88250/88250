@@ -20,10 +20,13 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2026-04-03 16:22:00`
+每天自动刷新，最近更新时间：`2026-04-04 16:16:20`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [iPhone iOS 思源笔记忽然无法导出](https://ld246.com/article/1775257217832/comment/1775263790484#comments)
+
+  > iPhone 上必须保持应用在前台才能导出，所以切换到浏览器后需要再手动切回思源，保持思源前台运行才能正常导出。
 * 💗📝 [Siyuan 并发删除父子文档产生不可删除的幽灵文档](https://ld246.com/article/1774876302425)
 
   > 报告编号: GHOST-DOC-001 严重程度: 严重（P0） 影响组件: Siyuan Notes 3.6.0 — /api/filetree/removeDocByID 发现场景: siyuan-skill 自动化测试（并发模式，CONCURRENCY=4） 发现日期: 2026-03-30 1. 故障状态 并发 ..
@@ -45,9 +48,6 @@
 * 💬 [官方 callout 怎么才能改变默认的 icon](https://ld246.com/article/1774885370619/comment/1774887773601#comments)
 
   > 可以考虑使用模板功能
-* 💬 [安卓版的思源 APP 同步使用域名同步存在问题](https://ld246.com/article/1774195819831/comment/1774874390105#comments)
-
-  > 我也不知道咋整了，思源这边是一套代码跨平台编译的，只可能和环境有关吧……
 
 
 <!--events end -->
