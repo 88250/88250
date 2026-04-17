@@ -20,10 +20,19 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2026-04-16 16:39:33`
+每天自动刷新，最近更新时间：`2026-04-17 16:39:08`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [升级到 3.6.4 后点击“清理云端存储”没有反应](https://ld246.com/article/1776393419025/comment/1776393763826#comments)
+
+  > 关联 [链接]
+* 💬 [S3 同步空间占用疑问](https://ld246.com/article/1776389026635/comment/1776392701885#comments)
+
+  > 是包含了历史版本吗 是 怎么删除历史版本 设置 - 云端 - S3 - 清理云端存储
+* 💬 [为什么更新不了](https://ld246.com/article/1776351385540/comment/1776351536236#comments)
+
+  > 重启下系统后再试试
 * 💬 [标题更新问题](https://ld246.com/article/1776311074032/comment/1776311208177#comments)
 
   > [链接]
@@ -33,21 +42,12 @@
 * 💬 [建议对浏览器兼容性的提示加入开关](https://ld246.com/article/1776222218780/comment/1776222361219#comments)
 
   > 关联 [链接]
-* 💬 [思源笔记标题大纲不同步](https://ld246.com/article/1776219020474/comment/1776220780099#comments)
+* 💬 [v3.6.4 思源笔记标题大纲不同步](https://ld246.com/article/1776219020474/comment/1776220780099#comments)
 
   > 感谢反馈，关联 [链接]
 * 💬 [将思源笔记导出的 Markdown（MathJax 风格）转换为更适配飞书文档（KaTeX）的内容](https://ld246.com/article/1775963851893/comment/1776052349929#comments)
 
   > 思源笔记公式块用的就是 KaTex，不需要转换才对。
-* 💬 [获取社区用户账号失败: Post "https://siyuan-sync.b3logfile.com/apis/siyuan/login": EOF v3.6.3](https://ld246.com/article/1776049992982/comment/1776052292180#comments)
-
-  > 请排查本地网络问题，比如是否被防火墙拦截（如果是办公网络的话可能性比较大）。
-* 💬 [云端配置能随着登录的账号同步吗？](https://ld246.com/article/1776051311248/comment/1776052213898#comments)
-
-  > 请参考 [链接]
-* 💗💬 [预览版导致打不开部分笔记](https://ld246.com/article/1776010143944/comment/1776012943871#comments)
-
-  > 刚刚我没想起来已经发了 dev2，我自己在用的都不是最新的代码 关联 [链接]
 
 
 <!--events end -->
