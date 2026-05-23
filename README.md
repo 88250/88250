@@ -20,10 +20,13 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2026-05-22 17:11:51`
+每天自动刷新，最近更新时间：`2026-05-23 16:46:27`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [笔记出现丢失](https://ld246.com/article/1779294573024/comment/1779417055873#comments)
+
+  > 读取会占用文件，一样导致问题。
 * 💗💬 [文字块转公式后如何恢复](https://ld246.com/article/1779198439042/comment/1779198694781#comments)
 
   > Ctrl+Z
@@ -45,9 +48,6 @@
 * 💬 [ArchLinux 系统下，使用用户级的 Flatpak 安装思源笔记，无法登录账号](https://ld246.com/article/1778813624599/comment/1778820815857#comments)
 
   > 感觉还是某个网络配置的问题，我也不太清楚了，抱歉抱歉。
-* 💬 [ArchLinux 系统下，使用用户级的 Flatpak 安装思源笔记，无法登录账号](https://ld246.com/article/1778813624599/comment/1778813705844#comments)
-
-  > lookup 失败的话多半是 DNS 配置问题
 
 
 <!--events end -->
