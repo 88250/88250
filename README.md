@@ -20,10 +20,16 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2026-06-02 17:32:55`
+每天自动刷新，最近更新时间：`2026-06-03 17:42:45`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 👍💬 [急急急，不小心把.config 文件给删除](https://ld246.com/article/1780410582598/comment/1780412700806#comments)
+
+  > 什么.config？是 C:\Users\?\.config 吗？如果只是删了这个文件夹没什么关系的，这里只是思源记录工作空间路径的地方，不是放数据的地方 现在全盘搜索 siyuan.db 文件，找到形如 C:\folderName\temp\siyuan.db 的路径，打开 temp 的上级文件夹看看有没有 data ..
+* 💗💬 [急急急，不小心把.config 文件给删除](https://ld246.com/article/1780410582598/comment/1780412700806#comments)
+
+  > 什么.config？是 C:\Users\?\.config 吗？如果只是删了这个文件夹没什么关系的，这里只是思源记录工作空间路径的地方，不是放数据的地方 现在全盘搜索 siyuan.db 文件，找到形如 C:\folderName\temp\siyuan.db 的路径，打开 temp 的上级文件夹看看有没有 data ..
 * 💬 [思源笔记客户端用户信息刷新](https://ld246.com/article/1780368369119/comment/1780370092443#comments)
 
   > 从截图来看你的账号信息已经刷新了，可以使用 [功能特性] 相关权益的： [图片] 你要用 S3 的话需要在这里切换一下： [图片]
@@ -42,12 +48,6 @@
 * 💬 [重置数据仓库不管用](https://ld246.com/article/1780117135337/comment/1780141056258#comments)
 
   > 使用新的 S3 存储桶
-* 💬 [重置数据仓库不管用](https://ld246.com/article/1780117135337/comment/1780118799407#comments)
-
-  > 只重置当前设备是不行的，要完全按照这个步骤操作才行。
-* 💬 [最新版的思源笔记 pc 端安装后，打开插件就报错](https://ld246.com/article/1780062272487/comment/1780062538453#comments)
-
-  > [链接]
 
 
 <!--events end -->
