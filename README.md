@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2026-06-09 17:14:42`
+每天自动刷新，最近更新时间：`2026-06-10 17:20:19`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1781060607498)
+
+  > [链接] 思源还是靠自身实力更好一些，而不是用这种方法。
+* 💬 [关于 3.7 测试版在 Mac 端能耗较高反馈](https://ld246.com/article/1780645956726/comment/1781060110754#comments)
+
+  > 启动的时候确实能耗高一些，后面应该就正常了。
 * 💗📝 [借鉴 Claude Code 开发思源 MCP 工具（分享设计思路与心得体会）](https://ld246.com/article/1780911033554)
 
   > 我做了一个工具，把思源笔记接入了 AI agent。（前不久还在思源社区发过另一个帖子，但那时候还没有做成思源插件，很多功能设计也不完善，于是重写重发，欢迎讨论） 起因很具体。我做的投资研究资料，大多存在思源笔记里面，作为一个结构化的知识库。里面放了几十家公司的各种层面资料，新闻快讯、公司财报、业务梳理、行业分析等。每 ..
-* 💬 [3.6.5 dev 大容量笔记本无法导出](https://ld246.com/article/1780840057196/comment/1780927273326#comments)
+* 💬 [3.6.5 dev 笔记本无法导出 md 的 zip 包： saveExportFile failed:TypeError:Failed to fetch](https://ld246.com/article/1780840057196/comment/1780927273326#comments)
 
   > 在新空间中分批减少文档（移动文档到其他笔记本）然后逐步测试导出，直到直到有问题影响导出的文档。
-* 💬 [3.6.5 dev 大容量笔记本无法导出](https://ld246.com/article/1780840057196/comment/1780926792338#comments)
+* 💬 [3.6.5 dev 笔记本无法导出 md 的 zip 包： saveExportFile failed:TypeError:Failed to fetch](https://ld246.com/article/1780840057196/comment/1780926792338#comments)
 
   > 能否把整个工作空间打包发我测试（去掉敏感内容，可以复制一个新文件夹，在新空间中脱敏）， [链接] 谢谢！
-* 💬 [3.6.5 dev 大容量笔记本无法导出](https://ld246.com/article/1780840057196/comment/1780926613791#comments)
+* 💬 [3.6.5 dev 笔记本无法导出 md 的 zip 包： saveExportFile failed:TypeError:Failed to fetch](https://ld246.com/article/1780840057196/comment/1780926613791#comments)
 
   > cpu 降下来以后还是没有出现导出的文件？
-* 💬 [3.6.5 dev 大容量笔记本无法导出](https://ld246.com/article/1780840057196/comment/1780926227925#comments)
+* 💬 [3.6.5 dev 笔记本无法导出 md 的 zip 包： saveExportFile failed:TypeError:Failed to fetch](https://ld246.com/article/1780840057196/comment/1780926227925#comments)
 
   > 多等一下，观察下 SiYuan-Kernel 进程 cpu 占用
-* 💬 [3.6.5 dev 大容量笔记本无法导出](https://ld246.com/article/1780840057196/comment/1780925747417#comments)
+* 💬 [3.6.5 dev 笔记本无法导出 md 的 zip 包： saveExportFile failed:TypeError:Failed to fetch](https://ld246.com/article/1780840057196/comment/1780925747417#comments)
 
   > 麻烦记录时间然后再导出下，不然日志和时间不好对应。
-* 💬 [鸿蒙版思源笔记配置 s3 失败的问题](https://ld246.com/article/1780619295970/comment/1780924409168#comments)
-
-  > 抱歉，那我也不清楚怎么解决了。我能想到的就是再换一家 S3 服务商试试，比如阿里云。
-* 💬 [鸿蒙版思源笔记配置 s3 失败的问题](https://ld246.com/article/1780619295970/comment/1780909906876#comments)
-
-  > 这就奇怪了，你换个网络或者存储区域看看，其他鸿蒙端用户也有用七牛云的，没有反馈过类似问题。
 
 
 <!--events end -->
