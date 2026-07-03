@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2026-07-02 17:08:52`
+每天自动刷新，最近更新时间：`2026-07-03 18:37:19`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [iOS 端内置预览 127.0.0.1 本地 http 被系统强制 HTTPS 拦截，无法预览附件](https://ld246.com/article/1782980645323/comment/1782981603951#comments)
+* 💬 [思源笔记升级 3.7.0 后，UI 字体怎么与系统字体不一致了？](https://ld246.com/article/1783074282914/comment/1783074850120#comments)
 
-  > 把地址手动改成 https 看看能否访问。
-* 💬 [引用方式创建子文档有问题](https://ld246.com/article/1782981299740/comment/1782981567658#comments)
+  > 试试默认主题？
+* 💬 [移动端可否考虑自定义工具栏？](https://ld246.com/article/1783072238848/comment/1783072789077#comments)
 
-  > 建议检查这个配置项：设置 - 文档 - 新建文档 - 新建块引用文档的默认存放路径
-* 💬 [多次与内核连接断开](https://ld246.com/article/1782978291680/comment/1782978476873#comments)
+  > 请关注 [链接] 不过这个和命令面板没有关系，这个 issue 指的是自定义编辑器工具栏
+* 💬 [思源笔记 3.7.0 升级后修改文件经常出现自动退出的提醒？](https://ld246.com/article/1782963115965/comment/1783062177030#comments)
 
-  > 把嵌入模型关掉，等 v3.7.1 再用。
-* 💬 [导入 data 中途闪退，只有 macOS 导入成功](https://ld246.com/article/1782951346090/comment/1782974447931#comments)
-
-  > alpha.2 正在打包，等会你再试试。
-* 💬 [v3.7.0 升级后图片加载显示不了了](https://ld246.com/article/1782960527097/comment/1782964117612#comments)
-
-  > iOS/iPad 端？是的话关联 [链接]
-* 💬 [新版本频繁死机](https://ld246.com/article/1782867647377/comment/1782960012677#comments)
-
-  > 麻烦录屏看下
-* 💬 [iOS 客户端更新到 3.7 版后笔记封面丢失](https://ld246.com/article/1782958407051/comment/1782959782414#comments)
+  > 这个不是思源的问题，你需要看下是什么原因导致的文件权限变化。 如果找不到原因的话，可以试试换个工作空间路径。
+* 💬 [3.7 版本智能体使用 minimax 模型时的问题](https://ld246.com/article/1782889430481/comment/1783061800168#comments)
 
   > 关联 [链接]
-* 💬 [v3.7.0 版本 IOS 移动端导出 DATA 闪退](https://ld246.com/article/1782957569030/comment/1782958294434#comments)
+* 💗📝 [点击链接打开 xlsx 文档必报错](https://ld246.com/article/1783048253136)
 
-  > 关联 [链接]
+  > xlsx 文档链接用 WPS 打开必报错，xls、doc、docx、ppt、pptx 链接没有问题。尝试插入空白的 xlsx 文件也一样。 [图片]
+* 💗💬 [点击链接打开 xlsx 文档必报错](https://ld246.com/article/1783048253136/comment/1783049564463#comments)
+
+  > 导出日志发一下看看 Mac 上没重现
+* 💬 [点击链接打开 xlsx 文档必报错](https://ld246.com/article/1783048253136/comment/1783060181319#comments)
+
+  > 感谢反馈，这个问题会在 v3.7.1 进行修复。
+* 💬 [思源笔记 3.7.0 升级后修改文件经常出现自动退出的提醒？](https://ld246.com/article/1782963115965/comment/1783059593309#comments)
+
+  > 从日志报错看是因为权限问题导致工作空间的配置文件无法写入： F 2026/07/02 14:02:45 filelock.go:214: write file [C:\Users\Administrator\Documents\yannKB\conf\conf.json] failed: rename C:\Users ..
 
 
 <!--events end -->
