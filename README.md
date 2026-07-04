@@ -20,10 +20,22 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2026-07-03 18:37:19`
+每天自动刷新，最近更新时间：`2026-07-04 18:11:12`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [图标改进反馈](https://ld246.com/article/1783121555282/comment/1783137234133#comments)
+
+  > 这个是设计如此，尽量符合 Windows 原生窗口控制按钮的样式，不然会很奇怪。
+* 💬 [数据同步后再打开时丢失且没有文件历史](https://ld246.com/article/1781354520641/comment/1783133361879#comments)
+
+  > 等升级最新版本 v3.7.1 后再试试。
+* 💬 [图标改进反馈](https://ld246.com/article/1783121555282/comment/1783122076590#comments)
+
+  > 试试默认主题？
+* 💬 [升级 APP 3.7.0 之后图片资源不显示](https://ld246.com/article/1783118099811/comment/1783120935218#comments)
+
+  > 关联 [链接]
 * 💬 [思源笔记升级 3.7.0 后，UI 字体怎么与系统字体不一致了？](https://ld246.com/article/1783074282914/comment/1783074850120#comments)
 
   > 试试默认主题？
@@ -36,18 +48,6 @@
 * 💬 [3.7 版本智能体使用 minimax 模型时的问题](https://ld246.com/article/1782889430481/comment/1783061800168#comments)
 
   > 关联 [链接]
-* 💗📝 [点击链接打开 xlsx 文档必报错](https://ld246.com/article/1783048253136)
-
-  > xlsx 文档链接用 WPS 打开必报错，xls、doc、docx、ppt、pptx 链接没有问题。尝试插入空白的 xlsx 文件也一样。 [图片]
-* 💗💬 [点击链接打开 xlsx 文档必报错](https://ld246.com/article/1783048253136/comment/1783049564463#comments)
-
-  > 导出日志发一下看看 Mac 上没重现
-* 💬 [点击链接打开 xlsx 文档必报错](https://ld246.com/article/1783048253136/comment/1783060181319#comments)
-
-  > 感谢反馈，这个问题会在 v3.7.1 进行修复。
-* 💬 [思源笔记 3.7.0 升级后修改文件经常出现自动退出的提醒？](https://ld246.com/article/1782963115965/comment/1783059593309#comments)
-
-  > 从日志报错看是因为权限问题导致工作空间的配置文件无法写入： F 2026/07/02 14:02:45 filelock.go:214: write file [C:\Users\Administrator\Documents\yannKB\conf\conf.json] failed: rename C:\Users ..
 
 
 <!--events end -->
