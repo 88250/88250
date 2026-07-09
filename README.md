@@ -20,10 +20,13 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2026-07-08 18:19:34`
+每天自动刷新，最近更新时间：`2026-07-09 18:55:25`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗📝 [Excelize 开源十周年，发布 2.11.0 版本](https://ld246.com/article/1783522419777)
+
+  > [图片] Excelize 是一款用于操作 Office Excel 电子表格文档的开源基础库，基于 ECMA-376，ISO/IEC 29500 国际标准。可以使用它来读取、写入由 Excel、WPS、OpenOffice 等办公软件创建的电子表格文档。支持 XLAM / XLSM / XLSX / XLTM / X ..
 * 💗💬 [v3.7.0/3.7.1 版本表格输入时触发返回顶部](https://ld246.com/article/1782909429626/comment/1783404387523#comments)
 
   > [链接] 看一下这个
@@ -45,9 +48,6 @@
 * 💬 [iOS 端导出为 html 功能无法使用](https://ld246.com/article/1783416806236/comment/1783433154786#comments)
 
   > 这个没有确定的时间表，要等 @Vanessa 评估
-* 💗💬 [iOS 端导出为 html 功能无法使用](https://ld246.com/article/1783416806236/comment/1783426507433#comments)
-
-  > @Vanessa
 
 
 <!--events end -->
