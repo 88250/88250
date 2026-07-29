@@ -20,10 +20,22 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2026-07-28 18:36:18`
+每天自动刷新，最近更新时间：`2026-07-29 18:39:59`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [求增加在线分享功能](https://ld246.com/article/1785301001390/comment/1785302434281#comments)
+
+  > 目前已经内置发布功能，可考虑自行搭建在线服务。
+* 💬 [导出 PDF 或者 WORD 不支持附件](https://ld246.com/article/1785301099780/comment/1785302324989#comments)
+
+  > 导出 PDF 可以启用嵌入资源文件
+* 💬 [求助同步失败：锁定云端同步目录失败，请稍后再试 (Provider: SiYuan) v3.7.3](https://ld246.com/article/1785289730017/comment/1785294257426#comments)
+
+  > 从日志上看是你所在的网络连接七牛云有问题，建议换个网络（比如使用移动端热点）后再试试。
+* 💬 [求助同步失败：锁定云端同步目录失败，请稍后再试 (Provider: SiYuan) v3.7.3](https://ld246.com/article/1785289730017/comment/1785289982575#comments)
+
+  > 请在 设置 - 应用 - 维护 中导出系统日志并上传回复
 * 💗💬 [v3.7.3 出现了第一次“网络超时，请稍后再试”](https://ld246.com/article/1784639663788/comment/1785220855665#comments)
 
   > 日志最下面是 agent API request failed: error, status code: 429, status: 429 Too Many Requests, message: TPM (Tokens Per Minute) limit of the model glm-5-2 is exceeded ..
@@ -36,18 +48,6 @@
 * 💬 [鸿蒙版 v3.7.3 在桌面模式下很难选中并切换文档](https://ld246.com/article/1785160312815/comment/1785161892856#comments)
 
   > 请等下个版本再试试
-* 💗📝 [我给思源笔记做了第一个插件：把「买过的东西」管起来](https://ld246.com/article/1784978888109)
-
-  > [图片] 起因：我需要一个地方，记清自己到底'压'了多少钱 我自己比较喜欢记账，想要自己的东西都是清晰明确的 视频、音乐、云盘、AI 工具……一堆订阅，哪个快到期、哪个其实早该取消，全凭记忆； 手机、电脑、耳机、家电，买的时候心疼，用到现在每天摊下来多少钱； 充值卡、次数包、储值余额，还剩多少、什么时候过期，等到想起往 ..
-* 💬 [v3.7.3 出现了第一次“网络超时，请稍后再试”](https://ld246.com/article/1784639663788/comment/1785129580048#comments)
-
-  > 我也不确定，看模型和你执行的任务吧，glm 可能是比较慢的，ds flash 应该很快。
-* 💬 [v3.7.3 出现了第一次“网络超时，请稍后再试”](https://ld246.com/article/1784639663788/comment/1785129309805#comments)
-
-  > 继续调大看看吧，这个超时不是代码问题。
-* 💬 [需要改进一下社区的验证滑动块](https://ld246.com/article/1785127042641/comment/1785128645618#comments)
-
-  > 这个是阿里云提供的，我们改不了。
 
 
 <!--events end -->
