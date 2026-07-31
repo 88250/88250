@@ -20,10 +20,19 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2026-07-30 18:25:07`
+每天自动刷新，最近更新时间：`2026-07-31 18:40:19`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [建议插件商店增加删除按钮](https://ld246.com/article/1769060084107/comment/1785477327622#comments)
+
+  > 目前“设置、卸载、打开文件位置”已可在集市 - 已下载的包卡片上操作，README 页面主要用于展示包介绍，暂不考虑增加重复入口。
+* 💬 [在同个目录导出系统日志会直接思源崩溃](https://ld246.com/article/1785465939509/comment/1785467119832#comments)
+
+  > 关联 [链接]
+* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1785420514103)
+
+  > AI+ 思源笔记，效率翻倍！ [图片]
 * 💗📝 [希望支持选中多条列表内容后，菜单栏显示删除按钮，用以批量移除所选条目](https://ld246.com/article/1785390355172)
 
   > [图片] 目前选择多行之后无法批量删除这些行，合并成一个单元格之后，该单元格同样无法被删除，希望能优化 软件版本 win v3.7.4-alpha.3
@@ -39,15 +48,6 @@
 * 💬 [求助同步失败：锁定云端同步目录失败，请稍后再试 (Provider: SiYuan) v3.7.3](https://ld246.com/article/1785289730017/comment/1785294257426#comments)
 
   > 从日志上看是你所在的网络连接七牛云有问题，建议换个网络（比如使用移动端热点）后再试试。
-* 💬 [求助同步失败：锁定云端同步目录失败，请稍后再试 (Provider: SiYuan) v3.7.3](https://ld246.com/article/1785289730017/comment/1785289982575#comments)
-
-  > 请在 设置 - 应用 - 维护 中导出系统日志并上传回复
-* 💗💬 [v3.7.3 出现了第一次“网络超时，请稍后再试”](https://ld246.com/article/1784639663788/comment/1785220855665#comments)
-
-  > 日志最下面是 agent API request failed: error, status code: 429, status: 429 Too Many Requests, message: TPM (Tokens Per Minute) limit of the model glm-5-2 is exceeded ..
-* 💬 [加密文件夹已经插入资源文件了，但是一会儿全没了](https://ld246.com/article/1785224064410/comment/1785228188047#comments)
-
-  > 感谢反馈，下个版本 v3.7.4 改进。
 
 
 <!--events end -->
