@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2026-08-08 16:41:57`
+每天自动刷新，最近更新时间：`2026-08-09 16:44:00`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1786160820789)
+* 💬 [siyuan-3.8.0-alpha.4-win 列表粘贴问题](https://ld246.com/article/1786148876496/comment/1786239750185#comments)
 
-  > 思源笔记新标语：从思考到洞见，与智能体同行 接下来会往这个方向上调整产品，All in AI
-* 💗💬 [siyuan 剪藏公众号文章格式错乱](https://ld246.com/article/1786094216155/comment/1786097300391#comments)
+  > 录屏看下操作
+* 💬 [siyuan-3.8.0-alpha.4-win 列表粘贴问题](https://ld246.com/article/1786148876496/comment/1786234514519#comments)
 
-  > @88250
-* 💗📝 [siyuan 剪藏公众号文章格式错乱](https://ld246.com/article/1786094216155)
+  > 要选择块的话需要从左边块标外开始划选
+* 💬 [局域网同步加速问题](https://ld246.com/article/1786200309930/comment/1786208355463#comments)
 
-  > 剪藏 [链接] 这个公号文章的时候标题和正文放在了一起 原文是好的 [图片] 但剪藏之后正文也和标题一行了 [图片]
-* 💬 [siyuan 剪藏公众号文章格式错乱](https://ld246.com/article/1786094216155/comment/1786104187057#comments)
+  > 我也不清楚啥原因 😂
+* 💗💬 [局域网同步加速问题](https://ld246.com/article/1786200309930/comment/1786207591320#comments)
 
-  > 感谢反馈，稍后发布剪藏扩展新版进行改进。
-* 💬 [Mac 在使用时总会自动退出](https://ld246.com/article/1785919795634/comment/1786089994741#comments)
+  > Localsend 可以跑通，我感觉流程本身可行，刚看 Localsend 文档注意到一句话： 默认组播地址是 224.0.0.0/24，因为某些 Android 设备禁止其他组播组。 这里的某些设备我得去查一下
+* 💬 [局域网同步加速问题](https://ld246.com/article/1786200309930/comment/1786207770704#comments)
 
-  > workspace dir [/Users/hujiao/Library/Application Support/SiYuan] is in third party sync dir 这个路径用了第三方同步（估计是 iCloud），换个工作空间路径后再看看。
-* 💗📝 [有序列表输入标题之后下设无序列表发现输入的标题消失](https://ld246.com/article/1786085992227)
+  > 好的，麻烦帮忙确认。 PS：思源使用的 224.0.0.251 属于 224.0.0.0/24
+* 💬 [局域网同步加速问题](https://ld246.com/article/1786200309930/comment/1786207225666#comments)
 
-  > 我向往常（大概半年前）一样准备写一个笔记，但是在输完有序列表内容之后，在下面建立无序列表的时候，我打的字就消失了！不知道是啥问题，是版本更新的 bug 吗 🤔 [图片][图片] [图片]
-* 💬 [有序列表输入标题之后下设无序列表发现输入的标题消失](https://ld246.com/article/1786085992227/comment/1786087012602#comments)
+  > LocalSend 使用的组播地址和端口与思源不同，不能完全排除当前路由器对 mDNS 的影响。 思源： 设备发现：UDP 5353，组播地址 224.0.0.251 数据传输：每次启动随机分配 TCP 端口，可在日志 LAN sync service started [..., port=xxxx] 中查看
+* 💬 [局域网同步加速问题](https://ld246.com/article/1786200309930/comment/1786207019033#comments)
 
-  > 感谢反馈，下个版本 v3.8.0 修复 [链接]
-* 💬 [标签功能改善](https://ld246.com/article/1786042864787/comment/1786075547249#comments)
+  > 我暂时找不到原因了，欢迎帮忙找找看 对了，再试试两个设备连同一个手机热点？
+* 💬 [局域网同步加速问题](https://ld246.com/article/1786200309930/comment/1786206677816#comments)
 
-  > 直接搜索 #测试1# 也可以的
+  > 临时关闭看看
 
 
 <!--events end -->
