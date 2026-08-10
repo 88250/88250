@@ -20,34 +20,31 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2026-08-09 16:44:00`
+每天自动刷新，最近更新时间：`2026-08-10 17:22:43`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [siyuan-3.8.0-alpha.4-win 列表粘贴问题](https://ld246.com/article/1786148876496/comment/1786239750185#comments)
+* 💬 [Android 端 3.8.0 alpha 切换工作空间导致无法识别旧工作空间](https://ld246.com/article/1786327682262/comment/1786339773596#comments)
 
-  > 录屏看下操作
-* 💬 [siyuan-3.8.0-alpha.4-win 列表粘贴问题](https://ld246.com/article/1786148876496/comment/1786234514519#comments)
+  > 感谢反馈。从日志看，旧工作空间目录被错误迁移到了 .../files/siyuan/Todo，数据应该仍在，并未被删除。该问题已修复，将在下个版本中发布。 目前可以先通过云同步恢复；如果需要恢复本地数据，请完整备份 Android/data/org.b3log.siyuan/，再将 files/siyuan/Todo  ..
+* 💬 [如何解决“复制标题下方内容”出现的 html 代码？](https://ld246.com/article/1786265169748/comment/1786320471007#comments)
 
-  > 要选择块的话需要从左边块标外开始划选
-* 💬 [局域网同步加速问题](https://ld246.com/article/1786200309930/comment/1786208355463#comments)
+  > 改了统一一下吧
+* 💗📝 [如何解决“复制标题下方内容”出现的 html 代码？](https://ld246.com/article/1786265169748)
 
-  > 我也不清楚啥原因 😂
-* 💗💬 [局域网同步加速问题](https://ld246.com/article/1786200309930/comment/1786207591320#comments)
+  > 我经常会把内容发给网页版 ai，由于内容较长，我通常会直接“复制标题下方内容”，然后粘贴到网页，但总是会出现 html 代码，诸位你们是怎么解决这个事情的。有复制成纯文本的功能？ 选择导出预览、或保持加载，确实能避免这个问题，但显然没有直接复制标题下方内容来得方便 [图片] [图片]
+* 💬 [如何解决“复制标题下方内容”出现的 html 代码？](https://ld246.com/article/1786265169748/comment/1786289353222#comments)
 
-  > Localsend 可以跑通，我感觉流程本身可行，刚看 Localsend 文档注意到一句话： 默认组播地址是 224.0.0.0/24，因为某些 Android 设备禁止其他组播组。 这里的某些设备我得去查一下
-* 💬 [局域网同步加速问题](https://ld246.com/article/1786200309930/comment/1786207770704#comments)
+  > 下个版本我们改进看看，谢谢。
+* 💗💬 [siyuan-3.8.0-alpha.4-win 列表粘贴问题](https://ld246.com/article/1786148876496/comment/1786286359521#comments)
 
-  > 好的，麻烦帮忙确认。 PS：思源使用的 224.0.0.251 属于 224.0.0.0/24
-* 💬 [局域网同步加速问题](https://ld246.com/article/1786200309930/comment/1786207225666#comments)
+  > [视频]
+* 💬 [siyuan-3.8.0-alpha.4-win 列表粘贴问题](https://ld246.com/article/1786148876496/comment/1786287725194#comments)
 
-  > LocalSend 使用的组播地址和端口与思源不同，不能完全排除当前路由器对 mDNS 的影响。 思源： 设备发现：UDP 5353，组播地址 224.0.0.251 数据传输：每次启动随机分配 TCP 端口，可在日志 LAN sync service started [..., port=xxxx] 中查看
-* 💬 [局域网同步加速问题](https://ld246.com/article/1786200309930/comment/1786207019033#comments)
+  > 下个版本我们改进看看，谢谢。
+* 💗💬 [siyuan-3.8.0-alpha.4-win 列表粘贴问题](https://ld246.com/article/1786148876496/comment/1786286601319#comments)
 
-  > 我暂时找不到原因了，欢迎帮忙找找看 对了，再试试两个设备连同一个手机热点？
-* 💬 [局域网同步加速问题](https://ld246.com/article/1786200309930/comment/1786206677816#comments)
-
-  > 临时关闭看看
+  > @88250 两种剪切粘贴的情况供参考。我觉得第一种情况，子列表块直接消失了是不太合理的 [视频]
 
 
 <!--events end -->
