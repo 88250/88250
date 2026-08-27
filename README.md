@@ -20,10 +20,25 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2026-08-26 16:44:32`
+每天自动刷新，最近更新时间：`2026-08-28 02:55:59`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [iOS v3.8.1 思源 app 更新的内容不能同步](https://ld246.com/article/1787786058576/comment/1787796181231#comments)
+
+  > 关联 [链接]
+* 💬 [v3.8.1 微软商店版打不开了：提示指定的用户没有一个有效的配置文件](https://ld246.com/article/1787793207116/comment/1787796125173#comments)
+
+  > 感觉是系统的问题，网络搜索看看
+* 💬 [思源里面不显示，但是搜索能看到还有这个文件](https://ld246.com/article/1787617925181/comment/1787795144822#comments)
+
+  > 排查下是哪个插件吧
+* 💬 [SiYuan v3.8.1 设置 - 人工智能 配置有进步，但还不够清晰](https://ld246.com/article/1787735052049/comment/1787740426204#comments)
+
+  > 感谢反馈。 当前内置的 web_search 通过 Exa 实现。如果需要使用其他联网搜索服务，可以在 设置 - 人工智能 - MCP 中自行配置提供搜索能力的 MCP 服务，并在智能体能力中启用对应工具。思源不适配各模型服务商的私有联网搜索参数。 思源的图片生成功能仅支持 OpenAI Images API 兼容接口 ..
+* 💬 [kimi-k3 API 要求不传 temperature，但智能体请求会带 temperature](https://ld246.com/article/1787721726167/comment/1787736221037#comments)
+
+  > 试试设置为 1
 * 💬 [飞牛商店的思源笔记很久没更新了](https://ld246.com/article/1787712070014/comment/1787712593952#comments)
 
   > [链接]
@@ -33,21 +48,6 @@
 * 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1787630391027)
 
   > 上天梯 [图片]
-* 💬 [思源里面不显示，但是搜索能看到还有这个文件](https://ld246.com/article/1787617925181/comment/1787626260882#comments)
-
-  > 导出这个文档再导入看看是否正常
-* 💬 [思源笔记 v3.8.1 选项部分变成 undefined](https://ld246.com/article/1787587273067/comment/1787617658794#comments)
-
-  > 关联 [链接]
-* 💬 [思源笔记 3.8.1 docker 升级后无法打开笔记](https://ld246.com/article/1787487955847/comment/1787586385179#comments)
-
-  > 关联 [链接]
-* 💬 [listDocsByPath 对旧笔记本返回空](https://ld246.com/article/1787417787597/comment/1787487392061#comments)
-
-  > 下个版本解决，感谢反馈。
-* 💬 [v3.8.2 新版局部关系图首次打开不缩放、手动点击刷新后不一致等问题](https://ld246.com/article/1787458425580/comment/1787487377473#comments)
-
-  > 感谢反馈，下个版本继续改进。
 
 
 <!--events end -->
