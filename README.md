@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2026-09-06 19:59:47`
+每天自动刷新，最近更新时间：`2026-09-07 22:02:42`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1788535504021)
+* 💬 [版本更新测试问题](https://ld246.com/article/1788774301022/comment/1788785294324#comments)
 
-  > 当写代码没有乐趣之后
-* 💬 [SiYuan v3.8.1 设置 - 人工智能 配置有进步，但还不够清晰](https://ld246.com/article/1787735052049/comment/1788514716476#comments)
+  > 我本人赞同并正在实践 AI 开发，也认为 AI 能显著提高开发效率。我们更关注的是，如何在保持开发效率的同时，让测试验证能力也跟上开发速度。 对于近期新开发的部分特性，我们已经开始同步编写 docs，明确功能预期，并逐步补充端到端测试，相关项目地址是：[链接]。 另外，我们长期积累的大量 issues 对 AI 开发也 ..
+* 💬 [手机和电脑互相导出导入吗？](https://ld246.com/article/1788773957345/comment/1788780483627#comments)
 
-  > 关联 [链接]
-* 💗💬 [引用区域 BUG（会自动填充内容）](https://ld246.com/article/1788240853653/comment/1788242091623#comments)
+  > 没有问题的
+* 💬 [为什么工作空间会出现 corrupted 这个文件夹？](https://ld246.com/article/1788771695404/comment/1788774398958#comments)
 
-  > @88250 回帖不渲染 Callout [图片] 并且在编辑框内，使用所见即所得模式不会渲染 Callout，需要切到其他模式再切回来才会渲染
-* 💬 [思源中 ai 的配置部分能增加关闭鉴权的功能吗？](https://ld246.com/article/1788399902344/comment/1788400018157#comments)
+  > corrupted 是内核自动创建的损坏数据隔离目录。第一层目录是发生时间，第二层目录是笔记本 ID，所以与 data 下某个笔记本目录名称一致是正常的。 图中的目录创建于 2026-07-05，可能是加密笔记本早期版本误判密文后留下的，相关问题当天已经修复。现在目录为空，可以直接忽略或删除。 如果以后再次产生新的目录 ..
+* 💗📝 [自定义图标和挂件无法显示（Flatpak 安装）](https://ld246.com/article/1788742378008)
 
-  > 不要使用 OpenAI 提供商，使用自定义提供商
-* 🌙 [发布了清风明月](https://ld246.com/member/88250/breezemoons/1788279737793)
+  > 似乎被当作敏感文件拦截了 实际路径在~/.var/app/org.b3log.siyuan/SiYuan/data/emojis/ E 2026/09/07 08:02:02 serve.go:647: refuse to serve sensitive static file [/widgets/listChildD ..
+* 💬 [自定义图标和挂件无法显示（Flatpak 安装）](https://ld246.com/article/1788742378008/comment/1788744019828#comments)
 
-  > 水立方 [图片]
-* 💬 [希望 Docker 版本原生支持多用户多记事本支持，降低家庭部署成本](https://ld246.com/article/1788157691542/comment/1788159380998#comments)
+  > 感谢补充，已定位并修复工作空间路径解析导致的误拦截问题，修复会包含在下一版本中，无需移动工作空间或重装。 跟踪：[链接]
+* 💬 [字体为红色的内容无法在安卓手机端 app 正确显示](https://ld246.com/article/1788743448772/comment/1788743626301#comments)
 
-  > 抱歉我们不考虑支持多用户，这个偏离目标了。
-* 💬 [思源笔记越来越卡了, 开发者能不能转向 Zed 的 gpui?](https://ld246.com/article/1788126539909/comment/1788159280794#comments)
+  > 使用默认字体试试
+* 💬 [自定义图标和挂件无法显示（Flatpak 安装）](https://ld246.com/article/1788742378008/comment/1788742829806#comments)
 
-  > 文档树上展开多以后滚动卡对吗？ 换 UI 框架是不太可能的，思源还要支持 web 和移动端
-* 💬 [鸿蒙版本的关闭按钮有问题](https://ld246.com/article/1787887892626/comment/1788149373398#comments)
+  > 日志显示是内核的敏感路径检查拦截了资源，可能与工作空间路径中的符号链接有关，.var 目录本身不会触发拦截。 麻烦提供一下思源版本、Linux 发行版，以及下面两条命令的输出，帮助确认是否存在路径误判： readlink -f ~/.var/app/org.b3log.siyuan/SiYuan readlink -f ..
+* 💬 [过几天就弹出：账号鉴权失败](https://ld246.com/article/1788694077046/comment/1788742539353#comments)
 
-  > 暂时先这样吧
+  > @JimAmadeus @GinkgoLight 等下个版本再试试
 
 
 <!--events end -->
