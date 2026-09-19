@@ -20,34 +20,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2026-09-18 20:46:13`
+每天自动刷新，最近更新时间：`2026-09-19 20:19:34`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💗💬 [页签块的属性显示不全](https://ld246.com/article/1789722328037/comment/1789723599333#comments)
+* 💬 [关于思源笔记付费须知的改进](https://ld246.com/article/1785815507772/comment/1789805370133#comments)
 
-  > @88250
-* 💗📝 [页签块的属性显示不全](https://ld246.com/article/1789722328037)
+  > 对，消费者的权益必须得到到保护，同时我们也希望大家在购买前尽量考虑清楚再下单，避免后面退款这样不必要的麻烦。
+* 💗💬 [3.8.4 版如果将表格字号改小，然后点击单元格，这个单元格字号会放大到初始默认字号](https://ld246.com/article/1789773136145/comment/1789784189554#comments)
 
-  > [图片] 特别是给下面整个页签的属性备注时，这个完全都看不到了 [图片]
-* 💬 [页签块的属性显示不全](https://ld246.com/article/1789722328037/comment/1789724798703#comments)
+  > [视频]
+* 💬 [3.8.4 版如果将表格字号改小，然后点击单元格，这个单元格字号会放大到初始默认字号](https://ld246.com/article/1789773136145/comment/1789785095892#comments)
 
-  > 感谢反馈，下个版本解决 [链接]
-* 💬 [windows11 升级 3.8.4 版本后无法同步](https://ld246.com/article/1789693032666/comment/1789720133701#comments)
+  > 感谢反馈，下个版本改进。
+* 💬 [如何创建带有子文档的副本](https://ld246.com/article/1789775842257/comment/1789779942706#comments)
 
-  > 预计明天，目前可以试试测试版。
-* 💬 [数据库顶栏溢出左右](https://ld246.com/article/1789719729549/comment/1789720034163#comments)
+  > 请关注 [链接]
+* 💬 [3.8.4 版如果将表格字号改小，然后点击单元格，这个单元格字号会放大到初始默认字号](https://ld246.com/article/1789773136145/comment/1789779848274#comments)
 
-  > 请更新到最新版后再试试，应该已经解决。
-* 💬 [json: cannot unmarshal string into Go value of type int v3.8.4](https://ld246.com/article/1789707564765/comment/1789709686058#comments)
+  > 请录屏演示操作
+* 💬 [3.8.5a3 列表转思维导图的优化反馈（github 又上不去了……）](https://ld246.com/article/1789777581683/comment/1789779585197#comments)
 
-  > 从日志上看，异常指向该笔记本的自定义排序配置。这个文件在云同步合入本地后读取失败，重启后问题仍然存在，目前还需要检查文件内容才能确定具体原因。 麻烦提供 D:\siyuan\data\20241107214502-enydkzz\.siyuan\sort.json 文件，并说明其他设备是否也有排序异常、使用的思源版本分 ..
-* 👍💬 [安全模式开关](https://ld246.com/article/1789693101385/comment/1789703091111#comments)
+  > @Vanessa
+* 💬 [ipad air5 光标自动跳转](https://ld246.com/article/1789751809009/comment/1789752377515#comments)
 
-  > 这只是全部关闭插件。 安全模式，除了关闭这里，还会关闭代码片段，把主题改回官方默认主题。
-* 💗💬 [安全模式开关](https://ld246.com/article/1789693101385/comment/1789703091111#comments)
+  > @Vanessa
+* 💬 [json: cannot unmarshal string into Go value of type int v3.8.4](https://ld246.com/article/1789707564765/comment/1789750664803#comments)
 
-  > 这只是全部关闭插件。 安全模式，除了关闭这里，还会关闭代码片段，把主题改回官方默认主题。
+  > 在快照界面直接搜索 [图片] 然后找到对应笔记本 20241107214502-enydkzz 路径下的 sort.json ，逐个点了看下，找到最后一个正确的文件，内容应该是类似这样的（id 的值是整数）： [图片] 看看最后一个正确的 sort.json 是什么时候的。
 
 
 <!--events end -->
